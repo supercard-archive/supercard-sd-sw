@@ -1,3 +1,5 @@
-1. Fixed: 2253/2421 cant work
-2. Fixed: some games which likes 2392 cant work
-3. Fixed: the save size of 2385 fixed into 64Mbits
+1. Added: Card read mode option, improve the compatibility
+2. Fixed: The bug of some new game
+3. Cant fix the bug of #3369 now because the speed problem
+
+
