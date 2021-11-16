@@ -1,0 +1,54 @@
+[HP]
+ON=409D1,58,2
+
+[Condition]
+ON=409C8,E7,3,E7,3,E7,3,E7,3
+
+[Money]
+ON=409D4,9F,86,1
+
+[GameInfo]
+Name=0771 - Gauntlet Dark Legacy(U)（黑暗的遗产）（E）ACT 64
+System=GBA
+Text=大胖子 整理提供
+------------------------------------------------------------
+[关卡全开]
+ON=40B50,1B
+
+[Grade]
+ON=409D9,63
+
+[Experience]
+ON=409BE,2C,1
+
+[Life(only use for 99grade)]
+ON=409D1,A0,28
+
+[Full ability]
+ON=409C8,E7,3,E7,3,E7,3,E7,3
+
+[Money]
+ON=409D4,9F,86,1
+
+[Key]
+ON=409D8,9
+
+[Medicine bottle]
+ON=409DF,90
+
+[Accessorial stage pro1 quantity]
+ON=409E8,FF
+
+[Entire accessorial stage pro1]
+ON=409E6,7F
+
+[Accessorial stage pro1 2 quantity]
+ON=409E9,FF
+
+[Entire accessorial stage pro12]
+ON=409E7,3
+
+[GameInfo]
+Name=0771 - Gauntlet Dark Legacy(U)（黑暗的遗产）（E）ACT 64
+System=GBA
+Text=vicente

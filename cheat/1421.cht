@@ -1,7 +1,7 @@
-[M9子弹]
+[M9 bullet]
 ON=CAB0,E7,3
 
-[药箱]
+[Medicine-chest]
 ON=34,9
 
 [EAGLE]
@@ -16,10 +16,10 @@ ON=CAC0,E7,3
 [M4]
 ON=CABC,E7,3
 
-[无敌]
+[Invincibility]
 ON=CA10,FF
 
 [GameInfo]
-Name=1421 - 马克思·佩恩[Max Payne Advance]
+Name=1421 - Max Payne Advance (E) （马克思·佩恩）（E）ACT 128
 System=GBA
 Text=MICK

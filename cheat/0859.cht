@@ -1,0 +1,30 @@
+[EG Physical strength]
+ON=1A1AD,27
+
+[EG Fast pass]
+ON=1A142,1
+
+[EG Stage pro]
+顺时针翻转=1A1DC,C
+逆时针翻转=1A1DC,D
+问号=1A1DC,E
+炸弹=1A1DC,F
+手套=1A1DC,10
+铁镐=1A1DC,11
+
+[EG Entire card]
+ON=183D4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GG Population]
+ON=139EA,63
+
+[GG Time ]
+ON=13A18,E7,3
+
+[GG Fast pass]
+ON=139EC,1,0,2,0
+
+[GameInfo]
+Name=0859 - Boulder Dash EX (J) （疯狂解迷方块）（J） PUZ 32
+System=GBA
+Text=vicente

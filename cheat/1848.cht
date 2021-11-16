@@ -1,0 +1,41 @@
+[Life] ON=43BA0, DC, 5
+
+[Energy] ON=43BE2,3C
+
+[Population] ON=41F43,63
+
+[Must kill LV] ON=43BE4, E3
+
+[Gem] ON=41F42,63
+
+[Stealth] ON=43BA5,7C; 43BA8, FF
+
+[Integral] ON=41F50,9F, 86,1
+
+[Character chooses] red clothes soldier =43BA7,0 blue clothes soldier =43BA7,1 purple clothes soldier =43BA7,2
+
+[BOSS fights our life] ON=43AA0,20,3
+
+[BOSS fights our energy] ON=43AE2, E7,3
+
+[BOSS war opposite party life] ON=43CA2,0,0
+
+[BOSS war opposite party energy] ON=43CE2,0,0
+
+[Last pass] ON=41F48,4,3
+
+[Hideaway all opens] ON=41F4A, FF
+
+[GameInfo] Name=1851 - Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J) (imaginary star god just soldier - Earth's soldiers) (J) ACT 128 System=GBA Text=vicente
+-----------------------------------------------------------------------------------------------------------------
+[Life] ON=43BA0, DC, 5
+
+[Physical strength] ON=43BE2,3C
+
+[Population] ON=41F43,63
+
+[Energy] ON=43BE4, E3
+
+[Stealth] ON=43BA8,63
+
+[GameInfo] Name=1848 - Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J) (imaginary star god just soldier - Earth's soldiers) (J) ACT 128 System=GBA Text=JACK

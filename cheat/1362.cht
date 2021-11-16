@@ -1,25 +1,95 @@
-[MONEY]
-ON=39888,0,0,0,0
+[Abtained 999 experience]
+ON=2280C,E7,3;22A3C,E7,3;22B4C,E7,3;23CB0,E7,3;60,E7,3
 
-[EXP]
-100=23CB0,64,0
-200=23CB0,C8,0
-500=23CB0,F4,1
-1000=23CB0,E8,3
-2000=23CB0,D0,7
-5000=23CB0,88,13
-10000=23CB0,10,27
-20000=23CB0,20,4E
-50000=23CB0,50,C3
+[HP]
+ON=2423C,E7,3
 
-[喷雾剂剩余歩数]
-ON=264E4,FF
-0FF=264E4,00
+[Ability value1]
+ON=2423E,E7,3
 
-[Buy]
-MasterBall=4510A,1,0
+[Ability value2]
+ON=24240,E7,3
 
+[Ability value3]
+ON=24242,E7,3
+
+[Ability value4]
+ON=24244,E7,3
+
+[Ability value5]
+ON=24246,E7,3
+
+[First skill PP]
+ON=227F0,63;22B30,63;23B68,63;46844,63
+
+[Blood]
+ON=23B6C,2C,1;2423A,2C,1
+
+[Do not meet the enemy]
+ON=26534,F8
+
+[Purchase money]
+ON=39888,0;39889,0;3988A,0;3988B,0;3988C,0
 
 [GameInfo]
-Name=1362 - 口袋妖怪-叶绿[Pokemon LeafGreen]
+Name=1362 - Pokemon Leaf Green (J)（口袋妖怪-绿叶）（J）RPG 128
 System=GBA
+Text=ASTAROTH
+---------------------------------------------------------------
+[金钱 MAX]
+ON=39888,0;39889,0;3988A,0;3988B,0;3988A,0
+
+[Current pokemon grade MAX]
+ON=24238,64
+
+[HP]
+ON=2423A,E7,3;2423C,E7,3
+
+[Striking power MAX]
+ON=2423E,E7,3
+
+[Defensive power  MAX]
+ON=24240,E7,3
+
+[Especially attacking  strength MAX]
+ON=24242,E7,3
+
+[Especially guard strength MAX]
+ON=24244,E7,3
+
+[Agile strengthMAX]
+ON=24246,E7,3
+
+[The first skillPP]
+ON=227F0,63;22B30,63;23B68,63;46844,63
+
+[Infinite motion in wild reserve]
+ON=3990E,258
+
+[Infinite demon of wild reserve]
+ON=3990C,1E
+
+[Buy99 goods]
+ON=45102,63
+
+[ Meet Pokemon grade]
+自选=23FE0,??(1-64)
+等级5=23FE0,5
+等级10=23FE0,A
+等级20=23FE0,14
+等级30=23FE0,1E
+等级40=23FE0,28
+等级50=23FE0,32
+等级60=23FE0,3C
+等级70=23FE0,46
+等级80=23FE0,50
+等级90=23FE0,5A
+等级100=23FE0,64
+
+[Pokemon centre Master ballMAX]
+ON=257A0,1;257A2;63
+
+[GameInfo]
+Name=1362 - Pokemon Leaf Green (J)（口袋妖怪-绿叶）（J）RPG 128
+System=GBA
+Text=魔剑士但丁

@@ -1,0 +1,9 @@
+[Slide time] ON=226C, FF
+
+[Case change] 1 =33C0,0 2 =33C0,1 3 =33C0,2 4 =33C0,3
+
+[Wallpaper change] 1 =33C1,0 2 =33C1,1 3 =33C1,2 4 =33C1,3
+
+[Ring Tone change] 1 =33C2,0 2 =33C2,1 3 =33C2,2 4 =33C2,3
+
+[GameInfo] Name=2170 - Evergirl (U) System=GBA Text=vicente

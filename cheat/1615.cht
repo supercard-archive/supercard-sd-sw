@@ -1,0 +1,23 @@
+[Population]
+ON=4795A,9
+
+[Gold coin]
+ON=479E6,1
+
+[Invincibility]
+ON=4799F,20
+
+[Time]
+ON=479EC,4
+
+[condition]
+ON=47956,2
+
+[Stature]
+高个=47954,0
+矮个=47954,1
+
+[GameInfo]
+Name=1615 - Famicom Mini Vol 21 Super Mario Bros 2 (J)（任天堂FC珍藏游戏系列第21辑）（J）ACT 32
+System=GBA
+Text=vicente

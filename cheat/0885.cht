@@ -1,0 +1,32 @@
+[[The speed option of the menu increase MAX]
+ON=45B7C,FF
+
+[Perfect person usage]
+ON=45AF4,FFFF,FFFF,FFFF,FFFF
+
+[The collection pattern ofperfect person icon ]
+ON=45B84,FFFF,FFFF,FFFF,FFFF
+
+[The collection pattern of perfect person pronunciation ]
+ON=45BEE,1;45C3A,1;45C86,1;45CD2,1;45D1E,1;45D6A,1;45DB6,1;
+45E02,1;45E4E,1;45E9A,1;45EE6,1;45F32,1;45F7E,1;45FCA,1;
+46016,1;46062,1;460AE,1;460FA,1;46146,1;46192,1
+
+[Contestant physical strength in far location]
+满气力=42AAA,64
+0气力=42AAA,0
+
+[Contestant physical strength in near location]
+满气力=42AAE,64
+0气力=42AAE,0
+
+[Match score locking0]
+ON=42ADC,0
+
+[To win with one score]
+ON=42ADD,4
+
+[GameInfo]
+Name=0885 - Tennis no Oujisama 2003 Cool Blue (J) （网球王子2003-冰蓝版）（J） SPG 128
+System=GBA
+Text=大胖子 整理提供

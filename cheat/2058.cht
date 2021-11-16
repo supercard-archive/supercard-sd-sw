@@ -1,0 +1,27 @@
+[Tower pattern jumps high] ON=440ED, 32
+
+[Tower pattern has feather] ON=43E74,1
+
+[Tower pattern time] ON=43BEC, 0,0
+
+[Tower pattern integral] ON=43BE8, FF, FF
+
+[Hole pattern life] ON=43EE8,32
+
+[Hole pattern has feather] ON=43DDB, 1
+
+[Hole pattern time] ON=43B2C, 0,0
+
+[Hole pattern integral] ON=43B28, FF, FF
+
+[Money] ON=41E40,9F, 86,1
+
+[Entire exploration stage prop] ON=41E12,9,9,9,9,9,9,9,9,9,9,9
+
+[Entire precious stage prop] ON=41DC4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire character] ON=41DB3,1,1,1,1
+
+[Take risks the entire checkpoint] ON=41E04,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo] Name=2058 - Aleck Bordon Adventure Tower and Shaft Advance (J) System=GBA Text=vicente

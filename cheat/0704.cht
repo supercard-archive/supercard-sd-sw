@@ -1,0 +1,18 @@
+[Mney]
+ON=333C,7F,96,98
+
+[GameInfo]
+Name=0704 - DiGi Charat DigiCommunication (J)（便利商店）（J）SLG 64
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------------
+[Entire small game]
+ON=680,FF
+
+[Entire GG]
+ON=660,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0704 - DiGi Charat DigiCommunication (J)（便利商店）（J）SLG 64
+System=GBA
+Text=vicente

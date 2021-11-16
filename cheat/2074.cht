@@ -1,0 +1,21 @@
+[Life] ON=15502, C
+
+[Life upper limit] ON=15533, C
+
+[Money] ON=15548, F, 27
+
+[Energy] ON=15544, D0,7
+
+[Star] ON=15542,3
+
+[Eye] ON=15535,4
+
+[Cake] ON=15529, F2
+
+[Entire checkpoint + entire source material] ON=15510, FF, FF, FF, FF, FF, FF, FF
+
+[Entire color] ON=1553B, FF
+
+[Entire clothing] ON=1553C, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2074 - Disney's That's So Raven 2 - Supernatural Style (U) System=GBA Text=vicente 

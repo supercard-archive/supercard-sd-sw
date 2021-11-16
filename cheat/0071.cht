@@ -1,0 +1,36 @@
+[A magic weapon]
+绿龟壳=44092,0,10
+3绿龟壳=44092,1,10
+红龟壳=44092,2,10
+3红龟壳=44092,3,10
+刺猬壳=44092,4,10
+香蕉皮=44092,5,10
+蘑菇=44092,7,10
+金星=44092,A,10
+恶魔=44092,B,10
+闪电=44092,C,10
+
+[Invincibility]
+ON=43F83,1
+
+[GameInfo]
+Name=0071 - Mario Kart Advance (J)（马里奥赛车A）（J）RCG 32
+System=GBA
+Text=大胖子 整理提供
+------------------------------------------------------------
+[Gold coin]
+ON=44090,63
+
+[Invincibility]
+ON=43F82,63,1
+
+[Fast pass]
+ON=43FA9,83
+
+[Three star comment+Entire racetrack]
+ON=32BA8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[GameInfo]
+Name=0071 - Mario Kart Advance (J)（马里奥赛车A）（J）RCG 32
+System=GBA
+Text=vicente

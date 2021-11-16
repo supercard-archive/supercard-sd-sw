@@ -1,17 +1,16 @@
-[炸弹数]
+[Bomb number]
 ON=45D12,5
 
-[血]
+[Blood]
 ON=45CCE,4
 
-[只数]
+[Number of elements]
 ON=45CCB,9
 
-[隐形]
+[Invisible]
 ON=45CD5,31
 
 [GameInfo]
-Name=0207 - 银河战机[Phalanx]
+Name=0207 - Phalanx (E)（银河战机）（M）STG 32
 System=GBA
-Text=0207 - Phalanx (E)
-
+Text=大胖子 整理提供

@@ -1,0 +1,100 @@
+[Money]
+ON=38520,3F, 42, F
+
+[Points]
+ON=38530, FF, E0, F5,5
+
+[Has mind filled with]
+ON=42D8,63
+
+[Durableness]
+ON=4166, E8,3
+
+[Labyrinth layer]
+ON=4145,63
+
+[The entire facility opens (cautious uses)]
+ON=AF8, FF
+
+[Entire friend area]
+ON=38538,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire PM already bitter experience]
+ON=390CC, FE, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, 70
+
+[Storage office entire stage prop]
+ON=38312, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3,E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3,E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3,E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
+
+[The entire labyrinth appears]
+ON=B1E, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire prompt card]
+ON=38FC0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Labyrinth infinite enemy]
+ON=4162, FF
+
+[Infinite shop owner]
+ON=416E, 1,1
+
+[All hides PM]
+ON=39120,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire statue]
+ON=B5F, F
+
+[Achieves recording all to open]
+ON=39000, FF, FF, FF, FF
+
+[Trains Guan Quanpo]
+ON=B2E, FF, FF, FF
+
+[Lead HP]
+ON=41AA, E7,3
+
+[Lead MAXHP]
+ON=41AC, E7,3
+
+[Lead LV]
+ON=41A5,64
+
+[Lead EXP]
+ON=41B4,0,9,3D
+
+[Lead 全能力]
+ON=41B0, FF, FF, FF, FF
+
+[Lead condition normal]
+ON=4244,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Member HP]
+ON=43B2, E7,3
+
+[Member EXP]
+ON=43BC, 0,9,3D
+
+[Member 全能力]
+ON=43B8, FF, FF, FF, FF
+
+[Member two HP]
+ON=45BA, E7,3
+
+[Member two EXP]
+ON=45C4,0,9,3D
+
+[Member two 全能力]
+ON=45C0, FF, FF, FF, FF
+
+[Member three HP]
+ON=47C2, E7,3
+
+[Member three EXP]
+ON=47CC, 0,9,3D
+
+[Member three 全能力]
+ON=47C8, FF, FF, FF, FF
+
+[GameInfo]
+Name=2239 - Pokemon Fushigi no Dungeon Aka no Kyuujotai (J)
+System=GBA
+Text=vicente

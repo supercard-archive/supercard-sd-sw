@@ -1,0 +1,30 @@
+[Blood]
+ON=129F6,5
+
+[Invincibility]
+ON=129D6,96
+
+[Money]
+ON=12A40,E7,3
+
+[Number of elements]
+ON=12A42,9
+
+[Consumption energy of the iron hammer]
+ON=12A48,38
+
+[Condition]
+正常=12972,C
+使用铁锤1=12972,E
+使用铁锤2=12972,F
+使用魔壶1=12972,10
+使用魔壶2=12972,11
+使用套索=12972,12
+
+[Consumption energy of the magic pot]
+ON=12A49,38
+
+[GameInfo]
+Name=1272 - Disneys Magical Quest 3 (J) （迪斯尼米老鼠和唐老鸭3）（J）ACT 32
+System=GBA
+Text=大胖子

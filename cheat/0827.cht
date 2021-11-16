@@ -1,0 +1,22 @@
+[HP does not reduce]
+ON=42566,FF
+
+[99 Person]
+ON=42568,63
+
+[Entire weapon]
+ON=434E2,1,1,1,1,1,1
+
+[Infinite money]
+ON=458F0,FF,FF
+
+[Anti-tank grenade99]
+ON=434DC,63
+
+[infinite entire weapon bullet ]
+ON=4351A,FF,FF;43532,FF,FF;4354A,FF,FF;43562,FF,FF;4357A,FF,FF
+
+[GameInfo]
+Name=0827 - Jazz Jackrabbit (U)£¨³³ÄÖµÄ³¤¶ú´óÒ°ÍÃ£©£¨E£©ACT 32
+System=GBA
+Text=dual

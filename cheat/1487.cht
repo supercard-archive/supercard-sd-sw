@@ -1,10 +1,10 @@
-[选择动画]
+[Choice animation]
 动画1=43158,6C,21,2
 动画2=43158,74,79,82
 动画3=43158,A4,05,8
 动画4=43158,FC,C3,7A
 
-[屏幕亮度]
+[Screen brightness]
 -5=42FF8,0
 -4=42FF8,1
 -3=42FF8,2
@@ -18,7 +18,6 @@
 5=42FF8,A
 
 [GameInfo]
-Name=1487 - 反斗家族第2卷[Fairly Odd Parents Volume 2 - Gameboy Advance Video (U)]
+Name=1487 - Fairly Odd Parents Volume 2 (U)（反斗家族第2卷）（E）MOV 256
 System=GBA
-Text=1487 - Fairly Odd Parents Volume 2 - Gameboy Advance Video (U)(Independent)
-
+Text=Independent

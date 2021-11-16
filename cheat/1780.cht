@@ -1,0 +1,31 @@
+[Life]
+OM=407B5,48
+
+[Invincibility]
+ON=4090A,48
+
+[The enemy dies as soon as strikes]
+ON=41314,0
+
+[Entire crystal]
+ON=43BF8,64;43BFE,64;43C04,64;43C0A,64
+
+[The plot barrier all open]
+ON=2DB8,FF,FF
+
+[The competition barrier all open]
+ON=2F18,FF,FF,FF
+
+[The fighting barrier all open]
+ON=2DE4,FF,FF,FF
+
+[Select the person]
+LED=43CA0,0
+RAPH=43CA0,1
+DON=43CA0,2
+MIKEY=43CA0,3
+
+[GameInfo]
+Name=1780 - Teenage Mutant Ninja Turtles 2 - Battle Nexus (E)（忍者神龟2-并肩作战）（M5） ACT 64
+System=GBA
+Text=vicente

@@ -1,10 +1,5 @@
-[得分]
-ON=408A4,76,98,98
+[Scores points] ON=408A4,76,98,98
 
-[时间]
-ON=4089C,0,0,0,0
+[Time] ON=4089C, 0,0,0,0
 
-[GameInfo]
-Name=1981 - ESPN冬季运动会-滑雪板2002[ESPN Winter X Games - Snowboarding 2002]
-System=GBA
-
+[GameInfo] Name=1981 - ESPN Winter X Games - Snowboarding 2002 (E) System=GBA Text=vicente 

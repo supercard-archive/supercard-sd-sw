@@ -1,24 +1,37 @@
-[ÉúÃü]
-ON=44AF4,63
+[Does not meet enemy] ON=8EC4,0
 
-[ÈËÊý]
-ON=44AFC,63
+[Place all opens] ON=6B28, FF, FF, FF, FF
 
-[È«µÀ¾ß]
-ON=44B10,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63
+[MG money] ON=6990,7F, 96,98
 
-[¸¨ÖúµÀ¾ß]
-ON=44B40,FF,FF;44B44,FF,FF
+[EP] ON=698C, 7F, 96,98
 
-[Òø±ÒÊý]
-ON=44A68,63
+[Entire æ€ªå…½ illustrated handbook] ON=6B38, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[Ô¿³×Êý]
-ON=44BA8,63
-[È«ÄÜÁ¦]
-ON=44A64,9;44AD4,09;44B80,9;44A70,1;44BCC,1;44BBC,1
+[Lead rank] ON=3BB8,63
 
-[GameInfo]
-Name=1870 - »ô±ÈÌØÈËµÄÃ°ÏÕ[Hobbit no Bouken Lord of the Rings Hajimari no Monogatari]
-System=GBA
+[Lead physical strength] ON=3BB4, F, 27
 
+[Lead charm] ON=3BB6, F, 27
+
+[Lead physical strength upper limit] ON=3BBA, F, 27
+
+[Lead charm upper limit] ON=3BBC, F, 27
+
+[Lead å…¨èƒ½åŠ›] ON=3BBE, E7,3, E7,3, E7,3; 3BD4, E7,3, E7,3, E7,3, E7,3
+
+[Lead condition normal] ON=3BB9,0
+
+[Lead rises Calibration] ON=3BC4,7F, 96,98
+
+[Lead skill rank is highest] ON=3BC8,63,63,63,63,63,63,63,63,63,63,63,63
+
+[GameInfo] Name=1869 - Bouken Ou Beet Busters Road (J) (risk king bit:Road of the difficult adversary) (J) ACT 64 System=GBA Text=vicente
+------------------------------------------------------------------------------
+[Lead ability] HP+MP entire full =3BB4, F, 27, F, 27; 3BBA, F, 27, F, 27 LV99=3BB8,63 å…¨èƒ½åŠ› ultra strong =3BBE, E7,3, E7,3, E7,3; 3BC8,63,63,63,63,63,63; 3BCF, 63,63,63,63,63, E7,3, E7,3, E7,3, E7,3, E7,3 rises Calibration =3BC4,7F, 96,98
+
+[MG 9999999] ON=6990,7F, 96,98
+
+[Entire monster illustrated handbook] ON=6B38, FE, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GAMEINFO] NAME=1870 - Bouken Ou Beet Busters Road (J) (risk king bit: Road of the difficult adversary) (J) ACT 64 SYSTEM=GBA TEXT=KRIZAL

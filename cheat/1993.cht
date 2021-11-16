@@ -1,34 +1,21 @@
-[生命]
-ON=477AE,3D,3D
+[Life] ON=477AE, 3D, 3D
 
-[能量]
-ON=477B0,43,44
+[Energy] ON=477B0,43,44
 
-[人数]
-ON=477B2,6,6
+[Population] ON=477B2,6,6
 
-[怒气]
-ON=477B4,68,68
+[Anger] ON=477B4,68,68
 
-[点数]
-ON=4774A,F,27,F,27
+[Points] ON=4774A, F, 27, F, 27
 
-[全能力]
-ON=4775A,FF,FF,FF,FF,63,63
+[鍏ㄨ兘鍔沒 ON=4775A, FF, FF, FF, FF, 63,63
 
-[全必杀]
-ON=47764,3,3
+[All must kill] ON=47764,3,3
 
-[全特技]
-ON=4774E,69,69,69,69,69,69,69,69,69,69,69,69
+[Entire stunt] ON=4774E, 69,69,69,69,69,69,69,69,69,69,69,69
 
-[关卡全开]
-ON=47760,D,D
+[Checkpoint all opens] ON=47760, D, D
 
-[全难度]
-ON=47766,FF
+[Entire difficulty] ON=47766, FF
 
-[GameInfo]
-Name=1993 - 星战前传3西斯的复仇[Star Wars Episode III]
-System=GBA
-
+[GameInfo] Name=1993 - Star Wars Episode III (E) System=GBA Text=vicente 

@@ -1,0 +1,43 @@
+[Money]
+ON=432F0,FF,C9,9A,3B
+
+[Player1Life]
+ON=32F4,F,27
+
+[Player1 Life with an upper limit]
+ON=432F6,F,27
+
+[Player1condition]
+ON=432F8,0
+
+[Player 2Life]
+ON=4330C,F,27
+
+[Player2 Life with an upper limit]
+ON=4330E,F,27
+
+[Player2 condition]
+ON=43310,0
+
+[Player 3 Life]
+ON=43324,F,27
+
+[Player 3Life with an upper limit]
+ON=43326,F,27
+
+[Player3 Condition]
+ON=43328,0
+
+[Playr 4 Life]
+ON=4333C,F,27
+
+[Player4 Life with an upper limit]
+ON=4333E,F,27
+
+[player 4 Condition]
+ON=43340,0
+
+[GameInfo]
+Name=1099 - Get ! Boku no Mushitsu (J) （捉住!我的捕虫日记）（J） RPG 64
+System=GBA
+Text=vicente

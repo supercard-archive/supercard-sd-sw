@@ -1,14 +1,10 @@
-[金币数]
-ON=41856,63
+[Life]
+ON=4189A,9
 
-[血]
-ON=4189A,5
-
-[隐身]
-ON=41898,64
+[Gold coin]
+ON=41856,E7,3
 
 [GameInfo]
-Name=1372 - 迪斯尼公主 [Disney Principesse]
+Name=1372 - Disney Principesse (I)（迪斯尼公主）（I）ACT 64
 System=GBA
-Text=1372 - Disney Principesse (I)（）
-
+Text=Jimmyi

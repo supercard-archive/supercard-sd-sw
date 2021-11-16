@@ -1,17 +1,16 @@
-[铲子数]
+[Shovel fraction]
 ON=3C18,3
 
-[面包数]
+[Bread number]
 ON=3C10,14
 
-[血]
+[Blood]
 ON=3C0C,3
 
-[只数]
+[Number of elements]
 ON=3C08,9
 
 [GameInfo]
-Name=1367 - 超級海绵巴伯-在比基尼底部的战斗[SpongeBob SquarePants - Battle for Bikini Bottom]
+Name=1367 - SpongeBob SquarePants - Battle for Bikini Bottom (E)（鲍勃斯邦奇-比基尼岛的冒险）（E）ACT 64
 System=GBA
-Text=1367_-_sponge_bob_square_pants_battle_for_bikini_bottom_(E)
-
+Text=大胖子 整理提供

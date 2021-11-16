@@ -1,77 +1,81 @@
-[生命]
+[Life ]
 ON=20646,0,4
 
-[生命上限]
+[Life with an upper limit]
 ON=20648,0,4
 
-[人数]
+[Population]
 ON=29F36,63
 
-[隐身]
+[Invisible]
 ON=20658,20
 
-[无敌]
+[Invincibility]
 ON=20651,2
 
-[必杀]
+[Must kill]
 ON=2064B,4
 
-[积分]
+[Integral]
 ON=20660,FF,E0,F5,5
 
-[全道具]
+[Entire stage pro]
 ON=29F58,FF,FF,FF,FF,FF,FF,FF
 
-[全关卡]
+[Entire barrier time]
 ON=541,10
 
-[限时关卡时间]
+[Limited bar]
 ON=28128,2C,1
 
-[对战关卡我方体力]
+[ACTBOSS dies as soon as strikes]
+ON=44174,0,0
+
+[Physical strength of our side in fighting barrier]
 ON=29986,0,1
 
-[对战关卡我方气量]
+[Our tolerance in fighting barrier]
 ON=29988,10
 
-[对战关卡我方必杀]
+[We must kill in fighting barrier]
 ON=2998D,2
 
-[对战关卡对方体力]
+[Physical strength of the opposite side in fighting barrier]
 ON=29A56,0,0
 
-[对战关卡对方气量]
+[The opposite side tolerance in fighting barrier]
 ON=29A58,0
 
-[对战关卡对方必杀]
+[The opposite side must kill in fighting barrier]
 ON=29A5D,0
 
-[对战全人物]
+[Perfect person in fighting ]
 ON=29F55,FF,FF,FF
 
-[附加项开启]
+[Add-in open]
 ON=29F50,FF
 
-[小游戏全人物]
+[Perfect person]
 ON=29F70,FF,FF,FF,FF
 
-[直接选人]
-孙悟空=2066A,00
-小林=2066A,01
-乐平=2066A,02
-第1关BOSS=2066A,03
-人造人？=2066A,04
-忍者=2066A,05
-骷髅兵=2066A,06
-蓝将军=2066A,07
-蓝色机器人=2066A,08
-绿色机器人=2066A,09
-紫色机器人=2066A,0A
-蝙蝠=2066A,0B
-恶魔？=2066A,0C
-魔族战士1=2066A,0D
-魔族战士2=2066A,0E
-龟仙人=2066A,0F
+[ACT Select the person]
+ON=2066A,
+孙悟空=2066A,0
+小林=2066A,1
+乐平=2066A,2
+第1关BOSS=2066A,3
+人造人？=2066A,4
+忍者=2066A,5
+骷髅兵=2066A,6
+蓝将军=2066A,7
+蓝色机器人=2066A,8
+绿色机器人=2066A,9
+紫色机器人=2066A,A
+蝙蝠=2066A,B
+恶魔？=2066A,C
+魔族战士1=2066A,D
+魔族战士2=2066A,E
+龟仙人=2066A,F
 天津饭=2066A,10
 饺子=2066A,11
 孙悟饭=2066A,12
@@ -87,7 +91,109 @@ ON=29F70,FF,FF,FF,FF
 飞行器=2066A,1C
 魔族士兵=2066A,1D
 
-[GameInfo]
-Name=1782 - 龙珠大冒险[Dragonball Advance Adventure]
-System=GBA
+[Select the person to the war]
+孙悟空=29F82,0
+龟仙人=29F82,1
+天津饭=29F82,2
+桃白白=29F82,3
+孙悟饭=29F82,4
+小林=29F82,5
+短笛=29F82,6
+机械桃白白=29F82,7
+基兰=29F82,8
+南无=29F82,9
+饺子=29F82,A
 
+[GameInfo]
+Name=1782 - Dragon Ball Advance Adventure (J)（龙珠大冒险）（J） ACT 128
+System=GBA
+Text=vicente
+------------------------------------------------------------------------
+[Story mode HP]
+全满=20646,0,4,0,4
+
+[Story mode tolerance]
+全满=20649,4;2064B,4
+
+[Story mode  score]
+999990=20660,9F,86,1
+
+[Invincibility]
+ON=20658,63
+
+[The gold mump(may attack enemy + to be invincible) 
+ON=20650,7B,2
+
+[99 times challenging chances]
+ON=29F36,63
+
+[Entire stage pro]
+ON=29F51,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[World first budo congress 1P defense does not collapse]
+ON=29988,10
+
+[World first budo congress 1P HP]
+全满=29986,0,1
+
+[World first budo congress 1P tolerance]
+全满=2998C,0,4
+
+[No.2 budo congress in the world 2P defense does not collapse]
+ON=29A58,0
+
+[VS mode 1P hideway role selection]
+基拉恩=29F82,8
+南无=29F82,9
+佼子=29F82,A
+
+[Perfect person come on scene+ Hideway mode open]
+ON=29F55,FF,FF,FF
+
+[Story mode -Kelin possibly uses]
+ON=2066A,1
+
+[GAMEINFO]
+NAME=1782 - Dragon Ball Advance Adventure (J)（龙珠大冒险）（J） ACT 128
+SYSTEM=GBA
+TEXT=KRIZAL
+------------------------------------------------------------------------
+[HP]
+上限最大=20648,00,04
+不减=20646,00,04
+
+[Invincibility]
+OFF=
+ON=20651,02
+
+[Select all roles]
+ON=29F70,FF,FF,FF,FF
+
+[Passing the barrier and add-in option open]
+ON=29F50,FF
+
+[Energy trough 4 standard+ does not reduce]
+ON=2064B,04
+
+[必杀技集气快速]
+ON=2064D,04
+
+[The highest score]
+ON=20660,FF,E0,F5,5
+
+[Life number99]
+ON=29F36,63
+
+[ The war pattern defense does not collapse]
+ON=29988,10
+
+[Entire illustrated handbook]
+ON=29F58,FF,FF,FF,FF,FF,FF,FF
+
+[Entire stage pro]
+ON=29F51,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1782 - Dragon Ball Advance Adventure (J)（龙珠大冒险）（J） ACT 128
+System=GBA
+Text=丘贝雷MKII 整理提供

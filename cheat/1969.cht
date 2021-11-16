@@ -1,13 +1,9 @@
-[耐久]
-ON=B8C,0,0,0,0
+[Speed] ON=944,7, D0
 
-[限制时间]
-ON=7E9,63
+[Durable] ON=B8C, 0,0,0,0
 
-[成绩时间]
-ON=831,0
+[Limit time] ON=7E9,63
 
-[GameInfo]
-Name=1969 - 疯狂驾驶员[Smashing Drive]
-System=GBA
+[Result time] ON=831,0
 
+[GameInfo] Name=1969 - Smashing Drive (E) System=GBA Text=vicente 

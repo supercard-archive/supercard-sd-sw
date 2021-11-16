@@ -1,13 +1,13 @@
-[时间-小时]
+[Time-Hour]
 ON=33CB0,A
 
-[小时-分钟]
+[Time-Minutes]
 ON=33CB4,0
 
-[积分]
+[Integral]
 ON=39788,F,27
 
 [GameInfo]
-Name=1693 - 極限滑板[Tony Hawks Underground 2]
+Name=1693 - Tony Hawks Underground (U)（托尼·霍克地下滑板）（E）SPG 64
 System=GBA
-
+Text=vicente

@@ -1,13 +1,13 @@
-[体力上限]
+[Physical strength with an upper limit]
 ON=20FE1,C
 
-[体力不减]
+[Physical strength  does not reduce]
 ON=20FE0,C
 
-[命MAX]
+[Life MAX]
 ON=20FE2,63
 
-[无敌]
+[Invincibility]
 ON=20F3C,64
 
 [卡比状态]
@@ -38,7 +38,6 @@ ON=20F3C,64
 万能剑=20FE3,1A
 
 [GameInfo]
-Name=1454 - 星之卡比 镜之大迷宫[Hoshi no Kirby Kagami no Daimeikyuu ]
+Name=1454 - Hoshi no Kirby Kagami no Daimeikyuu (J)（星之卡比-镜之谜宫）（J）ACT 128
 System=GBA
-TEXT=1454 - Hoshi no Kirby Kagami no Daimeikyuu (J)
-
+TEXT=大胖子 整理提供

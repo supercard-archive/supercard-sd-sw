@@ -1,32 +1,97 @@
-[生命]
+[Life]
 ON=4948,32
 
-[无敌]
+[Invincibility]
 ON=28,20
 
-[子弹]
+[Bullet]
 ON=72,E7,3
 
-[炸弹]
+[Bomb]
 ON=6F,63
 
-[机器炮弹]
+[Machine shell]
 ON=44756,63
 
-[关卡全开]
+[Barrier all open]
 ON=CD69,FF
 
-[全卡片]
+[Entire card]
 ON=CD70,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[全战俘]
+[Entire prisoner]
 ON=CD90,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,F
 
-[炸弹种类]
+[Bomb type]
 BOMB=6E,1
 FIRE=6E,2
 
 [GameInfo]
-Name=1755 - 合金弹头A[Metal Slug Advance]
+Name=1755 - Metal Slug Advance (U)（合金弹头A）（E）ACT 64
 System=GBA
+Text=vicente
+----------------------------------------------------------
+[Life value]
+ON=4948,32
 
+[Grenade]
+ON=6F,63
+
+[Grenade selection]
+手榴弹=6E,01
+燃烧瓶=6E,02
+
+[Bomb]
+ON=72,FF,FF
+
+[Invincibility]
+ON=28,32;D52,32
+
+[Tank gasoline]
+ON=4D28,32
+
+[Airplane gasoline]
+ON=5A28,32
+
+[Barriers all open]
+ON=CD69,FF
+
+[Entire card]
+ON=CD70,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire prisoner]
+ON=CD90,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Gun]
+原始=55,0;6b,0,ff,0
+H=55,1;6b,0,ff,5
+L=55,1;6b,0,ff,6
+S=55,1;6b,0,1,2
+F=55,1;6b,0,1,4
+R=55,1;6b,0,2,3
+C=55,1;6b,0,2,c
+I=55,1;6B,0,2,D
+D=55,1;6B,0,3,e
+G=55,1;6B,0,ff,f
+
+[GameInfo]
+Name=1755 - Metal Slug Advance (U)（合金弹头A）（E）ACT 64
+System=GBA 
+Text=大胖子 整理提供
+----------------------------------------------------------
+[投弹无限]
+ON=41C97,63
+OFF=0000,00
+
+[子弹无限]
+ON=41C9A,FF
+OFF=0000,00
+
+[血槽全满]
+ON=46570，B0
+OFF=0000，00
+
+[GameInfo]
+Name=1755 - Metal Slug Advance (U)（合金弹头A）（E）ACT 64
+System=GBA
+Text=柯炳蔚

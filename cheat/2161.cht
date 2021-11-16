@@ -1,0 +1,17 @@
+[Only counts] ON=42A6A, C8; 42A6C, C8
+
+[Time] ON=43D0B, 9,9,9
+
+[Money] ON=42C58,63; 42C83,63
+
+[Condition] villain =43F5B, 0 grows up =43F5B, 1 ignition shoots =43F5B, 2 leaves =43F5B, 3 frog skins =43F5B, 4 bearskins =43F5B, 5 turtles skins =43F5B, 6
+
+[Hiding] ON=43F60,64
+
+[Stage prop] ON=42C2E, 1,2,3,4,5,6,7,8,9, A, B, C, D, E, F, 8,8,8,8,8,8,8,8,8,8,8,8,8,8; 42C59,1,2,3,4,5,6,7,8,9, A, B, C, D, E, F, 8,8,8,8,8,8,8,8,8,8,8,8,8,8
+
+[Invincible] ON=43F61, C8
+
+[Checkpoint] first closes =42A69,0 second to close =42A69,1 third to close =42A69,2 fourth to close =42A69,3 fifth to close =42A69,4 sixth to close =42A69,5 seventh to close =42A69,6 eighth to close =42A69,7 to elect to close =42A69,8
+
+[GameInfo] Name=2161 - Super Mario Advance 4 v1.1 (U) System=GBA Text= big fat person 

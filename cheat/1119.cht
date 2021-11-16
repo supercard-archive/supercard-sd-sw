@@ -1,0 +1,37 @@
+[Life number]
+ON=42C30,5
+
+[Time does not reduce（Drill the pipeline）]
+ON=42C12,0,0,0,3C
+
+[Collect all cards]
+ON=1D6E4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+
+[Answer all questions from cards]
+全开=1D6F4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+清空（清空后解锁）=1D6F4,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Collect all CG]
+ON=1D714,FF,F
+
+[Collect all small games]
+ON=1D704,DE
+
+[All small games passed]
+ON=1D709,5,5,5,5;1D70E,5,5,5,5
+
+[GameInfo]
+Name=1119 - Detective Conan (J) （名侦探柯楠 被阻击的名侦探）（J） RPG 64
+System=GBA
+Text=mxlee
+-------------------------------------------------------------------------
+[Entire 101 piece of cards]
+ON=1D6E4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+
+[Anwser all questions from cards correctly]
+ON=1D6F4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+
+[GameInfo]
+Name=1119 - Detective Conan (J) （名侦探柯楠 被阻击的名侦探）（J） RPG 64 
+System=GBA
+Text=鬼眼の狂

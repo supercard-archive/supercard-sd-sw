@@ -1,0 +1,27 @@
+[Select the barrier]
+ON=40510,28
+
+[GameInfo]
+Name=0036 - Chu Chu Rocket (U)（咻咻火箭）（M）PUZ 32
+System=GBA
+Text=大胖子 整理提供
+-----------------------------------------------------
+[Stage Challenge pattern infinite time]
+ON=42DB8,3,3B
+
+[Puzzle pattern Normal all finished]
+ON=43FF0,FF,FF,FF,FF
+
+[Puzzle pattern Original all finished]
+ON=44000,FF,FF,FF,FF
+
+[Stage Challenging Pattern normal all finished]
+ON=442A8,FF,FF,FF,FF
+
+[Stage Challenging Pattern original all finished]
+ON=442AC,FF,FF,FF,FF
+
+[GameInfo]
+Name=0036 - Chu Chu Rocket (U)（咻咻火箭）（M）PUZ 32
+System=GBA
+Text=169

@@ -1,0 +1,9 @@
+[Fund] ON=42F28, FF, E0, F5,5
+
+[Entire character] ON=43984,1
+
+[Entire checkpoint] ON=42FEA, 1
+
+[Competition integral] ON=44124,3F, 42, F, 0
+
+[GameInfo] Name=2191 - World Poker Tour (U) System=GBA Text=vicente

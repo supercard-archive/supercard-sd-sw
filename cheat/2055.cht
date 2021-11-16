@@ -1,0 +1,173 @@
+[Entire weapon]
+ON=2D3C, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire stage prop]
+ON=2D5C, FF, FF
+
+[Entire character]
+ON=2D60, FF, FF
+
+[Entire campaign]
+ON=2D34, FF, FF, FF
+
+[Xiahou sincere 全能力]
+ON=2D64,63; 2D66, E7,3; 2D6A, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Permits soldier 全能力]
+ON=2D90,63; 2D92, E7,3; 2D96, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhen professional female entertainer 全能力]
+ON=2DBC, 63; 2DBE, E7,3; 2DC2, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Cao Cao 全能力]
+ON=2DE8,63; 2DEA, E7,3; 2DEE, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[孙策 全能力]
+ON=2E14,63; 2E16, E7,3; 2E1A, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Grandson still fragrant 全能力]
+ON=2E40,63; 2E42, E7,3; 2E46, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhou Yu 全能力]
+ON=2E6C, 63; 2E6E, E7,3; 2E72, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Grandson firm 全能力]
+ON=2E98,63; 2E9A, E7,3; 2E9E, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhao cloud 全能力]
+ON=2EC4,63; 2EC6, E7,3; 2ECA, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Guan Yu 全能力]
+ON=2EF0,63; 2EF2, E7,3; 2EF6, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Flies 全能力]
+ON=2F1C, 63; 2F1E, E7,3; 2F22, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Liu Bei 全能力]
+ON=2F48,63; 2F4A, E7,3; 2F4E, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Lv Bu 全能力]
+ON=2F74,63; 2F76, E7,3; 2F7A, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Our morale]
+ON=4104, E7,3
+
+[Enemy side morale]
+ON=4106,0,0
+
+[Round number]
+ON=40CC, 1
+
+[Rank]
+ON=3168,63
+
+[Physical strength]
+ON=316C, E7,3
+
+[Physical strength upper limit]
+ON=316E, E7,3
+
+[Unparalleled]
+ON=3170,64
+
+[Striking power]
+ON=3174, E7,3
+
+[Defensive power]
+ON=3176, E7,3
+
+[Displacing force]
+ON=3178, E7,3
+
+[熟练度]
+ON=3194,64,0,64,0,64
+
+[Cuts enemy to count]
+ON=31AC, 9F, 86,1
+
+[Has weapon]
+Three countries unparalleled =316A, E6
+
+[Allied force physical strength is biggest]
+ON=324C, E7,3; 3298, E7,3; 32E4, E7,3; 3330, E7,3; 337C, E7,3; 33C8, E7,3; 3414, E7,3
+
+[Allied force military strength is biggest]
+ON=3284,63,63,63; 32D0,63,63,63; 331C, 63,63,63; 3368,63,63,63; 33B4,63,63,63; 3400,63,63,63; 344C, 63,63,63
+
+[Enemy troop physical strength is smallest]
+ON=370C, 0,0; 3758,0,0; 37A4,0,0; 37F0,0,0; 383C, 0,0; 3888,0,0; 38D4,0,0; 3920,0,0; 396C, 0,0; 39B8,0,0; 3A04,0,0; 3A50,0,0; 3A9C, 0,0; 3AE8,0,0; 3B34,0,0; 3B80,0,0; 3BCC, 0,0; 3C18,0,0; 3C64,0,0; 3CB0,0,0; 3CFC, 0,0; 3D48,0,0; 3D94,0,0; 3DE0,0,0; 3E2C, 0,0; 3E78,0,0
+
+[Enemy troop military strength is smallest]
+ON=3744,0,0,0; 3790,0,0,0; 37DC, 0,0,0; 3828,0,0,0; 3874,0,0,0; 38C0,0,0,0; 390C, 0,0,0; 3958,0,0,0; 39A4,0,0,0; 39F0,0,0,0; 3A3C, 0,0,0; 3A88,0,0,0; 3AD4,0,0,0; 3B20,0,0,0; 3B6C, 0,0,0; 3BB8,0,0,0; 3C04,0,0,0; 3C50,0,0,0; 3C9C, 0,0,0; 3CE8,0,0,0; 3D34,0,0,0; 3D80,0,0,0; 3DCC, 0,0,0; 3E18,0,0,0; 3E64,0,0,0; 3EB0,0,0,0
+
+[Fight ability points]
+ON=31B6,5
+
+[Fight 全能力]
+ON=31B7,2,2,2,2,2,2
+
+[Fight ability type]
+Ability 1=31B5,0
+Ability 2=31B5,1
+Ability 3=31B5,2
+Ability 4=31B5,3
+Ability 5=31B5,4
+Ability 6=31B5,5
+
+[Fight role change]
+Xiahou sincere =3161,0
+孙策 =3161,1
+Zhao cloud =3161,2
+Permits soldier =3161,3
+Zhen professional female entertainer =3161,4
+Sun Shangxiang =3161,5
+Zhou Yu =3161,6
+Guan Yu =3161,7
+Opens flies =3161,8
+Lv Bu =3161,9
+Cao Cao =3161, A
+Grandson firm =3161, B
+Liu Bei =3161, C
+Sima beautiful =3161, D
+Sun Quan =3161, E
+Zhuge Liang =3161, F
+Dong Zhuo =3161,10
+Yuan Shao =3161,11
+Flare angle =3161,12
+
+[Wei checkpoint choice]
+黄巾之乱 =40C9,0,0
+The tiger jail closes it to fight =40C9,1,3
+The official crosses it to fight =40C9,3, C
+Battle at the Red Wall =40C9,5,10
+Hefei fights =40C9,6,17
+Five ten feet original fight =40C9, A, 25
+
+[Suchuan checkpoint choice]
+The tiger jail closes it to fight =40C9,1,7
+The long 坂 slope fights =40C9,4, E
+Battle at the Red Wall =40C9,5,14
+Chengdu suppresses fights =40C9,7,1C
+夷 the mausoleum fights =40C9,8,20
+Five ten feet original fight =40C9, A, 27
+
+[Wu checkpoint choice]
+The tiger jail closes it to fight =40C9,1,5
+East of the lower reaches of the Changjiang river stills fights =40C9,2, A
+Battle at the Red Wall =40C9,5,12
+Hefei fights =40C9,6,19
+夷 the mausoleum fights =40C9,8,1E
+The summer mouth fights =40C9,9,23
+
+[Lv Bu checkpoint choice]
+黄巾之乱 =40C9,0,2
+The tiger jail closes it to fight =40C9,1,9
+Battle at the Red Wall =40C9,5,16
+Hefei fights =40C9,6,1B
+夷 the mausoleum fights =40C9,8,22
+Five ten feet original fight =40C9, A, 29
+
+[GameInfo]
+Name=2055 - Dynasty Warriors Advance (U)
+System=GBA
+Text=vicente

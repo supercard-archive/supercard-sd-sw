@@ -1,0 +1,235 @@
+[ Money MAX]
+ON=43B3A,7E,96,98
+
+[Do not meet the  enemy]
+ON=43115,FF
+
+[The first role LV]
+ON=43C35,63
+
+[The first role currentHP]
+ON=43C0D,F,27
+
+[The first role greatest HP]
+ON=43C0F,F,27
+
+[The first role attack]
+ON=43C11,F,27
+
+[Defence strength of the first role ]
+ON=43C13,F,27
+
+[The first role brawn]
+ON=43C36,FF
+
+[The first role intelligence]
+ON=43C37,FF
+
+[Physical strength of the first role]
+ON=43C38,FF
+
+[The first role agility]
+ON=43C39,FF
+
+[The first role fighting LV]
+ON=43C3A,FF
+
+[The first role working LV]
+ON=43C3B,FF
+
+[The first role fixing LV]
+ON=43C3C,FF
+
+[The first roleEXP]
+ON=43AFB,7F,96,98
+
+[The second role LV]
+ON=043C3D,63
+
+[The second role currentHP]
+ON=43C15,F,27
+
+[The second role greatest HP]
+ON=43C17,F,27
+
+[The second role attack]
+ON=43C19,F,27
+
+[Defence strength of the second role ]
+ON=43C1B,F,27
+
+[The second role brawn]
+ON=43C3E,FF
+
+[The Second role intelligence]
+ON=43C3F,FF
+
+[Physical strength of the first role]
+ON=43C40,FF
+
+[The second role agility]
+ON=43C41,FF
+
+[The second role fighting LV]
+ON=43C42,FF
+
+[The second role working LV]
+ON=43C43,FF
+
+[The second role fixing LV]
+ON=43C44,FF
+
+[The second role EXP]
+ON=43B03,7F,96,98
+
+[The third role LV]
+ON=43C45,63
+
+[The third role currentHP]
+ON=43C1D,F,27
+
+[The third role greatestHP]
+ON=43C1F,F,27
+
+[The third role attack]
+ON=43C21,F,27
+
+[Defence strength of the third role]
+ON=43C23,F,27
+
+[The third role brawn]
+ON=43C46,FF
+
+[The third role intelligence]
+ON=43C47,FF
+
+[Physical strength of the third role]
+ON=43C48,FF
+
+[The third role agility]
+ON=43C49,FF
+
+[The third role fightingLV]
+ON=43C4A,FF
+
+[The third role working LV]
+ON=43C4B,FF
+
+[The third role fixingLV]
+ON=43C4C,FF
+
+[The third role EXP]
+ON=43B0B,7F,96,98
+
+[The fourth role LV(Red dog)]
+ON=43C4D,63
+
+[The fourth role current HP(Red dog)]
+ON=43C25,F,27
+
+[The fourth role greatest HP(Red dog)]
+ON=43C27,F,27
+
+[The fourth role  attack (Red dog)]
+ON=43C29,F,27
+
+[Defence strength of the fourth role (Red dog)]
+ON=43C2B,F,27
+
+[The fourth role brawn (Red dog)]
+ON=43C4E,FF
+
+[The Fourth role intelligence(Red dog)]
+ON=43C4F,FF
+
+[Physical strength of the fourth role(Red dog)]
+ON=43C50,FF
+
+[The fourth role agility(Red dog)]
+ON=43C51,FF
+
+[The fourth role fightingLV(Red dog)]
+ON=43C52,FF
+
+[The fourth role けづや(Red dog)]
+ON=43C53,FF
+
+[The fourth role EXP(Red dog)]
+ON=43B13,7F,96,98
+
+[No.1 war chariot chassis defence]
+ON=43F16,FF
+
+[No.1 war chariot chassis magazine]
+ON=43F18,FF
+
+[No.1 war chariot chassis weight]
+ON=43F1B,1
+
+[No.2 war chariot chassis defence]
+ON=43F1E,FF
+
+[No.2 war chariot chassis magazine]
+ON=43F20,FF
+
+[No.2 war chariot chassis weight]
+ON=43F23,1
+
+[No.3 war chariot chassis defence]
+ON=43F26,FF
+
+[No.3 war chariot chassis magazine]
+ON=43F28,FF
+
+[No.3 war chariot chassis weight]
+ON=43F2B,1
+
+[No.4 war chariot chassis defence]
+ON=43F2E,FF
+
+[No.4 war chariot chassis magazine]
+ON=43F30,FF
+
+[No.4 war chariot chassis weight]
+ON=43F33,1
+
+[No.5 war chariot chassis defence]
+ON=43F36,FF
+
+[No.5 war chariot chassis magazine]
+ON=43F38,FF
+
+[No.5  war chariot chassis weight]
+ON=43F3B,FF
+
+[No.6 war chariot chassis defence]
+ON=43F3E,FF
+
+[No.6 war chariot chassis magazine]
+ON=43F3F,FF
+
+[No.6 war chariot chassis weight]
+ON=43F43,FF
+
+[No.7 war chariot chassis defence]
+ON=43F46,FF
+
+[No.7 war chariot chassis magazine]
+ON=43F48,FF
+
+[No.7 war chariot chassis weight]
+ON=43F4B,FF
+
+[No.8 war chariot chassis defence]
+ON=43F4E,FF
+
+[No.8 war chariot chassis magazine]
+ON=43F50,FF
+
+[No.8 war chariot chassis weight]
+ON=43F53,FF
+
+[GameInfo]
+Name=1070 - Metal Max 2 Kai (J) （重装机兵2改）（J） RPG 32
+System=GBA
+Text=lingling

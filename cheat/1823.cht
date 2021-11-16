@@ -1,0 +1,13 @@
+[Life] ON=1C3B, 3
+
+[Population] ON=1C3A, 63
+
+[Stealth] ON=AEA, FF
+
+[Bean number] ON=1C38, E7,3
+
+[Integral] ON=1C30, FF, E0, F5,5
+
+[Checkpoint all opens] ON=1C4C, FF, FF, FF
+
+[GameInfo] Name=1823 - Pac-Man World (E) (young and clever world) (M5) AVG 64 System=GBA Text=vicente

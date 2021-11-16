@@ -1,0 +1,51 @@
+[HP]
+ON=42BC4,E7,3,E6,3
+
+[MP]
+ON=42BC8,E7,3,E7,3
+
+[EXP]
+ON=42BCE,FF,FF,0
+
+[Each attribute]
+ON=42BD0,FF,FF,FF,FF,FF,FF,E7,03,E7,03,FF,FF,FF,FF
+
+[Money]
+ON=2D9F0,A0,BB,D
+
+[GameInfo]
+Name=0060 - Breath of Fire (J)（龙战士）（J）RPG 32
+System=GBA
+Text=大胖子 整理提供
+---------------------------------------------------
+[Money]
+ON=2D9F0,FF,E0,F5,5
+
+[Does not meet the enemy]
+ON=42B8C,0
+
+[Lead rank]
+ON=42BC2,63
+
+[Actor HP with an upper limit]
+ON=42BC4,E7,3
+
+[Actor HP]
+ON=42BC6,E7,3
+
+[Actor AP with an upper limit]
+ON=42BC8,E7,3
+
+[Actor AP]
+ON=42BCA,E7,3
+
+[Actor EXP]
+ON=42BCC,7F,96,98
+
+[Actor competence is highest]
+ON=42BD0,FF,FF,FF,FF,FF,FF,F,27,F,27,FF,FF,FF
+
+[GameInfo]
+Name=0060 - Breath of Fire (J)（龙战士）（J）RPG 32
+System=GBA
+Text=vicente

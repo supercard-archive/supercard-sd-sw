@@ -1,0 +1,59 @@
+[All restores stage prop] ON=2498,63,63,63,63,63
+
+[Entire material] ON=5E8, FF, FF, FF, FF
+
+[Entire skill experience] ON=1D40, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
+
+[NUJU attack points] ON=1550, F, 27
+
+[NUJU attack points upper limit] ON=153C, F, 27
+
+[NUJU rank] ON=1524,9
+
+[NUJU skill points] ON=1608,63,0,63,0,63,0,63,0,63
+
+[NOKAMA attack points] ON=169C, F, 27
+
+[NOKAMA attack points upper limit] ON=1688, F, 27
+
+[NOKAMA rank] ON=1670,9
+
+[NOKAMA skill points] ON=1754,63,0,63,0,63,0,63,0,63
+
+[MATAU attack points] ON=17E8, F, 27
+
+[MATAU attack points upper limit] ON=17D4, F, 27
+
+[MATAU rank] ON=17BC, 9
+
+[MATAU skill points] ON=18A0,63,0,63,0,63,0,63,0,63
+
+[WHENUR attack points] ON=1934, F, 27
+
+[WHENUR attack points upper limit] ON=1920, F, 27
+
+[WHENUR rank] ON=1908,9
+
+[WHENUR skill points] ON=19EC, 63,0,63,0,63,0,63,0,63
+
+[VAKAMA attack points] ON=1A80, F, 27
+
+[VAKAMA attack points upper limit] ON=1A6C, F, 27
+
+[VAKAMA rank] ON=1A54,9
+
+[VAKAMA skill points] ON=1B38,63,0,63,0,63,0,63,0,63
+
+[ONEWA attack points] ON=1BCC, F, 27
+
+[ONEWA attack points upper limit] ON=1BB8, F, 27
+
+[ONEWA rank] ON=1BA0,9
+
+[ONEWA skill points] ON=1C84,63,0,63,0,63,0,63,0,63
+
+[The entire character may replace] ON=24A8, FF
+
+[Stealth custom] ON=24A9,1
+
+[GameInfo] Name=2140 - Bionicle Maze of Shadows (U) System=GBA Text=vicente 

@@ -1,0 +1,21 @@
+[Life]
+ON=47245,40
+
+[Heart number]
+ON=47271,63
+
+[Weapon grade]
+ON=47270,2
+
+[Auxiliary armament]
+飞刀=4735B,8
+回旋镖=4735B,9
+十字架=4735B,A
+圣水=4735B,B
+红斧头=4735B,C
+紫斧头=4735B,D
+
+[GameInfo]
+Name=1623 - Famicom Mini Vol 29 Akumajou Dracula (J)（任天堂FC珍藏游戏系列第29辑）（J）ACT 32
+System=GBA
+Text=vicente

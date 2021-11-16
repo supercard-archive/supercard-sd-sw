@@ -1,0 +1,36 @@
+[point]
+ON=75F8,F,27
+
+[combo]
+ON=7398,E7,3
+
+[GameInfo]
+Name=0416 - Sweet Cookie Pie (J)（美味糕点）（J）AVG 32
+System=GBA
+Text=大胖子 整理提供
+-------------------------------------------------------
+[Barriers all open]
+ON=7594,6
+
+[All open]
+ON=74F0,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Head all open]
+ON=8100,1,1,1,1,1,1,1,1,1,1,1,1
+
+[エプロン all open]
+ON=7540,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[その他 all open]
+ON=74D9,1,1,1,1,
+
+[Entier goods introduction]
+ON=7500,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Small games all open]
+ON=7594,FF
+
+[GameInfo]
+Name=0416 - Sweet Cookie Pie (J)（美味糕点）（J）AVG 32
+System=GBA
+Text=vicente

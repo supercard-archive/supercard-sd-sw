@@ -1,13 +1,47 @@
-[行动点数]
-最大=43434,9;43490,9;434EC,9
-最小=43434,0;43490,0;434EC,0
+[Our life] ON=11C98,64
 
-[关卡全开]
-ON=448F8,FF,FF,FF,FF
+[Our physical strength] ON=11C9A, 64
 
-[强化点数]
-ON=2DC8,E7,03;2DF0,E7,03;2E18,E7,03;2E40,E7,03;2E68,E7,03;2E90,E7,03;2EB8,E7,03;2EE0,E7,03
+[Our energy] ON=11C9E, 64
 
-[GameInfo]
-Name=1849 - 指环王 第三纪[Lord of the Rings Third Age]
-System=GBA
+[Our anger] ON=11CC4,64
+
+[Opposite party life] ON=11F20,0
+
+[Opposite party physical strength] ON=11F22,0
+
+[Opposite party energy] ON=11F26,0
+
+[Opposite party anger] ON=11F4C, 0
+
+[Entire character] ON=130B2, FF, FF
+
+[Entire small game] ON=130B6, FF
+
+[Entire pattern] ON=130B7,1
+
+[Slightly plays the entire difficulty] ON=130B4, FF
+
+[Entire collection] ON=1319C, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=1850 - Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J) (golden color Carthew - friendship electric shock 2) (J) FTG 128 System=GBA Text=vicente
+---------------------------------------------------------------------------------------------------
+[1P HP] FULL=11C98,64
+
+[1P spirit] FULL=11C9E, 64
+
+[As soon as 2P HP strikes must kill] RED=11F20,1
+
+[The 2P spirit deadlocks] ON=11F26,0
+
+[TIME infinite] ON=12255, FF
+
+[The entire role use opens] ON=130B2, FF, FF
+
+[Entire MINI GAME+ survival pattern opens] ON=130B6, FF, 1
+
+[All MINI the GAME entire difficulty opens] ON=130B4, FF, FF
+
+[The entire collection 100% obtains] ON=1319C, FF, FF, FF, FF, FF, FF, FF
+
+[GAMEINFO] NAME=1849 - Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J) (golden color Carthew - friendship electric shock 2) (J) FTG 128 SYSTEM=GBA TEXT=KRIZAL

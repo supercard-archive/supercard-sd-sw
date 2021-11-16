@@ -1,0 +1,55 @@
+[Infinite money]
+ON=E34,FF,FF
+
+[Life value]
+ON=8A94,FF
+
+[Transparent]
+ON=8A9A,C8
+
+[Fast gasification]
+ON=4F0D,40
+
+{Do not meet the enemy]
+ON=1150,0
+
+[All cards introduction]
+ON=60,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF;9C,FF,FF,FF,FF
+
+[All fences usage in fighting time]
+ON=4EEE,A
+
+[The first fence of fighting card]
+射击(伤害40)=5EC0,1
+射击(伤害30)=5EC0,A
+投球(伤害50)=5EC0,B
+HP回复(+10点)=5EC0,10
+功击力(+10点)=5EC0,1B
+逃走=5EC0,13
+剑击(伤害50)=5EC0,18
+扩大移空间=5EC0,1D
+
+[The second fence of fighting card]
+射击(伤害40)=5EC1,1
+射击(伤害30)=5EC1,A
+投球(伤害50)=5EC1,B
+HP回复(+10点)=5EC1,10
+功击力(+10点)=5EC1,1B
+逃走=5EC1,13
+剑击(伤害50)=5EC1,18
+扩大移空间=5EC1,1D
+
+[The third fence of fighting card]
+射击(伤害40)=5EC2,1
+射击(伤害30)=5EC2,A
+投球(伤害50)=5EC2,B
+HP回复(+10点)=5EC2,10
+功击力(+10点)=5EC2,1B
+逃走=5EC2,13
+剑击(伤害50)=5EC2,18
+扩大移空间=5EC2,1D
+
+[GameInfo]
+Name=0243 - Battle Network RockMan EXE 2 (J)（洛克人网络大战EXE 2）（J）RPG 64
+System=GBA
+Text=大胖子 整理提供

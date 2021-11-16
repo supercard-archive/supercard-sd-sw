@@ -1,13 +1,8 @@
-[生命]
-ON=738C,63
+[Life] ON=738C, 63
 
-[子弹]
-ON=7390,E7,3
+[Bullet] ON=7390, E7,3
 
-[收集品]
-ON=7394,0
+[Collection] ON=7394,0
 
-[GameInfo]
-Name=1949 - 小淘气-城堡冒险[Rugrats Castle Capers (S)]
-System=GBA
+[GameInfo] Name=1949 - Rugrats Castle Capers (S) System=GBA Text=vicente 
 

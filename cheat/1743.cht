@@ -1,35 +1,104 @@
-[HP不减]
-ON=2AEA,A0;2AEB,A0
+[Life]
+ON=2AEA,A0
 
-[金钱不减]
-ON=2B00,E7,3;2AE8,3
+[Life with an upper limit]
+ON=2AEB,A0
 
-[贝壳数]
-ON=2B02,E7,3
+[Jewel]
+ON=2B00,E7,3
 
-[钥匙数]
-ON=2E9D,10,10
+[Jewel with an upper limit]
+ON=2AE8,3
 
-[迷宫辅助道具]
-ON=2EAD,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+[Entire sword sticking]
+ON=4402C,FF,FF
 
-[碎片]
-ON=2B6B,63,63,63,63,63,63,63,63
+[Entire scroll]
+ON=2B44,FF,FF
 
-[炸弹数]
+[Bomb number]
 ON=2AEC,63
 
-[弓箭数]
+[Arrow number]
 ON=2AED,63
 
-[身体大小]
-OFF=0,0
+[Whelk number]
+ON=2B02,E7,3
+
+[Key number]
+ON=2E9D,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Labyrinth auxiliary stage prop]
+ON=2EAD,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+
+[A Key weapon]
+无=2AF4,0
+スミスの剑=2AF4,1
+ホワイトソ一ド=2AF4,2
+ホワイトソ一ド(２人分身)=2AF4,3
+ホワイトソ一ド(３人分身)=2AF4,4
+...(灯)=2AF4,5
+フォ一ソ一ド=2AF4,6
+バクダン=2AF4,7
+リモコンバクダン=2AF4,8
+弓矢=2AF4,9
+光の弓矢=2AF4,A
+ブ一メラン=2AF4,B
+マジカルブ一メラン=2AF4,C
+小さな盾=2AF4,D
+ミラ一シ一ルド=2AF4,E
+炎のカンテラ=2AF4,F
+灯=2AF4,10
+魔法のつぼ=2AF4,11
+パッチのつえ=2AF4,12
+モグラグロ一ブ=2AF4,13
+はねマント=2AF4,14
+ペガサスのくつ=2AF4,15
+魔杖=2AF4,16
+风のォカリナ=2AF4,17
+空きビン=2AF4,1C
+
+[B Key weapon]
+无=2AF5,0
+スミスの剑=2AF5,1
+ホワイトソ一ド=2AF5,2
+ホワイトソ一ド(２人分身)=2AF5,3
+ホワイトソ一ド(３人分身)=2AF5,4
+...(灯)=2AF5,5
+フォ一ソ一ド=2AF5,6
+バクダン=2AF5,7
+リモコンバクダン=2AF5,8
+弓矢=2AF5,9
+光の弓矢=2AF5,A
+ブ一メラン=2AF5,B
+マジカルブ一メラン=2AF5,C
+小さな盾=2AF5,D
+ミラ一シ一ルド=2AF5,E
+炎のカンテラ=2AF5,F
+灯=2AF5,10
+魔法のつぼ=2AF5,11
+パッチのつえ=2AF5,12
+モグラグロ一ブ=2AF5,13
+はねマント=2AF5,14
+ペガサスのくつ=2AF5,15
+魔杖=2AF5,16
+风のォカリナ=2AF5,17
+空きビン=2AF5,1C
+
+[Part of weapons (Cautiously use )]
+ON=2B34,15,51,54,45
+
+[Body size]
 大=43FB0,0
 小=43FB0,80
 
-[全图鉴]
+[Map all open]
+ON=2A80,FF,FF,1
+
+[Entire illustrated handbook]
 ON=2B0E,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
 [GameInfo]
-Name=1743 - 塞尔达传说 不可思议的帽子[Zelda Legend Fushigi no Boushi]
+Name=1743 - Zelda no Densetsu - Fushigi no Boushi (J)（塞尔达传说-缩小帽）（J）A·RPG 128
 System=GBA
+Text=vicente

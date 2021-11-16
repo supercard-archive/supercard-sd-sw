@@ -1,21 +1,21 @@
 [TIME]
 ON=39D3F,98,3A
 
-[我方HP]
+[Our side HP]
 MAX=39D60,FF
 MIN=39D60,1
 
-[对方HP]
+[Opposite HP]
 MIN=39DAC,1
 MAX=39DAC,FF
 
-[钱]
+[Money]
 ON=3A260,7F,96,98
 
-[我方气力]
+[Our side energy]
 ON=39D5C,3
 
 [GameInfo]
-Name=1605 - B 传说中的战斗[B-Legend Battle B-Daman Moero B-Damashii (J)]
+Name=1605 - B-Legend Battle B-Daman Moero B-Damashii (J)（B-传说！战斗比达人）（J）AVG 64
 System=GBA
-Text=1605 - B-Legend Battle B-Daman Moero B-Damashii (J)
+Text=Mick

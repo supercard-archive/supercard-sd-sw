@@ -1,0 +1,10 @@
+[Heart our side integral]
+ON=1C004,E7,3
+
+[Heart opposite side integral]
+ON=1C008,0,0;1C00C,0,0;1C010,0,0
+
+[GameInfo]
+Name=1523 - Ultimate Card Games (U)£¨ÖÕ¼«¿¨Æ¬ÓÎÏ·£©£¨E£©CAG 32
+System=GBA
+Text=vicente

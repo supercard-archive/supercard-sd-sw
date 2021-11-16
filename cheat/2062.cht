@@ -1,0 +1,15 @@
+[Next froth type] entire yellow =40DF1,11 entire orange =40DF1,22 entire purple =40DF1,33 entire blue color =40DF1,44 entire green =40DF1,55 entire black =40DF1,66
+
+[Our not black froth] ON=40F4E, 0,0
+
+[Opposite party entire black froth] ON=40E2F, A
+
+[Our integral] ON=40F44, FF, E0, F5,5
+
+[All hides character] ON=4105C, FF
+
+[Free war all opens] ON=41150, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire lines] ON=41128, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF, 0,0,0, FF
+
+[GameInfo] Name=2062 - Haro no Puyo Puyo (J) System=GBA Text=vicente

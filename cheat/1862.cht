@@ -1,16 +1,9 @@
-[收集品]
-ON=42B88,F,27
+[Collection] ON=42B88, F, 27
 
-[体力]
-ON=4241B,C0
+[Physical strength] ON=4241B, C0
 
-[人数]
-ON=44FC3,3
+[Population] ON=44FC3,3
 
-[隐身]
-ON=42419,8
+[Stealth] ON=42419,8
 
-[GameInfo]
-Name=1862 - 史前大陆[The Land Before Time Collection]
-System=GBA
-
+[GameInfo] Name=1862 - The Land Before Time (U) (island of the prehistoric) (M2) ACT 32 System=GBA Text=vicente

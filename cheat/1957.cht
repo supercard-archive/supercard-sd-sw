@@ -1,7 +1,3 @@
-[全人物]
-ON=41030,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[Entire character] ON=41030,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
-[GameInfo]
-Name=1957 - 3D立体桌球[Killer 3D Pool]
-System=GBA
-
+[GameInfo] Name=1957 - Killer 3D Pool (E) System=GBA Text=vicente

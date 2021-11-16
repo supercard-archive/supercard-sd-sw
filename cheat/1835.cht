@@ -1,11 +1,5 @@
-[积分]
-ON=47D70,F,27
+[Integral] ON=47D70, F, 27
 
-[隐藏人物]
-ON=464C,1
+[Hides character] ON=464C, 1
 
-[GameInfo]
-Name=1835 - 青蛙军曹[Keroro Gunsou]
-System=GBA
-Text=vicente
-
+[GameInfo] Name=1835 - Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!! (J) (frog armed forces Cao Duijue: Stirs up the frog big combat!)(J) RCG 32 System=GBA Text=vicente

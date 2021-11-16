@@ -1,70 +1,70 @@
-[无限移动]
+[Infinite movement]
 ON=41131,1
 
-[无限攻击]
+[Infinite attack]
 ON=41132,1
 
-[队员一HP]
+[Teammate一HP]
 ON=4129E,E7,3
 
-[队员一HP上限]
+[Teammate一HP with an upper limit]
 ON=4129C,E7,3
 
-[队员一SE]
+[No.1 teammate SE]
 ON=412A2,E7,3
 
-[队员一SE上限]
+[No.1 teammate SE with an upper limit]
 ON=412A0,E7,3
 
-[队员二HP]
+[N0.2 teammate HP]
 ON=412CE,E7,3
 
-[队员二HP上限]
+[No.2 teammate HP with an upper limit]
 ON=412CC,E7,3
 
-[队员二SE]
+[No.2 teammateSE]
 ON=412D2,E7,3
 
-[队员二SE上限]
+[No.2 teammate SE with an upper limit]
 ON=412D0,E7,3
 
-[队员三HP]
+[No.3 teammateHP]
 ON=412FE,E7,3
 
-[队员三HP上限]
+[No.3 teammate HP with an upper limit]
 ON=412FC,E7,3
 
-[队员三SE]
+[No.3 teammate SE]
 ON=41302,E7,3
 
-[队员三SE上限]
+[No.3 teammate SE with an upper limit ]
 ON=41300,E7,3
 
-[队员四HP]
+[No.4 teammate HP]
 ON=4132E,E7,3
 
-[队员四HP上限]
+[No.4 teammateHP with an upper limit ]
 ON=4132C,E7,3
 
-[队员四SE]
+[No.4 teammate SE]
 ON=41332,E7,3
 
-[队员四SE上限]
+[No.4 teammate SE with an upper limit ]
 ON=41330,E7,3
 
-[队员五HP]
+[No.5 teammate HP]
 ON=4135E,E7,3
 
-[队员五HP上限]
+[No.5 teammate HP with an upper limit]
 ON=4135C,E7,3
 
-[队员五SE]
+[No.5 teammate SE]
 ON=41362,E7,3
 
-[队员五SE上限]
+[No.5 teammate SE with an upper limit]
 ON=41360,E7,3
 
-[升级点数]
+[Upgraded points]
 ON=41D0A,F,27
 
 [幽助能力最高]
@@ -187,7 +187,7 @@ ON=41C00,50,C3
 [冻矢OV]
 ON=41C08,A
 
-[角色使用可能]
+[Use the role  possiblly]
 桑原=41B5D,1
 飞影=41B71,1
 藏马=41B85,1
@@ -198,13 +198,13 @@ ON=41C08,A
 雪莱=41BE9,1
 冻矢=41BFD,1
 
-[全道具]
+[Entire stage pro]
 ON=41C0C,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,10,11,12,13,14,15,16,17
 
-[关卡全开]
+[Barriers all open]
 ON=41C40,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
 [GameInfo]
-Name=1783 - 幽游白书战略版[Yu-Yu-Hakusho Tournament Tactics]
+Name=1783 - Yu Yu Hakusho Tournament Tactics (U)（幽游白书-战略版）（E） SLG 64
 System=GBA
-
+Text=vicente

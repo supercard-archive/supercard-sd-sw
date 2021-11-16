@@ -1,18 +1,19 @@
-[无限生命数]
+[Infinite life number]
 ON=45E20,9
 
-[无限飞机推进]
+[The infinite airplane impel]
 ON=45E24,63
 
-[飞机能源无限]
+[Infinite airplane energy]
 ON=45DEC,50
 
-[标志无限]
+[Infinite badge]
 ON=45D00,13
 
-[时间无限]
+[Infinite time]
 ON=45D7C,78
 
 [GameInfo]
-Name=1614 - 雷鸟[Thunder Birds]
+Name=1614 - Thunderbirds (U)（雷鸟）（E）ACT 32
 System=GBA
+Text=mxlee

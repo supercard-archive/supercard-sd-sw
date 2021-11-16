@@ -1,55 +1,42 @@
-[钱MAX]
+[Money MAX]
 ON=43838,FF,E0,F5,5
 
-[钢体力上限999]
+[Steel physical strength with an upper limit 999]
 ON=41A30,E7,3;
 
-[钢HP999不减]
+[Steel HP999 does not reduce]
 ON=41A32,E7,3
 
-[钢无限炼成]
+[The steel infinitely builds up]
 ON=41A38,40;41A39,06
 
-[角色2体力上限999]
+[阿鲁体力上限999]
 ON=41B3A,E7,3
 
-[角色2HP999不减]
+[阿鲁HP999不减]
 ON=41B38,E7,3
 
-[角色2无限炼成]
+[阿鲁无限炼成]
 ON=41B40,40;41b41,06
 
-[角色3体力上限999]
-ON=41C40,E7,3
-
-[角色3HP999不减]
-ON=41C42,E7,3
-
-[角色3无限炼成]
-ON=41C48,40,6
-
-[遇敌]
+[Meet the enemy]
 不遇敌=43758,0
 必遇敌=43758,FF
 
-[全道具]
+[Entire stage pro]
 ON=438C0,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
 
 [炼成手册100%]
-ON=43B60,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+ON=44FA0,1,0,0
 
-[游戏时间]
+[Playtime]
 00:00=4383D,0
 99:59=4383D,9F,86,1
 
 [回复药99个不减]
 ON=41320,63;41322,63;41324,63;41326,63;41328,63
 
-
 [GameInfo]
-Name=1430 - 钢之炼金术士 迷走之轮舞曲[Full metal Alchemist]
+Name=1430 - Full Metal Alchemist (J)（钢之炼金术士 迷走之轮舞曲）（J） ACT 64 
 System=GBA
-TEXT=1430 - 钢之炼金术士 迷走之轮舞曲[掌机之王HOTSUMA原创]
-
-
-
+TEXT=HOTSUMA

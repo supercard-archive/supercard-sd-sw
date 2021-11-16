@@ -1,0 +1,22 @@
+[AB Airplan number]
+ON=427B1,32
+
+[AB Missile]
+ON=427B4,32
+
+[OR Time ]
+ON=427A8,0,17
+
+[SP Time ]
+ON=4278C,0,E
+
+[SP Population]
+ON=4278F,4
+
+[SU Time]
+ON=427A8,0,C
+
+[GameInfo]
+Name=1014 - Sega Arcade Gallery (E) （世嘉街机游戏集锦）（M5） ECT 64
+System=GBA
+Text=vicente

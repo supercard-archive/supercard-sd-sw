@@ -1,0 +1,42 @@
+[Magic(Not locking)]
+ON=A4,30
+
+[Blood]
+ON=9C,50
+
+[GameInfo]
+Name=0797 - Harry Potter to Himitsu no Heya (j)（哈利·波特-消失的密室）（J）A·RPG 64
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------------------------------
+[Life]
+ON=9C,50
+
+[Life with an upper limit]
+ON=A0,50
+
+[Infinite store energy]
+ON=A4,30
+
+[Money]
+ON=E6,F,27
+
+[Entire stage pro]
+ON=14,1,1,1,1,1,1,1,1,1
+
+[Entire curse]
+ON=2104,FF;2171,FF,FF
+
+[Entire bean]
+ON=217E,FF,FF
+
+[Entire chocolate doll]
+ON=D8,5
+
+[All cards]
+ON=219D,FF,FF,FF,FF
+
+[GameInfo]
+Name=0797 - Harry Potter to Himitsu no Heya (j)（哈利·波特-消失的密室）（J）A·RPG 64
+System=GBA
+Text=vicente

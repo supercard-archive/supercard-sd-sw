@@ -1,0 +1,59 @@
+[Upgrade]
+99=2BD54,63
+
+[Upgrade afterwar]
+ON=2BD55,63
+
+[Infinite movement number]
+ON=2BD58,00
+
+[Blood trough MAX]
+ON=2BD5E,63;2BD5F,63
+
+[Entire number value1]
+ON=2BD60,64
+
+[Entire number value2]
+ON=2BD61,64
+
+[Entire number value3]
+ON=2BD62,64
+
+[Entire number value4]
+ON=2BD63,64
+
+[Entire number value5]
+ON=2BD64,64
+
+[Entire number value6]
+ON=2BD65,64
+
+[Entire number value7]
+ON=2BD66,63
+
+[Entire number value8]
+ON=2BD69,63
+
+[Stage pro fence from1 to 5)]
+1=2BD6A,01;2BD6B,01
+2=2BD6C,01;2BD6D,01
+3=2BD6E,01;2BD6F,01
+4=2BD70,01;2BD71,01
+5=2BD72,01;2BD73,01
+
+[Weapon rank S1]
+S=2BD74,FF
+
+[Weapon rank  S2]
+S=2BD75,FF
+
+[Weapon rank  S3]
+S=2BD76,FF
+
+[Weapon rank  S4]
+S=2BD77,FF
+
+[GameInfo]
+Name=0979 - Fire Emblem - Rekka no Ken (J)£¨»ðÑ×Ö®ÎÆÕÂ-ÁÒ»ðÖ®½££©£¨J£©RPG 128
+System=GBA
+TEXT=dual

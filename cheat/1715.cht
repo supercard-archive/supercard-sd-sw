@@ -1,16 +1,19 @@
-[我方生命]
+[Our side life]
 ON=4374F,64
 
-[我方怒气]
+[Our side angry]
 ON=43750,B0
 
-[对方生命]
+[The opposite side life]
 ON=43C73,0
 
-[对方怒气]
+[The opposite side  angry]
 ON=43C74,0
 
-[GameInfo]
-Name=1715 - 职业摔联盟 生存挑战[WWE Survivor Series]
-System=GBA
+[Stupor time of the opposite side ]
+ON=43C8E,E7,3
 
+[GameInfo]
+Name=1715 - WWE Survivor Series (U)（职业摔跤联盟-生存者系列）（E）SPG 64
+System=GBA
+Text=vicente

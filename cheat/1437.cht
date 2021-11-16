@@ -1,14 +1,13 @@
-[敌方得分]
+[The enemy's side scored]
 ON=43ADA,0
 
-[我方得分]
+[Our side scored]
 ON=43AC2,63
 
-[能量]
+[Energy]
 ON=43ACB,64
 
 [GameInfo]
-Name=1437 - 街头篮球[street jam basketball]
+Name=1437 - Street Jam Basketball (U) （街头篮球）（E）SPG 32
 System=GBA
-Text=1437 - street jam basketball[掌机之王原创刘泪]
-
+Text=刘泪

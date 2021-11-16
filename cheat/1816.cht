@@ -1,13 +1,7 @@
-[标志数999]
-ON=470AC,E7,3
+[Symbolizes several 999] ON=470AC, E7,3
 
-[时间无限]
-ON=4704C,E7,3
+[Time infinite] ON=4704C, E7,3
 
-[水桶数]
-ON=46FC8,9
+[Bucket number] ON=46FC8,9
 
-[GameInfo]
-Name=1816 - 超级海绵电影版[SpngeBob SquarePants]
-System=GBA
-
+[GameInfo] Name=1816 - SpongeBob SquarePants - The Movie (E) (super sponge stupid uncle - movie version) (M8) ACT 64 System=GBA the Text= big fat person reorganizes provides

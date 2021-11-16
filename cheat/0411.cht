@@ -1,0 +1,16 @@
+[Time]
+ON=46228,0,0
+
+[Speed]
+ON=4589D,63
+
+[All vehicles]
+ON=42130,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[All spare parts]
+ON=42680,FF;42682,FF
+
+[GameInfo]
+Name=0411 - Advance GT2 (J)（GT赛车2）（E）RCG 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,10 +1,7 @@
-[武器HP]
+[Weapon HP]
 ON=9818,E7,3
 
 [GameInfo]
-Name=1380 - 李小龙-英雄再现[Bruce Lee - Return of the Legend]
+Name=1380 - Bruce Lee Return of the Legend Vivendi Universal (U)（李小龙-英雄再现）（E）ACT 64
 System=GBA
-Text=李小龙-英雄再现[haoxujie（恶魔）]
-
-
-
+Text=haoxujie（恶魔）

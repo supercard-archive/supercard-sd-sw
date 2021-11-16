@@ -1,19 +1,19 @@
-[能量不减] 
+[Energy does not reduce] 
 ON=149BB,34 
 
-[时间0'00"00] 
+[Time0'00"00] 
 ON=1759B,0,0,0 
 
-[一加速速度MAX] 
+[Accelerated velocityMAX] 
 ON=149BC,FF 
 
-[分数MAX] 
+[Score MAX] 
 ON=41690,E7,3 
 
-[全隐藏模式解锁] 
+[Entire hideaway pattern unlock] 
 ON=8C18,FF,FF,FF,FF;8C28,FF,FF,FF,FF,FF,FF;8C30,1F,1F,1F,1F,1F,1F,1F,1F,FF,FF,FF,FF,FF,FF,FF,FF;8CAC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF 
 
 [GameInfo] 
-Name=1508 - 零式赛车-GP传说[F-Zero - GP Legend] 
+Name=1508 - F-Zero GP Legend (E)（零式赛车-GP传说）（M5）RCG 128
 System=GBA 
-
+Text=魔剑士但丁

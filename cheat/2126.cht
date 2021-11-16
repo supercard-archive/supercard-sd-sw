@@ -1,0 +1,31 @@
+[Actor body 全能力] ON=3F0,14,14,14,14
+
+[Actor hits a ball 全能力] ON=3F4,1E, 1E, 1E, 1E, 1E
+
+[Actor body points] ON=3FC, 63,63,63,63
+
+[Actor hits a ball points] ON=400,63,63,63,63,63
+
+[Actor rank] ON=418,63
+
+[Actor experiences] ON=41C, 9F, 86,1
+
+[Leading lady body 全能力] ON=440,14,14,14,14
+
+[Leading lady hits a ball 全能力] ON=444,1E, 1E, 1E, 1E, 1E
+
+[Leading lady body points] ON=44C, 63,63,63,63
+
+[Leading lady hits a ball points] ON=450,63,63,63,63,63
+
+[Leading lady rank] ON=468,63
+
+[Leading lady experiences] ON=46C, 9F, 86,1
+
+[SS skill points] ON=5D0, FF, 7F, FF, 7F, FF, 7F, FF, 7F, FF, 7F, FF, 7F, FF, 7F, FF, 7F
+
+[SS skill rank] ON=5E0, A, 0, A, 0, A, 0, A, 0, A, 0, A, 0, A, 0, A
+
+[Sub-bureau score] ON=2BC, 4,0
+
+[GameInfo] Name=2126 - Mario Tennis Advance (J) System=GBA Text=vicente 

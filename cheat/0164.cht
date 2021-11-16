@@ -1,0 +1,15 @@
+[Physical strength of our side]
+MAX=41824,FF
+MIN=41824,0
+
+[Time ]
+ON=42ADC,60,EA
+
+[Physical strength of the opposite side ]
+MIN=41964,0
+MAX=41964,FF
+
+[GameInfo]
+Name=0164 - WWF - Road to Wrestlemania (U)（WWF摔跤之路）（E）SPG 32
+System=GBA
+Text=大胖子 整理提供

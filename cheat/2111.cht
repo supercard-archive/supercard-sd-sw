@@ -1,0 +1,7 @@
+[MM time] ON=413B0,3C
+
+[KLAX integral] ON=1238, FF, E0, F5,05
+
+[KLAX life] ON=10CD, 3
+
+[GameInfo] Name=2111 - Marble Madness-Klax (U) System=GBA Text=vicente 

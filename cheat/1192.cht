@@ -1,0 +1,19 @@
+[Fishes fable fish weight]
+ON=46B5C,7F,96,98
+
+[Fishes fable fish mantissa]
+ON=46B4E,E7,3
+
+[Other fishes weight]
+ON=46B50,7F,96,98;46B54,7F,96,98;46B58,7F,96,98
+
+[Other fishes mantissa]
+ON=46B48,E7,3,E7,3,E7,3
+
+[The demonstration fish's gross weight]
+ON=4748,F,27
+
+[GameInfo]
+Name=1192 - Battle X Battle (J)（战斗X战斗-巨大鱼传说）（J） ACT 64
+System=GBA
+Text=大胖子

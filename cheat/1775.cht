@@ -1,22 +1,19 @@
-[时间]
+[Time]
 ON=459C8,0,0
 
-[点数]
+[Points]
 ON=904,FF,E0,F5,5
 
-[全赛车]
+[Entire racing]
 ON=A7D,FF
 
-[全零件]
-ON=A7C,FF,FF,FF,FF
-
-[自由模式关卡全开]
+[The free pattern barrier all open]
 ON=A70,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[联赛模式关卡全开]
+[The league matches pattern barrier all open]
 ON=CA1,F,F,F,14,F
 
 [GameInfo]
-Name=1775 - 极品飞车 地下狂飙2[Need for Speed Underground 2]
+Name=1775 - Need for Speed Underground 2 (U)（极品飞车-地下狂飙2）（M4） RCG 64
 System=GBA
-
+Text=vicente

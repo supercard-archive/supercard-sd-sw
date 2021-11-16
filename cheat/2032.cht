@@ -1,0 +1,19 @@
+[Does not meet enemy] ON=29BE, 0,0
+
+[Postwar money] ON=AEEC, FF, 7F
+
+[Postwar BUG fragment] ON=AEEC, FE, FF
+
+[HP] ON=52E8, F, 27
+
+[HP upper limit] ON=52EA, F, 27
+
+[In fight physical strength] ON=3B224, F, 27
+
+[In fight energy] ON=35700,0,40
+
+[In fight stealth] ON=38CB6,50
+
+[As soon as in fight enemy strikes dies] ON=3B2FC, 0,0; 3B3D4,0,0; 3B4AC, 0,0
+
+[GameInfo] Name=2032 - MegaMan Battle Network 5 - Team Colonel (U) (Locker person EXE5-蓝 team) (E) RPG 64 System=GBA Text=vicente

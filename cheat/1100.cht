@@ -1,0 +1,39 @@
+[Money]
+ON=28598,FF,FF,0
+
+[GameInfo]
+Name=1100 - Hamster Paradise - Pure Heart (J) （火腿太郎乐园 清纯之心）（J） TCG 64 
+System=GBA
+Text=大胖子 整理提供
+-----------------------------------------------------------------------------------
+[Money]
+ON=28598,FF,FF
+
+[Ful food]
+ON=2859A,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire ability]
+ON=28CFF,64,64,64,64
+
+[Best condition]
+ON=28D07,63,63,63
+
+[Favorable impression]
+ON=28CFC,C8
+
+[Unknown data]
+ON=28596,F,27
+
+[System all collection]
+ON=285E0,FF,FF,FF,FF
+
+[Entire stage pro]
+ON=285AA,63,63,63,63,63
+
+[Entire house]
+ON=285B0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1100 - Hamster Paradise - Pure Heart (J) （火腿太郎乐园 清纯之心）（J） TCG 64 
+System=GBA
+Text=vicente

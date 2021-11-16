@@ -1,0 +1,13 @@
+[Energy]
+ON=EFF,63
+
+[Life]
+ON=EC0,FF
+
+[Entire stars]
+ON=4043C,A
+
+[GameInfo]
+Name=1033 - The Incredible Hulk (U) （变相怪杰绿巨人）（E） ACT 64
+System=GBA
+Text=全球通

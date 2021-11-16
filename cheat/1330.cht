@@ -1,0 +1,22 @@
+[Banana]
+ON=40FDC,63
+
+[Life]
+ON=40FC8,63
+
+[Does not die, except fall the canyon]
+ON=40FD6,1
+
+[Minutes  of TIME ATTACK mode]
+ON=41044,9
+
+[Second of TIME ATTACK mode]
+ON=41045,63
+
+[MAX SCORE of TIME ATTACK  mode ]
+ON=41174,3F,42,F
+
+[GameInfo]
+Name=1330 - Super Donkey Kong (J)£¨³¬¼¶´ó½ð¸Õ£©£¨J£©ACT 64
+System=GBA
+Text=oobz

@@ -1,0 +1,29 @@
+[Hides character all to open] ON=1D694,1; 1D698,1; 1D69C, 1; 1D6A4,1
+
+[Entire map] ON=1D3FA, B, C; 1D420,0,1,2,3,4,5,6,7,8,9, A, B
+
+[1st LP] biggest =23A48, F, 27 smallest =23A48,0,0
+
+[2nd LP] biggest =23A58, F, 27 smallest =23A58,0,0
+
+[3rd LP] biggest =23A68, F, 27 smallest =23A68,0,0
+
+[4th LP] biggest =23A78, F, 27 smallest =23A78,0,0
+
+[1st star class] biggest =23A4C, 63 smallest =23A4C, 0
+
+[2nd star class] biggest =23A5C, 63 smallest =23A5C, 0
+
+[3rd star class] biggest =23A6C, 63 smallest =23A6C, 0
+
+[4th star class] biggest =23A7C, 63 smallest =23A7C, 0
+
+[1st SP starts] to have =23A50,8 not to have =23A50,0
+
+[2nd SP starts] to have =23A60,8 not to have =23A60,0
+
+[3rd SP starts] to have =23A70,8 not to have =23A70,0
+
+[4th SP starts] to have =23A80,8 not to have =23A80,0
+
+[GameInfo] Name=2130 - Yu-Gi-Oh! Destiny Board Traveler (E) System=GBA Text=vicente

@@ -1,19 +1,11 @@
-[金钱]
-ON=414A4,3F,42,F
+[Money] ON=414A4,3F, 42, F
 
-[赛车1全配件]
-ON=40B63,7,7,7,7,7,1F,7,1F,1F,1F,1F
+[Vehicle race 1 entire fitting] ON=40B63,7,7,7,7,7,1F, 7,1F, 1F, 1F, 1F
 
-[赛车1配件最高级]
-ON=40B6E,3,3,3,3,3,5,3,5,5,5,5,3
+[Vehicle race 1 fitting most senior] ON=40B6E, 3,3,3,3,3,5,3,5,5,5,5,3
 
-[关卡全开]
-ON=401E2,1;401E5,1,1;401E8,1;401EA,1
+[Checkpoint all opens] ON=401E2,1; 401E5,1,1; 401E8,1; 401EA, 1
 
-[赛车速度]
-ON=41E88,FF,D
+[Vehicle race speed] ON=41E88, FF, D
 
-[GameInfo]
-Name=1963 - 东京极限竞速A[Tokyo Xtreme Racer Advance]
-System=GBA
-
+[GameInfo] Name=1963 - Tokyo Xtreme Racer Advance (U) System=GBA Text=vicente

@@ -1,0 +1,9 @@
+[Whole staff full life] ON=10C60,6; 10D6C, 6; 10E78,6; 10A48,6
+
+[Whole staff full energy] ON=10C29,28; 10D35,28; 10A11,28
+
+[Entire collection] ON=3B9,3,4
+
+[Entire checkpoint] ON=444F8, FF
+
+[GameInfo] Name=2211 - Nicktoons Unite (U) System=GBA Text=vicente

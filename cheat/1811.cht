@@ -1,112 +1,112 @@
-[ÌåÁ¦]
+[Physical strength]
 ON=16E88,64
 
-[×´Ì¬]
-ON=16E8B,A
+[Condition]
+ON=16E8B, A
 
-[¾«Á¦]
-ON=16E8C,64
+[Energy]
+ON=16E8C, 64
 
 [RISK]
-ON=16E8A,0
+ON=16E8A, 0
 
-[³É¼¨]
-ON=16E8D,64
+[Result]
+ON=16E8D, 64
 
-[µÈ¼¶]
+[Rank]
 ON=16F78,7
 
-[È«ÄÜÁ¦]
-ON=16F7A,FF,0,FF,0,FF,0,FF
+[å…¨èƒ½åŠ›]
+ON=16F7A, FF, 0, FF, 0, FF, 0, FF
 
-[½îÁ¦]
-ON=16E90,E7,3
+[Physical strength]
+ON=16E90, E7,3
 
-[¼¼Êõ]
-ON=16E92,E7,3
+[Technology]
+ON=16E92, E7,3
 
-[±ä»¯Çò]
-ON=16E96,E7,3
+[å˜åŒ–çƒ]
+ON=16E96, E7,3
 
-[ÇòËÙ]
-ON=16F92,FF
+[çƒé€Ÿ]
+ON=16F92, FF
 
-[¥³¥ó¥È¥í]
-ON=16F94,FF
+[ã‚³ ãƒ³ ãƒˆ ãƒ­]
+ON=16F94, FF
 
-[¥¹¥¿¥ß¥Ê]
-ON=16F96,FF
+[ã‚¹ ã‚¿ ãƒŸ ãƒŠ]
+ON=16F96, FF
 
-[È«ÇòÖÖ]
+[Whole world plants]
 ON=546,7,0,7,0,7,0,7,0,7
 
-[ÌØÊâÄÜÁ¦]
-ON=16FA8,FF,FF,FF,FF,FF,FF
+[Special capability]
+ON=16FA8, FF, FF, FF, FF, FF, FF
 
-[ÖÙ¼äÆÀ¼Û]
-ON=16E8E,64
+[Between Zhong appraises]
+ON=16E8E, 64
 
-[È«»Ö¸´µÀ¾ß]
-ON=16E9A,63,63,63,63,63,63
+[All restores stage prop]
+ON=16E9A, 63,63,63,63,63,63
 
-[È«¸¨ÖúµÀ¾ß]
-ON=16EA4,FF,FF,FF,FF
+[Entire auxiliary stage prop]
+ON=16EA4, FF, FF, FF, FF
 
-[±ÈÈü¿ìËÙ½áÊø]
-ON=C362,A
+[Competition fast conclusion]
+ON=C362, A
 
-[±ÈÈü3Õñ]
+[Competes 3 to inspire]
 ON=C365,3
 
-[±ÈÈü4»µÇò]
+[Competes 4 bad balls]
 ON=C366,4
 
-[±ÈÈüÎÒ·½»ı·Ö]
+[Competes our integral]
 ON=C6B0,63
 
-[±ÈÈü¶Ô·½»ı·Ö]
+[Competition opposite party integral]
 ON=C9B8,0
 
-[¹ºÎïµãÊı]
-ON=173A0,F,27
+[Shopping points]
+ON=173A0, F, 27
 
-[È«¹ºÎï]
-ON=173A4,FF,FF,FF,FF
+[Entire shopping]
+ON=173A4, FF, FF, FF, FF
 
-[È«ÈËÎï×ÊÁÏ]
-ON=E98C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Perfect person commodity material]
+ON=E98C, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[È«½á¾Ö]
-ON=E97C,FF,FF,FF,FF;E984,FF,FF,FF;E99C,FF;16F30,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire result]
+ON=E97C, FF, FF, FF, FF; E984, FF, FF, FF; E99C, FF; 16F30, FF, FF, FF, FF, FF, FF, FF, FF
 
-[Ã°ÏÕÆª½ğÇ®]
-ON=16EA8,9F,86,1
+[Risk money]
+ON=16EA8,9F, 86,1
 
-[Ã°ÏÕÆªÈ«ÖÙ¼ä]
-ON=171F8,8;171FC,8;17200,8;17204,8;17208,8;1720C,8;17210,8;17214,8;17218,8;1721C,8;17220,8;17224,8;17228,8;1722C,8;17230,8;17234,8;17238,8;1723C,8;17240,8;17244,8
+[Between risk entire Zhong]
+ON=171F8,8; 171FC, 8; 17200,8; 17204,8; 17208,8; 1720C, 8; 17210,8; 17214,8; 17218,8; 1721C, 8; 17220,8; 17224,8; 17228,8; 1722C, 8; 17230,8; 17234,8; 17238,8; 1723C, 8; 17240,8; 17244,8
 
-[Ã°ÏÕÆªÌ½ÏÕ¿ìËÙ½áÊø]
-ON=17300,F,27
+[A risk exploration finished fast]
+ON=17300, F, 27
 
-[Ã°ÏÕÆªÖ÷½ÇHP]
+[Risk lead HP]
 ON=17252,63,0,63
 
-[Ã°ÏÕÆªÖÙ¼äÒ»HP]
-ON=1728E,63,0,63
+[Between risk Zhong HP]
+ON=1728E, 63,0,63
 
-[Ã°ÏÕÆªÖÙ¼ä¶şHP]
-ON=172CA,63,0,63
+[Between risk Zhong two HP]
+ON=172CA, 63,0,63
 
-[Ã°ÏÕÆªµÈ¼¶]
+[Risk rank]
 ON=16F78,7
 
-[Ã°ÏÕÆªÈ«ÄÜÁ¦]
-ON=16F7A,63,0,63,0,63,0,63;16F92,FF,0,FF,0,FF
+[Risk å…¨èƒ½åŠ›]
+ON=16F7A: 63,0,63,0,63,0,63; 16F92, FF, 0, FF, 0, FF
 
-[Ã°ÏÕÆªÎäÆ÷ÄÍ¾Ã]
-ON=1732C,63,63,63,63,63,63,63,63
+[Risk weapon durable]
+ON=1732C, 63,63,63,63,63,63,63,63
 
 [GameInfo]
-Name=1811 - ¿Ú´üÁ¦Á¿°ôÇò7[Power Pro Kun Pocket 7]
+Name=1811 - Power Pro Kun Pocket 7 (J) (live pocket baseball 7) (J) TCG 64
 System=GBA
-
+Text=vicente

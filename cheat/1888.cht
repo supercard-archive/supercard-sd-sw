@@ -1,0 +1,15 @@
+[White side points] ON=40AE8,6
+
+[White side integral] ON=41C39, FF
+
+[Red side points] ON=40AE9,0
+
+[Red side integral] ON=41C3A, 0
+
+[Blue side points] ON=40AEA, 0
+
+[Blue side integral] ON=41C3B, 0
+
+[Time] ON=41BAC, 1E
+
+[GameInfo] Name=1888 - International Karate Plus (U) The Ultimate Martial Arts Simulation (U) System=GBA Text=vicente 

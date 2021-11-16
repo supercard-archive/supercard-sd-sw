@@ -1,14 +1,92 @@
-[1P体力不减]
+[P1 Energy does not reduce]
+ON=44334,B4
+
+[P1 Physical strength does not reduce]
 ON=44330,C8
 
-[超加速状态]
-ON=44332,02
+[P1 Character choice]
+ULTRAMAN=42E61,0
+ULTRASEVEN=42E61,1
+ULTRAMANIACK=42E61,2
+ULTRAMANTABO=42E61,3
+ULTRAMANTIGA=42E61,4
+ULTRAMANDYNA=42E61,5
+ULTRAMANGAIA=42E61,6
+ULTRAMANAGUI=42E61,7
+ALIEN RAITAN=42E61,8
+DINO-TANK=42E61,9
+Z-TON=42E61,A
+TYRANT=42E61,B
+GATANOTHOR=42E61,C
+REICUBAS=42E61,D
 
-[时间不减]
+[GameInfo]
+Name=1404 - Taiketsu Ultra Hero (J)（激斗英雄奥特曼）FTG 64 
+System=GBA
+Text=mxlee
+-----------------------------------------------------------
+[1P(The blood quantity does not reduce) ]
+ON=44330,C8
+
+[2PThe blood quantity  is 0]
+ON=44518,0
+
+[1P Energy does not reduce]
 ON=44334,B4
 
 [GameInfo]
-Name=1404 - 激斗英雄奥特曼[Taiketsu Ultra Hero]
+Name=1404 - Taiketsu Ultra Hero (J)（激斗英雄奥特曼）FTG 64
 System=GBA
-text=1404 - 激斗英雄奥特曼
+Text=snake0306
+-----------------------------------------------------------
+[hp]
+ON=44330,B3
 
+[hp]
+ON=44334,B3
+
+[GameInfo]
+Name=1404 - Taiketsu Ultra Hero (J)（激斗英雄奥特曼）FTG 64
+System=GBA
+Text=ACT
+-----------------------------------------------------------
+[Physical strength of our side]
+ON=44330,E7,3
+
+[Our side energy]
+ON=44334,E7,3
+
+[Physical strength of opposite side]
+ON=44518,1,0
+
+[Opposite side energy]
+ON=4451C,0,0
+
+[选人]
+ULTRAMAN=42ED8,0
+ULTRAMANTIGA=42ED8,1
+ULTRAMANDYNA=42ED8,2
+ULTRAMANGAIA=42ED8,3
+ULTRAMANAGUI=42ED8,4
+随机选人=42ED8,5
+ULTRAMANTARO=42ED8,6
+ULTRAMANJACK=42ED8,7
+ULTRAMANSEVEN=42ED8,8
+ALIEN RAITAN=42ED8,9
+GATANOTHOR=42ED8,A
+REICURAS=42ED8,B
+随机选人=42ED8,C
+TYRANT=42ED8,D
+Z-TON=42ED8,E
+DINO-TANK=42ED8,F
+
+[Entire POINT]
+ON=42E30,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire ability]
+ON=42E38,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64
+
+[GameInfo]
+Name=1404 - Taiketsu Ultra Hero (J)（激斗英雄奥特曼）FTG 64
+System=GBA
+Text=vicente

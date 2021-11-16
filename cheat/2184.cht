@@ -1,0 +1,11 @@
+[C pattern population] ON=42DB1,9
+
+[C pattern integral] ON=42DB4, FF, E0, F5,5
+
+[B pattern population] ON=447AC, 9
+
+[B pattern integral] ON=447A4,3F, 42, F
+
+[W pattern integral] ON=44AEC, FF, E0, F5,5
+
+[GameInfo] Name=2184 - Centipede Breakout Warlords (E) System=GBA Text=vicente

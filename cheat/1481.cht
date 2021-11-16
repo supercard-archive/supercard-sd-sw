@@ -1,23 +1,22 @@
-[得分MAX]
+[ScoreMAX]
 ON=3138,FF,E0,F5,5
 
-[生命MAX]
+[LifeMAX]
 ON=3148,63
 
-[BOMB MAX]
+[Bomb MAX]
 ON=314C,63
 
-[体力不减]
+[Physical strength does not reduce]
 ON=42316,80 
 
-[无敌]
+[Invincibility]
 ON=3160,64
 
 [Level 7/EX 7]
 ON=3164,6
 
 [GameInfo]
-Name=1481 - 钢铁帝国[Steel Empire]
+Name=1481 - Steel Empire (J)（钢铁帝国）（J）STG 32
 System=GBA
-Text=1481 - 1481 - Steel Empire
-
+Text=大胖子 整理提供

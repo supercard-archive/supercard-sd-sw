@@ -1,0 +1,20 @@
+[Use the entire pattern and all hiding racetrack]
+ON=46048,FF,FF 
+
+[Use two hideaways vehicle race]
+ON=46042,1,1
+
+[Inifinite attack]
+ON=45BE4,0
+
+[Stage prop fence]
+加速齿轮=45BC8,1;45BC9,4
+导弹=45BC8,2;45BC9,4
+泡泡=45BC8,3;45BC9,4
+保护网=45BC8,4;45BC9,4
+爆弹=45BC8,5;45BC9,4
+
+[GameInfo]
+Name=0843 - Inspector Gadget Racing (E)（嘎杰特赛车）（M）RCG 32
+System=GBA
+Text=dual

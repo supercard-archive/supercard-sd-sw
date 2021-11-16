@@ -1,20 +1,109 @@
-[各种属性]
-ON=40B5E,FF,FF,FF,FF,FF,FF
+[mp]
+ON=40B56,BE,11
 
-[血]
-ON=40B54,F,27
+[hp]
+ON=40B54,FF,14
 
-[精神]
-ON=40B56,F,27
+[Money]
+ON=40994,7F,96,98
 
-[经验]
-ON=40B50,FF,E0,F5,5
+[Promotion gem]
+ON=40BA9,FF
 
-[钱]
-ON=40994,9F,86,1
+[Load-carrying capacity]
+ON=40B58,60,EA
+
+[Empirical value]
+ON=40B50,7F,96,98
+
+[Ability1]
+ON=40B5E,FF
+
+[Ability2]
+ON=40B5F,FF
+
+[Ability3]
+ON=40B60,FF
+
+[Ability4]
+ON=40B61,FF
+
+[ability5]
+ON=40B62,FF
+
+[Commodity free^^]
+ON=40B63,21
 
 [GameInfo]
-Name=1356 - 博德之门-暗黑同盟[Baldur's Gate - Dark Alliance]
+Name=1356 - Baldur's Gate - Dark Alliance (U)（博得之门-黑暗联盟）（E）ARPG 128
 System=GBA
-Text=1356 - Baldur's Gate - Dark Alliance (U)
+Text=HAOXUJIE（恶魔）
+-------------------------------------------------------------------------------
+[The character, the game starts to elect  the person ]
+FIGHTER=40ACB,0
+WIZARO=40ACB,1
+ARCHER=40ACB,2
+ELVEN FIGHTER=40ACB,3
 
+[health]
+ON=40B54,44,16
+
+[Carrying capacity]
+ON=40B58,E7,3
+
+[Momey]
+ON=40994,3F,42,F
+
+[Exp]
+ON=40B50,7F,96,98
+
+[Strength]
+ON=40B5E,64
+
+[Level]
+ON=40B5D,64
+
+[Dexterity]
+ON=40B5F,64
+
+[Intelligence]
+ON=40B60,64
+
+[Wisdom]
+ON=40B61,64
+
+[constitution]
+ON=40B62,64
+
+[Charisma]
+ON=40B63,64
+
+[Energy]
+ON=40B56,7F,8
+
+[Armor]
+ON=40B5C,64
+
+[Weapon ,possibly crash without it]
+斧头=40B34,0
+小刀=40B34,1
+木棍=40B34,2
+木棍2=40B34,3
+木棍3=40B34,4
+大刀=40B34,5
+中剑=40B34,6
+射箭=40B34,7
+大斧头=40B34,8;40B30,2
+长剑=40B34,9;40B30,3
+大锤(慎用)=40B34,A;40B30,2
+
+[Entire highest ability of four kind of character]
+Fighter=40B71,65,6D,71,79,8D,95,A5,AD,B5,BD,C5,D5,DB,E1,ED,F5
+Wizard=40B71,2B,35,3D,45,4D,52,5D,71,79,B5,BD,C5
+Archer=40B71,5,D,15,1A,25,71,79,81,8D,95,9D,A5,AD,B5,BD,C5,CD,D5,DB
+Elven Fighter=40B71,D,15,1A,2B,35,45,65,6D,71,79,8D,95,A5,AD,B5,BD,C5,D5,DB,E1,ED,F5
+
+[GameInfo]
+Name=1356 - Baldur's Gate - Dark Alliance (U)（博得之门-黑暗联盟）（E）ARPG 128 
+System=GBA
+Text=oobz

@@ -1,0 +1,17 @@
+[DMA population] ON=428A4,9
+
+[DMA pot box] ON=429A0,3
+
+[DMA candy] ON=429BC, 63
+
+[DMA collection] 1 =42F70,1 2 =42F70,2 3 =42F70,3
+
+[FM steam bubble] ON=2F50,63
+
+[FM star] ON=2F54,63
+
+[The FM checkpoint all opens] ON=2F3C, C
+
+[The FM picture all opens] ON=2F40, FF, FF
+
+[GameInfo] Name=1956 - Disney Pixar Gamepack (I) System=GBA Text=vicente 

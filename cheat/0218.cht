@@ -1,17 +1,16 @@
-[1P得分]
+[1P Score]
 ON=40746,64
 
-[1P胜利场次]
+[1P Victory number]
 ON=403EC,2
 
-[时间]
+[Time]
 ON=403F8,9,9
 
-[1P快速胜利]
+[1P Fast victory ]
 ON=403F0,C
 
 [GameInfo]
-Name=0218 - 国际空手道大赛 [International Karate Advanced (E)]
+Name=0218 - International Karate Advanced (E)（国际空手道大赛）（E）FTG 32
 System=GBA
-Text=0218 - International Karate Advanced (E)
-
+Text=大胖子 整理提供

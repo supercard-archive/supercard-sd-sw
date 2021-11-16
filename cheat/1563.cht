@@ -1,17 +1,16 @@
-
-[分数 MAX]
+[Score MAX]
 ON=11410,E7,3
 
-[生命 MAX]
+[Life MAX]
 ON=11444,9
 
-[体力不减]
+[Physcial strength does not reduce]
 ON=1144B,5
 
-[无敌]
+[Invisible]
 ON=3587F,63
 
 [GameInfo]
-Name=1563 - 迪斯尼麻辣女孩 2[Disneys Kim Possible 2]
+Name=1563 - Disney's Kim Possible 2 (U)（迪斯尼之麻辣女孩2）（E）MOV 64
 System=GBA
-Text=1563 - Disneys Kim Possible 2
+Text=魔剑士但丁

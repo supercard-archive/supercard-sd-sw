@@ -1,17 +1,16 @@
-[音符数（用完解锁）]
+[The note number (use up to lock)]
 ON=FD2,63
 
-[血]
+[Blood]
 ON=1057,4
 
-[隐形]
+[Invisible]
 ON=108D,1;1090,45
 
-[无法开始游戏]
+[Unable to start to play]
 ON=3EA90,FF
 
 [GameInfo]
-Name=1398 - 琴音笛声-格兰蒂的复仇[Banjo-Kazooie - Grunty's Revenge]
+Name=1398 - Banjo Kazooie La Vendetta Di Grunty (I)（琴音笛声-格兰蒂的复仇）（I）AVG 64
 System=GBA
-Text=琴音笛声-格兰蒂的复
-
+Text=大胖子 整理提供

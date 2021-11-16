@@ -1,39 +1,33 @@
-[È«Òþ²Ø¿ªÆô]
-ON=42DE4,3,3,3,3,3,3,3,3,3,3,3
+[The entire hideaway opens] ON=42DE4,3,3,3,3,3,3,3,3,3,3,3
 
-[ÒþÉí]
-ON=42AA6,FF
+[Stealth] ON=42AA6, FF
 
-[¼ÓËÙ]
-ON=42AB7,FF
+[Acceleration] ON=42AB7, FF
 
-[±ÈÈüÊ±¼ä]
-ON=42054,0,1,0,0
+[Competition time] ON=42054,0,1,0,0
 
-[µÀ¾ßÖÖÀà]
-Õ¨µ¯=42AB6,91
-¼¦Í·=42AB6,12
-¶ÜÅÆ=42AB6,13
-À×µç=42AB6,14
-²¨²Ë=42AB6,15
-Ê®×Ö¼ü=42AB6,16
+[Stage prop type] bomb =42AB6,91 chicken =42AB6,12 shield =42AB6,13 thunder and lightning =42AB6,14 spinach =42AB6,15 ten keys =42AB6,16
 
-[¼ÝÊ»»úÆ÷]
-Æû³µ=42AB0,1
-µ¯»É=42AB0,2
-»¬°å=42AB0,3
-¿É¿Ø»ð¼ý=42AB0,4
-ÉÏÉý»ð¼ý=42AB0,5
-¿ÖÁú=42AB0,6
-»¬Ïè»ú=42AB0,7
-¶ñÄ§¶·Åî=42AB0,8
-·ÉÐÐÆ÷=42AB0,9
-´¬=42AB0,A
+[Drives machine] automobile =42AB0,1 spring =42AB0,2 slide =42AB0,3 controlled rocket =42AB0,4 rise rocket =42AB0,5 dinosaur =42AB0,6 glider =42AB0,7 devil raincape =42AB0,8 flight vehicle =42AB0,9 ship =42AB0, A
 
-[¼ÝÊ»Ê±¼ä]
-ON=42A98,0,2
+[Driving time] ON=42A98,0,2
 
-[GameInfo]
-Name=1970 - ´óÁ¦Ë®ÊÖ-²¤²Ë¿ñ±¼[Popeye - Rush For Spinach]
-System=GBA
+[GameInfo] Name=1970 - Popeye - Rush For Spinach (U) System=GBA Text=vicente
+
+[Character] the divination sends =42AAF, 2 big fat people =42AAF, 6 å¥¥èŽ‰è–‡ =42AAF, A big fellow =42AAF, E
+
+
+[Opens TIME the RUSH pattern + entire checkpoint all to open] ON=42DE3, B, 1,1,1,1,1,1,1,1,1,1,1
+
+
+[Rides carries has OR to change body] vehicle =42AB0,1 spring =42AB0,2 the slippery version =42AB0,3 rocket (to right) the =42AB0,4 rocket (upward) =42AB0,5 dinosaur =42AB0,6 glide wing =42AB0,7 blood suck ghost cloak =42AB0,8 spacesuit =42AB0,9 ship =42AB0, A changes the body to become cockerel =42AB0, B OFF=42AB0,0
+
+[Rides carries has OR to change body time infinite] ON=42A98, FF, FF OFF=42A98,0,0
+
+[Grasps stage prop] cockerel =42AB6,2 to thunder =42AB6,4 vegetables pot =42AB6,5 hiding shield =42AB6,13 timing bomb x2=42AB6,21 OFF=42AB6,0
+
+[Invincible] ON=42AA6, D0,1 OFF=42AA6,0,0
+
+[GAMEINFO] NAME=1970 - vigorously sailor SYSTEM=GBA TEXT=1970 - Popeye - Rush for Spinach BY KRIZAL 2005/4/26
+
 

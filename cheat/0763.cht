@@ -1,0 +1,13 @@
+[Number of elements]
+ON=2ADC,5
+
+[Time]
+ON=419ED,9,9;41A1D,9,9
+
+[Banana number]
+ON=2AD8,63
+
+[GameInfo]
+Name=0763 - Super Monkey Ball Jr (U)（非常猴球）（E）PUZ 32
+System=GBA
+Text=大胖子 整理提供

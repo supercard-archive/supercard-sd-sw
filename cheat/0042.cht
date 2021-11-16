@@ -1,0 +1,21 @@
+[Time]
+ON=14517,0
+
+[2P No physical strength]
+ON=14080,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[1P No defeat]
+ON=13CF8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0042 - Fire Pro Wrestling W (U)（火炎职业摔跤）（E）SPG 64
+System=GBA
+Text=大胖子 整理提供
+---------------------------------------------------------------
+[Make character to use score 999]
+ON=13F30,E7,3
+
+[GameInfo]
+Name=0042 - Fire Pro Wrestling W (U)（火炎职业摔跤）（E）SPG 64
+System=GBA
+Text=169

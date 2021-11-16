@@ -1,25 +1,15 @@
-[NS生命]
-ON=4268C,E0
+[NS life] ON=4268C, E0
 
-[NS隐身]
-ON=4268D,FF
+[NS stealth] ON=4268D, FF
 
-[NS能量]
-ON=426AF,C0
+[NS energy] ON=426AF, C0
 
-[NS人数]
-ON=4005D,9
+[NS population] ON=4005D, 9
 
-[NS武器等级]
-ON=426AD,2
+[NS weapon rank] ON=426AD, 2
 
-[TF生命]
-ON=225C,B4
+[TF life] ON=225C, B4
 
-[TF能量]
-ON=229D,40
+[TF energy] ON=229D, 40
 
-[GameInfo]
-Name=1839 - 假面超人合集[Power Rangers Pack]
-System=GBA
-
+[GameInfo] Name=1839 - Power Rangers Pack (G) (楦熶汉 corps gather collection) (G) ACT 128 System=GBA Text=vicente

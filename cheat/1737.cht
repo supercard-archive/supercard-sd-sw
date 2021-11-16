@@ -1,10 +1,10 @@
-[积分]
+[Integral]
 ON=7548,3F,42,F
 
-[快速胜利]
+[Fast victory]]
 ON=4080C,63
 
-[次位方块上方种类]
+[Above type of inferior position diamond]
 蓝犬=8ADC,0
 黄犬=8ADC,1
 白犬=8ADC,2
@@ -20,7 +20,7 @@ ON=4080C,63
 粉屋=8ADC,C
 绿屋=8ADC,D
 
-[次位方块下方种类]
+[Below type of inferior position diamond]
 蓝犬=8AC4,0
 黄犬=8AC4,1
 白犬=8AC4,2
@@ -37,6 +37,6 @@ ON=4080C,63
 绿屋=8AC4,D
 
 [GameInfo]
-Name=1737 - 宠物方块[Wanko de Kururin Wancle]
+Name=1737 - Wanko de Kururin Wancle (J)（宠物滚滚乐园）（J）PUZ 128
 System=GBA
-
+Text=vicente

@@ -1,11 +1,27 @@
 [hp]
 ON=26250,A
 
-[全能力]
+[Entire ability]
 ON=29C0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
 [GameInfo]
-Name=1572 - 天才爷爷-痔疮先生的痛[Zettai Zetsumei Dangerous Jisan Tsu]
+Name=1572 - Zettai Zetsumei Dangerous Jisan Tsu (J)（天才爷爷-痔疮先生的痛）（J）ACT 64
 System=GBA
-Text=1572-穷途末路冒冒失失的大叔3（天才爷爷3）haoxujie（恶魔）
+Text=大胖子 整理提供
+---------------------------------------------------------------------------------------
+[Physical strength]
+ON=26250,A
 
+[Invinciblity]
+ON=26257,10;2625A,96
+
+[Entire clothing]
+ON=E58,FF,FF
+
+[Entire stage pro]
+ON=E60,FF,FF,FF,FF
+
+[GameInfo]
+Name=1572 - Zettai Zetsumei Dangerous Jisan Tsu (J)（天才爷爷-痔疮先生的痛）（J）ACT 64
+System=GBA
+Text=vicente

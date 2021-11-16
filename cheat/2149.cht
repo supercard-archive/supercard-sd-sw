@@ -1,0 +1,7 @@
+[Alliance match entire checkpoint] ON=BB9,86
+
+[Free match entire checkpoint] ON=BBB, FF
+
+[Entire vehicle race + entire equipment] ON=BD8, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2149 - TG Rally (E) System=GBA Text=vicente

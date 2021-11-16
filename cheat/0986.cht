@@ -1,0 +1,26 @@
+[Computer are all fragmentary cards]
+ON=404DE,0;404E2,0;404E6,0;404EA,0;404EE,0
+
+[Entire six-star card]
+ON=404A6,FF;404AA,FF;404AE,FF;404B2,FF;404B6,FF
+
+[Computer energy trough is zero]
+ON=438C1,0;404F1,0
+
+[Entire energy trough]
+ON=404B9,64;438C2,D
+
+[Exchanges the card time (press the SELECT key to complete)] 
+无限=40C04,0
+为零=40C04,84
+
+[Select hideaways characters]
+ON=DF5C,1,1
+
+[Cover characters all appear]
+ON=DF66,FF
+
+[GameInfo]
+Name=0986 - Azumanga Daioh Advance (J) （漫画大王）（J） AVG 64
+System=GBA
+Text=mxlee

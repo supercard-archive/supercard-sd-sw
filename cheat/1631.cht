@@ -1,16 +1,16 @@
-[只数]
+[Number of elements]
 ON=42A6A,C8;42A6C,C8
 
-[时间]
+[Time]
 ON=43D0B,9,9,9
 
-[钱]
+[Money]
 ON=42C58,63;42C83,63
 
-[加速]
+[Acceleration]
 ON=43C9F,7f
 
-[状态]
+[Condition]
 变小=43F5B,0
 变大=43F5B,1
 发火球=43F5B,2
@@ -19,16 +19,16 @@ ON=43C9F,7f
 熊皮=43F5B,5
 乌龟=43F5B,6
 
-[隐身]
+[Invisible]
 ON=43F60,64
 
-[道具]
+[Stage pro]
 ON=42C2E,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,8,8,8,8,8,8,8,8,8,8,8,8,8,8;42C59,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,8,8,8,8,8,8,8,8,8,8,8,8,8,8
 
-[无敌]
+[Invincibility]
 ON=43F61,C8
 
-[关卡]
+[The barrier]
 第一关=42A69,0
 第二关=42A69,1
 第三关=42A69,2
@@ -40,8 +40,6 @@ ON=43F61,C8
 选关=42A69,8
 
 [GameInfo]
-Name=1631 - 超级马里奥4[Super Mario Advance 4]
+Name=1631 - Super Mario Advance 4 (v1.1) (E)（超级马里奥4）（E）ACT 64
 System=GBA
-Text=1631 - Super Mario 4 v1.1 (E)
-
-
+Text=大胖子 整理提供

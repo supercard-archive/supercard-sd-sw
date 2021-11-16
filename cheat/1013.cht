@@ -1,0 +1,19 @@
+[Time （Fishing game）]
+ON=467F8,EC,13
+
+[Grade（Fishing game）]
+ON=4677C,10;46780,10
+
+[Score（Fishing game）]
+ON=46795,A4,9C
+
+[Time ]
+ON=41045,3B
+
+[Bring a small orangutang]
+ON=40FD6,1
+
+[GameInfo]
+Name=1013 - Donkey Kong Country (E) （大金刚）（M5） ACT 64
+System=GBA
+Text=大胖子

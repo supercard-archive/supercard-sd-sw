@@ -1,0 +1,332 @@
+[The reorganization awning stage prop 1 (one does not use two)]
+ONE=28e4,0,63,1,63,2,63,3,63,4,63,5,63,6,63,7,63,8,63,9,63, A, 63, B, 63, C, 63, D, 63, E, 63, F, 63,10,63,11,63,12,63,13,63,14,63,15,63,16,63,17,63,18,63,19,63,1A, 63,1B, 63,1C, 63,1D, 63,1E, 63,1F, 63,20,63,21,63,22,63,23,63,24,63,25,63,26,63,27,63,28,63,29,63,2A, 63,2B, 63,2C, 63,2D, 63,2E, 63,2F, 63,30,63,31,63,32,63,33,63,34,63,35,63,36,63,37,63,38,63,39,63,3A, 63,3B, 63,3C, 63,3D, 63,3E, 63,3F, 63
+TWO=5118,0,63,1,63,2,63,3,63,4,63,5,63,6,63,7,63,8,63,9,63, A, 63, B, 63, C, 63, D, 63, E, 63, F, 63,10,63,11,63,12,63,13,63,14,63,15,63,16,63,17,63,18,63,19,63,1A, 63,1B, 63,1C, 63,1D, 63,1E, 63,1F, 63,20,63,21,63,22,63,23,63,24,63,25,63,26,63,27,63,28,63,29,63,2A, 63,2B, 63,2C, 63,2D, 63,2E, 63,2F, 63,30,63,31,63,32,63,33,63,34,63,35,63,36,63,37,63,38,63,39,63,3A, 63,3B, 63,3C, 63,3D, 63,3E, 63,3F, 63
+
+[The reorganization awning stage prop 2 (one does not use two)]
+ONE=28e4,40,63,41,63,42,63,43,63,44,63,45,63,46,63,47,63,48,63,49,63,4A, 63,4B, 63,4C, 63,4D, 63,4E, 63,4F, 63,50,63,51,63,52,63,53,63,54,63,55,63,56,63,57,63,58,63,59,63,5A, 63,5B, 63,5C, 63,5D, 63,5E, 63
+TWO=5118,40,63,41,63,42,63,43,63,44,63,45,63,46,63,47,63,48,63,49,63,4A, 63,4B, 63,4C, 63,4D, 63,4E, 63,4F, 63,50,63,51,63,52,63,53,63,54,63,55,63,56,63,57,63,58,63,59,63,5A, 63,5B, 63,5C, 63,5D, 63,5E, 63
+
+[The stage prop box 1 (one does not use two)]
+ON=2968,0,63,1,63,2,63,3,63,4,63,5,63,6,63,7,63,8,63,9,63, A, 63, B, 63, C, 63, D, 63, E, 63, F, 63,10,63,11,63,12,63,13,63,14,63,15,63,16,63,17,63,18,63,19,63,1A, 63,1B, 63,1C, 63,1D, 63,1E, 63,1F, 63,20,63,21,63,22,63,23,63,24,63,25,63,26,63,27,63,28,63,29,63,2A, 63,2B, 63,2C, 63,2D, 63,2E, 63,2F, 63,30,63,31,63,32,63,33,63,34,63,35,63,36,63,37,63,38,63,39,63,3A, 63,3B, 63,3C, 63,3D, 63,3E, 63,3F, 63
+TWO=519C, 0,63,1,63,2,63,3,63,4,63,5,63,6,63,7,63,8,63,9,63, A, 63, B, 63, C, 63, D, 63, E, 63, F, 63,10,63,11,63,12,63,13,63,14,63,15,63,16,63,17,63,18,63,19,63,1A, 63,1B, 63,1C, 63,1D, 63,1E, 63,1F, 63,20,63,21,63,22,63,23,63,24,63,25,63,26,63,27,63,28,63,29,63,2A, 63,2B, 63,2C, 63,2D, 63,2E, 63,2F, 63,30,63,31,63,32,63,33,63,34,63,35,63,36,63,37,63,38,63,39,63,3A, 63,3B, 63,3C, 63,3D, 63,3E, 63,3F, 63
+
+[The stage prop box 2 (one does not use two)]
+ONE=2968,40,63,41,63,42,63,43,63,44,63,45,63,46,63,47,63,48,63,49,63,4A, 63,4B, 63,4C, 63,4D, 63,4E, 63,4F, 63,50,63
+TWO=519C, 40,63,41,63,42,63,43,63,44,63,45,63,46,63,47,63,48,63,49,63,4A, 63,4B, 63,4C, 63,4D, 63,4E, 63,4F, 63,50,63
+
+[The freezer storage 1 (one does not use two)]
+ONE=27e7,63,0,0,0,63,1,0,0,63,2,0,0,63,3,0,0,63,4,0,0,63,5,0,0,63,6,0,0,63,7,0,0,63,8,0,0,63,9,0,0,63, a, 0,0,63, b, 0,0,63, c, 0,0,63, d, 0,0,63, e, 0,0,63, f, 0,0,63,10,0,0,63,11,0,0,63,12,0,0,63,13,0,0,63,14,0,0,63,15,0,0,63,16,0,0,63,17,0,0,63,18,0,0,63,19,0,0,63,1a, 0,0,63,1b, 0,0,63,1c, 0,0,63,1d, 0,0,63,1e, 0,0,63,1f, 0,0,63,20,0,0,63,21,0,0,63,22,0,0,63,23,0,0,63,24,0,0,63,25,0,0,63,26,0,0,63,27,0,0,63,28,0,0,63,29,0,0,63,2a, 0,0,63,2b, 0,0,63,2c, 0,0,63,2d, 0,0,63,2e, 0,0,63,2f, 0,0,63,30,0,0,63,31,0,0,63,32,0,0,63,33,0,0,63,34,0,0,63,35,0,0,63,36,0,0,63,37,0,0,63,38,0,0,63,39,0,0,63,3a, 0,0,63,3b, 0,0,63,3c, 0,0,63,3d, 0,0,63,3e, 0,0,63,3f
+TWO=501b, 63,0,0,0,63,1,0,0,63,2,0,0,63,3,0,0,63,4,0,0,63,5,0,0,63,6,0,0,63,7,0,0,63,8,0,0,63,9,0,0,63, a, 0,0,63, b, 0,0,63, c, 0,0,63, d, 0,0,63, e, 0,0,63, f, 0,0,63,10,0,0,63,11,0,0,63,12,0,0,63,13,0,0,63,14,0,0,63,15,0,0,63,16,0,0,63,17,0,0,63,18,0,0,63,19,0,0,63,1a, 0,0,63,1b, 0,0,63,1c, 0,0,63,1d, 0,0,63,1e, 0,0,63,1f, 0,0,63,20,0,0,63,21,0,0,63,22,0,0,63,23,0,0,63,24,0,0,63,25,0,0,63,26,0,0,63,27,0,0,63,28,0,0,63,29,0,0,63,2a, 0,0,63,2b, 0,0,63,2c, 0,0,63,2d, 0,0,63,2e, 0,0,63,2f, 0,0,63,30,0,0,63,31,0,0,63,32,0,0,63,33,0,0,63,34,0,0,63,35,0,0,63,36,0,0,63,37,0,0,63,38,0,0,63,39,0,0,63,3a, 0,0,63,3b, 0,0,63,3c, 0,0,63,3d, 0,0,63,3e, 0,0,63,3f
+
+[The freezer storage 2 (one does not use two)]
+ONE=27e7,63,40,0,0,63,41,0,0,63,42,0,0,63,43,0,0,63,44,0,0,63,45,0,0,63,46,0,0,63,47,0,0,63,48,0,0,63,49,0,0,63,4a, 0,0,63,4b, 0,0,63,4c, 0,0,63,4d, 0,0,63,4e, 0,0,63,4f, 0,0,63,50,0,0,63,51,0,0,63,52,0,0,63,53,0,0,63,54,0,0,63,55,0,0,63,56,0,0,63,57,0,0,63,58,0,0,63,59,0,0,63,5a, 0,0,63,5b, 0,0,63,5c, 0,0,63,5d, 0,0,63,5e, 0,0,63,5f, 0,0,63,60,0,0,63,61,0,0,63,62,0,0,63,63,0,0,63,64,0,0,63,65,0,0,63,66,0,0,63,67,0,0,63,68,0,0,63,69,0,0,63,6a, 0,0,63,6b, 0,0,63,6c, 0,0,63,6d, 0,0,63,6e, 0,0,63,6f, 0,0,63,70,0,0,63,71,0,0,63,72,0,0,63,73,0,0,63,74,0,0,63,75,0,0,63,76,0,0,63,77,0,0,63,78,0,0,63,79,0,0,63,7a, 0,0,63,7b, 0,0,63,7c, 0,0,63,7d, 0,0,63,7e, 0,0,63,7f
+TWO=501b, 63,40,0,0,63,41,0,0,63,42,0,0,63,43,0,0,63,44,0,0,63,45,0,0,63,46,0,0,63,47,0,0,63,48,0,0,63,49,0,0,63,4a, 0,0,63,4b, 0,0,63,4c, 0,0,63,4d, 0,0,63,4e, 0,0,63,4f, 0,0,63,50,0,0,63,51,0,0,63,52,0,0,63,53,0,0,63,54,0,0,63,55,0,0,63,56,0,0,63,57,0,0,63,58,0,0,63,59,0,0,63,5a, 0,0,63,5b, 0,0,63,5c, 0,0,63,5d, 0,0,63,5e, 0,0,63,5f, 0,0,63,60,0,0,63,61,0,0,63,62,0,0,63,63,0,0,63,64,0,0,63,65,0,0,63,66,0,0,63,67,0,0,63,68,0,0,63,69,0,0,63,6a, 0,0,63,6b, 0,0,63,6c, 0,0,63,6d, 0,0,63,6e, 0,0,63,6f, 0,0,63,70,0,0,63,71,0,0,63,72,0,0,63,73,0,0,63,74,0,0,63,75,0,0,63,76,0,0,63,77,0,0,63,78,0,0,63,79,0,0,63,7a, 0,0,63,7b, 0,0,63,7c, 0,0,63,7d, 0,0,63,7e, 0,0,63,7f
+
+[The freezer storage 3 (one does not use two)]
+ONE=27e7,63,80,0,0,63,81,0,0,63,82,0,0,63,83,0,0,63,84,0,0,63,85,0,0,63,86,0,0,63,87,0,0,63,88,0,0,63,89,0,0,63,8a, 0,0,63,8b, 0,0,63,8c, 0,0,63,8d, 0,0,63,8e, 0,0,63,8f, 0,0,63,90,0,0,63,91,0,0,63,92,0,0,63,93,0,0,63,94,0,0,63,95,0,0,63,96,0,0,63,97,0,0,63,98,0,0,63,99,0,0,63,9a, 0,0,63,9b, 0,0,63,9c, 0,0,63,9d, 0,0,63,9e, 0,0,63,9f, 0,0,63, a0,0,0,63, a1,0,0,63, a2,0,0,63, a3,0,0,63, a4,0,0,63, a5,0,0,63, a6,0,0,63, a7,0,0,63, a8,0,0,63, a9,0,0,63, aa, 0,0,63, ab
+TWO=501b, 63,80,0,0,63,81,0,0,63,82,0,0,63,83,0,0,63,84,0,0,63,85,0,0,63,86,0,0,63,87,0,0,63,88,0,0,63,89,0,0,63,8a, 0,0,63,8b, 0,0,63,8c, 0,0,63,8d, 0,0,63,8e, 0,0,63,8f, 0,0,63,90,0,0,63,91,0,0,63,92,0,0,63,93,0,0,63,94,0,0,63,95,0,0,63,96,0,0,63,97,0,0,63,98,0,0,63,99,0,0,63,9a, 0,0,63,9b, 0,0,63,9c, 0,0,63,9d, 0,0,63,9e, 0,0,63,9f, 0,0,63, a0,0,0,63, a1,0,0,63, a2,0,0,63, a3,0,0,63, a4,0,0,63, a5,0,0,63, a6,0,0,63, a7,0,0,63, a8,0,0,63, a9,0,0,63, aa, 0,0,63, ab
+
+[Fatigue 0]
+ON=4206,0
+
+[Physical strength]
+ON=4204, ff, 63
+
+[Demon no.1]
+ON=4600, ff; 45fc, ff, ff, ff
+
+[Demon no.2]
+ON=4624, ff; 4620, ff, ff, ff
+
+[Demon no.3]
+ON=4648, ff; 4644, ff, ff, ff
+
+[Demon no.4]
+ON=466c, ff; 4668, ff, ff, ff
+
+[Demon no.5]
+ON=4690, ff; 468c, ff, ff, ff
+
+[Demon no.6]
+ON=46b4, ff; 46b0, ff, ff, ff
+
+[Demon no.7]
+ON=46d8, ff; 46d4, ff, ff, ff
+
+[Demon no.1 work]
+Harvests =4612,1c
+Waters =4612,1d
+Animal =4612,1e
+
+[Demon no.2 work]
+Harvests =4636,1c
+Waters =4636,1d
+Animal =4636,1e
+
+[Demon no.3 work]
+Harvests =465a, 1c
+Waters =465a, 1d
+Animal =465a, 1e
+
+[Demon no.4 work]
+Harvests =467e, 1c
+Waters =467e, 1d
+Animal =467e, 1e
+
+[Demon no.5 work]
+Harvests =46a2,1c
+Waters =46a2,1d
+Animal =46a2,1e
+
+[Demon no.6 work]
+Harvests =46c6,1c
+Waters =46c6,1d
+Animal =46c6,1e
+
+[Demon no.7 work]
+Harvests =46ea, 1c
+Waters =46ea, 1d
+Animal =46ea, 1e
+
+[Money]
+ON=4090, ff, ff, ff, ff
+
+[Time]
+ON=25fA, 6,0
+
+[Lumber]
+ON=260C, E7,7
+
+[All compulsory taxes number]
+ON=2640, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff
+
+[Stage prop possibly turns transformation]
+ON=41ec, ff; 41ed, ff; 41f0, ff; 41f1, ff; 41f4, ff; 41f5, ff; 41f8, ff; 41f9, ff; 41fc, ff; 41fd, ff; 4200, ff, ff
+
+[Lead apple number]
+ON=4204, ff
+
+[Dog heart to heart counts]
+ON=4271, ff, ff, ff
+
+[girls heart to heart counts]
+ON=4369, ff; 4425, ff; 44e1, ff; 44b5, FF; 4535, ff; 45b5, ff
+
+[Horse heart to heart counts]
+ON=2628, ff, ff, ff, ff
+
+[baby heart to heart counts]
+ON=42bf, ff; 42b8, ff
+
+[Season]
+Spring =25f9,10
+Summer =25f9,11
+Fall =25f9,12
+Winter =25f9,13
+
+[Chicken quantity 999]
+ON=29f8, cf, 07
+
+[Cow, sheep quantity 999]
+ON=2bf8, cf, 07  
+
+[Entire full (one does not use two) from the dwelling equipment]
+ONE=27dc, aa, ff, 00, ff, ff, ff
+TWO=5010, aa, ff, 00, ff, ff, ff
+
+[Niu Wuyi increases builds]
+ON=2bd8, ff
+
+[Chicken room increased builds]
+ON=29f8, ff
+
+[Fatigue]
+ON=4206,0
+
+[Lumber]
+ON=25FC, E7,3
+
+[Clock (minute)]
+10 minute =25EB, 11
+20 minute =25EB, 12
+30 minute =25EB, 13
+40 minute =25EB, 14
+50 minute =25EB, 16
+
+[Fish illustrated handbook]
+ON=5258, ff; 525c, 00; 5260, ff; 5264,00; 5268, ff; 526c, 00; 5270, ff; 5274,00; 5278, ff; 527c, 00; 5280, ff; 5284,00; 5288, ff; 528c, 00; 5290, ff; 5294,00; 5298, ff; 529c, ff; 52a0, ff; 52a4, ff; 52a8, ff; 52ac, ff; 52b0, ff; 52b4, ff; 52b8, ff; 52bc, ff; 52c0, ff; 52c4, ff; 52c8, ff; 52cc, ff; 52d0, ff; 52d4, ff; 52d8, ff; 52dc, ff; 52e0, ff; 52e4, ff; 52e8, ff; 52ec, ff; 52f0, ff; 52f4, ff; 52f8, ff; 52fc, ff; 5300, ff; 5304, ff; 5308, ff; 530c, ff; 5310, ff; 5314, ff; 5318, ff; 531c, ff; 5320, ff; 5324, ff; 5328, ff; 532c, ff; 5330, ff; 5334, ff; 5338, ff; 533c, ff; 5340, ff; 5344, ff; 5348, ff; 534c, ff; 5350, ff; 5354, ff; 5358, ff; 535c, ff; 5360, ff; 5364, ff; 5368, ff; 536c, ff; 5370, ff; 5374, ff; 5378, ff; 537c, ff; 5380, ff; 5384, ff; 5388, ff; 538c, ff; 5390, ff; 5394, ff; 5398, ff; 539c, ff; 53a0, ff; 53a4, ff; 53a8, ff; 53ac, ff; 53b0, ff; 53b4, ff; 53b8, ff; 53bc, ff; 53c0, ff; 53c4, ff; 53c8, ff; 53cc, ff; 53d0, ff; 53d4, ff; 53d8, ff; 53dc, ff; 53e0, ff; 53e4, ff; 53e8, ff; 53ec, ff; 53f0, ff; 53f4, ff; 53f8, ff; 53fc, ff; 5400, ff; 5404, ff; 5408, ff; 540c, ff; 5410, ff; 5414, ff; 5418, ff; 541c, ff; 5420, ff; 5424, ff; 5428, ff; 542c, ff
+
+[All compulsory taxes number]
+ON=2630, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff,ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff, ff
+
+[Clock (minute)]
+10 minute =25EB, 11
+20 minute =25EB, 12
+30 minute =25EB, 13
+40 minute =25EB, 14
+50 minute =25EB, 16
+
+[Toolbox first standard goods type]
+Ultimate stage prop 1=2958,07
+Ultimate stage prop 2=2958,0f
+Ultimate stage prop 3=2958,17
+Ultimate stage prop 4=2958,1f
+Ultimate stage prop 5=2958,27
+Ultimate stage prop 6=2958,2f
+Flight stone =2958,4d
+Goddess rare treasure =2958,4e
+Globefish rare treasure =2958,4f
+Real rare treasure =2958,50
+
+[First standard tool quantity]
+1 =2959,1
+99 =2959,63
+
+[Elimination]
+ON=2958,51; 2959,00
+
+[Date]
+Spring 1=25e9,00
+Summer 1=25e9,01
+Fall 1=25e9,02
+Winter 1=25e9,03
+Spring 2=25e9,04
+Summer 2=25e9,05
+Fall 2=25e9,06
+Winter 2=25e9,07
+Spring 3=25e9,08
+Summer 3=25e9,09
+Fall 3=25e9,0a
+Winter 3=25e9,0b
+Spring 4=25e9,0c
+Summer 4=25e9,0d
+Fall 4=25e9,0e
+Winter 4=25e9,0f
+Spring 5=25e9,10
+Summer 5=25e9,11
+Fall 5=25e9,12
+Winter 5=25e9,13
+Spring 6=25e9,14
+Summer 6=25e9,15
+Fall 6=25e9,16
+Winter 6=25e9,17
+Spring 7=25e9,18
+Summer 7=25e9,19
+Fall 7=25e9,1a
+Winter 7=25e9,1b
+Spring 8=25e9,1c
+Summer 8=25e9,1d
+Fall 8=25e9,1e
+Winter 8=25e9,1f
+Spring 9=25e9,20
+Summer 9=25e9,21
+Fall 9=25e9,22
+Winter 9=25e9,23
+Spring 10=25e9,24
+Summer 10=25e9,25
+Fall 10=25e9,26
+Winter 10=25e9,27
+Spring 11=25e9,28
+Summer 11=25e9,29
+Fall 11=25e9,2a
+Winter 11=25e9,2b
+Spring 12=25e9,2c
+Summer 12=25e9,2d
+Fall 12=25e9,2e
+Winter 12=25e9,2f
+Spring 13=25e9,30
+Summer 13=25e9,31
+Fall 13=25e9,32
+Winter 13=25e9,33
+Spring 14=25e9,34
+Summer 14=25e9,35
+Fall 14=25e9,36
+Winter 14=25e9,37
+Spring 15=25e9,38
+Summer 15=25e9,39
+Fall 15=25e9,3a
+Winter 15=25e9,3b
+Spring 16=25e9,3c
+Summer 16=25e9,3d
+Fall 16=25e9,3e
+Winter 16=25e9,3f
+Spring 17=25e9,40
+Summer 17=25e9,41
+Fall 17=25e9,42
+Winter 17=25e9,43
+Spring 18=25e9,44
+Summer 18=25e9,45
+Fall 18=25e9,46
+Winter 18=25e9,47
+Spring 19=25e9,48
+Summer 19=25e9,49
+Fall 19=25e9,4a
+Winter 19=25e9,4b
+Spring 20=25e9,4c
+Summer 20=25e9,4d
+Fall 20=25e9,4e
+Winter 20=25e9,4f
+Spring 21=25e9,50
+Summer 21=25e9,51
+Fall 21=25e9,52
+Winter 21=25e9,53
+Spring 22=25e9,54
+Summer 22=25e9,55
+Fall 22=25e9,56
+Winter 22=25e9,57
+Spring 23=25e9,58
+Summer 23=25e9,59
+Fall 23=25e9,5a
+Winter 23=25e9,5b
+Spring 24=25e9,5c
+Summer 24=25e9,5d
+Fall 24=25e9,5e
+Winter 24=25e9,5f
+Spring 25=25e9,60
+Summer 25=25e9,61
+Fall 25=25e9,62
+Winter 25=25e9,63
+Spring 26=25e9,64
+Summer 26=25e9,65
+Fall 26=25e9,66
+Winter 26=25e9,67
+Spring 27=25e9,68
+Summer 27=25e9,69
+Fall 27=25e9,6a
+Winter 27=25e9,6b
+Spring 28=25e9,6c
+Summer 28=25e9,6d
+Fall 28=25e9,6e
+Winter 28=25e9,6f
+Spring 29=25e9,70
+Summer 29=25e9,71
+Fall 29=25e9,72
+Winter 29=25e9,73
+Spring 30=25e9,74
+Summer 30=25e9,75
+Fall 30=25e9,76
+Winter 30=25e9,77
+
+[Lead apple number]
+ON=41f4, ffff
+
+[Dog's favorable impression]
+ON=4271, FFFF
+
+[Dwarf's favorable impression]
+ON=4608, FF; 4614, FF; 4615, FF; 4216, FF; 462C, FF; 4638, FF; 4639, FF; 463A, FF; 4650, FF; 465C, FF; 465D, FF; 465E, FF; 4674, FF; 4680, FF; 4681, FF; 4682, FF; 4698, FF; 46A4, FF; 46A5, FF; 46A6, FF; 46BC, FF; 46C8, FF; 46C9, FF; 46CA, FF; 46E0, FF; 46EC, FF; 46ED, FF; 46EE, FF
+
+[Full feed]
+ON=29F9, FF; 29FA, FF; 2BDA, FF; 2BDB, FF
+
+[Weather]
+Clear =25E0,0
+Rain =25E0,1
+Snow =25E0,2
+Wind gust =25E0,3
+Fierce snow drift =25E0,4
+
+[GameInfo]
+Name=2066 - Harvest Moon - More Friends of Mineral Town (U)
+System=GBA
+Text=cezar

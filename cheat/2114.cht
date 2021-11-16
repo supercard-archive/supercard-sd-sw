@@ -1,0 +1,13 @@
+[P pattern population] ON=46722,5
+
+[P pattern newspaper] ON=D3C2, A
+
+[P pattern integral] ON=43614,3F, 42, F
+
+[R pattern population] ON=14234,9
+
+[R pattern durable] ON=14236,20
+
+[R pattern integral] ON=14238,3F, 42, F
+
+[GameInfo] Name=2114 - Paperboy Rampage (U) System=GBA Text=vicente

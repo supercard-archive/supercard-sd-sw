@@ -1,13 +1,7 @@
-[我方耐久]
-ON=417EC,0,0
+[We durable] ON=417EC, 0,0
 
-[对方耐久]
-ON=4185C,FF,FF
+[Opposite party durable] ON=4185C, FF, FF
 
-[时间]
-ON=41278,0,0
+[Time] ON=41278,0,0
 
-[GameInfo]
-Name=1896 - 机器人大战-进化毁灭[Robot Wars Advanced Destruction]
-System=GBA
-
+[GameInfo] Name=1896 - Robot Wars Advanced Destruction (U) System=GBA Text=vicente 

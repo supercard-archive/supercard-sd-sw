@@ -1,12 +1,10 @@
-[Danger槽不减]
+[Danger trough does not reduce]
 ON=40158,0
 
-[得分最大]
+[The Highest score]
 ON=40E8C,FF,E0,F5,5
 
-
 [GameInfo]
-Name=1402 - 怪投射波[Snood]
+Name=1402 - Snood （E）（怪投射波）（E） PUZ 32
 System=GBA
-text=Snood
-
+text=HOTSUMA

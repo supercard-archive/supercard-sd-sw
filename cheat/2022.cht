@@ -1,0 +1,9 @@
+[Population] ON=40408, E7,3
+
+[Gold coin] ON=403E8, FF
+
+[Checkpoint all opens] ON=403EA, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire painted eggshell] ON=403F7, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2022 - Yoshi Topsy Turvy (U) System=GBA Text=vicente 

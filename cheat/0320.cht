@@ -1,0 +1,31 @@
+[Time] 
+ON=47D61,63 
+
+[Life number] 
+ON=47D67,09 
+
+[Blood] 
+ON=47D65,06 
+
+[Invisible] 
+ON=40FDB,27 
+
+[Money 
+ON=47D80,C8 
+
+[Weapon] 
+ON=40FD7,02 
+
+[Robot HP] 
+OK=42C72,09;42C73,03 
+
+[Enemy robot HP] 
+0=43460,01 
+
+[Bullet] 
+999=42C74,E7;42C75,03 
+
+[GameInfo] 
+Name=0320 - Goemon New Age Shutsudou! (J)（大盗伍佑卫门新时代出动!）（J）ACT 32
+System=GBA 
+Text=大胖子,ROCKMAN

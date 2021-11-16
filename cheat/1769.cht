@@ -1,10 +1,13 @@
-[电影碎片]
+[Movie fragment]
 ON=368C,FF,FF
 
-[全辅助道具]
-ON=47058,01,01;4705A,01;4705C,0101;4705F,01;47060,01;47076,0101;47078,0101;4707A,01;47080,0101;470AA,01;470AD,01;470C0,0101;470CA,0101;470CD,01;470CE,0101;470D0,0101
+[Entire collection of world butterfly]
+ON=36E3,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire auxiliary stage prop]
+ON=47058,1,1,1;4705C,1,1;4705F,1,1;47076,1,1,1,1,1;47080,1,1;470AA,1;470AD,1;470C0,1,1;470CA,1,1;470CD,1,1,1,1,1,
 
 [GameInfo]
-Name=1769 - 倒霉的Lemony Snicket[Lemony Snicket's A Series of Unfortunate Events]
+Name=1769 - Lemony Snicket's A Series of Unfortunate Events (U)（雷蒙·斯尼奇的不幸历险）（E）AVG 128
 System=GBA
-
+Text=vicente

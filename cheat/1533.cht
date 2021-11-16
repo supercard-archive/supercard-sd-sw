@@ -1,15 +1,16 @@
 [HP]
 ON=1CE,6
 
-[人数]
+[Population]
 ON=1CD,9
 
-[钥匙]
+[Key]
 ON=1C0,9
 
-[全道具]
+[Entire stage pro]
 ON=1C1,9,9,9,9,9,9,9
 
 [GameInfo]
-Name=1533 - 啄木鸟伍迪闯疯狂城堡5[Woody Woodpecker in Crazy Castle 5]
+Name=1533 - Woody Woodpecker In Crazy Castle 5 (U)（啄木鸟伍迪勇闯疯狂城堡 5）（E）ACT 64
 System=GBA
+Text=haoxujie(恶魔)

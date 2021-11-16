@@ -1,0 +1,22 @@
+[Integral calculus of the host team ]
+最多=A004,63
+最少=A004,0
+
+[Integral calculus of the visiting  team ]
+最多=A005,63
+最少=A005,0
+
+[ the host team  energy]
+最多=A004,63
+
+最多=9FDC,60,6
+最少=9FDC,0,0
+
+[the visiting  team energy]
+最多=9FE0,60,6
+最少=9FE0,0,0
+
+[GameInfo]
+Name=1021 - Disney Sports Football (E) （迪斯尼全明星体育系列-足球）（M5） SPG 128
+System=GBA
+Text=vicente

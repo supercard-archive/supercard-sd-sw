@@ -1,17 +1,9 @@
-[主角状态]
-ON=4670A,63,63,63,0,63
+[Lead condition] ON=4670A, 63,63,63,0,63
 
-[全装饰]
-ON=46711,FF,FF,FF
+[Entire decoration] ON=46711, FF, FF, FF
 
-[全服装]
-ON=46860,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire clothing] ON=46860, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[小游戏全开]
-ON=46728,1,1,1,1,1,1,1,1,1,1,1,1
+[Small game all opens] ON=46728,1,1,1,1,1,1,1,1,1,1,1,1
 
-[GameInfo]
-Name=1836 - Hello 偶像登场！[Hello Idol Debut]
-System=GBA
-Text=vicente
-
+[GameInfo] Name=1836 - Hello Idol Debut (J) (idol makes a debut) (J) STG 64 System=GBA Text=vicente

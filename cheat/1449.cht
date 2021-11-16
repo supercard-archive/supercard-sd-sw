@@ -1,17 +1,16 @@
-[无限续关]
+[Infinitely proceed with the pass]
 ON=46BD0,9
 
-[体力不减]
+[Physical strength does not reduce]
 ON=473F8,E7,3;46CCE,E7,3
 
-[机枪子弹不减]
+[The machine gun bullet does not reduce]
 ON=472E8,E7,3;46CEE,E7,3
 
-[电机枪能量不减]
+[The electricity machine gun energy does not reduce]
 ON=46CF4,64;472EE,64;
 
 [GameInfo]
-Name=1449 - 雷鸣之声[Sound of Thunder (E)]
+Name=1449 - Sound of Thunder (E)（雷霆之音）（M6）AVG 64
 System=GBA
-TEXT=1449 - Sound of Thunder (E)
-
+TEXT=HOTSUMA

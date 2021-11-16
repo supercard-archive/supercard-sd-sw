@@ -1,25 +1,25 @@
-[体力不减] 
+[Physical strength does not reduce] 
 ON=4191C,8 
 
-[能量MAX] 
+[Eergy MAX] 
 ON=41920,8 
 
-[一接到金币就MAX] 
+[Receive gold coin as soon as get MAX] 
 ON=40C04,F,23,F4 
 
-[逃脱时间不减] 
+[Escape time does not reduce] 
 ON=40BFC,9,5 
 
-[获得4块碎片] 
+[Abtain 4 piece of fragment] 
 ON=40C13,2,2,2,2 
 
-[直接打开出口] 
+[Directly open outlet] 
 ON=40C19,2 
 
-[无敌] 
+[Invincibility] 
 ON=418A8,63 
 
-[瓦里奥状态] 
+[Wario condition]
 正常=41898,0 
 游泳=41898,1 
 反常=41898,2 
@@ -32,13 +32,13 @@ ON=418A8,63
 飞行=41898,9 
 不明=41898,A 
 
-[光盘] 
+[CD] 
 ON=40C17,2 
 
-[钥匙] 
+[Key]
 ON=40C18,2 
 
-[BOSS战武器] 
+[BOSS fighting weapon]
 无=40C44,0 
 苹果炸弹=40C44,1 
 大炮=40C44,2 
@@ -49,19 +49,19 @@ ON=40C18,2
 拳头=40C44,7 
 火焰鸟=40C44,8 
 
-[迷你游戏 记录999] 
+[ Mini game  record 999]
 ON=40016,E7,3 
 
-[迷你游戏棒球永远不出局] 
+[Mini game never skittle out]
 ON=44A2E,0 
 
-[迷你游戏 获得的金币MAX] 
+[Mini game obtain gold coin MAX]
 ON=40014,E7,3 
 
-[迷你游戏 有效球个数MAX] 
+[Mini game effective ball number MAX] 
 ON=447D6,E7,3 
 
 [GameInfo] 
-Name=1532 - 瓦力欧寻宝记 [Waliou Xunbao Ji]
+Name=1532 - Wario Land Advance (C)（瓦力欧寻宝记）（C）ACT 64
 System=GBA 
-
+Text=魔剑士但丁

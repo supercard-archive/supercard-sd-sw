@@ -1,0 +1,17 @@
+[Life] ON=408E0,64
+
+[Stealth] ON=4081B, FF
+
+[Shopping bean] ON=210, F, 27
+
+[Card all opens] ON=234, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Shopping all opens] ON=243, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Checkpoint all opens] ON=20C, FF
+
+[Music Guan Quanka] ON=26C, FF, FF
+
+[Reward all opens] ON=3C1,6
+
+[GameInfo] Name=2223 - Harry Potter and the Goblet of Fire (E) System=GBA Text=vicente

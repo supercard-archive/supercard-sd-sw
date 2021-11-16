@@ -1,13 +1,33 @@
-[µÃ·Ö Max]
-ON=B40,FF,E0,F5,5
+[Scores points Max] ON=B40, FF, E0, F5,5
 
-[¶¹Á£ Max]
-ON=B34,42,1
+[Pisolite Max] ON=B34,42,1
 
-[ÉúÃü Max]
-ON=B36,63
+[Life Max] ON=B36,63
 
-[GameInfo]
-Name=1808 - ³Ô¶¹ÈË ·è¿ñµÄÃÔ¹¬[Ms Pac-Man - Maze Madness]
-System=GBA
+[GameInfo] Name=1808 - Ms. Pac-Man Maze Madness (E) (young and clever big risk) (M5) PUZ 32 System=GBA the Text= big fat person reorganizes provides
+--------------------------------------------------------------------
+[Life] ON=1C3B, 3
 
+[Population] ON=1C3A, 63
+
+[Stealth] ON=AEA, FF
+
+[Bean number] ON=1C38, E7,3
+
+[Integral] ON=1C30, FF, E0, F5,5
+
+[Checkpoint all opens] ON=1C4C, FF, FF, FF
+
+[GameInfo] Name=1808 - Ms. Pac-Man Maze Madness (E) (young and clever big risk) (M5) PUZ 32 System=GBA the Text= big fat person reorganizes provides
+--------------------------------------------------------------------
+[Life] ON=B3E, FF
+
+[Population] ON=B36,63
+
+[Bean number] ON=B34, E7,3
+
+[Invincible time] ON=A9C, 56
+
+[Checkpoint all opens] ON=31A8, FF, FF
+
+[GameInfo] Name=1808 - Ms. Pac-Man Maze Madness (E) (young and clever big risk) (M5) PUZ 32 System=GBA Text=vicente

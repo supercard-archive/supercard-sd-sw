@@ -1,33 +1,19 @@
-[≤ª”ˆµ–]
-ON=29BE,0,0
+[Does not meet enemy] ON=29BE, 0,0
 
-[¥©«Ω]
-ON=2A440,1
+[Postwar money] ON=AEEC, FF, 7F
 
-[’Ω∫ÛΩ«Æ]
-ON=AEEC,FF,7F
+[Postwar BUG fragment] ON=AEEC, FE, FF
 
-[’Ω∫ÛBUGÀÈ∆¨]
-ON=AEEC,FE,FF
+[HP] ON=52E8, F, 27
 
-[HP]
-ON=52E8,F,27
+[HP upper limit] ON=52EA, F, 27
 
-[HP…œœﬁ]
-ON=52EA,F,27
+[In fight physical strength] ON=3B224, F, 27
 
-[’Ω∂∑÷–ÃÂ¡¶]
-ON=3B224,F,27
+[In fight energy] ON=35700,0,40
 
-[’Ω∂∑÷–ƒ‹¡ø]
-ON=35700,0,40
+[In fight stealth] ON=38CB6,50
 
-[’Ω∂∑÷–“˛…Ì]
-ON=38CB6,50
+[As soon as in fight enemy strikes dies] ON=3B2FC, 0,0; 3B3D4,0,0; 3B4AC, 0,0
 
-[’Ω∂∑÷–µ–»À“ªª˜À¿]
-ON=3B2FC,0,0;3B3D4,0,0;3B4AC,0,0
-
-[GameInfo]
-Name=1832 - ¬ÂøÀ»ÀEXE 5[Rockman EXE 5 Team of Blues]
-System=GBA
+[GameInfo] Name=1832 - Rockman EXE 5 - Team of Blues (J) (Locker person EXE5-Ëìù team) (J) RPG 64 System=GBA Text=vicente

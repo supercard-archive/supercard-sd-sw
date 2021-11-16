@@ -1,0 +1,13 @@
+[Entire barrier]
+ON=41780,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire vehicle race]
+ON=417A0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire fitting]
+ON=41CF0,7F;41CF2,7F
+
+[GameInfo]
+Name=1040 - GT Advanced 3 Pro Concept Racing (E) £¨GTÈü³µ3£©£¨E£© RCG 64
+System=GBA
+Text=vicente

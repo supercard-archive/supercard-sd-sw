@@ -1,24 +1,7 @@
-[我方金钱]
-ON=402B4,FF,E0,F5,5
+[Our money] ON=402B4, FF, E0, F5,5
 
-[对方金钱]
-ON=402E4,0,0,0,0;40314,0,0,0,0;40344,0,0,0,0
+[Opposite party money] ON=402E4,0,0,0,0; 40314,0,0,0,0; 40344,0,0,0,0
 
-[移动步数]
-1步=40380,0,1
-2步=40380,1,1
-3步=40380,2,1
-4步=40380,3,1
-5步=40380,4,1
-6步=40380,5,1
-7步=40380,6,1
-8步=40380,6,2
-9步=40380,6,3
-10步=40380,6,4
-11步=40380,6,5
-12步=40380,6,6
+[Motion step] 1 step of =40380,0,1 2 step of =40380,1,1 3 step of =40380,2,1 4 step of =40380,3,1 5 step of =40380,4,1 6 step of =40380,5,1 7 step of =40380,6,1 8 step of =40380,6,2 9 step of =40380,6,3 10 step of =40380,6,4 11 step of =40380,6,5 12 step of =40380,6,6
 
-[GameInfo]
-Name=1841 - 大富翁[Monopoly]
-System=GBA
-
+[GameInfo] Name=1841 - Monopoly (E) (monopoly) (M4) TAB 32 System=GBA Text=vicente

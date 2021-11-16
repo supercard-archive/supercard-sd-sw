@@ -1,0 +1,31 @@
+[Life] ON=43FA6,0,5
+
+[Energy] ON=43FAA, D0,10
+
+[Life upper limit] ON=40920,2
+
+[Energy upper limit] ON=40921, E
+
+[Stealth] ON=401AA, FF
+
+[Invincible] ON=401AC, A8,4
+
+[All must kill] ON=40900, FF
+
+[Bomb] ON=43FB6,8
+
+[Entire checkpoint] ON=4036A, 6
+
+[Entire seaman] ON=4036C, 1F
+
+[Entire stage prop collection] ON=40964, FF, FF, FF, FF, FF, FF, FF
+
+[Additive term all opens] ON=408C8, FF
+
+[Integral] ON=4093C, 7F, 96,98,0
+
+[Time] ON=4408B, E
+
+[Coin entire collection] ON=40926,2,3,0,4,4,0,5,6,0,6,6,0,5,5,0,9,9
+
+[GameInfo] Name=2157 - Shonen Jumps One Piece (U) System=GBA Text=vicente

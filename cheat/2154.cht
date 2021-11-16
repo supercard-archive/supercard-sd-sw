@@ -1,0 +1,31 @@
+[Life] ON=346BC, BC, 2
+
+[Life upper limit] ON=3463C, 6
+
+[Entire weapon] ON=3463B, 2
+
+[Collection] ON=34670,10,27
+
+[Stealth] ON=346D1, FF
+
+[The entire checkpoint + store opens] ON=3465F, FF, FF, FF; 34665, FF
+
+[Entire stage prop] ON=34668, FF, FF, FF, FF
+
+[GameInfo] Name=2154 - Screw Breaker Goushin Dorirurero (J) System=GBA Text=vicente 
+----------------------------------------------------------
+[The entire checkpoint opens] ON=3465F, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire collector] ON=34668, FF, FF, FF, FF
+
+[Drill rank three] ON=346B7,1,1
+
+[Invincible time locking] ON=346D1,10
+
+[Drill bit strengthens completes] ON=3463B, 2
+
+[The HP strengthening completes] ON=3463C, 6
+
+[Money maximization] ON=34670,10,27
+
+[GameInfo] Name=2154-Screw Braker Goushin Drillero (J) System=GBA the Text= bang shakes drill bit By DOT-X

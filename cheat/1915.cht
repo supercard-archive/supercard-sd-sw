@@ -1,16 +1,9 @@
-[果子数量]
-ON=4380E,63
+[Fruit quantity] ON=4380E, 63
 
-[只数]
-ON=41E41,9
+[Only counts] ON=41E41,9
 
-[血]
-ON=437EC,50
+[Blood] ON=437EC, 50
 
-[隐身]
-ON=4B80,9E
+[Stealth] ON=5480,64
 
-[GameInfo]
-Name=1915 - 金刚之旅[Kong The Animated Series]
-System=GBA
-
+[GameInfo] Name=1915 - Kong - The Animated Series (U) (travel of the Jin'gang) (M) ACT 64 System=GBA the Text= big fat person reorganizes provides

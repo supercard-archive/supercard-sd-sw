@@ -1,22 +1,22 @@
-[分数 MAX]
+[Score MAX]
 ON=40B4C,3F,42,F
 
-[生命不减]
+[Life does not reduce]
 ON=40BBC,63
 
-[时间 MAX]
+[Time MAX]
 ON=40B55,E9
 
-[大金刚一击必杀]
+[ King Kong must kill as soon as strikes
 ON=437E8,0;43688,0;435D8,0
 
-[BOSS战生命无限]
+[BOSS Infinite war life]
 ON=43528,7
 
-[金星 MAX]
+[Venus MAX]
 ON=32118,63
 
 [GameInfo]
-Name=1526 - 马里奥VS大金刚 [Mario vs Donkey Kong ]
+Name=1526 - Mario Vs Donkey Kong (J)（马里奥对大金刚）（J）ACT 128
 System=GBA
-
+Text=大胖子 整理提供

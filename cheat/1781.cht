@@ -1,19 +1,19 @@
-[点数]
+[Points]
 ON=1074,FF,E0,F5,5
 
-[经验]
+[Experience]
 ON=1078,9F,F
 
-[力量]
+[Power]
 ON=107C,63
 
-[我方RAM]
+[Our side RAM]
 ON=402AC,F,27
 
-[对方RAM]
+[The opposite side RAM]
 ON=402D8,0,0
 
 [GameInfo]
-Name=1781 - 爆转陀螺[Beyblade G-Revolution]
+Name=1781 - Beyblade G-Revolution (U)（爆旋陀螺-G点旋转）（E） ACT 32
 System=GBA
-
+Text=vicente

@@ -1,0 +1,16 @@
+
+ON=1C16,0,0
+
+[Postwar money] ON=A00C, FF, 7F
+
+[Postwar BUG] ON=A00C, FE, FF
+
+[Physical strength] ON=3A9D4, F, 27
+
+[Energy] ON=352A0,0,40
+
+[Stealth] ON=38514, FF
+
+[Enemy fast dies] ON=3AAAC, 0,0; 3AB84,0,0; 3AC5C, 0,0
+
+[GameInfo] Name=2254 - RockMan EXE 6 Dennoujuu Grega (J) System=GBA Text=vicente

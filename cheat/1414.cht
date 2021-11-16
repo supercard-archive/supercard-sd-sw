@@ -1,14 +1,13 @@
-[体力不减]
+[Physical strength ]
 ON=225DE,6;4209E,6
 
-[无敌]
+[Invisiblity]
 ON=225E6,64
 
-[钱不减]
+[Money does not reduce]
 ON=41FB8,FF
 
 [GameInfo]
-Name=1414 - 爱戴帽子的猫博士[Dr Deuss The Cat in The Hat]
+Name=1414 - Dr Deuss The Cat in The Hat (E)（爱戴帽子的猫博士）（E）ACT 32
 System=GBA
-TEXT=1414 - 爱戴帽子的猫博士[掌机之王HOTSUMA]
-
+TEXT=HOTSUMA

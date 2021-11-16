@@ -1,63 +1,247 @@
-[关卡全开]
-原著模式=43D64,8,0,0,0,9,0,0,0,A,0,0,0,B,0,0,0,C,0,0,0,D,0,0,0,E,0,0,0,F,0,0,0
-RPG模式=43D84,0,0,0,0,1,0,0,0,2,0,0,0,3,0,0,0,4,0,0,0,5,0,0,0,6,0,0,0,7,0,0,0
+[Crepes the nephew bum long-lived
+原 着 Yao 式 =43D64,8,0,0,0,9,0,0,0, A, 0,0,0, B, 0,0,0, C, 0,0,0, D, 0,0,0, E, 0,0,0, F, 0,0,0
+RPG Yao 式 =43D84,0,0,0,0,1,0,0,0,2,0,0,0,3,0,0,0,4,0,0,0,5,0,0,0,6,0,0,0,7,0,0,0
 
-[战斗时间]
-无限=46FFA,18,15
-立刻结束=46FFA,0,0
+[Bestows 天 gorgeous xi 启]
+ON=2238, FF
 
-[自己体力]
-ON=45A7C,58
+[VP 点 数]
+ON=182C, 3F, 42, F
 
-[自己能量]
+[EXP]
+ON=2260, C6, CF
+
+[Stops the hole
+ON=4FE4,1,0; 501C, 1,1; 5054,1,2; 508C, 1,3; 50C4,1,4; 50FC, 1,5; 5134,1,6; 516C, 1,7; 51A4,1,8; 51DC, 1,9; 5214,1, A; 524C, 1, B; 5284,1, C; 52BC, 1, D; 52F4,1, E; 532C, 1, F; 5364,1,10; 539C, 1,11; 53D4,1,12; 540C, 1,13; 5444,1,14; 547C, 1,15; 54B4,1,16; 54EC, 1,17; 5524,1,18; 555C, 1,19; 5594,1,1A; 55CC, 1,1B; 5604,1,1C; 563C, 1,1D; 5674,1,1E; 56AC, 1,1F; 56E4,1,20; 571C, 1,21; 5754,1,22; 578C, 1,23; 57C4,1,24; 57FC, 1,25; 5834,1,26; 586C, 1,27; 58A4,1,28; 58DC, 1,29; 5914,1,2A; 594C, 1,2B; 5984,1,2C; 59BC, 1,2D; 59F4,1,2E; 5A2C, 1,2F; 5A64,1,30; 5A9C, 1,31; 5AD4,1,32; 5B0C, 1,33; 5B44,1,34; 5B7C, 1,35; 5BB4,1,36; 5BEC, 1,37; 5C24,1,38; 5C5C, 1,39; 5C94,1,3A; 5CCC, 1,3B; 5D04,1,3C; 5D3C, 1,3D; 5D74,1,3E; 5DAC, 1,3F; 5DE4,1,40; 5E1C, 1,41; 5E54,1,42; 5E8C, 1,43; 5EC4,1,44; 5EFC, 1,45; 5F34,1,46; 5F6C, 1,47; 5FA4,1,48; 5FDC, 1,49; 6014,1,4A; 604C, 1,4B; 6084,1,4C; 60BC, 1,4D; 60F4,1,4E; 612C, 1,4F; 6164,1,50; 619C, 1,51; 61D4,1,52; 620C, 1,53; 6244,1,54; 627C, 1,55; 62B4,1,56; 62EC, 1,57; 6324,1,58; 635C, 1,59; 6394,1,5A; 63CC, 1,5B; 6404,1,5C; 643C, 1,5D; 6474,1,5E; 64AC, 1,5F; 64E4,1,60; 651C, 1,61; 6554,1,62; 658C, 1,63; 65C4,1,64; 65FC, 1,65; 6634,1,66; 666C, 1,67; 66A4,1,68; 66DC, 1,69; 6714,1,6A; 674C, 1,6B; 6784,1,6C; 67BC, 1,6D; 67F4,1,6E; 682C, 1,6F; 6864,1,70; 689C, 1,71; 68D4,1,72; 690C, 1,73; 6944,1,74; 697C, 1,75; 69B4,1,76; 69EC, 1,77; 6A24,1,78; 6A5C, 1,79; 6A94,1,7A; 6ACC, 1,7B; 6B04,1,7C; 6B3C, 1,7D; 6B74,1,7E; 6BAC, 1,7F; 6BE4,1,80; 6C1C, 1,81; 6C54,1,82; 6C8C, 1,83; 6CC4,1,84; 6CFC, 1,85; 6D34,1,86; 6D6C, 2,0; 6DA4,2,1; 6DDC, 2,2; 6E14,2,3; 6E4C, 2,4; 6E84,2,5; 6EBC, 2,6; 6EF4,2,7; 6F2C, 2,8; 6F64,2,9; 6F9C, 2, A; 6FD4,2, B; 700C, 2, C; 7044,2, D; 707C, 2, E; 70B4,2, F; 70EC, 2,10; 7124,2,11; 715C, 2,12; 7194,2,13; 71CC, 2,14; 7204,2,15; 723C, 2,16; 7274,2,17; 72AC, 2,18; 72E4,2,19; 731C, 2,1A; 7354,2,1B; 738C, 2,1C; 73C4,2,1D; 73FC, 2,1E; 7434,2,1F; 746C, 2,20; 74A4,2,21; 74DC, 2,22; 7514,2,23; 754C, 2,24; 7584,2,25; 75BC, 2,26; 75F4,2,27; 762C, 2,28; 7664,2,29; 769C, 2,2A; 76D4,2,2B; 770C, 2,2C; 7744,2,2D
+
+[Insults RX 资 料 to delimit 买]
+ON=1804, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF; 1815, FF; 181D, FF
+
+[Aunt enemy 芸 晒 Zhen Shuang
+ON=17E4, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Stops the slender pinch 鴀
+ON=17C8, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Plays twists 咄 the pinch 鴀
+ON=17DC, FF, FF, FF, FF, FF, FF
+
+[Guest Xian 锿cuo 鴀
+ON=17F4, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Seals curls upwards steps barrel]
+ON=2238, FF, FF
+
+[The room 淦 and does the winter
+ON=225C, FF, FF
+
+[Maternal aunt enemy 茏 stack  允 clouds
+ON=17E4, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[第 1 位 pinch of kui]
+The ominous kernel directs narrow center =20CB, 0
+Noon Dan narrow =20CB, 1
+Five catty Dan yuanshih =20CB, 2
+In five beggars =20CB, 3
+Five too =20CB, 4
+Noon uniform narrow =20CB, 5
+The well said evilly the minute directs =20CB, 6
+Said assorted Yin says =20CB mutually, 7
+The hand and the hand cut =20CB, 8
+The friend ninth stem says =20CB, 9
+Directs け five =20CB, A
+Bian ominous center =20CB, B
+Cuts in the well date not side =20CB, C
+Center the beggar cancels =20CB, D
+Narrow uniform male Dan =20CB, E
+Evil day kernel =20CB, F
+Five catty Dan wooden cancels =20CB, 10
+Few noon Dan counter- =20CB, 11
+Yuan Jin the Dan minute directs =20CB, 12
+Bai Yang Naixuan =20CB, 13
+Ninth stem and Dan =20CB, 14
+Qiu Dankong =20CB, 15
+Imaginary still narrow =20CB, 16
+Mutually Yuan Jin Dan =20CB, 17
+And five =20CB, 18
+Narrow け =20CB, 19
+Qiu five =20CB, 1A
+Directs Yin spear five =20CB, 1B
+Side Dan five =20CB, 1C
+Dan 55 =20CB, 1D
+Hand Dan wooden cancels =20CB, 1E
+The friend ninth stem said still narrow =20CB, 1F
+Bai Shengdan =20CB, 20
+The cloth will forever throw oneself =20CB, 21
+Still Dan evil =20CB, 22
+Dish Iraq will forever throw oneself ャ 一 =20CB, 23
+Narrow Wen too =20CB, 24
+Cuts a catty noon to collude Dan narrow =20CB, 25
+Husband catty Dan owes the kernel minute to direct =20CB, 26
+Rises mutually Yin narrow =20CB, 27
+Noon homogenizing cloud five =20CB, 28
+In ninth stem well =20CB, 29
+Qiu Yuan Jin Dan =20CB, 2A
+And Dan =20CB, 2B
+Six uniform wells cut =20CB, 2C
+Imaginary five =20CB, 2D
+The ruler cuts uniform grips Japan =20CB, 2E
+And Dan melts five =20CB, 2F
+Mutually enmity =20CB, 30
+The narrow pumelo cuts pumelo =20CB, 31
+Six uniform five catty Renhua five =20CB, 32
+Ge Yuan grips five =20CB, 33
+In BL household yuanshih =20CB, 34
+In ExBL household yuanshih =20CB, 35
+In ST household yuanshih =20CB, 36
+In ExST household yuanshih =20CB, 37
+In HU household yuanshih =20CB, 38
+In ExHU household yuanshih =20CB, 39
+In BO household yuanshih =20CB, 3A
+In ExBO household yuanshih =20CB, 3B
+BL loses Shen Kangテ slave =20CB, 3C
+ST loses Shen Kangテ slave =20CB, 3D
+HU loses Shen Kangテ slave =20CB, 3E
+BO loses Shen Kangテ slave =20CB, 3F
+Kong ninth stem says =20CB, 40
+By cuts down white partner =20CB, 41
+Center servant =20CB, 42
+Rises benevolent duke Dan =20CB, 43
+Cuts grips =20CB, 44
+The servant five wooden cancels =20CB, 45
+Noon Dan narrow catty Dan =20CB, 46
+The minute directs =20CB, 47
+Noon DanQiu =20CB, 48
+The ninth stem says =20CB mutually, 49
+The female milk melon will set up forever valve =20CB, 4A
+Center enmity Dan =20CB, 4B
+Center splits up =20CB, 4C
+Cuts =20CB, 4D
+Well cuts =20CB, 4E
+Cuts fights =20CB, 4F
+Center narrow =20CB, 50
+BL hole day 一 =20CB, 51
+ExBL hole day 一 =20CB, 52
+ST hole day 一 =20CB, 53
+ExST hole day 一 =20CB, 54
+HU hole day 一 =20CB, 55
+ExHU hole day 一 =20CB, 56
+BO hole day 一 =20CB, 57
+ExBO hole day 一 =20CB, 58
+BL great even day by 一 unreliable =20CB, 59
+ST great even day by 一 unreliable =20CB, 5A
+HU great even day by 一 unreliable =20CB, 5B
+BO great even day by 一 unreliable =20CB, 5C
+け kind husband uniform now cancels =20CB, 5D
+け kernel Qiu Danpu five =20CB, 5E
+け kind husband 一 partner =20CB, 5F
+Beggar ninth stem wooden twenty Dan =20CB, 60
+Cancels Dan woodenly to cancel =20CB, 61
+Little narrow =20CB, 62
+A cloud minute directs =20CB, 63
+Hand Yin Yue noon DanQiu =20CB, 64
+Narrow high ominous center =20CB, 65
+Kong Yunjing cancels =20CB, 66
+Rises Qiu Yuan Jin Dan =20CB, 67
+Counter- center permits and yuanshih =20CB, 68
+Ge Zeshi =20CB, 69
+The BL hole tile loses =20CB, 6A
+The ExBL hole tile loses =20CB, 6B
+The ST hole tile loses =20CB, 6C
+The ExST hole tile loses =20CB, 6D
+The HU hole tile loses =20CB, 6E
+The ExHU hole tile loses =20CB, 6F
+The BO hole tile loses =20CB, 70
+The ExBO hole tile loses =20CB, 71
+BL hands over 一 digs up 一 =20CB, 72
+ST hands over 一 digs up 一 =20CB, 73
+HU hands over 一 digs up 一 =20CB, 74
+BO hands over 一 digs up 一 =20CB, 75
+In loses 一 assists five =20CB, 76
+Loses 一 assists fifth heavenly stem Iraq valve 一 =20CB, 77
+In great valve day five =20CB, 78
+Great valve day fifth heavenly stem Iraq valve 一 =20CB, 79
+Six cancels kind husband uniform now to cancel =20CB, 7A
+Six cancels kernel Qiu Danpu five =20CB, 7B
+Six cancels kind husband 一 partner =20CB, 7C
+Excess DanKong Renfu uniform now cancels =20CB, 7D
+Excess DanKong Renchou Dan servant five =20CB, 7E
+Excess DanKong Renfu 一 partner =20CB, 7F
+
+[战 must Chinese style pavilion 章]
+Throws imitates hole jade =20C5,0
+Bini リ 一 =20C5,1
+Hands over tile Shi 一dan =20C5,2
+Tile ャ テ slave 一 =20C5,3
+Great Pi 一huo =20C5,4
+Bai Yang Huowu 一 =20C5,5
+Great reprimands Nepal to imitate =20C5,6
+The valve will imitate forever not =20C5,7
+Hits imitates assists day =20C5,8
+The jade imitates great 一 =20C5,9
+Imitates the milk to live partner =20C5 left, A
+Loses throws oneself extends imitates assists =20C5, B
+Violates day husband 一 jade =20C5, C
+Spear partner not 一 skin =20C5, D
+Great arrow リ left partner =20C5, E
+Bai Yang Naitian 一 jade =20C5, F
+
+[战 must 时 clean]
+无 限 =46FFA, 18,15
+The flower bud covets bestows on evening =46FFA, 0,0
+
+[自 pulls up extremely potato]
+ON=45A7C, 58
+
+[自 pulls up kui to say]
 ON=45A79,10
 
-[自己变球立刻恢复]
+[& # x8D7B; & # x64A9; & # x66F9;球The flower bud covets the valve flower]
 ON=45A80,0
 
-[自己积分]
-ON=46FFC,9,0,0,0
+[自 pulls up 积 Xu]
+ON=46FFC, 9,0,0,0
 
-[2P体力]
+[2P extremely potato]
 ON=45C08,0
 
-[2P能量]
+[The 2P kui says]
 ON=45C05,0
 
-[2P变球恢复不能]
-ON=45C0C,F
+[2P& # x66F9;球Valve flower auspicious kui]
+ON=45C0C, F
 
-[2P积分]
-ON=47000,F7,FF,FF,FF
+[2P 积 Xu]
+ON=47000, F7, FF, FF, FF
 
-[3P体力]
+[3P extremely potato]
 ON=45D94,0
 
-[3P能量]
+[The 3P kui says]
 ON=45D91,0
 
-[3P变球恢复不能]
-ON=45D98,F
+[3P& # x66F9;球Valve flower auspicious kui]
+ON=45D98, F
 
-[3P积分]
-ON=47004,F7,FF,FF,FF
+[3P 积 Xu]
+ON=47004, F7, FF, FF, FF
 
-[4P体力]
+[4P extremely potato]
 ON=45F20,0
 
-[4P能量]
-ON=45F1D,0
+[The 4P kui says]
+ON=45F1D, 0
 
-[4P变球恢复不能]
-ON=45F24,F
+[4P& # x66F9;球Valve flower auspicious kui]
+ON=45F24, F
 
-[4P积分]
-ON=47008,F7,FF,FF,FF
+[4P 积 Xu]
+ON=47008, F7, FF, FF, FF
 
-[修行篇捕获量]
+[Resort disobedient pupil phoenix says]
 ON=42E64,63
 
 [GameInfo]
-Name=1868 - 球斗士X[Vattroller X]
+Name=1868 - Vattroller X (J) & # x3117;球Must 士 ） （ J ） RPG 64
 System=GBA
-
+Text=vicente

@@ -1,0 +1,30 @@
+[Time]
+ON=39269,0,0
+
+[Speed]
+ON=40C1D,20,3
+
+[GameInfo]
+Name=0473 - V - Rally 3 (E)（V拉力3）（M）RCG 32
+System=GBA
+Text=大胖子 整理提供
+------------------------------------------------
+[Time]
+ON=39268,0,0,0,0
+
+[The vehicle race is durable]
+ON=392D2,0;392D5,0;392D8,0;392DB,0;392DE,0
+
+[Entire vehicle race]
+ON=392AB,0,0,0,0,0,0,0,0
+
+[Time Entire racetrack]
+ON=39A9A,0,0,0,0,0,0,0,0
+
+[Cross Entire racetrack]
+ON=3930A,0,0,0,0
+
+[GameInfo]
+Name=0473 - V - Rally 3 (E)（V拉力3）（M）RCG 32
+System=GBA
+Text=vicente

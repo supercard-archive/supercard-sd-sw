@@ -1,0 +1,21 @@
+[Airplane durable] ON=402E1,44
+
+[Airplane stealth] ON=402D8, FF
+
+[Fast conclusion] ON=47080,0,0
+
+[Character physical strength] ON=427B4,44
+
+[Character stealth] ON=476B0, FF
+
+[Rank] ON=4702C, 62
+
+[Experience] ON=4705C, 18,6F, E
+
+[Bomb] ON=47014,8
+
+[Entire weapon] ON=4773C, FF, FF, FF; 47744, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire stage prop] ON=47740, FF, FF, FF
+
+[GameInfo] Name=2090 - Sigma Star Saga (U) System=GBA Text=vicente 

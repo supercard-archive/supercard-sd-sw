@@ -1,0 +1,16 @@
+[Life]
+MAX=369DE,64
+
+[Bullet-proof vest]
+MAX=369E0,64
+
+[Bullet number]
+100=369FE,64;36A08,64
+
+[Bullet box]
+100=36A16,64;36A20,64
+
+[GameInfo]
+Name=0204 - Ecks vs Sever (U)£¨°¬¿ËË¹VSÉªÍÞ£©£¨M£©FPS 64
+System=GBA
+Text=Azrael

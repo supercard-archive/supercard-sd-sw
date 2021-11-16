@@ -1,14 +1,27 @@
-[子弹数]
+[Bullet number]
 ON=400A0,E7,3
 
-[血]
+[Blood]
 ON=45EFD,4
 
-[雷]
+[Thunder]
 ON=400A8,63
 
 [GameInfo]
-Name=1778 - 屠戮开关[Kill Switch]
+Name=1778 - Kill Switch (E)（战地杀机）（M5） STG 32
 System=GBA
-Text=1778 - Kill Switch (U)
+Text=大胖子 整理提供
+----------------------------------------------------
+[Life]
+ON=45EFD,4;45FE1,4
 
+[Bullet]
+ON=400A0,E7,3
+
+[Grenade]
+ON=400A8,63
+
+[GameInfo]
+Name=1778 - Kill Switch (E)（战地杀机）（M5） STG 32
+System=GBA
+Text=vicente

@@ -1,0 +1,64 @@
+[Physical strength]
+ON=6BB4,64
+
+[Money]
+ON=6BAC,7F,96,98
+
+[Condition]
+ON=6bb8,64,0,64,0,64,0,64,0,64,0,64;6C0E,63,0,63,0,63,0,63,0,63;6C26,C8,0,C8,0,C8,0,9,0,9,0,9,0,9,0,9
+
+[GameInfo]
+Name=0012 - Powerful Pro Baseball 3 (J)（力量职业棒球3）（J）TCG 64
+System=GBA
+Text=大胖子 整理提供
+-------------------------------------------------------------------
+[Money 99999999]
+ON=6BAC,FF,E0,F5,5
+
+[Full HP]
+ON=6BB4,64
+
+[HP]
+ON=6BB6,64
+
+[Not weary]
+ON=6BB8,0
+
+[Friendly]
+ON=6BC0,64
+
+[Lv.７]
+ON=6C0C,7
+
+[Energy Ａ２５５]
+ON=6C0E,FF
+
+[Shoulder strength Ａ１５]
+ON=6C10,F
+
+[Walking strength Ａ１５]
+ON=6C12,F
+
+[Defending strengthＡ１５]
+ON=6C14,F
+
+[Ball fast２５５km/h]
+ON=6C26,FF
+
+[CriterionＡ２５５]
+ON=6C28,FF
+
+[Physical strengthＡ２５５]
+ON=6C2A,FF 
+
+[Ball type]
+スライダ一=6C2C,FF
+カ一ブ=6C2E,FF
+フォ一ク=6C30,FF
+シンカ一=6C32,FF
+シュ一ト=6C34,FF
+
+[GameInfo]
+Name=0012 - Powerful Pro Baseball 3 (J)（力量职业棒球3）（J）TCG 64
+System=GBA
+Text=169

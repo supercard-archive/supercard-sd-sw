@@ -1,16 +1,13 @@
-[人数]
-ON=424D2,63
+[Blood] ON=426EC, 5
 
-[隐身]
-ON=426D4,FF
+[Bullet] ON=434AC, 63
 
-[星星]
-ON=434AC,63
+[Only counts] ON=424D2,63
 
-[时间]
-ON=43480,9
+[Time] ON=43488,9; 4348C, 9
 
-[GameInfo]
-Name=1922 - 蝙蝠小子[Aero The Acrobat]
-System=GBA
+[Five-star] ON=426BC, 63
 
+[Stealth] ON=426D4,64
+
+[GameInfo] Name=1922 - Aero The Acrobat (E) (BATMAN) (E) ACT 32 System=GBA the Text= big fat person reorganizes provides

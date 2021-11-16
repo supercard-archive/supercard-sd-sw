@@ -1,0 +1,37 @@
+[Blood]
+MAX=37D94,10
+
+[Invisible]
+ON=37D84,64
+
+[Playtime]
+ON=36BC0,0,0
+
+[Fast gathering gas]
+ON=37E78,FF,FF
+
+[Spares number]
+ON=37EEE,C8
+
+[Number of elements]
+ON=36BB4,9
+
+[All weapons]
+ON=37F00,F
+
+[LV]
+S=36BB5,6
+A=36BB5,5
+B=36BB5,4
+C=36BB5,3
+D=36BB5,2
+E=36BB5,1
+F=36BB5,0
+
+[Weapon grade]
+ON=37F12,2,4,2,2
+
+[GameInfo]
+Name=1207 - Megaman Zero 2 (U)（洛克人ZERO2）（E） ACT 64
+System=GBA
+Text=大胖子

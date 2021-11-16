@@ -1,0 +1,40 @@
+[Money]
+ON=431A0,F,27
+
+[Borrowing money in advance MAX]
+ON=431A2,FF,FF
+
+[Postwar experience]
+ON=43608,F,27
+
+[Dramatis personae LV 99]
+ON=431E0,63
+
+[Dramatis personae Greatest HP]
+ON=431D2,F,27
+
+[Dramatis personae GreatestPP]¡¡
+ON=431D4,F,27
+
+[Dramatis personae current HP]
+ON=431E4,F,27
+
+[Dramatis personae current PP]
+ON=431E6,F,27
+
+[Dramatis personae  EXP]
+ON=431E1,3F,42,F
+
+[Dramatis personae entirePSI]
+ON=43200,FF,FF,FF,FF,0
+
+[Dramatis personae entire MELODY]
+ON=433AE,FF
+
+[Dramatis personae condition is normal]
+ON=431D1,0
+
+[GameInfo]
+Name=1069 - Mother 1+2 (J) £¨Âèßä1+2£©£¨J£© RPG 128
+System=GBA
+Text=tk2.nmt.ne.jp

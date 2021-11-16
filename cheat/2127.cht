@@ -1,0 +1,11 @@
+[Plays 1 to go through a strategic pass fast] ON=5C70,1
+
+[Plays 1 integral] ON=168,7F, 96,98
+
+[Plays 1 pill type] entire blue =B54,1 entire yellow =B54,4 entire red =B54, D
+
+[Plays 2 integrals] ON=438F8,3F, 42, F
+
+[Plays 2 time] ON=43904,0,0,0,0
+
+[GameInfo] Name=2127 - Dr. Mario & Panel de Pon (J) System=GBA Text=vicente

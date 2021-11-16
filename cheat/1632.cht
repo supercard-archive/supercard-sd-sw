@@ -1,7 +1,7 @@
-[时间]
+[Time]
 ON=D48,0,0
 
-[道具]
+[Stage pro]
 1=4453C,1,0,0,0
 2=4453C,2,0,0,0
 3=4453C,3,0,0,0
@@ -15,11 +15,10 @@ ON=D48,0,0
 11=4453C,B,0,0,0
 12=4453C,C,0,0,0
 
-[苹果]
+[Apple]
 ON=445B4,63
 
 [GameInfo]
-Name=1632 - 古惑狼赛车[crash bandicoot bakusou nitro cart (j)]
+Name=1632 - Crash Bandicoot Bakusou Nitro Cart (J)（古惑狼赛车）（J）RCG 64
 System=GBA
-Text=1632_-_crash_bandicoot_bakusou_nitro_cart_(j)(caravan)
-
+Text=caravan

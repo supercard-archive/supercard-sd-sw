@@ -1,0 +1,9 @@
+[Population] ON=435E0,63
+
+[Collection] ON=435E4,3
+
+[Gold coin] ON=435E2, E7,3
+
+[Checkpoint all opens] ON=43508, FF, FF
+
+[GameInfo] Name=2025 - Frogger's Adventures - Temple of the Frog (E) System=GBA Text=vicente 

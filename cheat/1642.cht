@@ -1,11 +1,10 @@
-[我方体力]
+[Physical strength of our side]
 ON=24258,F,27
 
-[对方体力]
+[Physical strength of opposite side]
 ON=2425A,0,0
 
 [GameInfo]
-Name=1642 - 游戏王-毁灭的大邪神[Yu-Gi-Oh Reshef of Destruction (E)]
+Name=1642 - Yu-Gi-Oh Reshef of Destruction (E)（游戏王-毁灭的大邪神）（M5）CAG 128
 System=GBA
-Text=1642_-_Yu-Gi-Oh_Reshef_of_Destruction (E)
-
+Text=大胖子 整理提供

@@ -1,22 +1,22 @@
-[血]
+[Blood]
 ON=114AC,1C
 
-[无敌]
+[Invincibility]
 ON=1147E,7F
 
 [EXP]
 ON=2084C,9F,86,1
 
-[怒气槽]
+[Angry trough]
 ON=20844,64
 
-[只数]
+[Number of elements]
 ON=20842,9
 
-[得分]
+[Score]
 ON=2082C,FF,E0,F5,5
 
 [GameInfo]
-Name=1602 - SD高达战队[SD GUNDAM FORCE]
+Name=1602 - SD Gundam Force (J)（SD高达力量）（J）FTG 64
 System=GBA
-Text=1602 - SD GUNDAM FORCE (J)[Mick]
+Text=Mick

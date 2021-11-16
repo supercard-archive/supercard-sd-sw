@@ -1,0 +1,9 @@
+[Population] ON=4347C, 63
+
+[Does not die] ON=43480,1
+
+[Integral] ON=41140, FF, E0, F5,5
+
+[Stage choice] frog =4685F, 0 puppies =4685F, 1 insect =4685F, 2 comedian clowns =4685F, 3
+
+[GameInfo] Name=2017 - Muppet Pinball Mayhem (E) System=GBA Text=vicente 

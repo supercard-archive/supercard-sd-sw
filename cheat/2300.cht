@@ -1,0 +1,13 @@
+[Money]
+ON=3A060, F, 27
+
+[Entire picture]
+ON=3A070, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire shopping]
+ON=3A040, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF; 3A052, FF
+
+[GameInfo]
+Name=2300 - Pocket Dogs (U)
+System=GBA
+Text=vicente 

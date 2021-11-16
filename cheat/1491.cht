@@ -1,15 +1,10 @@
-[快速过关] 
-ON=13D30,03
+[Speed]
+ON=46369,8C
 
-[赛场开启]
-ON=1022,0A
-
-[附加杯开启]
-ON=F49,FF;F4A,FF
-
-[奖杯全收集]
-ON=1935,01;1936,01,01;1938,01,01;193A,01 
+[Money]
+ON=35408,FF,E0,F5,5
 
 [GameInfo]
-Name=1491 - 加杰特赛车[Gadget Racers]
+Name=1491 - Gadget Racers (E)（迷你赛车）（M3）RCG 64
 System=GBA
+Text=大胖子 整理提供

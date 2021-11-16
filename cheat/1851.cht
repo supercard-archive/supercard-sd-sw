@@ -1,38 +1,11 @@
-[生命]
-ON=43BA0,DC,5
+[Time] ON=39268,0,0,0,0
 
-[能量]
-ON=43BE2,3C
+[Vehicle race durable] ON=392D2,0; 392D5,0; 392D8,0; 392DB, 0; 392DE, 0
 
-[人数]
-ON=41F43,63
+[Entire vehicle race] ON=392AB, 0,0,0,0,0,0,0,0
 
-[必杀LV]
-ON=43BE4,E3
+[Time entire racecourse] ON=39A9A, 0,0,0,0,0,0,0,0
 
-[宝石]
-ON=41F42,63
+[Cross entire racecourse] ON=3930A, 0,0,0,0
 
-[隐身]
-ON=43BA5,7C;43BA8,FF
-
-[人物选择]
-红衣战士=43BA7,0
-蓝衣战士=43BA7,1
-紫衣战士=43BA7,2
-
-[BOSS战我方生命]
-ON=43AA0,20,3
-
-[BOSS战我方能量]
-ON=43AE2,E7,3
-
-[BOSS战对方生命]
-ON=43CA2,0,0
-
-[BOSS战对方能量]
-ON=43CE2,0,0
-
-[GameInfo]
-Name=1851 - 幻星神-地球的战士们[Genseishin Justirisers]
-System=GBA
+[GameInfo] Name=1851 - V-Rally 3 (U) (V pulling force 3) (E) RCG 32 System=GBA Text=vicente

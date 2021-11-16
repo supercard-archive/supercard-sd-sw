@@ -1,0 +1,25 @@
+[Blood]
+ON=422E0,63
+
+[Bullet of black pistol]
+ON=42c12,E7.03
+
+[Bullet of green pistol]
+ON=42c14,E7.03
+
+[Rocket launcher bullet ]
+ON=42c16,E7.03
+
+[Airplane missile]
+ON=42c18,E7.03
+
+[Bomb number]
+ON=42c1c,E7.03
+
+[Froth artillery bullet]
+ON=42c1e,E7.03
+
+[GameInfo]
+Name=0273 - Dark Arena (U)（暗黑竞技场）（E）FPS 64
+System=GBA
+Text=大胖子 整理提供

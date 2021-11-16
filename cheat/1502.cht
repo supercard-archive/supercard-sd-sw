@@ -1,11 +1,11 @@
-[金钱]
+[Money]
 ON=454,FF,C9,9A,3B
 
-[能力]
+[Ability]
 最强=414,7F,7F,7F,7F,7F,7F,7F,7F,E7,3,E7,3,E7,3
 超强(不建议)=414,80,80,80,80,80,80,80,80,E7,3,E7,3,E7,3
 
-[能力]
+[Energy]
 最强=4B0,7F,7F,7F,7F,7F,7F,7F,7F,E7,3,E7,3,E7,3
 超强(不建议)=4B0,80,80,80,80,80,80,80,80,E7,3,E7,3,E7,3
 
@@ -14,6 +14,6 @@ ON=454,FF,C9,9A,3B
 最多15人=449D1,F
 
 [GameInfo]
-Name=1502 - 热血物语EX[River City Ransom EX (U)]
+Name=1502 - River City Ransom EX (U)（热血物语EX）（E）ACT 32
 System=GBA
-Text=1502 - River City Ransom EX (U)（热血物语EX）（E）ACT 32
+Text=snake0306

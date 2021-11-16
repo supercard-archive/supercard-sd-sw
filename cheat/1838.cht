@@ -1,49 +1,49 @@
-[生命]
-ON=4254E,F,27
+[Life]
+ON=4254E, F, 27
 
-[能量]
+[Energy]
 ON=42552,4
 
-[隐身]
-ON=4254A,E0
+[Stealth]
+ON=4254A, E0
 
-[生命上限]
-ON=42554,F,27
+[Life upper limit]
+ON=42554, F, 27
 
-[评价S]
-ON=4182E,6
+[Appraises S]
+ON=4182E, 6
 
-[评价时间]
+[Appraisal time]
 ON=41834,0,0
 
-[BOSS速死]
+[BOSS fast dies]
 ON=43280,0,0
 
-[隐藏人物]
-ON=4173E,FF
+[Hides character]
+ON=4173E, FF
 
-[关开全开]
+[Guan Kaiquan opens]
 ON=41674,4,4,4,4,4,4,4,4
 
-[隐藏难度]
+[Hideaway difficulty]
 ON=41734,3
 
-[全BGM]
-ON=41724,FF,FF,FF
+[Entire BGM]
+ON=41724, FF, FF, FF
 
-[全ANIME]
-ON=416FE,FF
+[Entire ANIME]
+ON=416FE, FF
 
-[全CG]
-ON=4167C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire CG]
+ON=4167C, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF,FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[全事件]
-ON=416D4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire event]
+ON=416D4, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[全S评价]
-ON=416FF,06,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+[Entire S appraisal]
+ON=416FF, 06,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
 
 [GameInfo]
-Name=1838 - 忘却的旋律[The Melody Of Obilive]
+Name=1838 - Boukyaku no Senritsu (J) (put behind melody) (J) AVG 64
 System=GBA
-
+Text=vicente

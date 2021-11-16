@@ -1,0 +1,36 @@
+[Money]
+ON=41A3C,9F,86,1
+
+[Our side POWER]
+ON=42166,F,27
+
+[Opposite side POWER]
+ON=40424,0,0
+
+[GameInfo]
+Name=0532 - V - Master Cross (J)（V-怪兽卡片斗士）（J）CAG 128
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------
+[Money]
+ON=1A3C,9F,86,1
+
+[Surplus experience]
+ON=1A32,0,0
+
+[Our side Power]
+ON=42166,F,27
+
+[Our side ME]
+ON=4216A,FF
+
+[Opposite side Power]
+ON=42482,0,0
+
+[Opposite side ME]
+ON=42486,0
+
+[GameInfo]
+Name=0532 - V - Master Cross (J)（V-怪兽卡片斗士）（J）CAG 128
+System=GBA
+Text=vicente

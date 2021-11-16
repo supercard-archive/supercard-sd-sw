@@ -1,37 +1,7 @@
-[我方生命]
-ON=11C98,64
+[Motion points] biggest =43434,9; 43490,9; 434EC, 9 smallest =43434,0; 43490,0; 434EC, 0
 
-[我方气力]
-ON=11C9A,64
+[Checkpoint all opens] ON=448F8, FF, FF, FF, FF
 
-[我方能量]
-ON=11C9E,64
+[Strengthened points] ON=2DC8, E7,03; 2DF0, E7,03; 2E18, E7,03; 2E40, E7,03; 2E68, E7,03; 2E90, E7,03; 2EB8, E7,03; 2EE0, E7,03
 
-[对方生命]
-ON=11F20,0
-
-[对方气力]
-ON=11F22,0
-
-[对方能量]
-ON=11F26,0
-
-[时间无限]
-ON=12255,FF
-
-[全人物]
-ON=130B2,FF,FF
-
-[全小游戏]
-ON=130B6,FF,1;130B4,FF,FF
-
-[全模式]
-ON=130B7,1
-
-[全收集]
-ON=1319C,FF,FF,FF,FF,FF,FF,FF
-
-[GameInfo]
-Name=1850 - 金色卡修友情电击2[Konjiki No Gashbell Unare 2]
-System=GBA
-
+[GameInfo] Name=1850 - The Lord of the Rings - Nakatsukuni Daisanki (J) (finger ring king - tertiary period) (J) SLG 128 System=GBA Text=vicente

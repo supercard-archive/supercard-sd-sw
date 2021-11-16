@@ -1,67 +1,59 @@
-[1代生命]
-ON=43F2D,10
+[1 generation of life] ON=43F2D, 10
 
-[1代生命上限]
-ON=43F2C,10
+[1 generation of life upper limit] ON=43F2C, 10
 
-[1代术值]
-ON=43F2E,63
+[1 generation of technique value] ON=43F2E, 63
 
-[1代人数]
-ON=43F32,4
+[1 generation of population] ON=43F32,4
 
-[1代时间]
-ON=43F60,FF,FF
+[1 generation of time] ON=43F60, FF, FF
 
-[1代金钱]
-ON=43F34,FF,FF
+[1 generation of money] ON=43F34, FF, FF
 
-[1代炸弹]
-ON=43F39,63
+[1 generation of bomb] ON=43F39,63
 
-[1代全道具]
-ON=43F4E,63,63,63,63,62,63,63,63,63,63,63,63,63
+[1 generation of entire stage prop] ON=43F4E, 63,63,63,63,62,63,63,63,63,63,63,63,63
 
-[1代全卷轴]
-ON=43F44,1,1,1,1
+[1 generation of entire reel] ON=43F44,1,1,1,1
 
-[2代生命]
-ON=4716E,10
+[2 generation of lives] ON=4716E, 10
 
-[2代生命上限]
-ON=4716C,10
+[2 generation of lives upper limits] ON=4716C, 10
 
-[2代人数]
-ON=47152,63
+[2 generation of populations] ON=47152,63
 
-[2代金钱]
-ON=47140,F,27
+[2 generation of moneys] ON=47140, F, 27
 
-[2代时间]
-ON=46FCE,63
+[2 generation of time] ON=46FCE, 63
 
-[2代全道具]
-ON=47142,6,6,6,3,3,3
+[2 generation of entire stage props] ON=47142,6,6,6,3,3,3
 
-[机器人横版战能量]
-ON=47148,E7,3
+[GameInfo] Name=1973 - Kessakusen! Ganbare Goemon 1+2 (J) System=GBA Text=vicente 
 
-[机器人横版战金钱]
-ON=4714A,E7,3
+[1 generation of - time does not reduce] ON=43F60, DB
 
-[机器人横版战级别]
-ON=4714C,63
+[1 generation of - physical strength does not reduce] ON=43F2C, 1A, 1A
 
-[机器人纵版战能量]
-ON=526,E7,3
+[1 generation of - life does not reduce] ON=43F32,4
 
-[机器人纵版战金钱]
-ON=528,E7,3
+[1 generation of - money infinite] ON=43F34,9F, 86,1
 
-[机器人纵版战敌人体力]
-ON=1482,0,0
+[1 generation of - bomb does not reduce] ON=43F39,63
 
-[GameInfo]
-Name=1973 - 大盗伍佑卫门1+2[Kessakusen! Ganbare Goemon 1+2]
-System=GBA
+[1 generation of - technique 99] ON=43F2E, 63
 
+[1 generation of - reel 99] ON=43F38,63
+
+[1 generation of - stage prop entire full] ON=43F4E, 63,63,63,63,62,63,63,63,63,63,63,63,63,63
+
+[2 generation of - time do not reduce] ON=46FCE, 63
+
+[2 generation of - moneys infinite] ON=47140, F, 27
+
+[2 generation of - lives do not reduce] ON=47152,63
+
+[2 generation of - stage props all open] ON=47142,5,5,3,3,3,3; 4716C, A; 4716E, A
+
+[2 generations - glitter invincibly] ON=47126,50
+
+[GameInfo] Name=1973 - 2 Games in 1-Kessakusen Ganbare Goemon 1 and 2 (J) thief Wu Youwei the gate 1+2 gathers edits ACT System=GBA Text=GINO-2005-4-28 

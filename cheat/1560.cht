@@ -1,16 +1,16 @@
-[体力上限]
+[Physical strength with an upper limit]
 ON=20FE1,C
 
-[体力不减]
+[Physical strength does not reduce]
 ON=20FE0,C
 
-[命MAX]
+[LifeMAX]
 ON=20FE2,63
 
-[无敌]
+[Invinciblity]
 ON=20F3C,64
 
-[卡比状态]
+[Kabei condition]
 正常=20FE3,0
 喷火=20FE3,1
 冷冻=20FE3,2
@@ -39,7 +39,7 @@ ON=20F3C,64
 导弹=20FE3,19
 万能剑=20FE3,1A
 
-[红色卡比状态]
+[Red Kabei condition]
 正常=21333,0
 喷火=21333,1
 冷冻=21333,2
@@ -68,7 +68,7 @@ ON=20F3C,64
 导弹=21333,19
 万能剑=21333,1A
 
-[黄色卡比状态]
+[Yellow Kabei condition]
 正常=2118B,0
 喷火=2118B,1
 冷冻=2118B,2
@@ -97,7 +97,7 @@ ON=20F3C,64
 导弹=2118B,19
 万能剑=2118B,1A
 
-[绿色卡比状态]
+[Red Kabei condition]
 正常=214DA,0
 喷火=214DA,1
 冷冻=214DA,2
@@ -126,22 +126,21 @@ ON=20F3C,64
 导弹=214DA,19
 万能剑=214DA,1A
 
-[全地图]
+[Entire map]
 ON=3897C,FF
 
-[等待卡比数量]
+[Waiting for Kabei quantity]
 3个=3AD44,4
 2个=3AD44,3
 1个=3AD44,1
 
-[任何时候可呼叫]
+[Calling at any time]
 ON=20FBC,3
 
-[碎片全收集]
+[Fragment entire collection]
 ON=38970,FF,FF
 
 [GameInfo]
-Name=1560 - 星之卡比 镜之大迷宫[Kirby & the Amazing Mirror]
+Name=1560 - Kirby and the Amazing Mirror (E)（星之卡比-镜之谜宫）（M5）ACT 128
 System=GBA
-TEXT=1560 - Kirby & the Amazing Mirror[魔剑士但丁 2004 7.15 18:08]
-
+TEXT=魔剑士但丁

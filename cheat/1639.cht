@@ -1,32 +1,95 @@
-[体力] 
+[Blood]
+ON=38044,10
+
+[Invisible]
+ON=380344,C8
+
+[Number of elements]
+ON=372B0,9
+
+[MONEY]
+ON=3805A,F,27
+
+[Fast gathering gas]
+ON=3807C,FF
+
+[Grade]
+S=372B1,6
+A=372B1,5
+B=372B1,4
+C=372B1,3
+D=372B1,2
+E=372B1,1
+F=372B1,0
+
+[Hideway pattern all open]
+OPEN=244A,FF,FF,FF,FF,FF,FF,FF
+
+[All chips]
+ON=38068,FF,FF
+
+[Entire genius/Entire equipment/Entire weapon]
+ALL=37218,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1;37D2A,FF,FF,FF,FF
+
+[Entire illustrated handbook]
+ON=371B8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Full energy pot]
+ALL=3805C,20,20,20,20
+
+[Infinite fault of hideway game]
+
+[Hideway game score MAX]
+ON=31C74,9F,86,1;31C78,9F,86,1
+
+[Next ball color of hideway game
+红色=31C88,1
+兰色=31C88,0
+绿色=31C88,2
+黑色=31C88,4
+
+[BOSS must die as soon as strikes
+ON=3BE44,1;3BA54,1
+
+[Playtime
+00'00'00=375FD,0
+99'59'59=375FD,96,49
+
+[GameInfo]
+Name=1639 - Megaman Zero 3 (E)（洛克人Zero3）（E）ACT 64
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------
+[Physical strength
 MAX=38044,10
 
-[人数]
+[Population]
 max=372B0,09
 
-[S级]
+[S rank
 on=372B1,06
 
 [E-C]
 on=3805A,0F,27
 
-[无敌]
+[Invincibility]
 on=38034,50
 
-[E罐]
+[E Pot]
 max=3805C,20,20,20,20
 
-[EX特技]
+[EX stunt]
 max=38068,FF,FF
 
-[全装备]
+[Entire equipment]
 on=3806A,FF,FF;3806C,FF,FF
 
-[瞬间蓄力]
+[Instant storage]
 ON=3807C,93
 
 [全精灵]
-ON=37218,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ON=37218,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
 [全图鉴]
 ON=371b8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
@@ -35,13 +98,12 @@ ON=371b8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 ON=3BE44,00
 
 [传送全开]
-on=372C4,FF,FF
+ON=372C4,FF,FF
 
 [小游戏全开]
 ON=0244A,3E,44;0244C,4A,50,56,5C;02450,61
 
 [GameInfo]
-Name=1639 - 洛克人ZERO3[MegaMan Zero 3]
+Name=1639 - Megaman Zero 3 (E)（洛克人Zero3）（E）ACT 64
 System=GBA
-Text=洛克人ZERO3[HeavenLight]
-
+Text=HeavenLight

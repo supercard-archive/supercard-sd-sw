@@ -1,0 +1,16 @@
+[Instant speed]
+ON=403B8,20,4E
+
+[Vehicle race gasoline ]
+ON=403A8,DF,FF,77
+
+[The vehicle race  durability]
+ON=403AC,FF,FF,FF,2,FF,FF,2
+
+[Fast pass a barrier]
+ON=403D2,5
+
+[GameInfo]
+Name=1091 - F1 2002 (U) £¨F1´ó½±Èü2002£©£¨E£©RCG 32
+System=GBA
+Text=vicente

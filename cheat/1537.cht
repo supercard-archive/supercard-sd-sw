@@ -1,13 +1,13 @@
 [hp]
 ON=3DBE9,A
 
-[金环]
+[Gold ring]
 ON=3E14C,9
 
-[金钱]
+[Money]
 ON=3E144,9F,86,1
 
 [GameInfo]
-Name=1537 - 幻想新国度 [Asterix and Obelix XXL]
+Name=1537 - Asterix and Obelix XXL (E)（幻想新国度）（M6）A·RPG 64
 System=GBA
-
+Text=haoxujie(恶魔)

@@ -1,4 +1,4 @@
-[答题成功数]
+[Successfully answered number]
 100=40114,0
 200=40114,1
 300=40114,2
@@ -16,6 +16,6 @@
 1MILLION=40114,E
 
 [GameInfo]
-Name=1713 - 谁想成为百万富翁2nd[Who Wants To Be A Millionaire 2nd]
+Name=1713 - Who Want's To Be A Millionaire 2nd Edition (E)（谁想成为百万富翁2）（E）ETC 32
 System=GBA
-
+Text=vicente

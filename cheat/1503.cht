@@ -1,10 +1,10 @@
-[哈力波特SP]
+[Harry Potter SP]
 ON=424F4,E7,3;42510,E7,3
 
-[哈力波特HP]
+[Harry PotterHP]
 ON=424F6,E7,3;42512,E7,3
 
-[哈力波特所有能力]
+[All ability of Harry Potter]
 ON=424FB,7,3,3,3,3,3,3,3,3,3,3,2
 
 [赫瑞蒙HP]
@@ -16,37 +16,38 @@ ON=4253C,E7,3;42558,E7,3
 [赫瑞蒙所有能力]
 ON=42543,7,3,3,3,3,3,3,3,3,3,3
 
-[罗恩HP]
+[Ron HP]
 ON=42586,E7,3;425A2,E7,3
 
-[罗恩SP]
+[Ron SP]
 ON=42584,E7,3;425A2,E7,3
 
-[罗恩所有能力]
+[All ability of Ron]
 ON=4258B,7,3,3,3,3,3,3,3,3,3,3
 
-[等级MAX]
+[Grade MAX]
 ON=424FA,FF
 
-[快速升级]
+[Fast upgrade]
 ON=426F0,E7,3
 
-[游戏时间]
+[Playtime]
 93:99=43187,FF
 00:00=43187,0
 
-[金钱MAX]
+[MoneyMAX]
 ON=43180,F,27
 
-[全部卡片]
+[Entire card]]
 ON=4320A,FF,FF,FF,FF,FF,FF,FF,B
 
-[全部卡片等级MAX]
+[Entire card gradeMAX]
 ON=431D8,9,9
 
-[开启所有怪物图鉴]
+[Open all monster icons]
 ON=43190,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
 
 [GameInfo]
-Name=1503 - 哈利波特 阿兹卡班囚徒[Harry Potter and the Prisoner of Azkaban]
+Name=1503 - Harry Potter and the Prisoner of Azkaban (U)（哈利波特与阿兹卡班的逃犯）（E）RPG 128
 System=GBA
+Text=魔剑士但丁

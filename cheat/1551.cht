@@ -1,28 +1,28 @@
-[金钱]
+[Money]
 ON=414EC,3F,42,F
 
-[全道具]
+[Entire stage pro]
 ON=41909,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
 
-[1P经验]
+[1P Experience]
 ON=41970,F,27
 
-[1P能力最高]
+[1P The highest ability ]
 ON=41974,E7,3;41978,E7,3;4197E,E7,3;41982,E7,3
 
-[全员满HP]
+[Entire memeber HP]
 ON=41972,E7,3;4198E,E7,3;419AA,E7,3;419C6,E7,3;419E2,E7,3
 
-[特殊历程全开]
+[The special course all open]
 ON=4195F,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[战斗中/我方积分]
+[In fighting/our integral]
 ON=8C78,63
 
-[战斗中/对方积分]
+[In fighting / opposite side integral]
 ON=AC74,0
 
 [GameInfo]
-Name=1551 - BB球[BB Ball]
+Name=1551 - BB Ball (J)（BB球）（J）RPG 64
 System=GBA
 Text=vicente

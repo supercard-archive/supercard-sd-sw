@@ -1,46 +1,15 @@
-[不遇敌]
-ON=8EC4,0
+[Life] ON=44AF4: 63
 
-[地点全开]
-ON=6B28,FF,FF,FF,FF
+[Population] ON=44AFC: 63
 
-[MG金钱]
-ON=6990,7F,96,98
+[Entire stage prop] ON=44B10,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63
 
-[EP]
-ON=698C,7F,96,98
+[Assists stage prop] ON=44B40, FF, FF; 44B44, FF, FF
 
-[全怪兽图鉴]
-ON=6B38,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Silver coin number] ON=44A68,63
 
-[主角等级]
-ON=3BB8,63
+[Key number] ON=44BA8,63
 
-[主角体力]
-ON=3BB4,F,27
+[鍏ㄨ兘鍔沒 ON=44A64,9; 44AD4: 09; 44B80,9; 44A70,1; 44BCC, 1; 44BBC, 1
 
-[主角魔力]
-ON=3BB6,F,27
-
-[主角体力上限]
-ON=3BBA,F,27
-
-[主角魔力上限]
-ON=3BBC,F,27
-
-[主角全能力]
-ON=3BBE,E7,3,E7,3,E7,3;3BD4,E7,3,E7,3,E7,3,E7,3
-
-[主角状态正常]
-ON=3BB9,0
-
-[主角升格值]
-ON=3BC4,7F,96,98
-
-[主角技能等级最高]
-ON=3BC8,63,63,63,63,63,63,63,63,63,63,63,63
-
-[GameInfo]
-Name=1869 - 冒险王[Lord of Adventure Bouken Ou Beat Busters Road]
-System=GBA
-
+[GameInfo] Name=1869 - Hobbit No Bouken (J) (Huo bit person's risk) (J) ACT 128 System=GBA Text=vicente

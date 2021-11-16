@@ -1,0 +1,96 @@
+[Time does not reduce]
+45秒=774C,1,2D
+60秒=774C,1,3C
+30秒=774C,1,1E
+
+[P1 Role choice
+コロシケ=23AA,0
+ウスタ一=23AA,1
+リゾシト=23AA,2
+プリンプリン=23AA,3
+フォンドヴォ一=23AA,4
+アブラミ一=23AA,5
+ババロア=23AA,6
+クシカツ=23AA,7
+ドリアン=23AA,8
+ダイフク一=23AA,9
+レバニラ=23AA,A
+T-ボ一ン=23AA,B
+黑マントの男=23AA,C
+ポ一=23AA,D
+
+[P1 Physical strength value]
+全满=6C09,64
+为零=6C09,0
+
+[P1 Energy value]
+全满=6C0B,64
+为零=6C0B,0
+
+[P2 Physical strength value]
+为零=6C19,0
+全满=6C19,64
+
+[P2 Energy value]
+为零=6C1B,0
+全满=6C1B,64
+
+[Location choice]
+船上=23B4,0
+草原=23B4,1
+森林=23B4,2
+岩场=23B4,3
+遗迹=23B4,4
+河=23B4,5
+沙漠=23B4,6
+熔岩=23B4,7
+钟乳洞=23B4,8
+矿山铁路=23B4,9
+とうぎ场=23B4,A
+
+[GameInfo]
+Name=0742 - Korokke Yume no Bunker Survival (J)（口袋梦幻）（J）FTG 64
+System=GBA
+Text=mxlee
+----------------------------------------------------------------------
+[Entire personality]
+ON=8B14,FF;8B28,1
+
+[Integral]
+ON=59F4,FF,E0,F5,5
+
+[Rabbit ingredients]
+ON=66C8,2,4,0,5,14
+
+[The fighting time
+ON=774E,0,17
+
+[Our life]
+ON=6C09,64
+
+[Our energy]
+ON=6C0B,64
+
+[The prohibition against goods of our side ]
+ON=6C10,E7,3
+
+[Our side invisiblity]
+ON=6CC8,10
+
+[Opposite side life]
+ON=6C19,0
+
+[pposite side energy]
+ON=6C1B,0
+
+[The prohibition against goods of the opposite side]
+ON=6C20,19,FC
+
+[Entire personality in the fighting time]
+步骤一=23E8,2
+步骤二=23E8,1
+
+[GameInfo]
+Name=0742 - Korokke Yume no Bunker Survival (J)（口袋梦幻）（J）FTG 64
+System=GBA
+Text=vicente

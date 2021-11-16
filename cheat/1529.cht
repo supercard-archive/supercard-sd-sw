@@ -1,19 +1,19 @@
-[身上的总金币]
+[Total gold coin in the hand]
 ON=402A4,F,27
 
-[各种钱币数量]
+[Each kind of money quantity]
 ON=4029E,E7,3,E7,3,E7,3;402A6,F,27;406B8,14
 
-[通关时间0]
+[Passing the barrier time 0]
 ON=402E8,14
 
-[通关金币]
+[Gold coin of passing the barrier]
 ON=40698,E7,3
 
-[不死]
+[Not die]
 ON=402C2,40
 
 [GameInfo]
-Name=1529 - 剑齿虎[Sabre Wulf (U)]
+Name=1529 - Sabre Wulf (U)（剑齿虎）（E）ACT 64
 System=GBA 
-TEXT=1529 - Sabre Wulf (U)
+TEXT=大胖子 整理提供

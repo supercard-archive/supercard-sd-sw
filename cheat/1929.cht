@@ -1,71 +1,27 @@
-[×Ô¼ºÌåÁ¦]
-ON=44949,FF
+[RANKING MODE money 9999999] ON=4770,7F, 96,98
 
-[×Ô¼ºÄÜÁ¿]
-ON=4495C,3
+[RANKIMG MODE entire role 99P] ON=4798, FF, FF; 479C, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
 
-[2PÌåÁ¦]
-×î´ó=44B75,FF
-×îĞ¡=44B75,0
+[Fight time stops] ON=446D2, E0
 
-[2PÄÜÁ¿]
-×î´ó=44B88,3
-×îĞ¡=44B88,0
+[1P hideaway role (in role choice)]
+GALE=65, A KING=65, B LUCIA=65, C ORGE=65, D * DORYU=65, E
 
-[3PÌåÁ¦]
-×î´ó=44DA1,FF
-×îĞ¡=44DA1,0
+[1P uses the BONUS role (role to choose)]
+MAJIN=65, F ONI=65,10
 
-[3PÄÜÁ¿]
-×î´ó=44DB4,3
-×îĞ¡=44DB4,0
+[The 1P special condition] EX the condition =44958,0,40 attack rises the =44958,9,0 speed to rise =44958,92,0
 
-[4PÌåÁ¦]
-ON=44FCD,0
+[The 1P individual goods cannot fall] ON=4498C, 1
 
-[4PÄÜÁ¿]
-ON=44FE0,0
+[1P infinite jumps] ON=449E8,4
 
-[È«ÈËÎï]
-ON=45794,1;45818,1;4589C,1;45920,1;459A4,1
+[1P invincible] ON=449E6, C7 OFF=449E6,09
 
-[Ê±¼ä]
-ON=446D2,80,E
+[1P HART] ON=4495C, 3
 
-[ÃğµĞÊı]
-ON=446EE,63
+[Our å‹å€’æ€§ victory] ON=44949,7A, 6
 
-[RB½ğÇ®]
-ON=4770,FF,E0,F5,5
+[The BONUS small game strikes but actually population 99] ON=446EE, 63
 
-[RBÈ«ÈËÎï]
-ON=4798,FF
-
-[RBÈËÎïÂúPP]
-ON=479C,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
-
-[RBÈ«Õ½ÒÛÌôÕ½¿ÉÄÜ]
-ON=4796,1,1
-
-[1PÑ¡ÈË]
-Haru=44942,1
-Musica=44942,2
-Elie=44942,3
-Griff&Plue=44942,4
-Let=44942,5
-Ruby=44942,6
-Celia=44942,7
-Sieg Hart=44942,8
-Reina=44942,9
-Gale=44942,A
-King=44942,B
-Lucia=44942,C
-Ogre=44942,D
-Doryu=44942,E
-ÂÌÉ«¹ÖÊŞ=44942,F
-ºìÉ«¶ñÄ§=44942,10
-
-[GameInfo]
-Name=1929 - ·ßÅ­´óÊ¦-ÌØÊâÁ¦Á¿[Rave Master Special Attack Force]
-System=GBA
-
+[GAMEINFO] NAME=1929 - roars king - special strength SYSTEM=GBA TEXT=1929 - Rave Master Special Attack Force (U) BY KRIZAL (storehouse advantage Luo river) 2005/3/13

@@ -1,0 +1,129 @@
+[Fight life]
+ON=41A60, E7,3
+
+[Fight stealth]
+ON=41A5D, FF
+
+[Money]
+ON=46510, FF, E0, F5,5
+
+[HP]
+ON=464A4, E7,3
+
+[MAXHP]
+ON=464A6, E7,3
+
+[SP]
+ON=464AA, E7,3
+
+[MAXSP]
+ON=464AC, E7,3
+
+[Striking power]
+ON=464AE, E7,3
+
+[Defensive power]
+ON=464B0, E7,3
+
+[Entire attribute]
+ON=465A7,63,63,63,63
+
+[The entire evil spirit leads book]
+ON=4650C, 7
+
+[Entire card]
+ON=4658C, FF, FF, FF
+
+[Soul number]
+ON=4658A, 63
+
+[Has weapon]
+ON=465A5,2
+
+[Entire skill]
+ON=465AB, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire decorations]
+ON=465BB, FF
+
+[All guards against has]
+ON=465B8, FF
+
+[Skill full star + extra stage prop]
+ON=465B9, FF, FF
+
+[The entire information + musical box opens]
+ON=46335, FF, FF
+
+[Entire music]
+ON=46594, FF, FF, FF, FF, FF, FF
+
+[All restores stage prop]
+ON=4659A, 4,5,6,7,8
+
+[Oxygen]
+ON=464DC, 0,40
+
+[As soon as BOSS strikes dies]
+ON=41B28,1,0
+
+[Free war all opens]
+ON=465D4,1; 465D8,1; 465DC, 1; 465E0,1; 465E4,1; 465E8,1; 465EC, 1; 465F0,1; 465F4,1; 465F8,1; 465FC, 1; 46600,1; 46604,1; 46608,1; 4660C, 1; 46610,1; 46614,1; 46618,1; 4661C, 1; 46620,1; 46624,1
+
+[GameInfo]
+Name=2075 - Shonen Jump's Shaman King - Master of Spirits 2 (U)
+System=GBA
+Text=vicente 
+-------------------------------------------------------------------
+[In fight HP entire full]
+ON=41A60, E7,3
+
+[Invincible]
+ON=41A5D, 63
+OFF=41A5D, 00
+
+[Money 9999999]
+ON=46510,7F, 96,98
+
+[Entire soul collection]
+ON=465AB, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire EX-ITEM]
+ON=465B8, FF, FF, FF, FF
+
+[Entire card]
+ON=4658C, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Book of I+II+III skill all obtains]
+ON=4650C, F
+
+[Soul quantity 255]
+ON=4658A, FF
+
+[Forms of defensive action]
+The knife cuts =464B3,1
+The gas cuts =464B3,2
+Jack-o'-lantern =464B3,30
+
+[Has strengthens ability condition]
+All abilities strengthen =464D6, E7,3, E7,3, E7,3
+The attack strengthens =464D6, E7,3
+Defends to strengthen =464D8, E7,3
+The spirit strength strengthens =464DA, E7,3
+
+[Arab League leaf ability]
+全能力 ultra strong =41A60, E7,3; 464A4, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3; 465A7,63,63,63,63
+HP+SP MAX=41A60, E7,3; 464A4, E7,3, E7,3, E7,3, E7,3, E7,3
+HP MAX=41A60, E7,3; 464A4, E7,3, E7,3, E7,3
+SP MAX=464AA, E7,3, E7,3
+Striking power =464AE, E7,3
+Defends strength =464B0, E7,3
+Entire attribute ability full =465A7,63,63,63,63
+
+[Enemy side BOSS HP]
+As soon as strikes must kill =41B28,1,0
+
+[GAMEINFO]
+Master NAME=2075 - Shonen Jump's Shaman King Master of Spirits 2 clever kings - souls 2
+SYSTEM=GBA
+TEXT=2075 - Shonen Jump's Shaman King Master of Spirits 2 (U) By KRIZAL

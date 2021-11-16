@@ -1,4 +1,4 @@
-[速度]
+[Speed]
 1=43454,1
 2=43454,2
 3=43454,3
@@ -18,11 +18,10 @@
 17=43454,11
 18=43454,12
 
-[时间]
+[Time]
 ON=433D2,0;433D6,0;433DA,0
 
 [GameInfo]
-Name=1640 - 俄罗斯方块[Tetris Worlds(e)]
+Name=1640 - Tetris Worlds (E)（俄罗斯方块）（M3）PUZ 32
 System=GBA
-Text=1640 - Tetris_Worlds(e)
-
+Text=大胖子 整理提供

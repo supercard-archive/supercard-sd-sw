@@ -1,0 +1,50 @@
+[Perfect person]
+ON=1D710,01,01,01,01;1D714,01,01,01,01;1D718,01,01,01,01
+
+[Entire barrier]
+ON=1D47A,0A
+
+[P1 LP]
+ON=23B18,99,99
+
+[P1 STAR]
+ON=23B1C,99,99
+
+[P1  The odd man]
+PLAYER=23B1E,1
+电脑=23B1E,0
+
+[P2 LP]
+ON=23B28,99,99
+
+[P2 STAR]
+ON=23B2C,99,99
+
+[P2 The odd man ]
+PLAYER=23B1E,1
+电脑=23B1E,0
+
+[P3 LP]
+ON=23B38,99,99
+
+[P3 STAR]
+ON=23B2C,99,99
+
+[P3  The odd man]
+PLAYER=23B1E,1
+电脑=23B1E,0
+
+[P4 LP]
+ON=23B48,99,99
+
+[P4 STAR]
+ON=23B2C,99,99
+
+[P4  The odd man]
+PLAYER=23B1E,1
+电脑=23B1E,0
+
+[GameInfo]
+Name=1416 - Yu-Gi-Oh Sugoroku No Sugoroku （J）(游戏王 双六的骰子)（J） CAG 64
+System=GBA
+Text=mick

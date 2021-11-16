@@ -1,0 +1,100 @@
+[Life] ON=20646,0,4
+
+[Life upper limit] ON=20648,0,4
+
+[Population] ON=29F36,63
+
+[Stealth] ON=20658,20
+
+[Invincible] ON=20651,2
+
+[Must kill] ON=2064B, 4
+
+[Integral] ON=20660, FF, E0, F5,5
+
+[Entire stage prop] ON=29F58, FF, FF, FF, FF, FF, FF, FF
+
+[Entire checkpoint] ON=541,10
+
+[Time limit checkpoint time] ON=28128,2C, 1
+
+[As soon as ACTBOSS strikes dies] ON=44174,0,0
+
+[To war checkpoint we physical strength] ON=29986,0,1
+
+[To war checkpoint we spirit] ON=29988,10
+
+[We must kill ON=2998D to war checkpoint], 2
+
+[To war checkpoint opposite party physical strength] ON=29A56,0,0
+
+[To war checkpoint opposite party spirit] ON=29A58,0
+
+[Must kill ON=29A5D to war checkpoint opposite party], 0
+
+[To fights the entire character] ON=29F55, FF, FF, FF
+
+[Additive term opens] ON=29F50, FF
+
+[Entire character] ON=29F70, FF, FF, FF, FF
+
+[ACT elects human] ON=2066A, Sun Wukong =2066A, 0 Xiaolin =2066A, 1 happy even =2066A, 2 1st closes BOSS=2066A, 3 man-made people? =2066A, 4 enduring =2066A, 5 skeletons soldiers =2066A, 6 blue General =2066A, 7 blue color robots =2066A, 8 greens robots =2066A, 9 purple robots =2066A, A bat =2066A, B devil? =2066A, C evil spirit race soldier 1=2066A, D evil spirit race soldier 2=2066A, E turtle immortal =2066A, F Tianjin food =2066A, 10 stuffed dumplings =2066A, 11 Sun Wufan =2066A, 12 piccolos =2066A, 13 peaches =2066A, 14 kilands =2066A, 15 salutes in vain =2066A, 16 flies dragon =2066A, 17 pigs soldiers =2066A, 18 dogs soldiers =2066A, 19 wolves =2066A, 1A robot =2066A, 1B flight vehicle =2066A, 1C evil spirit race soldier =2066A, 1D
+
+[Elects human to war] Sun Wukong =29F82,0 turtle immortal =29F82,1 Tianjin food =29F82,2 peach =29F82,3 Sun Wufan =29F82,4 Xiaolin =29F82,5 piccolo =29F82,6 mechanical peach in vain =29F82,7 kiland =29F82,8 to salute in vain =29F82,9 stuffed dumpling =29F82, A
+
+[GameInfo] Name=2023 - Dragon Ball Advance Adventure (E) (Capsicum anomalum big risk) (E) ACT 128 System=GBA Text=vicente
+------------------------------------------------------------------------
+[Story pattern HP] entire full =20646,0,4,0,4
+
+[Story pattern spirit] entire full =20649,4; 2064B, 4
+
+[Story pattern score] 999990=20660,9F, 86,1
+
+[Invincible] ON=20658,63
+
+[The gold fights was mad (may attack enemy invincibly +)]
+ON=20650,7B, 2
+
+[99 challenges opportunities] ON=29F36,63
+
+[Entire stage prop] ON=29F51, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[The first under heaven martial arts congress 1P defense does not collapse] ON=29988,10
+
+[First under heaven martial arts congress 1P HP] entire full =29986,0,1
+
+[First under heaven martial arts congress 1P spirit] entire full =2998C, 0,4
+
+[The first under heaven martial arts congress 2P defense collapses] ON=29A58,0
+
+[VS pattern 1P hideaway role choice] base rahn =29F82,8 salutes =29F82,9 beautiful child =29F82, A
+
+[The entire character is taken to the threshing ground + hideaway pattern to open] ON=29F55, FF, FF, FF
+
+[Story pattern - Kelin possibly uses] ON=2066A, 1
+
+[GAMEINFO] NAME=2023 - Dragon Ball Advance Adventure (E) (Capsicum anomalum big risk) (E) ACT 128 SYSTEM=GBA TEXT=KRIZAL
+------------------------------------------------------------------------
+[HP] upper limit biggest =20648,00,04 does not reduce =20646,00,04
+
+[Invincible] OFF= ON=20651,02
+
+[May choose complete role] ON=29F70, FF, FF, FF, FF
+
+[Goes through customs attachment option to open] ON=29F50, FF
+
+[Can measuring tank 4 standards + not reduce] ON=2064B, 04
+
+[Must kill technique gathering of gas fast] ON=2064D, 04
+
+[Score is highest] ON=20660, FF, E0, F5,5
+
+[Life several 99] ON=29F36,63
+
+[Does not collapse to war pattern defense] ON=29988,10
+
+[Entire illustrated handbook] ON=29F58, FF, FF, FF, FF, FF, FF, FF
+
+[Entire stage prop] ON=29F51, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2023 - Dragon Ball Advance Adventure (E) (Capsicum anomalum big risk) (E) ACT 128 System=GBA Text= earthen mound Behre the MKII reorganization provides

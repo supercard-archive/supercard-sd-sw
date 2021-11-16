@@ -1,24 +1,29 @@
-[金钱]
+[Money]
 ON=42EE0,F,27
 
-[我方HP]
-ON=43EC0,E7,03
+[Our side]
 
-[我方AP] 
-ON=43F58,63;43F5A,63
- 
-[符咒属性]
-ON=4402C,03,03,03,04;44030,03
+[HP]
+ON=43EC0,E7,3
 
-[对方HP0 ]
+[AP]
+ON=43F58,63
+
+[AP with an upper limit]
+ON=43F5A,63
+
+[ A magic spell attribute]
+ON=4402C,04,03,03,03;44030,03
+
+[Adversary]
+
+[HP]
 ON=43EC4,00
 
-[对方AP0 ]
+[AP]
 ON=43F5D,00
 
-
 [GameInfo]
-Name=1504 - 东京魔人学园-符咒封录[Tokyo Majin Gakuen - Fuju Houroku]
+Name=1504 - Tokyo Majin Gakuen - Fuju Houroku (J)（东京魔人学院-符咒封禄）（J）CAG 128
 System=GBA
-
-
+Text=vicente

@@ -1,19 +1,19 @@
-[金币] 
-ON=3E970,E7,03
+[Gold coin]
+ON=3E970,E,37
 
-[小狗满心] 
+[Full heart of a dog]
 ON=3EDC0,C8
 
-[喂食工具全满]
-ON=3E981,09,09,09,09,09
+[Entire feeding service tool]
+ON=3E981,09;3E982,09,09;3E984,09,09;
 
-[游戏工具全满] 
+[Entire game tool]
 ON=3E9B0,09,09,09,09
 
-[全问题集]
-ON=E9D0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
-
+[Entire question collection]
+ON=3E9D0,FF,FF,FF,FF;3E9D4,FF,FF,FF,FF;3E9D8,FF,FF;3E9DA,FF
 
 [GameInfo]
-Name=1552 - 俏皮宠物[Oshare Wanko]
+Name=1552 - Oshare Wanko (J)（俏皮宠物）（J）TCG 64
 System=GBA
+Text=vicente

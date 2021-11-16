@@ -1,0 +1,15 @@
+[Dodge ball we physical strength] ON=44D1B, 40; 44D53,40; 44D8B, 40
+
+[Dodge ball opposite party physical strength] ON=44BCB, 0; 44C03,0; 44C3B, 0
+
+[Basketball game fast conclusion] ON=44EC2,0,0,0
+
+[Basketball we integral] ON=44966, E7; 44968,3
+
+[Basketball opposite party integral] ON=44967,0; 44969,0
+
+[Basketball entire stage prop] group 1=448D3,0,1,2,3,4,5,6,7,8,9, A, B, C, D, E, F group of 2=448D3,10,11,12,13,14,15,16,17,18,19,1A, 1B, 1C, 1D, 1E, 1F
+
+[Basketball whole staff ability is highest] ON=44EE4,9; 44EE7,9; 44EEA, 9; 44EED, 9
+
+[GameInfo] Name=2103 - Kunio-kun Nekketsu Collection 1 (J) System=GBA Text=vicente 

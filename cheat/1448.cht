@@ -1,10 +1,10 @@
-[体力不减]
+[Physical strength does not reduce]
 ON=18953,3
 
-[生命不减]
+[Life does not reduce]
 ON=18958,9
 
 [GameInfo]
-Name=1448 - 牧场是我家[Home on the Range]
+Name=1448 - Home On The Range (U)（牧场是我家）（E）ACT 64
 System=GBA
-
+Text=大胖子 整理提供

@@ -1,0 +1,16 @@
+[Integral]
+ON=FF,E0,F5,05
+
+[Time]
+ON=9FD7,03
+
+[Entire S point]
+ON=93EE,63;9472,63;94F6,63;957A,63;95FE,63;9682,63;9706,63
+
+[Entire barrier]
+ON=9824,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+
+[GameInfo]
+Name=1701 - Wakeboarding Unleashed (U)（极限水上滑板）（E）SPG 64
+System=GBA
+Text=vicente

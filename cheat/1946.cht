@@ -1,68 +1,13 @@
-[µÀ¾ßÊýÁ¿]
-OM=2784,5
+[Stage prop quantity] OM=2784,5
 
-[µÚ1Î»µÀ¾ß]
-ÎÞ=2770,0
-ºìÒ©Æ¿=2770,1
-À¶Ò©Æ¿=2770,2
-ÂÌÒ©Æ¿=2770,3
-É³Â©=2770,4
-ºìÀ¶Ò©Æ¿=2770,5
-ÂÌÇò=2770,6
-À×Óê=2770,7
-À¶Çò=2770,8
-µØÕð=2770,9
+[1st stage prop] does not have =2770,0 red medicine bottle =2770,1 blue medicine bottle =2770,2 green medicine bottle =2770,3 hour glass =2770,4 safflower medicine bottle =2770,5 green ball =2770,6 thunderstorm =2770,7 blue ball =2770,8 earthquake =2770,9
 
-[µÚ2Î»µÀ¾ß]
-ÎÞ=2774,0
-ºìÒ©Æ¿=2774,1
-À¶Ò©Æ¿=2774,2
-ÂÌÒ©Æ¿=2774,3
-É³Â©=2774,4
-ºìÀ¶Ò©Æ¿=2774,5
-ÂÌÇò=2774,6
-À×Óê=2774,7
-À¶Çò=2774,8
-µØÕð=2774,9
+[2nd stage prop] does not have =2774,0 red medicine bottle =2774,1 blue medicine bottle =2774,2 green medicine bottle =2774,3 hour glass =2774,4 safflower medicine bottle =2774,5 green ball =2774,6 thunderstorm =2774,7 blue ball =2774,8 earthquake =2774,9
 
-[µÚ3Î»µÀ¾ß]
-ÎÞ=2778,0
-ºìÒ©Æ¿=2778,1
-À¶Ò©Æ¿=2778,2
-ÂÌÒ©Æ¿=2778,3
-É³Â©=2778,4
-ºìÀ¶Ò©Æ¿=2778,5
-ÂÌÇò=2778,6
-À×Óê=2778,7
-À¶Çò=2778,8
-µØÕð=2778,9
+[3rd stage prop] does not have =2778,0 red medicine bottle =2778,1 blue medicine bottle =2778,2 green medicine bottle =2778,3 hour glass =2778,4 safflower medicine bottle =2778,5 green ball =2778,6 thunderstorm =2778,7 blue ball =2778,8 earthquake =2778,9
 
-[µÚ4Î»µÀ¾ß]
-ÎÞ=277C,0
-ºìÒ©Æ¿=277C,1
-À¶Ò©Æ¿=277C,2
-ÂÌÒ©Æ¿=277C,3
-É³Â©=277C,4
-ºìÀ¶Ò©Æ¿=277C,5
-ÂÌÇò=277C,6
-À×Óê=277C,7
-À¶Çò=277C,8
-µØÕð=277C,9
+[4th stage prop] does not have =277C, 0 red medicine bottles =277C, 1 blue medicine bottle =277C, 2 green medicine bottles =277C, 3 hour glasses =277C, 4 safflower medicine bottles =277C, 5 green balls =277C, 6 thunderstorm =277C, 7 blue balls =277C, 8 earthquakes =277C, 9
 
-[µÚ5Î»µÀ¾ß]
-ÎÞ=2780,0
-ºìÒ©Æ¿=2780,1
-À¶Ò©Æ¿=2780,2
-ÂÌÒ©Æ¿=2780,3
-É³Â©=2780,4
-ºìÀ¶Ò©Æ¿=2780,5
-ÂÌÇò=2780,6
-À×Óê=2780,7
-À¶Çò=2780,8
-µØÕð=2780,9
+[5th stage prop] does not have =2780,0 red medicine bottle =2780,1 blue medicine bottle =2780,2 green medicine bottle =2780,3 hour glass =2780,4 safflower medicine bottle =2780,5 green ball =2780,6 thunderstorm =2780,7 blue ball =2780,8 earthquake =2780,9
 
-[GameInfo]
-Name=1946 - Tak2 ÃÎµÄÖ°Ô±[Tak 2 the Staff of Dreams]
-System=GBA
-Text=vicente
-
+[GameInfo] Name=1946 - Tak 2 the Staff of Dreams (E) System=GBA Text=vicente 

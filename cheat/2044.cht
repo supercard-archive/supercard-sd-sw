@@ -1,0 +1,36 @@
+[HP upper limit]
+9999=41530, F, 27
+
+[Missile upper limit]
+999=41532, E7,3
+
+[Super missile upper limit]
+255=41534, FF
+
+[Super bomb upper limit]
+99=41535,63
+
+[The entire equipment opens]
+ON=41536,0f, 27; 4153C, 9F, 9F, FF, FF; 41542,1
+
+[All hides essential factor to open]
+ON=40014, FF
+
+[Map opens]
+ON=37400, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF,FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF,FF
+
+[Ultra accelerating regime]
+ON=41353, FF; 413DC, FF
+
+[GameInfo]
+Name=2044 - Miteluote Lingdian Renwu (C) (dense Trow Germany - zero duty) (E) ACT 64
+System=GBA
+Text=ASTAROTH, underground spring CUSTOM
+--------------------------------------------------------------------
+[The biggest energy, most greatly ordinary missile, most greatly super missile, strengthens bomb most greatly]
+ON=41530, E7,3, E7,3,63,63; 41538, E7,3,63,63
+
+[GameInfo]
+Name=2044 - Miteluote Lingdian Renwu (C) (dense Trow Germany - zero duty) (E) ACT 64
+System=GBA
+Text=Flasejune

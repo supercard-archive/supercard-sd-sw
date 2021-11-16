@@ -1,17 +1,16 @@
-[时间]
+[Time]
 ON=1A454,60,9
 
-[血]
+[Blood]
 ON=E924,96
 
-[子弹]
+[Bullet]
 ON=43981,14
 
-[钱（有钱何必还要改装备）]
+[Money
 ON=19EC4,10,27
 
 [GameInfo]
-Name=1488 - 007-谁与争锋[007 Everything or Nothing (J)]
+Name=1488 - 007 - Everything or Nothing (J)（007-谁与争锋）（J）ACT 6
 System=GBA
-Text=1488 - 007 Everything or Nothing (J)
-
+Text=大胖子 整理提供

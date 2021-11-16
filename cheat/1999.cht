@@ -1,0 +1,17 @@
+[MI population] ON=42754,9
+
+[MI pot box] ON=42850,3
+
+[MI candy] ON=4286C, 63
+
+[MI collection] 1 =42E20,1 2 =42E20,2 3 =42E20,3
+
+[FM steam bubble] ON=2F50,63
+
+[FN star] ON=2F54,63
+
+[The FN checkpoint all opens] ON=2F3C, C
+
+[The FN picture all opens] ON=2F40, FF, FF
+
+[GameInfo] Name=1999 - Disney Pixar Gamepack (E) System=GBA Text=vicente 

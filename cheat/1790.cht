@@ -1,0 +1,30 @@
+[DMA Population]
+ON=428A4,9
+
+[DMA Pot box]
+ON=429A0,3
+
+[DMA Candy]
+ON=429BC,63
+
+[DMA Collections]
+1个=42F70,1
+2个=42F70,2
+3个=42F70,3
+
+[FM Steam void]
+ON=2F50,63
+
+[FM Star]
+ON=2F54,63
+
+[FM Barriers all open]
+ON=2F3C,C
+
+[FM Picture all open]
+ON=2F40,FF,FF
+
+[GameInfo]
+Name=1790 - Disney Pixar Gamepack (G)(迪斯尼合集 怪物工厂-海底总动员) ACT 128M
+System=GBA
+Text=vicente

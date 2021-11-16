@@ -16,10 +16,10 @@ ON=1634C,32
 [CELL]
 ON=1634E,2C,1
 
-[全武器]
+[Entire weapon]
 ON=16344,FF,FF
 
 [GameInfo]
-Name=1579 - 毁灭战士2[Doom 2]
+Name=1579 - Doom 2 (E)（毁灭战士2）（E）FPS 128
 System=GBA
 Text=vicente

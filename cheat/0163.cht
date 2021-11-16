@@ -1,0 +1,22 @@
+[Life]
+ON=41800,63
+
+[Blood]
+ON=41C60,0E
+
+[Invincibility]
+ON=43808,00
+
+[Money]
+ON=4184C,E7,03
+
+[Location flag]
+ON=45770,63
+
+[Glove]
+ON=436E0,63
+
+[GameInfo]
+Name=0163 - Kao The Kangaroo (U)（小小袋鼠闯天关）（M）ACT 32
+System=GBA
+Text=大胖子 整理提供

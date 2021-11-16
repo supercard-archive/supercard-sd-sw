@@ -1,13 +1,13 @@
-[好球]
+[Good shot]
 ON=B93F,0
 
-[主队得分]
+[The host team scored]
 ON=B691,63
 
-[坏球]
+[Wide ball]
 ON=B93E,3
 
 [GameInfo]
-Name=1635 - 热血棒球[Crushed Baseball]
+Name=1635 - Crushed Baseball (U)（热血棒球）（E）SPG 32
 System=GBA
-Text=1635_-_Crushed_Baseball
+Text=大胖子 整理提供

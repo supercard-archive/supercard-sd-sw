@@ -1,28 +1,28 @@
-[点数]
+[Points]
 ON=1A900,F,27
 
-[各项能力]
+[Each kind of property]
 ON=1A92E,32,32,32,32,32,32,32
 
-[战斗时气力]
+[Fighting energy]
 ON=150A0,F,27
 
-[战斗时体力]
+[Physical strength of fighting]
 ON=1509E,F,27
 
-[怒气]
+[Angry]
 ON=150A2,64
 
-[全能力]
+[Entire ability]
 ON=1514A,FF,FF,FF,FF,FF,FF,FF
 
-[全道具]
+[Entire stage pro]
 ON=1510C,1,2,3,4,5,6,7,8
 
-[得分(慎用)]
+[Score(cautiously use)]
 ON=150E4,3F,42,F
 
-[绝招种类]
+[Unique skill type]
 1=15115,0
 2=15115,1
 3=15115,2
@@ -39,14 +39,13 @@ ON=150E4,3F,42,F
 14=15115,D
 15=15115,E
 
-[全人物]
+[Perfect person]
 on=1CC,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
-[隐藏模式全开]
+[Hideway pattern all open]
 ON=1F6,3
 
 [GameInfo]
-Name=1662 - 守护英雄[Advance Guardian Heroes(J)]
+Name=1662 - Advance Guardian Heros (J)（守护英雄A）（J）ACT 64
 System=GBA
-Text=1662 - Advance_Guardian_Heroes(J)
-
+Text=大胖子 整理提供

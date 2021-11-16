@@ -1,23 +1,22 @@
-[人物状态]
+[Character condition]
 ON=4643A,63,63,63,63
 
-[剩余药数]
+[Surplus medicine number]
 ON=42228,5
 
-[宠物状态]
+[Pet condition]
 ON=42142,28,28,28,0,28,28,28,0,28,28,28,0,28,28,28,0,28,28,28,0,28,28,28,0,28,28,28,0,28,28,28,0
 
-[全宠物资料]
+[Entire pet material]
 ON=46590,FF,FF,FF,FF,FF,FF,FF,FF
 
-[全装饰]
+[Entire ornament]
 ON=46440,FF,FF,FF,FF
 
-[小游戏全开]
+[Small games all open]
 ON=46450,1,1,1,1,1,1,1,1,1,1,1,1
 
 [GameInfo]
-Name=1731 - 管理动物园[Akachan Doubutsuen]
+Name=1731 - Akachan Doubutsuen (J)（小朋友的动物园）（J）PUZ 64
 System=GBA
-Text=vicente 
-
+Text=vicente

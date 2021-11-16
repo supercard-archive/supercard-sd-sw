@@ -1,0 +1,22 @@
+[Blood]
+ON=114AC,1C
+
+[Invincibility]
+ON=1147E,7F
+
+[EXP]
+ON=2084C,9F,86,1
+
+[Angry trough]
+ON=20844,64
+
+[Number of elements]
+ON=20842,9
+
+[Score]
+ON=2082C,FF,E0,F5,5
+
+[GameInfo]
+Name=1714 - SD Gundam Force (U)（SD高达力量）（E）ACT 64
+System=GBA
+Text=Mick

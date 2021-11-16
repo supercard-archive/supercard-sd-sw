@@ -1,0 +1,19 @@
+[Tumble number]
+1=7E4,1
+4=7E4,4
+
+[Suspension time]
+ON=7DA,32
+
+[Integral calculus of the host team]
+最少=208E,0
+最多=208E,63
+
+[Integral calculus of the visiting team]
+最少=21DE,0
+最多=21DE,63
+
+[GameInfo]
+Name=1131 - Madden NFL 2004 (U) （美式橄榄球2004）（E） SPG 32
+System=GBA
+Text=cmgsccc.com

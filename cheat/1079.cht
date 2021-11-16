@@ -1,0 +1,19 @@
+[Our side energy]
+ON=41234,0,4
+
+[Physical strength of our side]
+ON=41230,0,4
+
+[Physical side of opposite side (No locking)]
+ON=41540,0,0
+
+[Opposite side energy]
+ON=41544,0,0
+
+[Time]
+ON=412C8,3C
+
+[GameInfo]
+Name=1079 - Punch King (E) （击倒王）（M3） SPG 64
+System=GBA
+Text=大胖子 整理提供

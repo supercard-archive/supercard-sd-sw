@@ -1,0 +1,17 @@
+[SP population] ON=42A08, A
+
+[SP integral] ON=42988, FF, FF, FF, FF, FF, FF, FF, FF
+
+[SP gold link] ON=440B4,9F, 86,1
+
+[SA gold link] ON=44FDC, E7,3
+
+[SA population] ON=45014, A
+
+[SA stealth] ON=45A2C, FF
+
+[SA time] ON=45024,0,0,0,0
+
+[Integral] ON=45020,7F, 96,98
+
+[GameInfo] Name=2295 - 2in1: Sonic Advance and Sonic Pinball (U) System=GBA Text=vicente 

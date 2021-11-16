@@ -1,0 +1,29 @@
+[Time]
+最少=44500,0,0
+最多=44500,40,38
+
+[Physical strength of our side]
+ON=11774,6
+
+[Our side points]
+ON=11776,FF
+
+[Our side energy]
+ON=1177A,60
+
+[Physical strength of opposite side]
+ON=1188C,1
+
+[Opposite side point]
+ON=1188E,0
+
+[Opposite side energy]
+ON=11892,0
+
+[Perfect person]
+ON=44740,B;4471E,7;44720,8;44722,9;44724,A;44726,B
+
+[GameInfo]
+Name=1133 - Digimon Battle Spirit (E) （数码暴龙）（M5）ACT 32
+System=GBA
+Text=vicente

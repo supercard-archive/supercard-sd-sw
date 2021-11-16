@@ -1,0 +1,11 @@
+[FS life] ON=346,20
+
+[FS energy] ON=347,80
+
+[FS integral] ON=33C, FF, E0, F5,5
+
+[WH life] ON=5068,4
+
+[ST life] ON=6118,80
+
+[GameInfo] Name=2258 - Trollz - Hair Affair! (U) System=GBA Text=vicente

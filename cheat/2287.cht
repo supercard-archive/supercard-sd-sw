@@ -1,0 +1,23 @@
+[Character life] ON=43CB0,5
+
+[Character population] ON=41F1C, 9
+
+[Character stealth] ON=43E5C, FF
+
+[Character energy] ON=403CC8,0,38
+
+[Character happy symbol] ON=41F30,63
+
+[Character time] ON=41F24,0,0
+
+[Character BOSS fast dies] ON=44430,0,0
+
+[Airplane durable] ON=43C82,5
+
+[Aerial bomb] ON=45DC8,3
+
+[Airplane BOSS fast dies] ON=45E90,0,0
+
+[Hideaway essential factor all opens] ON=4201E, 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[GameInfo] Name=2287 - Hi Hi Puffy AmiYumi Kaznapped (U) System=GBA Text=vicente 

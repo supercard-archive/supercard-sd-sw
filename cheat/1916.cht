@@ -1,31 +1,29 @@
-[我方生命]
-ON=31AC0,8
+[Time] ON=42660, DC, 1C
 
-[我方积分]
-ON=31AC2,E7,3
+[Diamond] ON=31AC5,5
 
-[我方超杀]
-ON=31AC5,5
+[Angry standard] ON=31AC9,20
 
-[我方变身]
-ON=31AC9,20
+[Gem] ON=31AC2, E7,3
 
-[对方生命]
-ON=31C00,0
+[GameInfo] Name=1916 - Digimon Battle Spirit 2 (E) (digital treasure spirit battles greatly 2) (E) ACT 32 System=GBA the Text= big fat person
+-------------------------------------------------------------------------
+[Our life] ON=31AC0,8
 
-[对方积分]
-ON=31C02,0,0
+[Our integral] ON=31AC2, E7,3
 
-[对方超杀]
-ON=31C05,0
+[We ultra kill] ON=31AC5,5
 
-[对方变身]
-ON=31C09,0
+[We change body] ON=31AC9,20
 
-[全人物]
-ON=40D69,7
+[Opposite party life] ON=31C00,0
 
-[GameInfo]
-Name=1916 - 数码宝贝-战斗精神2[Digimon Battle Spirit 2]
-System=GBA
+[Opposite party integral] ON=31C02,0,0
 
+[Opposite party ultra kills] ON=31C05,0
+
+[Opposite party changes body] ON=31C09,0
+
+[Entire character] ON=40D69,7
+
+[GameInfo] Name=1916 - Digimon Battle Spirit 2 (E) (digital treasure spirit battles greatly 2) (E) ACT 32 System=GBA Text=vicente

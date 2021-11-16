@@ -1,0 +1,22 @@
+[Time]
+ON=41DEC,0
+
+[Blood]
+ON=41E08,5
+
+[Jewel]
+ON=41E0C,63
+
+[Number of elements]
+ON=41DE0,63
+
+[Rescued the person]
+ON=41D80,63
+
+[Invisible]
+ON=41DE4,C8
+
+[GameInfo]
+Name=0123 - Lady Sia (E)（女神战士-西雅）（M）ACT 32
+System=GBA
+Text=大胖子 整理提供

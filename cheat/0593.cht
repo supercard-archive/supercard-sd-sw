@@ -1,0 +1,36 @@
+[Life does not reduce]
+ON=4627E,99
+
+[The time does not to reduce after BB fall]
+ON=46ACE,99,9
+
+[GameInfo]
+Name=0593 - Yoshi''s Island - Super Mario Advance 3 (U)（超级马里奥-耀奇岛）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供
+---------------------------------------------------------------------------------------
+[Population]
+ON=4627E,63
+
+[Invisible]
+ON=46F52,64
+
+[Gold coin]
+ON=46280,63
+
+[Star]
+ON=46ACE,2C,1
+
+[Red coin]
+ON=46AD6,14
+
+[Flowers]
+ON=46A9A,5
+
+[Barriers all open]
+ON=46B6D,1,1,1,1,1,1,1,1;46B79,1,1,1,1,1,1,1,1;46B85,1,1,1,1,1,1,1,1;46B91,1,1,1,1,1,1,1,1;46B9D,1,1,1,1,1,1,1,1;46BA9,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=0593 - Yoshi''s Island - Super Mario Advance 3 (U)（超级马里奥-耀奇岛）（E）ACT 32
+System=GBA
+Text=vicente

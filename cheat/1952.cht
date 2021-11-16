@@ -1,30 +1,19 @@
-[无限移动]
-ON=34BF1,99
+[Infinite migration] ON=34BF1,99
 
-[行动数]
-ON=34BFD,63
+[Motion number] ON=34BFD, 63
 
-[水管全开]
-ON=34E24,FF
+[Water pipe all opens] ON=34E24, FF
 
-[直接挑战库巴]
-ON=34E27,1
-[全人物图鉴]
-ON=34E08,FF,FF,FF,FF,FF,FF,FF
+[Direct challenge storehouse Pakistan] ON=34E27,1
 
-[全任务]
-ON=34E00,FF,FF,FF,FF,FF,FF,FF
+Entire character illustrated handbook ON=34E08, FF, FF, FF, FF, FF, FF, FF
 
-[任务全星]
-ON=34E14,FF,FF,FF,FF,FF,FF,1
+[Entire duty] ON=34E00, FF, FF, FF, FF, FF, FF, FF
 
-[全小游戏]
-ON=318B8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Duty entire star] ON=34E14, FF, FF, FF, FF, FF, FF, 1
 
-[购物点数]
-ON=44410,3F,42,F
+[Entire small game] ON=318B8, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[GameInfo]
-Name=1952 - 马里奥聚会A[Mario Party Advance (U)]
-System=GBA
+[Shopping points] ON=44410,3F, 42, F
 
+[GameInfo] Name=1952 - Mario Party Advance (U) System=GBA Text=vicente 

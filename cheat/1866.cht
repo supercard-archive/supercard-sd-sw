@@ -1,21 +1,39 @@
-[无限移动]
-ON=34BD1,99
+[Life does not reduce] ON=47B5A, 9
 
-[行动数]
-ON=34BDD,63
-[全人物图鉴]
-ON=34DE8,FF,FF,FF,FF,FF,FF,FF
+[Maintenance changes body] to grow up =47B56,1 flame =47B56,2
 
-[全任务]
-ON=34DE0,FF,FF,FF,FF,FF,FF,FF
+[Time does not reduce +6 round smoke and fires] ON=47BFA, 6
 
-[全小游戏]
-ON=318B8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Light card type] general =47B4E, 1 swims =47B4E, 0 underground =47B4E, 2 fiendish people =47B4E, 3 heaven =47B4E, 7 red backgrounds =47B4E, 9
 
-[购物点数]
-ON=44410,3F,42,F
+[Background disturbance] ON=47B78,10
 
-[GameInfo]
-Name=1866 - 马里奥聚会[Mario Party Advance]
-System=GBA
+[Invincible star condition] ON=47B9F, 14
 
+[Special checkpoint. Uses up the solution to lock] ON=47B60,25
+
+[Special checkpoint 2. possible meetings cards to close] ON=47B32,0
+
+[Monster explodes] ON=47458, BE
+
+[GameInfo] Name=1866 - Mario Party Advance (J) (Mario gets together) (J) TAB 64 System=GBA Text=GINO
+------------------------------------------------------------
+[Infinite migration] ON=34BD1,99
+
+[Motion number] ON=34BDD, 63
+
+[Water pipe all opens] ON=34E04, FF
+
+[Direct challenge storehouse Pakistan] ON=34E07,1
+
+[Entire character illustrated handbook] ON=34DE8, FF, FF, FF, FF, FF, FF, FF
+
+[Entire duty] ON=34DE0, FF, FF, FF, FF, FF, FF, FF
+
+[Duty entire star] ON=34DF4, FF, FF, FF, FF, FF, FF, 1
+
+[Entire small game] ON=318B8, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Shopping points] ON=44410,3F, 42, F
+
+[GameInfo] Name=1866 - Mario Party Advance (J) (Mario gets together) (J) TAB 64 System=GBA Text=vicente

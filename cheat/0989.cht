@@ -1,0 +1,16 @@
+[Add-in open]
+ON=77,1,1,1,1
+
+[All picures]
+ON=1B01C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Small games open]
+ON=1B02A,FF,FF
+
+[Entire result]
+ON=397C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GAMEINFO]
+NAME=0989 - Zero One (J) （对与错）（J） AVG 128
+SYSTEM=GBA
+TEXT=风色之翼

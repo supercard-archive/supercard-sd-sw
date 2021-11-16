@@ -1,19 +1,15 @@
-[生命]
-ON=3FD60,63
+[Good shot number] does not have =41275,0 3 to inspire =41275,3
 
-[积分]
-ON=30BC,9F,86,1
+[Bad ball number] does not have =41276,0 4 bad balls =41276,4
 
-[拯救数]
-ON=30C8,0,0,0,0
+[Leaves office number] not to have =41277,0 to finish =41277,3 immediately
 
-[收集品]
-ON=30CC,0,0,0,0
+[Our sub-bureau scores points] ON=40FBF, 63,63,63,63,63,63,63,63,63
 
-[关开全开]
-ON=2AA3,FF;2AA7,FF;2AAB,FF;2AAF,FF;2AB3,FF;2AB7,FF;2ABB,FF;2ABF,FF;2AC3,FF;2AC7,FF;2ACB,FF;2ACF,FF;2AD3,FF;2AD7,FF
+[Opposite party sub-bureau scores points] ON=41257,0,0,0,0,0,0,0,0,0
 
-[GameInfo]
-Name=1944 - 雷曼-暴徒的反击[Rayman Hoodlums Revenge]
-System=GBA
+[We always score points] ON=40FA6,63
 
+[Opposite party always scores points] ON=4123E, 0
+
+[GameInfo] Name=1944 - Backyard Baseball 2006 (U) System=GBA Text=vicente 

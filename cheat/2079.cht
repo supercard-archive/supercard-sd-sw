@@ -1,0 +1,80 @@
+[The 1st role (Wukong) HP+ is mad full ON=41AF6,64,0,64,0 entire]; 41AFC, 64,0,64,0
+
+[The 2nd role (small fragrant) HP+ is mad full ON=41B22,64,0,64,0 entire]; 41B28,64,0,64,0
+
+[The 3rd role (south gram Si HP+ is mad entire full ON=41B4E especially)], 64,0,64,0; 41B54,64,0,64,0
+
+[The 4th role (Ukraine Pu) HP+ is mad full ON=41B7A entire], 64,0,64,0; 41B80,64,0,64,0
+
+[The 5th role (Wukong super match Asia person 型态) HP+ is mad full ON=41BA6,64,0,64,0 entire]; 41BAC, 64,0,64,0
+
+[The 6th role (Peak) HP+ is mad full ON=41BD2,64,0,64,0 entire]; 41BD8,64,0,64,0
+
+[The 7th role (reaches your super match Asia person 型态) HP+ to be mad full ON=41BFE entire], 64,0,64,0; 41C04,64,0,64,0
+
+[The 8th role (Wukong super match Asia person 4th section) HP+ is mad full ON=41C2A entire], 64,0,64,0; 41C30,64,0,64,0
+
+[The 9th role (BOSS) HP+ is mad full ON=41C56,64,0,64,0 entire]; 41C5C, 64,0,64,0
+
+[1st (Wukong) role ability ultra strong] ON=41B02, A, 0,1,0, A, 0,2,0
+
+[2nd (small fragrant) role ability ultra strong] ON=41B2E, A, 0,0,0, A, 0,0,0
+
+[3rd (especially south gram Si) role ability ultra strong] ON=41B5A, A, 0,1,0, A, 0,2,0
+
+[4th (Ukraine Pu) role ability ultra strong] ON=41B86, A, 0,1,0, A, 0,2,0
+
+[5th (Wukong super match Asia person 型态) role ability ultra strong] ON=41BB2, A, 0,1,0, A, 0,2,0
+
+[6th (Peak) role ability ultra strong] ON=41BDE, A, 0,1,0, A, 0,2,0
+
+[7th (reaches your - super match Asia person 型态) role ability ultra strong] ON=41C0A, A, 0,1,0, A, 0,2,0
+
+[8th (Wukong super match Asia person 4th section) role ability ultra strong] ON=41C36, A, 0,1,0, A, 0,2,0
+
+[9th (BOSS) role ability ultra strong] ON=41C62, A, 0,1,0, A, 0,2,0
+
+[The 1st role (contains hideaway role) to choose] Wukong =41AF4,0 small fragrant =41AF4,1 especially south gram Si =41AF4,2 Ukraine Pu =41AF4,3 Wukong super match Asia person 型态 =41AF4,4 Peak =41AF4,5 to reach your - super match Asia person 型态 =41AF4,6 Wukong super match Asia person 4th section of =41AF4,7 BOSS=41AF4,8
+
+[The 2nd role (contains hideaway role) to choose] Wukong =41B20,0 small fragrant =41B20,1 especially south gram Si =41B20,2 Ukraine Pu =41B20,3 Wukong super match Asia person 型态 =41B20,4 Peak =41B20,5 to reach your - super match Asia person 型态 =41B20,6 Wukong super match Asia person 4th section of =41B20,7 BOSS=41B20,8
+
+[The 3rd role (contains hideaway role) to choose] Wukong =41B4C, 0 small fragrant =41B4C, 1 especially south gram Si =41B4C, 2 Ukraine Pu =41B4C, 3 Wukong super matches Asia person 型态 =41B4C, 4 Peak =41B4C, 5 reaches your - super match Asia person 型态 =41B4C, 6 Wukong super matches Asia person 4th section of =41B4C, 7 BOSS=41B4C, 8
+
+
+[Score 99999999] ON=41D0C, FF, E0, F5, F
+
+[99 double hit] ON=20382,63
+
+[Sends out the strongest qigong directly] ON=230A8, A0 BOSS special-purpose (flickers moves attack not working as machine) =230A8, FF OFF=230A8,00
+
+
+[GAMEINFO] NAME= seven Capsicum anomalums GT SYSTEM=GBA TEXT=2079 - Dragon Ball GT - Transformation (U) By KRIZAL
+
+-----------------------------------------------------------------------
+[Shopping points] ON=41CDC, FF, E0, F5,5
+
+[Shopping 100%] ON=41CF8, FF, FF, FF, FF
+
+[Single pattern opens] ON=41CEE, 1
+
+[Checkpoint all opens] ON=41D06, FF, FF
+
+[Integral] ON=41D0C, FF, E0, F5,5
+
+[Teammate replaces ON=41BA4 fast], FF
+
+[Whole staff full HP] ON=41AF6,64; 41B22,64; 41B4E, 64; 41B7A, 64; 41BA6,64; 41BD2,64; 41BFE, 64; 41C2A, 64; 41C56,64; 41C82,64
+
+[Whole staff full MP] ON=41AFC, 64; 41B28,64; 41B54,64; 41B80,64; 41BAC, 64; 41BD8,64; 41C04,64; 41C30,64; 41C5C, 64; 41C88,64
+
+[Whole staff full Health] ON=41AF8,64; 41B24,64; 41B50,64; 41B7C, 64; 41BA8,64; 41BD4,64; 41C00,64; 41C2C, 64; 41C58,64; 41C84,64
+
+[Whole staff full Strength] ON=41B02, A; 41B2E, A; 41B5A, A; 41B86, A; 41BB2, A; 41BDE, A; 41C0A, A; 41C36, A; 41C62, A; 41C8E, A
+
+[Whole staff full Power] ON=41B06, A; 41B32, A; 41B5E, A; 41B8A, A; 41BB6, A; 41BE2, A; 41C0E, A; 41C3A, A; 41C66, A; 41C92, A
+
+[The whole staff does not spend blood] ON=41B10,9D, 4; 41B3C, 9D, 4; 41B68,9D, 4; 41B94,9D, 4; 41BC0,9D, 4; 41BEC, 9D, 4; 41C18,9D, 4; 41C44,9D, 4; 41C70,9D, 4; 41C9C, 9D, 4
+
+[The whole staff is not troublesome] ON=41B14,9D, 4; 41B40,9D, 4; 41B6C, 9D, 4; 41B98,9D, 4; 41BC4,9D, 4; 41BF0,9D, 4; 41C1C, 9D, 4; 41C48,9D, 4; 41C74,9D, 4; 41CA0,9D, 4
+
+[GameInfo] Name=2079 - Dragon Ball GT Transformation (U) System=GBA Text=vicente 

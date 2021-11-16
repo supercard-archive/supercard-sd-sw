@@ -1,17 +1,13 @@
-[血不减]
+[Blood does not reduce]
 ON=477AA,63
 
-[子弹不减]
+[Bullet does not reduce]
 ON=477C2,9
 
-[闪光弹不减]
+[The flash light bomb does not reduce]
 ON=477C3,9
 
-[全关卡解锁]
-ON=477AC,99
-
 [GameInfo]
-Name=1408 - 分裂细胞：明日潘多拉[Splinter Cell Pandora Tommorow]
+Name=1408 - Splinter Cell Pandora Tommorow (E)（分裂细胞：明日潘多拉）（E） ACT 64
 System=GBA
-TEXT=1408 - 分裂细胞：明日潘多拉[掌机之王HOTSUMA]
-
+TEXT=HOTSUMA

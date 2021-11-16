@@ -1,26 +1,25 @@
-[生命不减]
+[Life does not reduce]
 ON=3755,63
 
-[体力上限MAX]
+[Physical strength with an upper limit MAX]
 ON=3756,A
 
-[体力不减]
+[Physical strength  does not reduce]
 ON=27F7E,A
 
-[无敌]
+[Invincibility]
 ON=27F80,64
 
-[援助MAX]
+[Assist MAX]
 ON=3757,63;3760,5,5,5,5
 
-[拥有所有换装]
+[Holding all replacements]
 ON=3754,FF
 
-[换装能量无限]
+[Infinite all replacements energy]
 ON=37B2,7F;37B5,18;37B6,38
 
 [GameInfo]
-Name=1479 - 蜡笔小新 [Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken!]
+Name=1479 - Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken! (J)（蜡笔小新-电影乐园大冒险）（J）ACT 128
 System=GBA
-Text=1479 - Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken! (J)
-
+Text=大胖子 整理提供

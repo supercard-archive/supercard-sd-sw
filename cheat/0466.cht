@@ -1,0 +1,19 @@
+[Yellow trough]
+ON=407DC,FF
+
+[Red trough]
+ON=42120,FF
+
+[Invisible]
+ON=4084F,64
+
+[Number of elements]
+ON=43000,3
+
+[No. of continuous time]
+ON=43148,9
+
+[GameInfo]
+Name=0466 - The Ripping Friends (E)（顶级朋友）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供

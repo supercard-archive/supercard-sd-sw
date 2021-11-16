@@ -1,16 +1,13 @@
-[生命]
-ON=44B9,6
+[Money]
+ON=25BC4,FF,E0,F5,05
 
-[人数]
-ON=44B4,63
+[Master ball]
+ON=25D34,00,63,00,01
 
-[瓶子]
-ON=44BC,32
-
-[收集数]
-ON=44C0,32
+[Strange candy]
+ON=25C94,00,63,00,44
 
 [GameInfo]
-Name=1763 - 代号-邻家小孩[Codename - Kids Next Door - Operation S.O.D.A.]
+Name=1763 - Pokemon Rubi (S)（口袋妖怪-红宝石）（S）RPG 256
 System=GBA
-Text=vicente 
+Text=vicente

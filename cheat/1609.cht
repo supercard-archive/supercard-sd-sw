@@ -1,16 +1,16 @@
-[钱]
+[Money]
 ON=47CFA,F,27
 
-[血]
+[Blood]
 ON=47CF8,5
 
-[隐身（不推荐）]
+[Invisible]
 ON=47D72,64
 
-[全能力]
+[Entire ability]
 ON=797,FF,FF,FF,FF,FF,FF,FF;7A4,FF,FF,FF,FF,FF,FF,FF
 
 [GameInfo]
-Name=1609 - 传说中的斯塔飞3[Densetsu no Stafy 3(J)]
+Name=1609 - Densetsu no Stafy 3 (J)（传说的斯塔菲3）（J）ACT 128
 System=GBA
-Text=1609 - Densetsu no Stafy 3(J)
+Text=Mick

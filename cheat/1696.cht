@@ -1,13 +1,13 @@
-[生命]
+[Life ]
 ON=F168,63
 
-[能量]
+[Energy]
 ON=F418,0,0,1
 
-[关卡100%达成]
+[Barriers 100% reachment]
 ON=F64,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
 [GameInfo]
-Name=1696 - 骑士帝国[Lego Knights Kingdom]
+Name=1696 - Knights Kingdom (U)（骑士帝国）（E）AVG 32
 System=GBA
-Text=vicente 
+Text=vicente

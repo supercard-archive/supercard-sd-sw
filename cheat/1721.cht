@@ -1,0 +1,13 @@
+[Life]
+ON=F168,63
+
+[Energy]
+ON=F418,0,0,1
+
+[Barrier100%reachment]
+ON=F64,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=1721 - Lego Knights Kingdom (E)（乐高骑士王国）（M2）AVG 32
+System=GBA
+Text=vicente

@@ -1,0 +1,13 @@
+[Time ]
+ON=40C68,9;40C6C,3B
+
+[Speed]
+ON=40E79,9
+
+[Each kind of stage prop quantity]
+ON=40E4C,FF;40E92,F4,1;40E98,FF;40EAC,FF
+
+[GameInfo]
+Name=0437 - Spy Hunter (U)（间谍猎人）（M）ACT 64
+System=GBA
+Text=大胖子 整理提供

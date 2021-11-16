@@ -1,0 +1,13 @@
+[All weapons]
+ON=40A03,2,2,2,2,2,2
+
+[Bomb]
+ON=40A0E,3
+
+[Number of elements]
+ON=40A01,9
+
+[GameInfo]
+Name=1010 - Iridion II (E) （伊登战机II）（M3） STG 64
+System=GBA
+Text=大胖子

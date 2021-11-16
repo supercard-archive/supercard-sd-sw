@@ -1,0 +1,31 @@
+[Our MP]
+ON=2E805,63
+
+[Opposite party MP]
+ON=2EA5D, 0
+
+[Gold coin number]
+ON=3C512, F, 27
+
+[Red coin number]
+ON=3C514, F, 27
+
+[Entire card package]
+ON=3C52A, FF
+
+[Entire small game]
+ON=3C527, FF
+
+[Entire card]
+ON=45C, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF,FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF,FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Free war pattern opens]
+ON=3C538, FF
+
+[Free war role all opens]
+ON=3C53C, FF
+
+[GameInfo]
+Name=2068 - Konjiki no Gashbell The Card Battle for GBA (J)
+System=GBA
+Text=vicente 

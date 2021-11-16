@@ -1,0 +1,16 @@
+[Blood]
+ON=1ABEA,0,1;1B0C6,0,1
+
+[Anger]
+ON=1B089,0;1B565,0
+
+[Number of elements]
+ON=CDB,3
+
+[Score]
+ON=B60,7F,96,98
+
+[GameInfo]
+Name=1259 - Justice League Chronicles (U)（正义联盟历代记）（E） ACT 64
+System=GBA
+Text=大胖子

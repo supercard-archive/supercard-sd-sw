@@ -1,25 +1,9 @@
-[Í¸Ã÷]
-ON=42C5E,1
+[Transparent] ON=42C5E, 1
 
-[continue]
-ON=41A84,E7,3
+[continue] ON=41A84, E7,3
 
-[Ãü]
-ON=42C60,63
+[Life] ON=42C60,63
 
-[ÎäÆ÷]
-OFF=42CA8,0
-S=42CA8,1
-C=42CA8,2
-H=42CA8,3
-F=42CA8,4
-L=42CA8,5
-?=42CA8,6
+[Weapon] OFF=42CA8,0 S=42CA8,1 C=42CA8,2 H=42CA8,3 F=42CA8,4 L=42CA8,5? =42CA8,6
 
-[µçµ¥³µ]
-ON=42C92,20
-
-[GameInfo]
-Name=1931 - »ê¶·ÂÞEX [Contra Advance - The Alien Wars EX]
-System=GBA
-
+[GameInfo] Name=1931 - Contra Advance - The Alien Wars EX (E) (soul fights Luo - heterogeneous type war EX) (E) ACT 32 System=GBA the Text= big fat person to reorganize provides

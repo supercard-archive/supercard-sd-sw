@@ -1,0 +1,57 @@
+[Time]
+ON=9B7E,A0,F
+
+[Physical strength of our side ]
+MAX=9B9E,64
+
+[Angry trough of our side]
+MAX=9BAC,30
+
+[Physical strength of opposite side]
+0=9D7A,0
+MAX=9D7A,64
+
+[对方怒槽]
+0=9D88,0
+MAX=9D88,30
+
+[GameInfo]
+Name=1323 - Konjiki no Gashbell!! - Unare! Yujyo no Zakeru (J)（魔界小金毛-共鸣!友情的电击）（J）FTG 64
+System=GBA
+Text=大胖子 整理提供
+-------------------------------------------------------------------------------------------------------
+[Physical strength of our side ]
+ON=9B9E,40
+
+[Our side magic]
+ON=9BAC,30
+
+[Physical strength of opposite side ]
+ON=9D7A,0
+
+[Opposite side magic]
+ON=9D88,0
+
+[Select the pass]
+第1关=242F2,1
+第2关=242F2,2
+第3关=242F2,3
+第4关=242F2,4
+第5关=242F2,5
+第6关=242F2,6
+第7关=242F2,7
+第8关=242F2,8
+
+[+Entire playground]
+ON=24329,FF,FF
+
+[Small games all open]
+ON=242FC,FF;2432C,FF
+
+[All collections]
+ON=24324,FF,FF,FF,FF
+
+[GameInfo]
+Name=1323 - Konjiki no Gashbell!! - Unare! Yujyo no Zakeru (J)（魔界小金毛-共鸣!友情的电击）（J）FTG 64
+System=GBA
+Text=vicente

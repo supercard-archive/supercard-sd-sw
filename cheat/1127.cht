@@ -1,0 +1,19 @@
+[Our side HP]
+ON=3ba2e,E7,3
+
+[Our side EN]
+ON=3ba32,E7,3
+
+[ Enemy side HP]
+ON=3be9e,0,0
+
+[Enemy side EN]
+ON=3bea2,0,0
+
+[Holding money]
+ON=3eedc,E7,3
+
+[GameInfo]
+Name=1127 - Cyberdrive Zoids (J) £¨ÍøÂç»úÐµÊÞÊÀ¼Í£©£¨J£© RPG 64
+System=GBA
+Text=169

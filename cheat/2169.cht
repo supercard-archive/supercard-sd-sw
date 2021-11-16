@@ -1,0 +1,11 @@
+[Integral] ON=18E0, FF, E0, F5,5
+
+[Energy] ON=185C, 0, C0
+
+[Time] ON=18CC, FF
+
+[Entire checkpoint] ON=AE8,0
+
+[Entire character] ON=AC8, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2169 - Backyard Skateboarding (U) System=GBA Text=vicente

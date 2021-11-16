@@ -1,0 +1,28 @@
+[ Number of cores]
+ON=446,C
+
+[Number of cores with an upper limit]
+ON=447,C
+
+[Money]
+ON=448,9F,86,1
+
+[Entire ability]
+ON=43A,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[Entire clothing]
+ON=419,FF,FF,FF,FF,FF;420,FF,FF,FF
+
+[Entire ornament ]
+ON=404,FF;408,FF,FF,FF;40E,FF;411,FF,FF;414,FF,FF,FF
+
+[Entire book]
+ON=40B,FF,FF;411,FF;414,FF
+
+[Entire CD]
+ON=40F,FF,FF
+
+[GameInfo]
+Name=1740 - Licca-Chan no Oshare Nikki (J)（莉卡的化妆日记）（J）TCG 64
+System=GBA
+Text=vicente

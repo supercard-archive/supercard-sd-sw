@@ -1,0 +1,29 @@
+[Population] ON=40458,63
+
+[Banana] ON=404AE, 63
+
+[Has partner] ON=4045B, 1
+
+[Entire letter] ON=403C4,2; 403C8,2; 403CC, 2; 403D0,2
+
+[Silver coin] ON=404E4, FF
+
+[Gold coin] ON=404E5, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[DK symbol] ON=404F2, FF, FF, FF, FF, FF, FF
+
+[Gear] ON=04F8, FF
+
+[Entire stage prop] ON=04FC, 8E, 0,1, FE, FF
+
+[Sea-bird] ON=40501, FF, FF, FF
+
+[Airplane may hire] ON=404FA, FF
+
+[Entire checkpoint] ON=404C0, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire cavern investigation] ON=40501, FF, FF, FF, FF, FF, FF, FF
+
+[Finally closes stealth] ON=4D44, FF
+
+[GameInfo] Name=2270 - Super Donkey Kong Country 3 (J) System=GBA Text=vicente

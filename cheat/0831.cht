@@ -1,0 +1,31 @@
+[Choose BOSS (To activate before enter into the selected person picture ]
+ON=42BC4,FF
+
+[Hiding OPETION and entire special pattern 
+supposed that it is impossible to appear the MAX pattern]
+ON=42BC6,FF
+
+[1p Physcial strength does not reduce]
+ON=41877,60
+OFF=0000,0
+
+[Time 99]
+ON=42593,63
+OFF=0000,0
+
+[death grooveMAX]
+ON=418B3,60
+OFF=0000,0
+
+[2P Physcial strength does not reduce]
+ON=42437,60
+OFF=0000,0
+
+[2Pdeath groove0]
+ON=42473,0
+OFF=0000,0
+
+[GameInfo]
+Name=0831 - Dual Blades (J)£¨Ë«ÈÐ£©£¨J£©FTG 32
+System=GBA
+Text=dual

@@ -1,32 +1,31 @@
-[分数MAX]
+[Score MAX]
 ON=4960,3F,42,F
 
-[直接胜利]
+[Direct victory]
 ON=4964,0
 
-[快速下落]
+[Fast downthrow]
 ON=4968,8
 
-[评价时间 00：00]
+[Appraisal time 00：00]
 ON=49F1,0
 
-[难度等级]
+[Difficulty rank]
 ON=495C,E6,3
 
-[胜利后获得Beanz数255]
+[After the victory obtains Beanz number 255]
 ON=4C62,FF
 
-[最高点数评价255]
+[Peak number appraisal 255]
 ON=4C61,FF
 
-[点数评价255]
+[Number appraisal255]
 ON=4C60,FF
 
-[评价Rare Beanz数255]
+[AppraisalRare Beanz number255]
 ON=4C63,FF
 
 [GameInfo]
-Name=1506 - 豆仔口袋方块[Mighty Beanz Pocket Puzzles]
+Name=1506 - Mighty Beanz Pocket Puzzles (U)（豆仔口袋方块）（E）PUZ 128
 System=GBA
-Text=1506 - Mighty Beanz Pocket Puzzles[魔剑士但丁]
-
+Text=魔剑士但丁

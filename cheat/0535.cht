@@ -1,0 +1,30 @@
+[Heart]
+ON=8EA,03
+
+[Time]
+ON=97C,99,5
+
+[Invisible]
+ON=A0C,98;8DE,4
+
+[Money]
+ON=8E4,99,9
+
+[Life]
+ON=985,9
+
+[Ammunition number]
+ON=8F1,20;8F3,20
+
+[equipment]
+无=A0A,0
+装备一=A0A,1
+装备二=A0A,2
+
+[HP does not reduce]
+ON=8EA,9
+
+[GameInfo]
+Name=0535 - Disney''s Magical Quest Starring Mickey and Minnie (J)（迪斯尼的米奇老鼠）（J）ACT 32
+System=GBA
+Test=大胖子 整理提供

@@ -1,15 +1,15 @@
-[金钱]
-ON=32068,FF,C9,9A,3B
+[Money] ON=32068, FF, C9,9A, 3B
 
-[全配件]
-ON=32084,63,63,63,63,63,63,63,63,63,63;32093,5,1,1,1,1,1,1,1,1,1,5,5,5,3
+[Entire fitting] ON=32084,63,63,63,63,63,63,63,63,63,63; 32093,5,1,1,1,1,1,1,1,1,1,5,5,5,3
 
-[赛车耐久]
-ON=23BEC,0,0
+[Entire character] ON=381B8,1; 381C0,1; 381E0,1; 381F8,1; 38200,1
 
-[快速胜利]
-ON=23CEF,3
+[Entire checkpoint] ON=380DC, 1,2D, 1,0,1,2D, 1,0,1,2D, 1,0,1,2D, 1,0,1,2D, 1,0,1
 
-[GameInfo]
-Name=1853 - 竞速齿轮ADV[Racing Gears Advance]
-System=GBA
+[Vehicle race durable] ON=23BEC, 0,0
+
+[Time] ON=38234,0,0,0,0
+
+[Fast victory] ON=23CEF, 3
+
+[GameInfo] Name=1853 - Racing Gears Advance (E) (high speed vehicle race) (M5) RCG 64 System=GBA Text=vicente

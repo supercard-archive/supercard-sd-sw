@@ -1,0 +1,29 @@
+[Infinite money]
+ON=3A78,FF,FF
+
+[Fast photographs]
+ON=40EB2,FF,1
+
+[All stage properties]
+ON=3B4E,1,9,2,9,3,9,4,9,5,9,6,9,7,9,8,9,9,9,A,9,B,9,C,9,D,
+9,E,9,F,9,10,9,11,9,12,9,13,9,14,9,15,9,16,9,17,9,18,9,19,
+9,1A,9,1B,9,1C,9,1D,9,1E,9,1F,9,20,9,21,9,22,9,23,9,9,9,9,
+9;3B9C,FF,FF
+
+[All cards files]
+ON=3BC3,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[The strongest ability in the fighting time ]
+ON=3AF74,63,09,09,09,09,09;3AF84,63,09,09,09,09,09;3AF94,63,
+09,09,09,09,09
+
+[Infinite card in the fighting time ]
+ON=3B014,63
+
+[Opposite side has no card ]
+ON=3B054,0
+
+[GameInfo]
+Name=0277 - Snap Kids (J)（摄影小子）（J）ECT 128
+System=GBA
+Text=大胖子 整理提供

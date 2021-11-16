@@ -13,16 +13,16 @@ NO=445cA,FF
 [hp] 
 no=445EA,FF 
 
-[str] 
+[Str] 
 no=445AC,FF 
 
-[vit] 
+[Vit] 
 no=445B2,FF 
 
 [DEX] 
 NO=445AE,FF 
 
-[剑] 
+[Sword] 
 NO=14C00,09 
 
 [ATT] 
@@ -47,6 +47,6 @@ NO=14C18,09
 NO=14C1C,09
 
 [GameInfo]
-Name=1353 - 光明之魂[Shining Soul (U)]
+Name=1353 - Shining Soul (U)（光明之魂）（E）ARPG 64
 System=GBA
-Text=1353 - Shining Soul (U) ARPG-GAME 4PLAYER
+Text=大胖子 整理提供

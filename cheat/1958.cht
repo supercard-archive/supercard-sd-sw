@@ -1,14 +1,5 @@
-[时间]
-ON=4114E,63
+[Time] ON=4114E, 63
 
-[得分]
-ON=44B0C,98,92,98
+[Life] ON=41151,05
 
-[只数]
-ON=41151,9
-
-[GameInfo]
-Name=1958 - 钻子先生2[Mr Driller 2]
-System=GBA
-Text=1958 - Mr Driller 2 (E)
-
+[GameInfo] Name=1958 - Mr Driller 2 (U) (digs gentleman 2) System=GBA the Text= big fat person to reorganize provides

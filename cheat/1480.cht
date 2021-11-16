@@ -1,20 +1,19 @@
-[生命不减]
+[Life does not reduce]
 ON=22C,9
 
-[体力不减]
+[physical strength does not reduce]
 ON=33212,64
 
-[防弹衣不减]
+[Bullet-proof vest does not reduce]
 ON=359B8,64
 
-[时间不减]
+[Time does not reduce]
 ON=1BC,0
 
-[分数MAX]
+[Score MAX]
 ON=238,FF,E0,F5,5
 
 [GameInfo]
-Name=1480 - 英雄萨姆[Serious Sam Advance]
+Name=1480 - Serious Sam Advance (E)（英雄萨姆A）（M3）FPS 64
 System=GBA
-Text=1480-Serious Sam Advance
-
+Text=大胖子 整理提供

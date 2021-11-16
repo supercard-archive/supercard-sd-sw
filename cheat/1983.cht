@@ -1,16 +1,9 @@
-[生命]
-ON=1F885,20
+[Life] ON=1F885,20
 
-[能量]
-ON=1F8D1,20
+[Energy] ON=1F8D1,20
 
-[人数]
-ON=1F28B,9
+[Population] ON=1F28B, 9
 
-[无敌]
-ON=1F241,FF
+[Invincible] ON=1F241, FF
 
-[GameInfo]
-Name=1983 - 超人特工队[Mr. Incredible]
-System=GBA
-
+[GameInfo] Name=1983 - Mr. Incredible (J) System=GBA Text=vicente 

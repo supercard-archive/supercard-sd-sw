@@ -1,7 +1,23 @@
-[人数]
-ON=4728D,A
+[Population]
+ON=4795A,9
+
+[Invincibility]
+ON=4799F,20
+
+[Time]
+ON=479F8,4
+
+[Gold coin]
+ON=4795C,9
+
+[Condition]
+ON=47956,2
+
+[Stature]
+高个=47954,0
+矮个=47954,1
 
 [GameInfo]
-Name=1382 - 任天堂FC珍藏游戏系列第7辑[Famicom Mini: Vol.7 - Xevious (J)]
+Name=1382 - Famicom Mini: Vol.3 - Ice Climbers (J)（任天堂FC珍藏游戏系列第3辑）（J）ACT 32
 System=GBA
 Text=vicente

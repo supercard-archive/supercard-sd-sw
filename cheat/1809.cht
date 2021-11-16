@@ -1,40 +1,25 @@
-[棒球3振]
-ON=44FFC,3
+[Baseball 3 inspires] ON=44FFC, 3
 
-[棒球4坏球]
-ON=44FFD,4
+[Baseball 4 bad balls] ON=44FFD, 4
 
-[棒球88版3振]
-ON=44B54,3
+[Baseball 88 edition 3 inspire] ON=44B54,3
 
-[棒球88版4坏球]
-ON=44B55,4
+[Baseball 88 edition 4 bad balls] ON=44B55,4
 
-[足球我方积分]
-ON=44CFB,63
+[Soccer we integral] ON=44CFB, 63
 
-[足球对方积分]
-ON=44CFE,0
+[Soccer opposite party integral] ON=44CFE, 0
 
-[篮球我方积分]
-ON=4486C,63
+[Basketball we integral] ON=4486C, 63
 
-[篮球对方积分]
-ON=4486D,0
+[Basketball opposite party integral] ON=4486D, 0
 
-[网球我方积分]
-ON=4485C,4
+[Tennis we integral] ON=4485C, 4
 
-[网球对方积分]
-ON=4485D,0
+[Tennis opposite party integral] ON=4485D, 0
 
-[柔道我方体力]
-ON=448AB,22
+[Judo we physical strength] ON=448AB, 22
 
-[柔道对方体力]
-ON=448DB,0
+[Judo opposite party physical strength] ON=448DB, 0
 
-[GameInfo]
-Name=1809 - 燃烧! Jaleco经典合集[Moero! Jaleco Collection]
-System=GBA
-Text=vicente
+[GameInfo] Name=1809 - Moero Jaleco Collection (J) (burning series collection) (J) ETC 32 System=GBA Text=vicente

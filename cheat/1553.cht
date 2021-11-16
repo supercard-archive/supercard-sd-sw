@@ -1,16 +1,51 @@
-[人数]
-ON=001F04,63,99
+[Population]
+ON=1F04,63
 
-[血]
-ON=001F20,63,99
+[Life]
+ON=1F20,14
 
-[血]
-ON=0465DB,63,99
+[Energy]
+ON=10420,14
 
-[金钱]
-ON=0021D8, 3E7, 999
+[XP]
+ON=21D8,FF,E0,F5,05
+
+[Time]
+ON=C550,69,69
+
+[Pie]
+ON=C664,00
+
+[Entire collection]
+ON=21F0,1;21F4,1;21F8,1;21FC,1;2200,1;2204,1;2208,1;220C,1;2210,1;2214,1;2218,1;221C,1;2220,1;2224,1
+
+[Life MAX]
+ON=1F04,63
+
+[Physcial strength]
+ON=1F20,14
+
+[Invinciblity]
+ON=1F38,63
+
+[XP MAX]
+ON=21D8,3F,42,F
+
+[The pizza time ( Lock after receive)]  
+9'10=C550,FF,80
+0'00=C500,00,00
+
+[The pizza quantity (Lock after receive)]
+9个=C664,9
+0个=C664,0
+
+[Secrets pattern lock]
+ON=21F0,1;21F4,1;21F8,1;21FC,1;2200,1;2204,1;2208,1;220C,1;220C,1;2214,1;2218,1;221C,1;2220,1;2224,1
+
+[Entire top grade custom]
+ON=1E90,1;1E94,1;1E98,1;1E9C,1;1EA0,1;1EA4,1;1EA8,1;1EAC,1;1EB0,1;1EB4,1;1EB8,1;1EBC,1;1EC0,1;1EC4,1;1EC8,1;1ECC,1;1ED0,1;1ED4,1
 
 [GameInfo]
-Name=1553 - 蜘蛛侠2[spideman 2]
+Name=1553 - Spider-Man 2 (U)（蜘蛛侠2）（E）ACT 128
 System=GBA
-
+Text=风色之翼

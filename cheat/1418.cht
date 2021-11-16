@@ -1,27 +1,25 @@
-[HYPER蓄力后维持]
+[HYPER after gathers the strength to maintain]
 ON=40DF8,FF
 
-[分数MAX]
+[Score MAX]
 ON=443B4,7F,96,98
 
-[命不减]
+[Life does not reduce]
 ON=443C6,7
 
-[移动速度加快]
+[translational speed speeds up]
 ON=46B84,FF,2
 
-[按L键锁定HYBER状态]
+[Press L key and lockHYBER condition]
 ON=440D0,4
 
-[无敌]
+[Invinsibility]
 ON=443BC,64
 
-[按A键蓄力槽锁定]
+[Press A key to gather the strength to maintain
 ON=440D4,0,2
 
-
 [GameInfo]
-Name=1418 - R飞行队III[R-Type III]
+Name=1418 - R-Type III (U)（R飞行队III）（E）STG 32
 System=GBA
-
-
+TEXT=HOTSUMA

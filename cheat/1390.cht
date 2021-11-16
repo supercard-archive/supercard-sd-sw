@@ -1,16 +1,16 @@
 [S?]
 ON=47236,9
 
-[飞机架数]
+[Airplane number]
 ON=47237,9
 
-[武器全满]
+[Entire weapon]
 ON=4723C,3,5
 
-[无敌]
+[Invincibility]
 ON=47240,40
 
 [GameInfo]
-Name=1390 - 任天堂FC珍藏游戏系列第10辑[Famicom Mini: Vol.10: Star Soldier (J)]
+Name=1390 - Famicom Mini: Vol.10: Star Soldier (J)（任天堂FC珍藏游戏系列第10辑）（J）ACT 32
 System=GBA
 Text=vicente

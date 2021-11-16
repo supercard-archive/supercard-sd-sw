@@ -1,16 +1,9 @@
-[人数]
-ON=433A0,63
+[Population] ON=433A0,63
 
-[时间]
-ON=43398,63
+[Time] ON=43398,63
 
-[积分]
-ON=43410,63
+[Integral] ON=43410,63
 
-[游戏全完成]
-ON=43698,1;4369C,1;436A0,1;436A4,1;436A8,1;436AC,1
+[Plays complete becomes] ON=43698,1; 4369C, 1; 436A0,1; 436A4,1; 436A8,1; 436AC, 1
 
-[GameInfo]
-Name=1903 - 戴帽子的猫[Dr Seuss The Cat in the Hat]
-System=GBA
-
+[GameInfo] Name=1903 - Dr Seuss The Cat in the Hat (U) System=GBA Text=vicente 

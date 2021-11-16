@@ -1,0 +1,55 @@
+[All NORMAL barrier finished]
+ON=43FF0,FF,FF,0;43FF2,FF,FF,0
+
+[All attached barrier finished]
+ON=44000,FF,FF,0;44002,FF,FF,0
+
+[All NORMAL STAGE finished]
+ON=442A8,FF,FF,0;442AA,FF,FF,0
+
+[All attached STAGE finished]
+ON=442AC,FF,FF,0;442AE,FF,FF,0
+
+[No Time reduction]
+ON=42DB8,3,3B
+
+[1P cat quantity]
+MAX=42C10,E7,3
+MIN=42C10,0
+
+[2P cat quantity]
+MAX=42C24,E7,3
+MIN=42C24,0
+
+[3Pcat quantity]
+MAX=42C38,E7,3
+MIN=42C38,0
+
+[4P cat quantity]
+MAX=42C4C,E7,3
+MIN=42C4C,0
+
+[GameInfo]
+Name=0006 - Chu Chu Rocket (J)£¨ßÝßÝ»ð¼ý£©£¨M£©PUZ 32
+System=GBA
+TEXT=HOTSUMA
+-----------------------------------------------------
+[Challenge mode unlimited time]
+ON=42DB8,3,3B
+
+[Puzzle mode Normal all complete]
+ON=43FF0,FF,FF,FF,FF
+
+[Puzzle mode Original all complete]
+ON=44000,FF,FF,FF,FF
+
+[Stage Challenge mode Normal all complete]
+ON=442A8,FF,FF,FF,FF
+
+[Challenge mode Original all complete]
+ON=442AC,FF,FF,FF,FF
+
+[GameInfo]
+Name=0006 - Chu Chu Rocket (J)£¨ßÝßÝ»ð¼ý£©£¨M£©PUZ 32
+System=GBA
+Text=169

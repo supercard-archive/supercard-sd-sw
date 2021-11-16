@@ -1,0 +1,57 @@
+[Life number-Eat the ghost]
+ON=8AA0,5
+
+[Life number-Deinsectization]
+ON=E560,5
+
+[Life number-Small honeybee]
+ON=10E12,5
+
+[Life number-big honeybee]
+ON=1A88C,5
+
+[GameInfo]
+Name=0035 - Namco Museum Advanced (U)（南梦宫的博物馆）（E）ECT 32
+System=GBA
+Text=大胖子 整理提供
+------------------------------------------------------------------
+[Ms. Pac-Man Life 5]
+ON=8AA0,5
+
+[Ms. Pac-Man Score 999999]
+ON=8AB8,3F,42,F
+
+[Ms. Pac-Man HIGH score 999999]
+ON=8AC0,3F,42,F
+
+[Pole Position Infinite time]
+ON=1B86F,5A
+
+[Pole Position No.1]
+ON=19267,0
+
+[Dig Dug Score 5000]
+ON=E55C,50,C3
+
+[Dig Dug life]
+ON=E560,5
+
+[Dig Dug Invincibility]
+ON=F41E,0,0
+
+[Galaga life]
+ON=1A88C,6
+
+[Galaga Double bullet]
+ON=1A893,1;19BCC,A6,0
+
+[Galaxian Life]
+ON=10E12,5
+
+[Galaxian Score 50000]
+ON=10DE4,50,C3
+
+[GameInfo]
+Name=0035 - Namco Museum Advanced (U)（南梦宫的博物馆）（E）ECT 32
+System=GBA
+Text=169

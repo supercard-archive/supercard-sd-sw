@@ -1,14 +1,13 @@
-[子弹]
+[Bullet]
 ON=477C2,99
 
-[血]
+[Blood]
 ON=477AA,A
 
-[隐身（只针对第一小关）]
+[Invisible（To the first barrier）]
 ON=43FEC,0
 
 [GameInfo]
-Name=1626 - 分裂细胞：明日潘多拉[Splinter Cell Pandora Tomorrow (U)]
+Name=1626 - Tom Clancys Splinter Cell Pandora Tomorrow (U)（分裂细胞：明日潘多拉）（M3）AVG 64
 System=GBA
-Text=1626 - Splinter Cell Pandora Tomorrow (U)
-
+Text=大胖子 整理提供

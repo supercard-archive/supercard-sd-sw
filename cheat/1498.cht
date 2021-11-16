@@ -1,22 +1,22 @@
-[人数]
+[Population]
 ON=47220,9
 
-[生命]
+[Life]
 ON=47240,E0
 
-[生命上限]
+[Infinite life]
 ON=47241,E0
 
-[时间]
+[Time]
 ON=47250,0,15
 
-[金钱]
+[Money]
 ON=479C0,FF
 
-[状态]
+[Condition]
 ON=47248,1
 
 [GameInfo]
-Name=1498 - 任天堂FC珍藏游戏系列第20辑[Famicom Mini Vol 20 - Ganbare Goemon! Karakuri Douchuu (J)]
+Name=1498 - Famicom Mini Vol 20 - Ganbare Goemon Karakuri Doucyu (J)（任天堂FC珍藏游戏系列第20辑）（J）ACT 8
 System=GBA
 Text=vicente

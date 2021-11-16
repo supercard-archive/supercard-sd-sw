@@ -1,0 +1,17 @@
+[MM population] ON=12F40,9
+
+[MM stealth] ON=1BBB0, FF; 1BC6C, FF
+
+[MM condition normal] ON=1BBAE, 0; 1BC6A, 0
+
+[CC physical strength] ON=6FD0,3F
+
+[CC mask] ON=6FE7,9
+
+[CC collection] ON=6FF8, E7,3
+
+[CC time] ON=4024C, 0,53
+
+[CC integral] ON=40198,3F, 42, F
+
+[GameInfo] Name=2010 - 2 in 1 Scooby-Doo Gamepack (E) System=GBA Text=vicent

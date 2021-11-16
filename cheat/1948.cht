@@ -1,12 +1,5 @@
-[我方得分]
-max=9B70,FF,E0,F5,5
-0=9B70,0,0,0,0
+[We score points] max=9B70, FF, E0, F5,5 0=9B70,0,0,0,0
 
-[对方得分]
-0=BA98,0,0,0,0
-max=BA98,FF,E0,F5,5
+[Opposite party scores points] 0=BA98,0,0,0,0 max=BA98, FF, E0, F5,5
 
-[GameInfo]
-Name=1948 - 魔法气泡大会战[Puyo Pop Fever]
-System=GBA
-
+[GameInfo] Name=1948 - Puyo Puyo Fever (E) (black magic air bubble great battle) (E) TAB 64 System=GBA the Text= big fat person reorganizes provides

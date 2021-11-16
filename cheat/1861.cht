@@ -1,13 +1,11 @@
-[生命]
-ON=439F8,4
+[Life] ON=439F8,4
 
-[人数]
-ON=43A98,9
+[Population] ON=43A98,9
 
-[收集品]
-ON=43A10,64
+[Collection] ON=43A10,64
 
-[GameInfo]
-Name=1861 - 美国鼠大淘金[An American Tail Fievels Gold Rush]
-System=GBA
+[1-1 pass has hat] ON=B4A8,0,0,0,0
 
+[1-1 closes stealth] ON=B476, FF
+
+[GameInfo] Name=1861 - An American Tale - Fievel's Gold Rush (E) (American mouse Tan) (M2) ACT 32 System=GBA Text=vicente

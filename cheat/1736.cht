@@ -1,10 +1,10 @@
-[金钱]
+[Money]
 ON=C574,FF
 
-[小游戏全开]
+[Small games all open]
 ON=ABC0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
 [GameInfo]
-Name=1736 - 换装天使[Kisekae Angel]
+Name=1736 - Kisekae Angel (J)（换装天使）（J）TCG 64
 System=GBA
-
+Text=vicente

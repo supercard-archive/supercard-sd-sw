@@ -1,0 +1,22 @@
+[Time]
+ON=45490,0,0,0
+
+[Money
+ON=453F0,E7,3
+
+[Number of elements]
+ON=45448,63
+
+[Invisible]
+ON=45A0C,C8
+
+[Invinciblity]
+ON=45A0E,E7,3
+
+[Score]
+ON=45450,7F,96,98
+
+[GameInfo]
+Name=0815 - Sonic Advance 2 (J)（索尼克A 2）（M）ACT 128
+System=GBA
+Text=大胖子 整理提供

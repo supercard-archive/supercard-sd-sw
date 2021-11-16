@@ -1,17 +1,16 @@
-[雷]
+[Thunder]
 ON=41290,63
 
-[血]
+[Blood]
 ON=4544A,40
 
-[只数]
+[Number of elements]
 ON=41BC4,63
 
-[隐身]
+[Invisible]
 ON=41BA0,64
 
 [GameInfo]
-Name=0223 － 玩具军人-绿色军事行动 [Army Men - Operation Green (U)]
+Name=0223 - Army Men - Operation Green (U)（玩具军人-绿色军事行动）（M）ACT 32
 System=GBA
-Text=0223 - Army Men - Operation Green (U)
-
+Text=大胖子 整理提供

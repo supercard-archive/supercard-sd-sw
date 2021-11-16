@@ -1,17 +1,15 @@
-[左边队得分（0－99）]
+[The left side scored（0－99）]
 0=462FA,0
 99=462FA,63
-[右边队得分（0－99）]
+
+[The right side scored（0－99）]
 0=462FB,0
 99=462FB,63
-[P值]
+
+[P value]
 ON=4625C,9F,86,1
+
 [GameInfo]
-Name=1409 - 海盗王棒球[One Piece Going Baseball]
+Name=1409 - One Piece - Going Baseball (J)（海贼王：热血棒球）（J） SPG 64M
 System=GBA
-Text=1409 - 海盗王棒球 haoxujie（恶魔）
-
-
-
-
-
+Text=haoxujie（恶魔）

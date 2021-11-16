@@ -1,0 +1,30 @@
+[PTS]
+ON=45100,FF,E0,F5,05
+
+[Does not meet the enemy]
+ON=41078,FF
+
+[Entire medal]
+ON=451FA,FF,FF
+
+[Fighting number]
+ON=45108,99
+
+[Victory times]
+ON=4510A,99
+
+[In the fighting]
+
+[Our side life]
+ON=417E1,05
+
+[The opposite side life]
+ON=4180D,00
+
+[The opposite side can not attack]
+ON=4175D,00
+
+[GameInfo]
+Name=1735 - Duel Masters - Sempai Legends (E)（卡片决斗高手-永恒的传说）（M5）CAG 64
+System=GBA
+Text=vicente

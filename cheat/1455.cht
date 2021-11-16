@@ -1,27 +1,26 @@
-[P1血]
+[P1 Blood]
 MAX=562E,44
 MIN=562E,0
 
-[P1体力]
+[P1 Physical strength]
 MAX=558A,4D
 MIN=558A,0
 
 [MONEY]
 ON=5BD4,3F,42,F
 
-[P2血]
+[P2 Blood]
 MIN=65C6,0
 MAX=65C6,44
 
-[P2体力]
+[P2 Physical strength]
 MIN=6522,0
 MAX=6522,4D
 
-[时间]
+[Time]
 ON=44481,9,3B
 
 [GameInfo]
-Name=1455 - 格斗大会[FightBox (E)]
+Name=1455 - FightBox (E)（格斗大会）（E）ACT 32
 System=GBA
-Text=1455_-_FightBox（E）
-ROMNAME=8D7B8D889F7B9391869AA2933D286B2C
+Text=大胖子 整理提供

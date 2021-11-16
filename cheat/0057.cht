@@ -1,0 +1,24 @@
+[Quantity]
+ON=42812,A
+
+[Right under angle]
+ON=42811,A
+
+[GameInfo]
+Name=0057 - Hot Potato (U)（火热的马铃薯）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供
+-----------------------------------------------------
+[Right under 100]
+ON=42811,64
+
+[Life 10]
+ON=42812,A
+
+[Score 99999999]
+ON=44EC8,FF,E0,F5,5
+
+[GameInfo]
+Name=0057 - Hot Potato (U)（火热的马铃薯）（E）ACT 32
+System=GBA
+Text=169

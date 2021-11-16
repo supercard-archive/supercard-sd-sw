@@ -1,0 +1,16 @@
+[Our side points（BOXING small game）]
+ON=4020A,99
+
+[Opposite party points（BOXINGsmall game）]
+ON=4020B,0
+
+[Time（BOXING small game）]
+ON=40208,9B,59
+
+[Time（Airplane game）]
+ON=4022E,0
+
+[GameInfo]
+Name=1313 - Activision Anthology (U)（经典游戏合辑）（E）TAB 64
+System=GBA
+Text=大胖子 整理提供

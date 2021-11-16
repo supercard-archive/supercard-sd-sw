@@ -1,31 +1,44 @@
-[����]
-ON=3C7F6,F,27
+[Life] ON=2AEA, A0
 
-[ȫ���ؿ���]
-ON=3C792,FF,FF,FF,FF,FF,FF,FF,FF
+[Life upper limit] ON=2AEB, A0
 
-[����ʤ��]
-ON=18F87,3
+[Gem] ON=2B00, E7,3
 
-[����]
-ON=18F91,0,1
+[Gem upper limit] ON=2AE8,3
 
-[BOSS����]
-ON=1903A,0,0
+[Entire sword technique] ON=4402C, FF, FF
 
-[���е���]
-�׹�=18F76,1
-�׹�*3=18F76,2
-���=18F76,3
-���*3=18F76,4
-����Ь=18F76,5
-������ë=18F76,6
-����=18F76,7
-����UFO=18F76,8
-�׹�*2=18F76,9
-���*2=18F76,A
+[Entire reel] ON=2B44, FF, FF
 
-[GameInfo]
-Name=1865 - ����������[Banjo Pilot]
-System=GBA
+[Bomb number] ON=2AEC, 63
 
+[Arrow number] ON=2AED, 63
+
+[Conch number] ON=2B02, E7,3
+
+[Key number] ON=2E9D, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Labyrinth assistance stage prop] ON=2EAD, 7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+
+[A key weapon] does not have =2AF4,0 ス ミ ス の sword =2AF4,1 ホ ワ イ ト ソ ド =2AF4,2 ホ ワ イ ト ソ one ド (2 people to do several things at the same time) =2AF4,3 ホ ワ イ ト ソ one ド (3 people to do several things at the same time) =2AF4,4…(Lamp) =2AF4,5 フ ォ ソ ド =2AF4,6 バ ク ダ ン =2AF4,7 リ モ コ ン バ ク ダ ン =2AF4,8 bow arrow =2AF4,9 light の bow arrow =2AF4, A ブ メ ラ ン =2AF4, B マ ジ カ ル ブ メ ラ ン =2AF4, C small さ な shield =2AF4, D ミ ラ シ ル ド =2AF4, E inflammation の カ ン テ ラ =2AF4, F lamp =2AF4,10 black magic の つ ぼ =2AF4,11 パ ッ チ の つ え =2AF4,12 モ グ ラ グ ロ ブ =2AF4,13 は ね マ ン ト =2AF4,14 ペ ガ サ ス の く つ =2AF4,15 magic wand =2AF4,16 windの ォ カ リ ナ =2AF4,17 spatial き ビ ン =2AF4,1C
+
+[B key weapon] does not have =2AF5,0 ス ミ ス の sword =2AF5,1 ホ ワ イ ト ソ ド =2AF5,2 ホ ワ イ ト ソ one ド (2 people to do several things at the same time) =2AF5,3 ホ ワ イ ト ソ one ド (3 people to do several things at the same time) =2AF5,4…(Lamp) =2AF5,5 フ ォ ソ ド =2AF5,6 バ ク ダ ン =2AF5,7 リ モ コ ン バ ク ダ ン =2AF5,8 bow arrow =2AF5,9 light の bow arrow =2AF5, A ブ メ ラ ン =2AF5, B マ ジ カ ル ブ メ ラ ン =2AF5, C small さ な shield =2AF5, D ミ ラ シ ル ド =2AF5, E inflammation の カ ン テ ラ =2AF5, F lamp =2AF5,10 black magic の つ ぼ =2AF5,11 パ ッ チ の つ え =2AF5,12 モ グ ラ グ ロ ブ =2AF5,13 は ね マ ン ト =2AF5,14 ペ ガ サ ス の く つ =2AF5,15 magic wand =2AF5,16 windの ォ カ リ ナ =2AF5,17 spatial き ビ ン =2AF5,1C
+
+[The partial weapons (cautious use)]
+ON=2B34,15,51,54,45
+
+[Bodily size] big =43FB0,0 small =43FB0,80
+
+[Map all opens] ON=2A80, FF, FF, 1
+
+[Entire illustrated handbook] ON=2B0E, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=1865 - The Legend of Zelda - The Minish Cap (U) (Sayre reaches fable - to shrink skull cap) (E) A·RPG 128 System=GBA Text=vicente
+----------------------------------------------------------------------------------------
+[Money] ON=2B00, E7,3
+
+[Shell] ON=2B02, E7,3
+
+[Illustrated handbook all opens] ON=2B0E, FE, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, 1
+
+[GameInfo] Name=1865 - The Legend of Zelda - The Minish Cap (U) (Sayre reaches fable - to shrink skull cap) (E) A·RPG 128 System=GBA Text=A sincerity manufacture!

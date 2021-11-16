@@ -1,0 +1,13 @@
+[Life] ON=450AA, 7
+
+[Stealth] ON=40189, FF
+
+[Energy] ON=450AB, 4
+
+[Checkpoint all opens] ON=4501C, 1F, 1F, 1F, 1F
+
+[Entire furniture] ON=45029, FF, FF, FF, FF, FF, FF
+
+[Attachment pattern opens] ON=45014, FF
+
+[GameInfo] Name=2067 - Futari wa Precure Max Heart Maji Maji Fight de IN Janai (J) System=GBA Text=vicente 

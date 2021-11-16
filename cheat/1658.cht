@@ -1,16 +1,16 @@
-[生命]
+[Life]
 ON=477EA,1E
 
-[子弹]
+[Bullet]
 ON=477E5,1E
 
-[枪种类]
+[Gun type]
 普通=477E6,30
 蓝色=477E6,31
 紫色=477E6,32
 绿色=477E6,33
 
-[选关]
+[Select the barrier]
 0FF=0,0
 第1关=477A6,0
 第2关=477A6,1
@@ -47,10 +47,10 @@ ON=477E5,1E
 第33关=477A6,20
 通关=477A6,21
 
-[BONUS全开]
+[BONUS all open]
 ON=42AB9,A
 
 [GameInfo]
-Name=1658 - 星际大战-学徒的原力[Star Wars Trilogy Apprentice Of The Force]
+Name=1658 - Star Wars Trilogy - Apprentice of the Force (E)（星球大战三部曲-学徒的原力）（M6）ACT 64
 System=GBA
-
+Text=vicente

@@ -12,14 +12,14 @@ ON=39888,0,0,0,0
 20000=23CB0,20,4E
 50000=23CB0,50,C3
 
-[喷雾剂剩余歩数]
+[Surplus steps of pressurized spray]
 ON=264E4,FF
 0FF=264E4,00
 
 [Buy]
 MasterBall=4510A,1,0
 
-
 [GameInfo]
-Name=1691 - 口袋妖怪-叶绿[Pokemon LeafGreen]
+Name=1691 - Pokemon Leaf Green v1.1 (U)（口袋妖怪-绿叶）（E）RPG 128
 System=GBA
+Text=大胖子 整理提供

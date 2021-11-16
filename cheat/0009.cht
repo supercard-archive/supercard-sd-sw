@@ -1,0 +1,44 @@
+[Speed ]
+ON=4009A,32
+
+[Time]
+ON=1BFB4,0,0
+
+[GameInfo]
+Name=0009 - Wai Wai Racing (J)（科纳米哇哇赛车）（J）RCG 32
+System=GBA
+Text=大胖子 整理提供
+-----------------------------------------------------------
+[Role]
+role1=1BCE6,0
+role2=1BCE6,1
+role3=1BCE6,2
+role4=1BCE6,3
+role5=1BCE6,4
+role6=1BCE6,5
+role7=1BCE6,6
+role8=1BCE6,7
+role9=1BCE6,8
+role10=1BCE6,9
+role11=1BCE6,A
+role12=1BCE6,B
+
+[Entire car license]
+ON=1BDB6,FF
+
+[Reveal the shown board]
+ON=1BDB8,FF,FF
+
+[S grade]
+ON=1BE58,2
+
+[Money 999]
+ON=1BE64,E7,3
+
+[Gold coin 999]
+ON=1BFBE,E7,3
+
+[GameInfo]
+Name=0009 - Wai Wai Racing (J)（科纳米哇哇赛车）（J）RCG 32
+System=GBA
+Text=169

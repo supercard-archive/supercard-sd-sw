@@ -1,0 +1,11 @@
+[Money] ON=41D10,9F, 86,1
+
+[Small game all opens] ON=41DCC, FF, 1
+
+[Stage prop all opens] ON=41D14, FF, FF, FF, FF, FF
+
+[Stage prop quantity] ON=41D1C, 88,88,88,88,88,88,88,88,88,88,88,88,88,88,88,88,88,88,88,88
+
+[Entire clothing] ON=41D34, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2167 - Bratz - Rock Angelz (U) System=GBA Text=vicente 

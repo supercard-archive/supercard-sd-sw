@@ -1,13 +1,13 @@
-[花]
+[Flower]
 ON=40074,63
 
-[所有装备]
+[All equipment]
 ON=4007C,FF,FF,FF,FF
 
-[只数]
+[Number of elements]
 ON=40078,9
 
 [GameInfo]
-Name=1652 - 天才吉米[Adventures of Jimmy Neutron]
+Name=1652 - Jimmy Neutron - Attack of the Twonkies (U)（天才吉米）（E）ACT 32
 System=GBA
-Text=1652 - 天才吉米
+Text=大胖子

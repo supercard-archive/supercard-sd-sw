@@ -1,0 +1,36 @@
+[HP with  an upper limit]
+9999=41530,F,27
+
+[Missile with  an upper limit]
+999=41532,E7,3
+
+[Super missile with  an upper limit]
+255=41534,FF
+
+[Super bomb with  an upper limit]
+99=41535,63
+
+[Entire equipment open]
+ON=41536,0f,27;4153C,9F,9F,FF,FF;41542,1
+
+[All hideway  essential factor  open]
+ON=40014,FF
+
+[Map opening]
+ON=37400,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Ultra accelerating condition]
+ON=41353,FF;413DC,FF
+
+[GameInfo]
+Name=1370 - Metroid Zero Mission (U)（银河战士-初始任务）（E）ACT 64
+System=GBA
+Text=ASTAROTH、黄泉CUSTOM
+--------------------------------------------------------------------
+[The biggest energy, the most greatly ordinary missile,super missile,  strengthening the bomb]
+ON=41530,E7,3,E7,3,63,63;41538,E7,3,63,63
+
+[GameInfo]
+Name=1370 - Metroid Zero Mission (U)（银河战士-初始任务）（E）ACT 64
+System=GBA
+Text=Flasejune

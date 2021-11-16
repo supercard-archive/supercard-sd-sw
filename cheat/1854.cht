@@ -1,15 +1,11 @@
-[血]
-ON=40674,6
+[Time] ON=40AB4,0,0
 
-[雷]
-ON=40748,9,9
+[Life] ON=40674, A
 
-[隐身]
-ON=40779,64
+[Population] ON=40680,63
 
-[只数]
-ON=40680,9
+[Stealth] ON=40779, FF
 
-[GameInfo]
-Name=1854 - 终极魔鬼克星[Extreme Ghostbusters - Code Ecto-1]
-System=GBA
+[Auxiliary armament] ON=40748,63,63
+
+[GameInfo] Name=1854 - Extreme Ghostbusters - Code Ecto-1 (U) (seizes the clever special service unit - Ecto-1 motion) (E) ACT 32 System=GBA Text=vicente

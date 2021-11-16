@@ -1,0 +1,13 @@
+[Life] ON=10F8,32
+
+[Energy] ON=2DFF9,5
+
+[Collection] ON=2DFF8,1D
+
+[The entire equipment obtains] ON=2DC82, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[In fight our physical strength] ON=3B48E, 32
+
+[In fight opposite party physical strength] ON=3B4CE, 0
+
+[GameInfo] Name=2040 - Fantastic children (J) System=GBA Text=vicente

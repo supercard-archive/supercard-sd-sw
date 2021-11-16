@@ -1,14 +1,13 @@
-[钱]
+[Money]
 ON=1EB0,3F,42,F
 
 [SKP]
 ON=1ED4,F,27
 
-[skill全修得]
+[Skill all repaired]
 ON=1ED8,FF,FF,FF
 
 [GameInfo]
-Name=0232 - 学校传说 [Gakkou o Tsukurou!! Advance]
+Name=0232 - Gakkou o Tsukurou!! Advance (J)（学校传说）（J）S·RPG 64
 System=GBA
-Text=0232 - Gakkou o Tsukurou!! Advance (J)
-
+Text=大胖子 整理提供

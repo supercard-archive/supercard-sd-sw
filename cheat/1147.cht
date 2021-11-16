@@ -1,0 +1,19 @@
+[SP]
+ON=426AF,C0
+
+[HP]
+ON=4268C,EC
+
+[Invisible]
+ON=4268D,C8
+
+[Weapon might]
+ON=426AD,2
+
+[Number of elements]
+ON=4005D,9
+
+[GameInfo]
+Name=1147 - Power Rangers Ninja Storm (U)（金刚战士-武士风暴）（E） ACT 32
+System=GBA
+Text=大胖子 整理提供

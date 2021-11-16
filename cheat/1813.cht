@@ -1,22 +1,22 @@
-[全道具]
+[Entire stage prop]
 ON=44342,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63
 
-[全服装]
+[Entire clothing]
 ON=44400,1,0,1,0,1,0,1,0,1,0,1,0,1
 
-[全串珠]
+[Entire string of beads]
 ON=44216,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
 
-[全图片]
-ON=4442C,FF,FF
+[Entire picture]
+ON=4442C, FF, FF
 
-[全家具]
-ON=442D0,FF,FF,FF,FF
+[Entire furniture]
+ON=442D0, FF, FF, FF, FF
 
-[全服饰图鉴]
-ON=448CC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire clothing illustrated handbook]
+ON=448CC, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
 [GameInfo]
-Name=1813 - 成为流行设计师[Sylvania Family - Fashion Designer ni Naritai]
+Name=1813 - Sylvania Family - Fashion Designer Ninaritai! (J) (family of the forest - becomes popular designer) (J) TCG 64
 System=GBA
-
+Text=vicente

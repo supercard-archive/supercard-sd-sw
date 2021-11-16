@@ -1,23 +1,23 @@
 [HP]
 ON=F22,64;2582A,64
 
-[防弹背心]
+[Bullet-proof vest]
 ON=25828,64
 
-[全武器]
+[Entire weapon]
 ON=1084,0,1,FF;108C,1,1,FF;1094,2,1,FF;109C,3,1,FF;10A4,4,1,FF;10AC,5,1,FF;10B4,6,1,FF;10BC,7,1,FF;10C4,8,1,FF;10CC,9,1,FF;10D4,A,1,FF;10DC,B,1,FF
 
-[时间]
+[Time]
 ON=25818,0,0
 
-[金钱]
+[Money]
 ON=25824,FF,E0,F5,5
 
-[警察等级]
+[Police rank]
 LV.0=2581A,0;30340,0
 LV.Max=2581A,6;30340,63
 
-[车辆速度]
+[Vehicles speed]
 ON=7248,2B,6F,4
 
 [STATE]
@@ -33,6 +33,35 @@ MILES DRIVEN=DC6,F,27
 PATIENTS RESCURED=DCF,F,27
 
 [GameInfo]
-Name=1742 - 横行霸道[Grand Theft Auto Advance]
+Name=1742 - Grand Theft Auto Advance (E)（侠盗猎车A）（M5）AVG 128
 System=GBA
 Text=Raeca
+------------------------------------------------------------------
+[Guard]
+ON=25828,64
+
+[Life]
+ON=F22,64
+
+[Entire weapon]
+ON=1084,0,1,FF;108C,1,1,FF;1094,2,1,FF;109C,3,1,FF;10A4,4,1,FF;10AC,5,1,FF;10B4,6,1,FF;10BC,7,1,FF;10C4,8,1,FF;10CC,9,1,FF;10D4,A,1,FF;10DC,B,1,FF
+
+[Time]
+ON=25818,0,0
+
+[Money]
+ON=25824,FF,E0,F5,5
+
+[exposed]
+ON=30340,0
+
+[Timing duty time]
+ON=25814,63
+
+[Initial vehicle race speed ]
+ON=7248,2B,6F,4
+
+[GameInfo]
+Name=1742 - Grand Theft Auto Advance (E)（侠盗猎车A）（M5）AVG 128
+System=GBA
+Text=vicente

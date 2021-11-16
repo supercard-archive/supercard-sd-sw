@@ -1,0 +1,22 @@
+[Blood]
+ON=426EC,5
+
+[Bullet]
+ON=434AC,63
+
+[Number of elements]
+ON=424D2,63
+
+[Time]
+ON=43488,9;4348C,9
+
+[Five-star]
+ON=426BC,63
+
+[Invisible]
+ON=426D4,64
+
+[GameInfo]
+Name=0490 - Aero The Acrobat (U)（蝙蝠侠）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供

@@ -1,22 +1,13 @@
-[生命]
-ON=436ED,A
+[Life] ON=436ED, A
 
-[隐身]
-ON=43830,FF
+[Stealth] ON=43830, FF
 
-[全图片]
-ON=4371C,FF,FF,FF,FF,FF,FF,FF
+[Entire picture] ON=4371C, FF, FF, FF, FF, FF, FF, FF
 
-[全装备]
-ON=43724,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire equipment] ON=43724, FF, FF, FF, FF, FF, FF, FF, FF
 
-[全道具]
-ON=43730,FF,FF,FF,FF
+[Entire stage prop] ON=43730, FF, FF, FF, FF
 
-[地图全开]
-ON=43734,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Map all opens] ON=43734, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[GameInfo]
-Name=1926 - 机器人[Robots (U)]
-System=GBA
-
+[GameInfo] Name=1926 - Robots (E) System=GBA Text=vicente 

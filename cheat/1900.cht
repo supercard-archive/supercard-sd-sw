@@ -1,22 +1,16 @@
-[HP²»¼õ]
-ON=42802,28
+[Invincible] ON=226A8,64
 
-[SUPER MAX]
-ON=4280A,63
+[HP does not reduce] ON=42802,28
 
-[HIT MAX]
-ON=427F9,A
+[SUPER MAX] ON=4280A, 63
 
-[·ÖÊý MAX]
-ON=42824,FF,E0,F5,5
+[HIT MAX] ON=427F9, A
 
-[È«ÄÜÁ¦ MAX]
-ON=4285E,7,7,7,7,7,7
+[Score MAX] ON=42824, FF, E0, F5,5
 
-[È«ÈËÎïÍ¼¼ø]
-ON=42829,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[å…¨èƒ½åŠ› MAX] ON=4285E, 7,7,7,7,7,7
 
-[GameInfo]
-Name=1900 - Ìú±Û°¢Í¯Ä¾-°¢Í¯Ä¾Ö®ÐÄ[Astro Boy - Omega Factor]
-System=GBA
+[Entire character illustrated handbook] ON=42829,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo] Name=1900 - Astro Boy - Omega Factor (E) (secret of the hard arm Arab League child wooden - Arab League child core of wood) (M6) ACT 64 System=GBA the Text= big fat person reorganizes provides 
 

@@ -1,21 +1,42 @@
-[不遇敌] 
+[PTS]
+ON=45220,FF,E0,F5,05
+
+[Do not meet the enemy]
 ON=41050,FF
 
-[全奖牌] 
+[Entire medal]
 ON=4531A,FF,FF
 
-[我方生命] 
+[Fighting frequency]
+ON=45228,99
+
+[Victory frequency]
+ON=4522A,99
+
+[====Fighting page====]
+[Our side]
+
+[Life]
 ON=417B9,05
 
-[对方生命]
+[added the sufficient Mana quantity]
+ON=415A0,99
+
+[Stored the sufficient Mana quantity]
+ON=41709,99
+
+[Opposite side]
+
+[Life]
 ON=417E5,00
 
-[攻击不能]
-ON=41735,00 
+[Can not attack]
+ON=41735,00
+
+[Entire card]
+ON=4522C,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
 
 [GameInfo]
-Name=1511 - 卡片决斗大师-前辈传说[Duel Masters Sempai Legends]
+Name=1511 - Duel Masters Sempai Legends (U)（卡片决斗高手-永恒的传说）（E）ACT 64
 System=GBA
-
-
-
+Text=vicente

@@ -1,16 +1,24 @@
-[隐藏全开]
-ON=3482B,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
-
-[钱]
+[Money]
 ON=43C5C,C8
 
-[左侧槽]
+[Left side trough]
 ON=43C66,C8
 
-[右侧槽]
+[Right side trough]
 ON=43C67,C8
 
 [GameInfo]
-Name=1426 - 美人鱼之韵 活力之舞 活力现场演奏会[Mermaid Melody Pichi Pichi Picchi Pichi Pichitto Live Start]
+Name=1426 - Mermaid Melody Pichi Pichi Picchi Pichi Ppichitto Live Start (J)（美人鱼之韵 活力之舞 活力现场演奏会）（J）MUG 128
 System=GBA
-Text=vicente 
+Text=大胖子 整理提供
+------------------------------------------------------------------------------------------------------------------------------
+[Money]
+ON=34338,9F,86,1
+
+[Hideway all open]
+ON=3482B,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1426 - Mermaid Melody Pichi Pichi Picchi Pichi Ppichitto Live Start (J)（美人鱼之韵 活力之舞 活力现场演奏会）（J）MUG 128
+System=GBA
+Text=vicente

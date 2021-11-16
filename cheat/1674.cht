@@ -1,0 +1,36 @@
+[Physical strength does not reduce]
+ON=B3E,FF
+
+[Score Max]
+ON=B40,FF,E0,F5,5
+
+[Pisolite Max]
+ON=B34,42,1
+
+[Life Max]
+ON=B36,63
+
+[GameInfo]
+Name=1674 - Ms. Pac-Man - Maze Madness (U)£¨³Ô¶¹Ð¡½ã£©£¨E£©PUZ 32
+System=GBA
+Text=Ä§½£Ê¿µ«¶¡
+------------------------------------------------------------------
+[Life]
+ON=B3E,FF
+
+[Population]
+ON=B36,63
+
+[Pisolite]
+ON=B34,E7,3
+
+[Invincible time]
+ON=A9C,56
+
+[Barriers all open]
+ON=31A8,FF,FF
+
+[GameInfo]
+Name=1674 - Ms. Pac-Man - Maze Madness (U)£¨³Ô¶¹Ð¡½ã£©£¨E£©PUZ 32
+System=GBA
+Text=vicente

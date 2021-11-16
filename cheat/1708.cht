@@ -1,19 +1,19 @@
-[生命]
+[Life]
 ON=28BC,13
 
-[水瓶]
+[Bottle]
 ON=28B8,14
 
-[香水]
+[Perfume]
 ON=28B4,14
 
-[磁盘]
+[Disk]
 ON=28C8,3
 
-[关开全开]
+[closedopen all open]
 ON=3D70,FF
 
 [GameInfo]
-Name=1708 - 如此漆黑[That's So Raven]
+Name=1708 - That's So Raven (U)（如此瑞文）（E）ACT 64
 System=GBA
-
+Text=vicente

@@ -1,16 +1,16 @@
-[体力]
-ON=4405A,14
+[Physical strength]
+ON=4406A,14
 
-[隐身]
-ON=43FE6,FF
+[Invisible]
+ON=43FF6,FF
 
-[全关卡]
-ON=41DB8,FF,FF,FF,FF
+[Entire barrier]
+ON=41DC8,FF,FF,FF,FF
 
-[全图片]
-ON=41DBC,FF,FF,FF,FF
+[Entire picture]
+ON=41DCC,FF,FF,FF,FF
 
 [GameInfo]
-Name=1761 - 海底总动员连续冒险[Finding Nemo: The Continuing Adventures]
+Name=1761 - Finding Nemo - The Continuing Adventures (E)（海底总动员-冒险再续）（M3）AVG 32
 System=GBA
-
+Text=vicente

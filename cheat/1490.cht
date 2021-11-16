@@ -1,38 +1,36 @@
-[钱]
+[Money]
 ON=4094C,E7,3
 
-[时间]
+[Time]
 ON=4094E,0,0
 
-[只数]
+[Number of elements]
 ON=40954,9
 
-[无敌]
+[Invincibility]
 ON=4160C,C8
 
-[金环]
+[Gold ring]
 ON=4094C,E7,3 
 
-
-[钥匙]
+[Key]
 ON=40552,9
 
-[防护罩]
+[Protective covering]
 绿色=416F8,10,10
 蓝色=416F8,30,30
 无敌=416F8,50,50
 
-[ZONE模式全开]
+[ZONE pattern open]
 ON=40541,FF
 
-[全人物]
+[Perfect person]
 ON=40540,FF
 
-[BOSS模式开启]
+[BOSS pattern open]
 ON=40563,FF
 
 [GameInfo]
-Name=1490 - 索尼克3[Sonic Advance 3 (E)]
+Name=1490 - Sonic Advance 3 (U)（索尼克3）（M6）ACT 128
 System=GBA
-Text=1490 - Sonic_Advance_3_(E)
-
+Text=大胖子 整理提供

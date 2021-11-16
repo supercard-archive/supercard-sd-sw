@@ -1,0 +1,27 @@
+[Microwave oven time] ON=18EEE, 0
+
+[Walks pattern population] ON=1A528,9
+
+[Walks pattern time] ON=1A51C, 0,0,0,0
+
+[Walks pattern step] ON=5086, F, 27
+
+[Walks pattern entire stage prop illustrated handbook] ON=AFD8, FF, FF, FF, FF
+
+[Chain-like pattern entire star] ON=A688, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Chain-like pattern time] ON=12024, A0,8C
+
+[Chain-like pattern integral] ON=1201C, FF, E0, F5,5
+
+[Chain-like pattern grade] ON=12A66, E7,3
+
+[Chain-like pattern attachment difficulty all opens] ON=A6A3, FF
+
+[Chain-like pattern we physical strength] ON=12B34,78
+
+[Chain-like pattern opposite party physical strength] ON=12B4C, 0
+
+[Chain-like pattern checkpoint all opens] ON=A6D4, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2034 - Nonono Puzzle Chailien (J) System=GBA Text=vicente 

@@ -1,0 +1,10 @@
+[Fast upgrade]
+ON=3EC32,1;3EC4A,1
+
+[Entire fitting]
+ON=3EEC0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1037 - Medabots AX: Metabee Version (E) （金属机器人大战AX-蓝蜂版）（M5） FTG 64
+System=GBA
+Text=wangkei

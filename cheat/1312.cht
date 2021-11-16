@@ -1,0 +1,79 @@
+[Bathe]
+ON=43A07,64
+
+[Sleeping]
+ON=43A0B,64
+
+[Take food]
+ON=43A03,64
+
+[Interaction]
+ON=43A0F,64
+
+[Cozy]
+ON=43A13,64
+
+[如厕]
+ON=43A17,64
+
+[Amusement]
+ON=43A1B,64
+
+[Environment]
+ON=43A1F,64
+
+[Minutes(Free training )]
+ON=4395B,1
+
+[Hour (Free training)]
+12 am=4395A,0
+01 am=4395A,1
+02 am=4395A,2
+03 am=4395A,3
+04 am=4395A,4
+05 am=4395A,5
+06 am=4395A,6
+07 am=4395A,7
+08 am=4395A,8
+09 am=4395A,9
+10 am=4395A,A
+11 am=4395A,B
+12 pm=4395A,C
+01 pm=4395A,D
+02 pm=4395A,E
+03 pm=4395A,F
+04 pm=4395A,10
+05 pm=4395A,11
+06 pm=4395A,12
+07 pm=4395A,13
+08 pm=4395A,14
+09 pm=4395A,15
+10 pm=4395A,16
+11 pm=4395A,17
+12 pm=4395A,18
+
+[Money]
+ON=43954,1869F
+
+[Body]
+ON=439F7,A
+
+[Creativity]
+ON=439F3,A
+
+[Charisma]
+ON=439FF,A
+
+[Cooking]
+ON=439EB,A
+
+[Logic]
+ON=439FB,A
+
+[mechanical]
+ON=439EF,A
+
+[GameInfo]
+Name=1312 - The Sims Bustin Out (U)（模拟人生-纯属意外）（E）TCG 128
+System=GBA
+Text=Frisco

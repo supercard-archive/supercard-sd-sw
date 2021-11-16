@@ -1,0 +1,25 @@
+[Submachine gun] 
+ON=400EC,E7,3 
+
+[Grasp] 
+ON=400F8,E7,3 
+
+[Grenade launcher] 
+ON=400F0,E7,3 
+
+[火焰枪] 
+ON=400F4,E7,3 
+
+[Grenade] 
+ON=40100,63 
+
+[Blood] 
+ON=400E4,64 
+
+[Life number] 
+ON=400E0,09 
+
+[GameInfo] 
+Name=0479 - CT Special Forces (E)（CT特种部队）（M）FPS 32
+System=GBA
+Text=大胖子 整理提供

@@ -1,16 +1,16 @@
-[时间]
+[Time]
 ON=170E,63
 
-[血]
+[Blood]
 ON=37C32,64
 
-[只数]
+[Number of elements]
 ON=16AD,9
 
-[隐身]
+[Invisible]
 ON=37C2E,FF
 
-[手持武器]
+[Holding weapon]
 空手=37C12,0
 飞刀=37C12,10
 棍子=37C12,11
@@ -23,10 +23,10 @@ ON=37C2E,FF
 短棍（好用）=37C12,30
 双节棍（好用）=37C12,40
 
-[一击必杀]
+[Must kill as soon as strikes ]
 ON=37C92,0;37CF2,0;37D52,0;37DB2,0;37E12,0;37E72,0
 
-[打敌人掉的武器]
+[Hits the weapon which the enemy falls]
 飞刀=37C72,10;37CD2,10;37D32,10;37D92,10;37DF2,10;37E52,10
 棍子=37C72,11;37CD2,11;37D32,11;37D92,11;37DF2,11;37E52,11
 皮鞭=37C72,12;37CD2,12;37D32,12;37D92,12;37DF2,12;37E52,12
@@ -39,7 +39,6 @@ ON=37C92,0;37CF2,0;37D52,0;37DB2,0;37E12,0;37E72,0
 双节棍=37C72,40;37CD2,40;37D32,40;37D92,40;37DF2,40;37E52,40
 
 [GameInfo]
-Name=1428 - 双截龙[Double Dragon Advance]
+Name=1428 - Double Dragon Advance (J)（双截龙）（J） ACT 32
 System=GBA
-Text=1428_-_double_dragon_advance_(J)[大胖子]
-
+Text=大胖子

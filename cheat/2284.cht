@@ -1,0 +1,21 @@
+[We cut down strength] ON=9E4E, 40
+
+[Our charm] ON=9E5C, 30
+
+[Opposite party cuts down strength] ON=A02A, 0
+
+[Opposite party charm] ON=A038,0
+
+[Elects to close] 1st closes =245C2,1 2nd to close =245C2,2 3rd to close =245C2,3 4th to close =245C2,4 5th to close =245C2,5 6th to close =245C2,6 7th to close =245C2,7 8th to close =245C2,8
+
+[To fights the entire character + entire athletic field] ON=245F9, FF, FF
+
+[Small game all opens] ON=245FC, FF
+
+[Slightly plays the entire difficulty] ON=245CC, FF
+
+[Entire collection] ON=245F4, FF, FF, FF, FF
+
+[Attachment pattern all opens] ON=2466E, FF
+
+[GameInfo] Name=2284 - ZatchBell - Electric Arena (U) System=GBA Text=vicente 

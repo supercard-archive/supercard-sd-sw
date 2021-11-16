@@ -1,0 +1,28 @@
+[Invincibility (Eat the bean）]
+ON=40788,0,0,0,0;407B4,0,0,0,0;407E0,0,0,0,0;4080C,0,0,0,0
+
+[Number of elements（Eats the bean）]
+ON=8AA8,9
+
+[Remaining time（Vehicle race）]
+ON=1B877,63
+
+[Single circle time（Vehicle race）]
+ON=1B88B,0
+
+[Speed（Vehicle race)]
+ON=192CC,32
+
+[Number of elements（Blow the balloon）]
+ON=E568,9
+
+[Life number- Small honeybee]
+ON=10E1A,5
+
+[Life number-Big honeybee]
+ON=1A894,5
+
+[GameInfo]
+Name=0240 - Namco Museum (J)（南梦宫精品游戏合集）（E）ECT 32
+System=GBA
+Text=大胖子 整理提供

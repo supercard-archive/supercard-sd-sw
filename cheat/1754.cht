@@ -1,19 +1,19 @@
-[生命]
+[Life]
 ON=5CE,6
 
-[人数]
+[Population]
 ON=5CD,C6
 
-[糖果杖]
+[Candy sticking]
 ON=644,63
 
-[雪车铃]
+[Snow bicycle bell]
 ON=640,3
 
-[关卡全开]
+[Barriers all open]
 ON=62C,FF
 
 [GameInfo]
-Name=1754 - 极地快递[The Polar Express]
+Name=1754 - The Polar Express (U)（极地快递）（M5）AVG 32
 System=GBA
-Text=vicente 
+Text=vicente

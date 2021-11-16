@@ -1,0 +1,19 @@
+[Blood]
+ON=4174C,4
+
+[Money]
+ON=416BC,E;41898,E;4197C,E
+
+[Invisible]
+ON=41780,14
+
+[Number of elements]
+ON=409B4,63
+
+[Weapon]
+ON=4175A,63;4175C,63;4175E,63
+
+[GameInfo]
+Name=0938 - Santa Claus Saves the Earth (E) （圣诞老人救地球）（E） ACT 32
+System=GBA
+Text=大胖子

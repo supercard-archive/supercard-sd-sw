@@ -1,16 +1,13 @@
-[子弹数]
+[Life ]
+ON=45EFD,4;45FE1,4
+
+[Bullet]
 ON=400A0,E7,3
 
-[血]
-ON=45EFD,4
-
-[雷]
+[Grenade]
 ON=400A8,63
 
 [GameInfo]
-Name=1681 - 屠戮开关[Kill Switch]
+Name=1681 - Kill Switch (U)（战地杀机）（E）ACT 32
 System=GBA
-Text=1681 - Kill Switch (U)
-
-
-
+Text=vicente

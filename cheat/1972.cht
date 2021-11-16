@@ -1,15 +1,9 @@
-[草莓数量]
-ON=3694,63
+[Strawberry quantity] ON=3694,63
 
-[只数]
-ON=36A4,63
+[Only counts] ON=36A4,63
 
-[血]
-ON=1B888,4;1BAF0,4;1E1F0,4;1E458,4;24274,4;24BA4,4;26708,4
+[Blood] ON=1B888,4; 1BAF0,4; 1E1F0,4; 1E458,4; 24274,4; 24BA4,4; 26708,4
 
-[小游戏时的翻牌次数]
-ON=BA98,9
+[Time small game turns sign number of times] ON=BA98,9
 
-[GameInfo]
-Name=1972 - 迪斯尼小熊的兄弟们[Brother Bear]
-System=GBA
+[GameInfo] Name=1972 - Brother Bear (E) Brother System=GBA Text= Disney young Xiong's [big fat person] 

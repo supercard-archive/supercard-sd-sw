@@ -1,0 +1,9 @@
+[BP bread] ON=42562, FF
+
+[BP infinite migration] ON=4104E, 3
+
+[SW time] ON=46428,0,0
+
+[SW scores points] ON=46448,3F, 42, F
+
+[GameInfo] Name=2137 - 2in1 Cartoon Network Pack (U) System=GBA Text=vicente+ big fat person

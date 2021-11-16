@@ -1,22 +1,22 @@
-[瓦罐数]
+[Pottery jar nunber]
 ON=16D10,63
 
-[特殊能力]
+[Special ability]
 能力1=31BBA,1
 能力2=31BBA,2
 能力3=31BBA,3
 能力4=31BBA,4
 
-[血]
+[Blood]
 ON=18953,3
 
-[只数]
+[Number of elements]
 ON=18958,9
 
-[挨打以后隐身]
+[Invisiblity after take a beating]
 ON=31BBE,0
 
 [GameInfo]
-Name=1648 - 牧场是我家[Home On The Range (E)]
+Name=1648 - Home on the Range (E)（牧场是我家）（M4）ACT 64
 System=GBA
-Text=1648 - Home On The Range (E)
+Text=大胖子 整理提供

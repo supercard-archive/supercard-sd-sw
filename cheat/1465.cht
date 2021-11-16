@@ -1,17 +1,16 @@
-[时间]
+[Time]
 ON=1BC,0,0
 
-[护甲]
+[Armour]
 ON=359B8,64
 
-[血]
+[Blood]
 ON=33212,64
 
-[只数]
+[Number of elements]
 ON=22C,9
 
 [GameInfo]
-Name=1465 - 英雄萨姆A[Serious Sam Advance (U)]
+Name=1465 - Serious Sam Advance (U)（英雄萨姆A）（M3）FPS 64
 System=GBA
-Text=1465 - Serious Sam Advance (E)
-ROMNAME=9A7798899A8E9759978C97848C808B7B
+Text=大胖子 整理提供

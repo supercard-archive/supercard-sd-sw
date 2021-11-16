@@ -1,16 +1,15 @@
-[无敌]
+[Invincibility]
 ON=4799F,63
 
-[生命MAX]
+[Life MAX]
 ON=4795A,63
 
-[状态]
+[Condition]
 小玛力=47956,0
 大玛力=47956,1
 火力花=47956,2
 
 [GameInfo]
-Name=1514 - 经典任天堂-超级马里奥兄弟[Classic NES Series - Super Mario Bros]
+Name=1514 - NES Classic Super Mario Bros (U)（经典任天堂-超级马里奥兄弟）（E）ACT 8
 System=GBA
-Text=1514 - Classic NES Series - Super Mario Bros[魔剑士但丁]
-
+Text=魔剑士但丁

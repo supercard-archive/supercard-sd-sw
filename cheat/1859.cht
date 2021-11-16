@@ -1,23 +1,13 @@
-[第一机器人MF]
-ON=40651,50
+[First robot MF] ON=40651,50
 
-[第一机器人属性]
-ON=405DC,C8;405E9,63;405E9,C8;405F4,63;40601,63;4060C,C8;40619,C8;40624,C8;40631,C8
+[First robot attribute] ON=405DC, C8; 405E9,63; 405E9, C8; 405F4,63; 40601,63; 4060C, C8; 40619, C8; 40624, C8; 40631, C8
 
-[第一机器人升级所需经验值]
-ON=40BE2,0,0
+[First robot promotes needs empirical value] ON=40BE2,0,0
 
-[第一机器人能力]
-ON=40C00,C8,C8,C8,C8,C8,C8,C8,C8
+[First robot ability] ON=40C00, C8, C8, C8, C8, C8, C8, C8, C8
 
-[升级第一机器人能力所需的点数]
-ON=40C08,7,7,7,7,7,7,7,7,7
+[Promotes points which first robot ability needs] ON=40C08,7,7,7,7,7,7,7,7,7
 
-[MONEY]
-ON=42B70,9F,86,1
+[MONEY] ON=42B70,9F, 86,1
 
-[GameInfo]
-Name=1859 - 金属机器人2-鍬型虫版 [Medarot 2 Core - Kuwagata Version]
-System=GBA
-Text=金属机器人2-鍬型虫版
-
+[GameInfo] Name=1859 - Medabots - Rokusho Version (U) (badge soldier - beetle variant version) (E) RPG 64 System=GBA Text= big fat person

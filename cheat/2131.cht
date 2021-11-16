@@ -1,0 +1,21 @@
+[Life] ON=43636, F0
+
+[Life upper limit] ON=422BA, F0
+
+[Energy] ON=422BE, 90,1
+
+[Energy upper limit] ON=422C0,90,1
+
+[Striking power] ON=422C2, F, 27
+
+[Defensive power] ON=422C4, F, 27
+
+[Stealth] ON=43630,30
+
+[Money] ON=42310, FF, E0, F5,5
+
+[Attribute stage prop] ON=42358,63,63,63
+
+[Entire soul] ON=4235B, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2131 - Shaman King Master of Spirits (E) System=GBA Text=vicente 

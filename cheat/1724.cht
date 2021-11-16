@@ -1,22 +1,22 @@
-[生命上限]
+[Life with an upper limit]
 ON=369E,14
 
-[生命]
+[Life]
 ON=369F,14
 
-[隐身]
+[Invisible]
 ON=F32,8C
 
-[好感]
+[Favorable impression]
 ON=36A0,0,0
 
-[金钱]
+[Money]
 ON=368C,F,27
 
-[时间]
+[Time]
 ON=3688,0,0,0,0
 
 [GameInfo]
-Name=1724 - 战斗员山田[Sentouin Yamada Hajime]
+Name=1724 - Sentouin Yamada Hajime (J)（战斗员山田一）（J）ACT 64
 System=GBA
-Text=vicente 
+Text=vicente

@@ -1,24 +1,23 @@
-[钱MAX]
+[Money MAX]
 ON=44DB4,FF,FF
 
-[所有隐藏角色解锁]
+[All hideway roles unlock]
 ON=44D58,FF,FF,FF,FF,FF,FF,FF
 
-[1P体力不减]
+[1P Physical strength does not reduce]
 ON=4273E,39
 
-[1P气力100%]
+[1P energy 100%]
 ON=4274B,64
 
-[2P状态]
+[2P condition]
 不战而胜=42826,0
 2P一击死=42826,1
 
-[2P气力0%]
+[2P energy0%]
 ON=42833,0
 
 [GameInfo]
-Name=1548 - 龙珠z 空舞斗剧[DragonBallZ Supersonic Warriors (U)]
+Name=1548 - DragonBallZ Supersonic Warriors (U)（龙珠Z-舞空斗剧）（E）FTG 128
 System=GBA
-TEXT=1548 - Dragon Ball Zbukuu Tougeki[魔剑士但丁]
-
+TEXT=魔剑士但丁

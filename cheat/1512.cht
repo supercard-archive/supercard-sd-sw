@@ -1,19 +1,19 @@
-[生命]
+[Life]
 ON=47870,FF
 
-[隐身]
+[Invisible]
 ON=476F0,14
 
-[钻石]
+[Diamond]
 ON=4786D,FF
 
-[B键全道具]
+[B key entire stage pro]
 ON=47858,FF,FF,FF,FF,FF,FF,FF,FF
 
-[全辅助道具]
+[Entire auxiliary stage prop]
 ON=47860,FF,FF,FF,FF,FF,FF
 
 [GameInfo]
-Name=1512 - 经典任天堂-塞尔达传说[Classic NES Series - The Legend of Zelda]
+Name=1512 - NES Classic Legend of Zelda (U)（经典任天堂-塞尔达传说）（E）A·RPG 8
 System=GBA
 Text=vicente

@@ -1,11 +1,10 @@
-[时间]
+[Time]
 ON=461C0,0,0
 
-[能量]
+[Energy]
 ON=461DE,15 ON=10138,0,64;102E8,0,64;DDC8,0,64;DF78,0,64;E488,0,64;E638,0,64;EB48,0,64;ECF8,0,64;F058,0,64
 
 [GameInfo]
-Name=1441 - 数码宝贝赛车[Digimon_Racing ]
+Name=1441 - Digimon Racing (J)（数码宝贝赛车）（J）RCG 64
 System=GBA
 Text=MICK
-

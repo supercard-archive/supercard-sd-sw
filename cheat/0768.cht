@@ -1,0 +1,16 @@
+[Blood]
+ON=44DDA,64
+
+[Number of elements]
+ON=44DD8,9
+
+[Bullet]
+ON=44E38,E8,3;44E60,E8,3
+
+[Invisible]
+ON=13FB8,64
+
+[GameInfo]
+Name=0768 - Earthworm Jim 2 (E)（蚯蚓吉姆2）（M）ACT 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,19 @@
+[Mf]
+ON=17CE,FF
+
+[Foot] 
+ON=17C3,FF 
+
+[Right hand] 
+ON=17C1,FF 
+
+[Left hand] 
+ON=17C2,FF 
+
+[Head] 
+ON=17C0,FF
+
+[GameInfo]
+Name=0101 - Medarot Navi - Kabuto Version (J)（金属机器人大战-甲胄版）（J）S·RPG 64
+System=GBA
+Text=大胖子 整理提供

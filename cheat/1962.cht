@@ -1,16 +1,9 @@
-[生命]
-ON=43EA4,70,2
+[Life] ON=43EA4,70,2
 
-[时间]
-ON=A4,0,0
+[Time] ON=A4,0,0
 
-[积分]
-ON=43EB4,99,99,99
+[Integral] ON=43EB4,99,99,99
 
-[全装备]
-ON=43EAC,FF
+[Entire equipment] ON=43EAC, FF
 
-[GameInfo]
-Name=1962 - 雨果大冒险-邪恶之镜[Hugo The Evil Mirror]
-System=GBA
-
+[GameInfo] Name=1962 - Hugo The Evil Mirror (U) System=GBA Text=vicente

@@ -1,0 +1,39 @@
+[Life number ]
+ON=C0,5
+
+[Weapon]
+ON=A8,32;AA,32
+
+[GameInfo]
+Name=0038 - Pitfall - The Mayan Adventure (U)（玛亚历险）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------------
+[Stone 99]
+ON=A8,63
+
+[Return dart99]
+ON=AA,63
+
+[Nut99]
+ON=B4,63
+
+[Score 999999]
+ON=B8,3F,42,F
+
+[Life 9]
+ON=C0,9
+
+[The enemy does not move]
+ON=254,80,0
+
+[Flying apsaras]
+ON=C12,FA
+
+[Blood]
+ON=10C1,96
+
+[GameInfo]
+Name=0038 - Pitfall - The Mayan Adventure (U)（玛亚历险）（E）ACT 32
+System=GBA
+Text=169

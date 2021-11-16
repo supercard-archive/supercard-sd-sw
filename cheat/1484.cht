@@ -1,17 +1,16 @@
 [POWER]
 ON=44A6C,63
 
-[只数]
+[Number of elements ]
 ON=44A90,7
 
-[血]
+[Blood]
 ON=44B1C,63
 
-[钱]
+[Money]
 ON=44B68,E7,3
 
 [GameInfo]
-Name=1484 - 范海辛[Van Helsing (E)]
+Name=1484 - Van Helsing (E)（范海辛）（M5）AVG 32
 System=GBA
-Text=1484 - Van Helsing (E)
-
+Text=大胖子 整理提供

@@ -1,0 +1,19 @@
+[Life] ON=4948,32
+
+[Invincible] ON=28,20
+
+[Bullet] ON=72, E7,3
+
+[Bomb] ON=6F, 63
+
+[Machine shell] ON=44756,63
+
+[Checkpoint all opens] ON=CD69, FF
+
+[Entire card] ON=CD70, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire prisoner of war] ON=CD90, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, F
+
+[Bomb type] BOMB=6E, 1 FIRE=6E, 2
+
+[GameInfo] Name=1840 - Metal Slug Advance (E) (alloy warhead A) (E) ACT 64 System=GBA Text=vicente

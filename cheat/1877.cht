@@ -1,7 +1,13 @@
-[È«Í¼¼ø]
-ON=414A8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[AB flies rack number] ON=427B1,32
 
-[GameInfo]
-Name=1877 - Ì«¿ÕÆµµÀ5[Space Channel 5 (E)]
-System=GBA
+[AB missile] ON=427B4,32
 
+[OR time] ON=427A8,0,17
+
+[SP time] ON=4278C, 0, E
+
+[SP population] ON=4278F, 4
+
+[SU time] ON=427A8,0, C
+
+[GameInfo] Name=1877 - Sega Arcade Gallery (U) (world fine street machine game artistic collection) (E) ECT 64 System=GBA Text=vicente

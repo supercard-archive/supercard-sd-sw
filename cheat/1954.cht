@@ -1,13 +1,5 @@
-[第1关生命]
-ON=27E18,5
+[Collection] ON=5458,63
 
-[收集品]
-ON=5418,63
+[Checkpoint all opens] ON=93A4,1; 93B8,1; 93CC, 1; 93F0,1; 9404,1; 9418,1; 942C, 1; 9450,1; 9464,1; 9478,1; 948C, 1; 94B0,1; 94C4,1; 94D8,1; 94EC, 1; 9510,1; 9524,1; 9538,1; 954C, 1
 
-[关卡全开]
-ON=9364,1;9378,1;938C,1;93B0,1;93C4,1;93D8,1;93EC,1;9410,1;9424,1;9438,1;944C,1;9470,1;9484,1;9498,1;94AC,1;94D0,1;94E4,1;94F8,1;950C,1
-
-[GameInfo]
-Name=1954 - 鲨鱼帮[Shark Tale]
-System=GBA
-
+[GameInfo] Name=1954 - Dreamworks Shark Tale System=GBA Text=vicente 

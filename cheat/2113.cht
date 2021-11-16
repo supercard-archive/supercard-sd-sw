@@ -1,0 +1,21 @@
+[Plays 1 population] ON=7685,3
+
+[Plays 1 integral] ON=76F0,99,99,99
+
+[Plays 2 populations] ON=C090,3
+
+[Plays 2 integrals] ON=AC68,9,9,9,9,9,9,9
+
+[Plays 3 populations] ON=7685,3
+
+[Plays 3 integrals] ON=76F0,99,99,99
+
+[Plays 4 populations] ON=AC7A, 5
+
+[Plays 4 integrals] ON=AC84,99,99,99
+
+[Plays 5 populations] ON=A87F, 5
+
+[Plays 5 energies] ON=AADB, 3C
+
+[GameInfo] Name=2113 - Namco Museum 50th Anniversary (U) System=GBA Text=vicente

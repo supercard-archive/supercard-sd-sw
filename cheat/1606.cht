@@ -1,13 +1,22 @@
-[时间]
+[Time]
 ON=44898,63
 
-[得分]
+[Score]
 ON=4489A,E7,3
 
-[全图鉴]
+[Entire illustrated handbook]
 ON=44718,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
+[Entire person illustrated handbook]
+ON=44856,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire jigsaw]
+ON=4477C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[The animation open]
+ON=44863,1
+
 [GameInfo]
-Name=1606 - 动物岛的乔比们2-球球物语[Doubutsujima no Chobi Gurumi 2 Tamachan Monogatari (J)]
+Name=1606 - Doubutsujima no Chobi Gurumi 2 Tamachan Monogatari (J)（动物岛的乔比们2-球球物语）（J）AVG 32
 System=GBA
-Text=1606 - Doubutsujima no Chobi Gurumi 2 Tamachan Monogatari (J)
+Text=大胖子 整理提供

@@ -1,16 +1,9 @@
-[时间70]
-ON=443F9,10
+[Time 70] ON=443F9,10
 
-[生命5]
-ON=A048,A
+[Life 5] ON=A048, A
 
-[总时间]
-ON=443E5,10
+[Total time] ON=443E5,10
 
-[炮弹10]
-ON=443D7,A
+[Shell 10] ON=443D7, A
 
-[GameInfo]
-Name=1919 - 沉默狙击手[Silent Scope]
-System=GBA
-
+[GameInfo] Name=1919 - Silent Scope (U) (silence sniper) (U) FPS 64 System=GBA the text= big fat person reorganizes provides

@@ -1,10 +1,10 @@
+[Our side scored goals]
+ON=41E54,99
 
-[我方入球數]
-on=41E54,ff
-[敵方入球數]
-on=425BC,ff
-[敵方陣形(會使敵人不搶球)]
-on=425C6,ff
+[The enemy's side scored goals]
+ON=425BC,00
+
 [GameInfo]
-Name=1444 - David Beckham Soccer Proper (U)
-
+Name=1444 - David Beckham Soccer Proper (U)（大卫·贝克汉姆足球）（E）SPG 32
+System=GBA
+Text=独行战士

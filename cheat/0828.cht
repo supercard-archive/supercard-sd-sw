@@ -1,0 +1,31 @@
+[Massive money（999999999）]
+ON=2658,FF,C9,9A,3B
+
+[Entire navigation medal]
+ON=01D0,FF
+
+[Ship durableness does not reduce]
+ON=28A0,F,27
+
+[Ship durableness superelevation（9999）]
+ON=28A4,F,27
+
+[Cargo capacity superelevation（9999999）]
+ON=249C,7F,96,98
+
+[Super locomotion（9999）]
+ON=288C,F,27
+
+[Super aggressivity（9999）]
+ON=289E,F,27
+
+[Massive sailors（99999）]
+ON=289A,9F,86,1
+
+[Entire 5 level hull transformation（Attractive, but it is not practical）]
+ON=2874,5;2878,5;287c,5;2880,5;2884,5
+
+[GameInfo]
+Name=0828 - Sea Trader - The Rise of Taipan (U)（商人之海-Taipan的繁荣）（E）SLG 32
+System=GBA
+Text=dual

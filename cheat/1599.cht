@@ -1,0 +1,22 @@
+[Life does not reduce]
+ON=22C0,9
+
+[Physical strength does not reduce]
+ON=216E,F
+
+[Physical strength with an upper limit]
+ON=216F,F
+
+[Invincibility]
+ON=4C85,63
+
+[Sheep MAX]
+ON=21AF,5
+
+[Red fruit MAX]
+ON=21CD,FE
+
+[GameInfo]
+Name=1599 - Tak and the Power of JuJu (E)（塔克和符咒的神力）（M2）ACT 64
+System=GBA
+Text=魔剑士但丁

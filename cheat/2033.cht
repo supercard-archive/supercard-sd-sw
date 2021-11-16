@@ -1,0 +1,22 @@
+[Our life]
+ON=36AAC, E7,3
+
+[Opposite party life]
+ON=374FC, 0,0
+
+[Motion points]
+ON=469DC, E7,3
+
+[Entire card]
+ON=469EE, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3,E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
+
+[To fights the entire character]
+ON=469E8, FF, FF, FF, FF
+
+[Question and answer pattern opens]
+ON=469D4, FF
+
+[GameInfo]
+Name=2033 - Konchu Ouja Mushiking (J)
+System=GBA
+Text=vicente 

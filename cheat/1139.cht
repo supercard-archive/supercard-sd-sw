@@ -1,0 +1,22 @@
+[Blood]
+ON=4408C,3
+
+[Invisible]
+ON=44102,20
+
+[attract the enemy]
+ON=44074,1;440FA,1
+
+[ ' Vacuum cleaner ' use number of times]
+ON=4410B,20
+
+[Money]
+ON=44118,99,9
+
+[Number of elements]
+ON=4411B,A
+
+[GameInfo]
+Name=1139 - Disney's Magical Quest 2 (E)（迪斯尼米老鼠2）（M3） ACT 32
+System=GBA
+Text=大胖子

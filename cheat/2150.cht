@@ -1,0 +1,19 @@
+[Life] ON=43B44,78
+
+[Energy] ON=43B70,78
+
+[Stealth] ON=43B30,1; 43B8E, B4
+
+[Experience] ON=41C48, F, 27
+
+[Rank] ON=41C73, A
+
+[BOSS fast dies] ON=43CC0,1
+
+[Credits opens] ON=41CFF, 2
+
+[Difficulty all opens] ON=41CD1,1
+
+[Checkpoint all opens] ON=41E6B, 2; 41E73,14
+
+[GameInfo] Name=2150 - Danny Phantom The Ultimate Enemy (U) System=GBA Text=vicente manufacture password VLAD RUSH

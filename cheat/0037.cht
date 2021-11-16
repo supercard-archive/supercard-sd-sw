@@ -1,0 +1,46 @@
+[Life number]
+ON=42FE4,5
+
+[Energy number ]
+ON=40010,64
+
+[powder dosage]
+ON=418BC,F,27
+
+[Transparent]
+OFF=430B8,0
+ON=430B8,1
+
+[GameInfo]
+Name=0037 - Earthworm Jim (U)（蚯蚓吉姆）（E）ACT 64
+System=GBA
+Text=大胖子 整理提供
+----------------------------------------------------
+[Blood 100%]
+ON=40010,64 
+
+[Ordinary bullet 9999]
+ON=418BC,F,27
+
+[Impact powder 100]
+ON=418F4,64
+
+[Unlimited life]
+ON=42B0C,19,1
+
+[Infinite acceleration(Andy Asteroid)]
+ON=4335C,1
+
+[The whip strengthen]
+ON=43F10,12 
+
+[The enemy weaken]
+ON=43F20,2
+
+[oxygen 99]
+ON=46630,63
+
+[GameInfo]
+Name=0037 - Earthworm Jim (U)（蚯蚓吉姆）（E）ACT 64
+System=GBA
+Text=169

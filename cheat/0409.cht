@@ -1,0 +1,16 @@
+[Blood]
+ON=AC0,3
+
+[Number of elements]
+ON=AC3,9
+
+[Bone number]
+ON=AC2,63
+
+[Invisible]
+ON=46783,FF,0
+
+[GameInfo]
+Name=0409 - Blender Bros. (U)（连体兄弟）（E）ACT 64
+System=GBA
+Text=大胖子 整理提供

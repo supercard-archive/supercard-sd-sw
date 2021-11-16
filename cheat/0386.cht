@@ -1,0 +1,19 @@
+[Lead rank]
+ON=8a40,63,03
+
+[Leading role HP maximum value ]
+ON=8a52,E7,03
+
+[Leading role HP value]
+ON=8a4e,E7,03
+
+[Leading role MP maximum value]
+ON=8a54,E7,03
+
+[Leading role MP value]
+ON=8a50,E7,03
+ 
+[GameInfo]
+Name=0386 - Magical Fengshen (J)（魔法封神）（J）RPG 64
+System=GBA
+Text=大胖子 整理提供

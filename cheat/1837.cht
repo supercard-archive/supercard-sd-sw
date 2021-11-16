@@ -1,0 +1,7 @@
+[Apple] ON=6F6C, F, 27
+
+[Small game all opens] ON=6F0A, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire card] ON=F5AC, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=1837 - Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen (J) (ancient is puzzled wolf - friendship big combat) (J) ACT 128 System=GBA Text=vicente

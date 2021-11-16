@@ -1,91 +1,60 @@
-[全恢复道具]
-ON=2498,63,63,63,63,63
+[All restores stage prop] ON=2498,63,63,63,63,63
 
-[全资料]
-ON=5E8,FF,FF,FF,FF
+[Entire material] ON=5E8, FF, FF, FF, FF
 
-[全技能经验]
-ON=1D40,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+[Entire skill experience] ON=1D40, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
 
-[NUJU攻击点数]
-ON=1554,F,27
 
-[NUJU攻击点数上限]
-ON=1540,F,27
+[NUJU attack points] ON=1554, F, 27
 
-[NUJU等级]
-ON=1528,9
+[NUJU attack points upper limit] ON=1540, F, 27
 
-[NUJU技能点数]
-ON=160C,63,0,63,0,63,0,63,0,63
+[NUJU rank] ON=1528,9
 
-[NOKAMA攻击点数]
-ON=16A0,F,27
+[NUJU skill points] ON=160C, 63,0,63,0,63,0,63,0,63
 
-[NOKAMA攻击点数上限]
-ON=168C,F,27
+[NOKAMA attack points] ON=16A0, F, 27
 
-[NOKAMA等级]
-ON=1674,9
+[NOKAMA attack points upper limit] ON=168C, F, 27
 
-[NOKAMA技能点数]
-ON=1758,63,0,63,0,63,0,63,0,63
+[NOKAMA rank] ON=1674,9
 
-[MATAU攻击点数]
-ON=17EC,F,27
+[NOKAMA skill points] ON=1758,63,0,63,0,63,0,63,0,63
 
-[MATAU攻击点数上限]
-ON=17D8,F,27
+[MATAU attack points] ON=17EC, F, 27
 
-[MATAU等级]
-ON=17C0,9
+[MATAU attack points upper limit] ON=17D8, F, 27
 
-[MATAU技能点数]
-ON=18A4,63,0,63,0,63,0,63,0,63
+[MATAU rank] ON=17C0,9
 
-[WHENUR攻击点数]
-ON=1938,F,27
+[MATAU skill points] ON=18A4,63,0,63,0,63,0,63,0,63
 
-[WHENUR攻击点数上限]
-ON=1924,F,27
+[WHENUR attack points] ON=1938, F, 27
 
-[WHENUR等级]
-ON=190C,9
+[WHENUR attack points upper limit] ON=1924, F, 27
 
-[WHENUR技能点数]
-ON=19F0,63,0,63,0,63,0,63,0,63
+[WHENUR rank] ON=190C, 9
 
-[VAKAMA攻击点数]
-ON=1A84,F,27
+[WHENUR skill points] ON=19F0,63,0,63,0,63,0,63,0,63
 
-[VAKAMA攻击点数上限]
-ON=1A70,F,27
+[VAKAMA attack points] ON=1A84, F, 27
 
-[VAKAMA等级]
-ON=1A58,9
+[VAKAMA attack points upper limit] ON=1A70, F, 27
 
-[VAKAMA技能点数]
-ON=1B3C,63,0,63,0,63,0,63,0,63
+[VAKAMA rank] ON=1A58,9
 
-[ONEWA攻击点数]
-ON=1BD0,F,27
+[VAKAMA skill points] ON=1B3C, 63,0,63,0,63,0,63,0,63
 
-[ONEWA攻击点数上限]
-ON=1BBC,F,27
+[ONEWA attack points] ON=1BD0, F, 27
 
-[ONEWA等级]
-ON=1BA4,9
+[ONEWA attack points upper limit] ON=1BBC, F, 27
 
-[ONEWA技能点数]
-ON=1C88,63,0,63,0,63,0,63,0,63
+[ONEWA rank] ON=1BA4,9
 
-[全人物可替换]
-ON=24A8,FF
+[ONEWA skill points] ON=1C88,63,0,63,0,63,0,63,0,63
 
-[隐身习得]
-ON=24A9,1
+[The entire character may replace] ON=24A8, FF
 
-[GameInfo]
-Name=1945 - 乐高生化战士-暗影迷宫[Bionicle Maze of Shadows]
-System=GBA
+[Stealth custom] ON=24A9,1
 
+[GameInfo] Name=1945 - Bionicle Maze of Shadows (E) System=GBA Text=vicente 

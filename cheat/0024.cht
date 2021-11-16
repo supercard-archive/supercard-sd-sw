@@ -1,0 +1,19 @@
+[Direction ability]
+ON=4314C,C3
+
+[Monster empirical value ]
+ON=43198,FF;431CC,FF;43200,FF
+
+[Money]
+ON=428B4,3F,42,F
+
+[Empirical value]
+ON=428B2,FF
+
+[pp]
+ON=428B8,F,27
+
+[GameInfo]
+Name=0024 - Monster Guardians (J)£¨Ñý¹ÖÊØ»¤Õß£©£¨J£©SLG 64
+System=GBA
+Text=ØýÃû

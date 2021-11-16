@@ -1,33 +1,34 @@
-[能量]
+[Energy]
 ON=37AC8,B4
 
-[星星]
-ON=0202A778,0B
+[Star]
+ON=2A778,0B
 
-[好感度]
-ON=36DF4,28,28,28,28;036DF8,28,28,28,28
+[Favorable impression]
+ON=36DF4,28,28,2828;36DF8,28,28,28
 
-[隐藏收集开启] 
+[The hideaway collection open]
 ON=3A193,FF
 
-[全服装]
+[Entire clothing]
 ON=3A132,FF,FF;3A134,FF,FF,FF,FF;3A138,FF
 
-[全卡片]
+[Entire card]
 ON=3A12A,FF,FF;3A12C,FF,FF,FF,FF;3A130,FF
 
-[全小游戏]
+[Entire small game]
 ON=3A139,FF;3A13A,FF
 
-[全人物形象]
+[Perfect person image]
 ON=3A0F0,FF
 
-[全图片]
-ON=03A0F4,FF,FF,FF,FF;003A0F8,FF,FF,FF,FF;003A0FC,FF,FF,FF,FF;003A100,FF,FF,FF,FF;003A104,FF,FF,FF,FF;003A108,FF,FF,FF,FF;003A10C,FF,FF,FF,FF;003A110,FF,FF,FF,FF;003A114,FF,FF,FF,FF;003A118,FF
+[Entire Picture]
+ON=3A0F4,FF,FF,FF,FF;3A0F8,FF,FF,FF,FF;3A0FC,FF,FF,FF,FF;3A100,FF,FF,FF,FF;3A104,FF,FF,FF,FF;3A108,FF,FF,FF,FF;3A10C,FF,FF,FF,FF;3A110,FF,FF,FF,FF;3A114,FF,FF,FF,FF;3A118,FF
 
-[全动画]
-ON=003A126,FFFF;003A128,FFFF 
+[Entire animation]
+ON=3A126,FF,FF;3A128,FF,FF
 
 [GameInfo]
-Name=1461 - 库洛魔法使[Card Captor Sakura-Card Friends]
+Name=1461 - Card Captor Sakura Card Friends (J)（库洛魔法使-卡片朋友）（J）AVG 128
 System=GBA
+Text=vicente

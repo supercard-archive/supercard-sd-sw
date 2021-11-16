@@ -1,0 +1,27 @@
+[Star number]
+ON=42E3C,63
+
+[Excellent number]
+99=42DFC,63
+0=42DFC,0
+
+[Good number]
+99=42E00,63
+0=42E00,0
+
+[General number]
+0=42E04,0
+99=42E04,63
+
+[Discrepancy number]
+0=42E08,0
+99=42E08,63
+
+[Worse number]
+0=42E0C,0
+99=42E0C,63
+
+[GameInfo]
+Name=1311 - Deutschland Sucht Den Superstar (G)（超巨星节拍）（E） ECT 128
+System=GBA
+Text=大胖子 整理提供

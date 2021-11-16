@@ -1,0 +1,13 @@
+[A pattern population] ON=44840,5
+
+[A pattern integral] ON=4483C, 3F, 42, F
+
+[Y pattern population] ON=40116,9
+
+[Y pattern integral] ON=40110, FF, E0, F5,5
+
+[P pattern 1P integral] most =40264,9 least =40264,0
+
+[P pattern 2P integral] most =402AC, 9 least =402AC, 0
+
+[GameInfo] Name=2115 - Pong Asteroids Yars Revenge (U) System=GBA Text=vicente 

@@ -1,0 +1,25 @@
+[Time]
+ON=454E2,9,9,9
+
+[Money]
+ON=442FF,63
+
+[Number of elemetns]
+ON=442BC,C8
+
+[Continuously ride the turtle (to ride turtle to be effective)] 
+ON=43A33,1
+
+[Invisible]
+ON=4402D,64
+
+[Condition]
+小人=44300,0
+变大=44300,1
+穿斗篷=44300,2
+发子弹=44300,3
+
+[GameInfo]
+Name=0297 - Super Mario World (U)（超级马里奥世界）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供

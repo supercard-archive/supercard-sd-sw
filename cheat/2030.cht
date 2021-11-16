@@ -1,0 +1,69 @@
+[AC life]
+ON=B0BC, 28
+
+[AC population]
+ON=B0D2,63
+
+[AC stealth]
+ON=5DFC, B9
+
+[The AC weapon has]
+ON=B0D7,1
+
+[The AC character chooses]
+Fat person =B0CE, 0
+Thin person =B0CE, 1
+
+[AO life]
+ON=4033D, 30
+
+[AO population]
+ON=4037A, 9
+
+[AO time]
+ON=41532,9
+
+[AO stealth]
+ON=40387,1
+
+[AO invincible]
+ON=40367,1
+
+[AO integral]
+ON=4038E, 9,9,9,9
+
+[The AO character chooses]
+Thin person =40380,0
+Fat person =40380,1
+
+[AOX physical strength]
+ON=3DBE9, A
+
+[AOX physical strength upper limit]
+ON=3DBEA, A
+
+[AOX invincible]
+ON=3DBEC, 35
+
+[AOX helmet and armor]
+ON=3E144, F, 27
+
+[AOX badge]
+ON=3E14C, 7
+
+[AOX full COMBO]
+ON=3E15D, FF, FF
+
+AOX special capability entire full
+ON=3E171,0,0,0,0
+
+[The AOX checkpoint all opens]
+ON=3E3B5,64,3,64,3,64,3,64,3,64,3,64,7,64,3,64,3,64,3,64,7,64,3,64,3,64,7,64,3,64,1,64,7,64,7,64,3,64,3,64,3,64,3,64,3,64,3,64,7,64,3,64,3,64,3,64,3,64,3,64,3,64,1
+
+[The AOX small game all opens]
+ON=3E410,0; 3E416,0; 3E41C, 0; 3E422,0; 3E428,0; 3E42E, 0; 3E434,0; 3E43A, 0; 3E440,0; 3E446,0; 3E44C, 0; 3E452,0
+
+[GameInfo]
+Name=2030 - 2 Games in 1 - Asterix Paf! + Asterix XXL
+System=GBA
+Text=vicente 

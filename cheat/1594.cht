@@ -1,20 +1,16 @@
-[思考时间]
-ON=43110,16
-
-[附加项开启]
+[Add-in open]
 ON=77,1,1,1,1
 
-[全图片]
+[Entire picture]
 ON=1B01C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[小游戏全开]
+[Small games all open]
 ON=1B02A,FF,FF
 
-[全结局]
+[All ending]
 ON=397C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[GameInfo]
-Name=1594 - 对还是错SP[zero one sp (J)]
-System=GBA
-Text=1594 - zero one sp (J)
-
+[GAMEINFO]
+NAME=1594 - Zero One SP (J)（对还是错SP）（J）AVG128
+SYSTEM=GBA
+TEXT=风色之翼

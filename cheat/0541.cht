@@ -1,0 +1,19 @@
+[Time]
+ON=97C,99,9
+
+[Gold coin]
+ON=8E4,99,9
+
+[Blood]
+ON=8EA,5
+
+[Invisible]
+ON=93C,C8
+
+[Number of elements]
+ON=985,63
+
+[GameInfo]
+Name=0541 - Disney''s Magical Quest Starring Mickey and Minnie (J)（迪斯尼的米奇老鼠）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供

@@ -1,14 +1,13 @@
-[能量不减]
+[Energy does not reduce]
 ON=40F04,16
 
-[磁碟MAX]
+[Disk MAX]
 ON=40064,6
 
-[警报不减]
+[Warning does not reduce]
 ON=40C6C,30
 
 [GameInfo]
-Name=1539 - 芭比秘密间谍[Barbie Secret Agent]
+Name=1539 - Barbie Secret Agent (E)（芭比秘密间谍）（M5）ACT 32
 System=GBA
-Text=1539 - Barbie Secret Agent[魔剑士但丁]
-
+Text=魔剑士但丁

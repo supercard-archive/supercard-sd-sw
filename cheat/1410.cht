@@ -1,26 +1,25 @@
-[体力不减]
+[Physical strength does not reduce]
 ON=405CD,A
 
-[命不减]
+[Life does not reduce]
 ON=405CA,A
 
-[无敌]
+[Invincibility]
 ON=40594,9
 
-[苹果不件]
+[Apple does not reduce]
 ON=405CF,99
 
-[绿宝石]
+[Emerald]
 ON=405D1,99
 
-[红宝石]
+[Ruby]
 ON=405E0,A
 
-[钻石]
+[Diamond]
 ON=405D1,99
 
 [GameInfo]
-Name=1410 - 迪斯尼阿拉丁[Disney's Aladdin]
+Name=1410 - Disney s Aladdin (E) （迪士尼 阿拉丁）（E）ACT 32M
 System=GBA
-Text=1410 - 迪斯尼阿拉丁[掌机之王HOTSUMA]
-
+Text=HOTSUMA

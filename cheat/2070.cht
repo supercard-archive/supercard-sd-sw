@@ -1,0 +1,13 @@
+[Life] ON=1639C, 5,5,5,5
+
+[Collection] ON=1638C, 0,2,0,2
+
+[Entire stage prop] ON=16395,4; 16397,4
+
+[Stage prop time limit] ON=162B2,0,4,0,4,0,4,0,4; 162C2,0,4,0,4,0,4,0,4
+
+[Checkpoint all opens] ON=163A8, FF, FF, FF, FF, FF
+
+[Entire collection] ON=163AF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2070 - Disneys Kim Possible 3 Team Possible (U) System=GBA Text=vicente 

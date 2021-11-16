@@ -1,13 +1,7 @@
-[关卡全开]
-ON=450D6,4,9
+[Checkpoint all opens] ON=450D6,4,9
 
-[红心]
-ON=450E0,6
+[Party loyalty] ON=450E0,6
 
-[时间]
-ON=45070,40,38
+[Time] ON=45070,40,38
 
-[GameInfo]
-Name=1829 - 梦之国大迷宫！华丽搭档二人组[Futari ha Precure Arienaai Yume no Kuni ha Daimeikyuu Arimasu]
-System=GBA
-Text=vicente 
+[GameInfo] Name=1829 - Futari ha Precure Arienaai Yume no Kuni ha Daimeikyuu (J) (country's of pretty partner - dream big labyrinth) (J) ACT 32 System=GBA Text=vicente

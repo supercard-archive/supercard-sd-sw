@@ -1,22 +1,19 @@
-[生命]
-ON=60D,8
+[Life] ON=60D, 8
 
-[隐身]
-ON=626,64
+[Stealth] ON=626,64
 
-[人数]
-ON=403F8,E7,3
+[Population] ON=403F8, E7,3
 
-[金币]
-ON=403D8,FF
+[Gold coin] ON=403D8, FF
 
-[关卡全开]
-ON=403DA,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Checkpoint all opens] ON=403DA, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[全彩蛋]
-ON=403E7,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Entire painted eggshell] ON=403E7, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[GameInfo]
-Name=1821 - 耀西的万有引力[Yoshi no Banyu Inryoku]
-System=GBA
+[GameInfo] Name=1821 - Yoshi no Banyu Inryoku (J) (west Yao's gravitation) (J) ACT 64 System=GBA Text=vicente
+--------------------------------------------------------------------
+[Infinite continues closes] ON=403F8,9
 
+[West 99 Yao egg] ON=40500,63
+
+[GameInfo] Name=1821 - Yoshi no Banyu Inryoku (J) (west Yao's gravitation) (J) ACT 64 System=GBA the Text= big fat person reorganizes provides

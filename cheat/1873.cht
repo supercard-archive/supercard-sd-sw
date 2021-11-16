@@ -1,13 +1,25 @@
-[比赛快速结束]
-ON=441E4,0;44FB0,0
+[Spying points]
+ON=14D70,10,27
 
-[我方能量]
-ON=44494,1E
+[Instruction points]
+ON=14D72,10,27
 
-[对方能量]
-ON=44495,0
+[Ocean sub- 鍏ㄨ兘鍔沒
+ON=151BE, 64,64,64,64
+
+[Spring Lai 鍏ㄨ兘鍔沒
+ON=151C8,64,64,64,64
+
+[Perfect person commodity material]
+ON=DD56,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Infers record]
+ON=14799,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+[All has thing]
+ON=143C9,1,1,1,1,1,1
 
 [GameInfo]
-Name=1874 - 躲避球战士[Ganbare Dodge Fighters ]
+Name=1873 - Tantei Jinguuji Saburou - Shiroi Kage no Syoujyo (J) (spying 绁炲 temple third son - white shade young girl) (J) RPG 64
 System=GBA
-
+Text=vicente

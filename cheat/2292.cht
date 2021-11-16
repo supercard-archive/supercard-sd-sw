@@ -1,0 +1,9 @@
+[Population] ON=43BE1,63
+
+[Time] ON=43404, FF
+
+[Integral] ON=43428, FF, E0, F5,5
+
+[Checkpoint all opens] ON=436AE, 80
+
+[GameInfo] Name=2292 - The Amazing Virtual Sea Monkeys (U) System=GBA Text=vicente 

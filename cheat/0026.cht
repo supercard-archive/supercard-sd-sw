@@ -1,0 +1,41 @@
+[The infinite time (reward closes when ask solution to lock)]
+OFF=0000,0
+ON=2160C,1E
+
+[P1 Life number]
+ON=24EDF,9
+
+[P1 Physical strength value]
+ON=24E5E,4D
+
+[P1Transparent]
+OFF=0000,0
+ON=24E58,91
+
+[GameInfo]
+Name=0026 - Final Fight One (J)（快打旋风ONE）（J）FTG 32
+System=GBA
+Text=大胖子 整理提供
+---------------------------------------------------------
+[Highest score]
+ON=21360,7F,96,98
+
+[无限接关]
+ON=215F5,3
+
+[Unlimited time]
+ON=21608,1E
+
+[invincibility]
+ON=24E54,9
+
+[Unlimited blood]
+ON=24E5A,4D
+
+[Unlimited life]
+ON=24EDB,5
+
+[GameInfo]
+Name=0026 - Final Fight One (J)（快打旋风ONE）（J）FTG 32
+System=GBA
+Text=169

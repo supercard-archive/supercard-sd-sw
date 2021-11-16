@@ -1,10 +1,10 @@
-[积分]
+[Integral]
 ON=66F8,3F,42,F
 
-[快速过关]
+[Fast pass]
 ON=EF58,63
 
-[下1位方块上方种类]
+[upside type of next diamond]]
 绿犬=7854,0
 紫犬=7854,1
 黑犬=7854,2
@@ -20,7 +20,7 @@ ON=EF58,63
 方块罐=7854,C
 圆圈罐=7854,D
 
-[下1位方块下方种类]
+[Downside type of next diamond]
 绿犬=783C,0
 紫犬=783C,1
 黑犬=783C,2
@@ -37,6 +37,6 @@ ON=EF58,63
 圆圈罐=783C,D
 
 [GameInfo]
-Name=1732 - 茶茶犬 方块游戏[Ochaken Kururin Honwaka Puzzle de Hotto Shiyo]
+Name=1732 - Ochainu Kururin (J)（小茶犬-温情谜语）（J）PUZ 256
 System=GBA
-Text=vicente 
+Text=vicente

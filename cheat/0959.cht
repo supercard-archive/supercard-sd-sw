@@ -1,0 +1,57 @@
+[Property]
+ON=690,E7,3,e7,3,e7,3,e7,3,e7,3,E7,3;69E,E7,3
+
+[Money]
+ON=6DC,F,27
+
+[Empirical value]
+ON=6E4,60,EA
+
+[Invincibility]
+ON=177C8,C8
+
+[GameInfo]
+Name=0959 - Sengoku Kakumei Gaiden (J) （战国革命外传）（J） A·RPG 64
+System=GBA
+Text=大胖子
+----------------------------------------------------------------------
+[Money]
+ON=6DC,9F,86,1
+
+[Physical strength]
+ON=690,E7,3
+
+[Energy]
+ON=692,E7,3
+
+[Attack]
+ON=698,E7,3
+
+[Defence]
+ON=69A,E7,3
+
+[Footwork]
+ON=69E,E7,3
+
+[Experience]
+ON=6E4,80,84,1E
+
+[Entire equipment]
+ON=70C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire illustrated handbook]
+ON=77A,FF
+
+[Fighting physical strength]
+ON=694,E7,3
+
+[Fighting energy]
+ON=696,E7,3
+
+[Finghting invisibility]
+ON=177C8,FF
+
+[GameInfo]
+Name=0959 - Sengoku Kakumei Gaiden (J) （战国革命外传）（J） A·RPG 64
+System=GBA
+Text=vicente

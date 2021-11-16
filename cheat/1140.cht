@@ -1,0 +1,19 @@
+[Water quantity]
+ON=42054,FF
+
+[Blood]
+ON=420CC,5
+
+[Surplus trapped person]
+ON=42080,0
+
+[Number of elements]
+ON=420F4,5
+
+[Invisible]
+ON=44179,C8;479EC,9B
+
+[GameInfo]
+Name=1140 - Rescue Heroes Billy Blazes (U)（救援英雄-比利布雷斯）（E） ACT 32
+System=GBA
+Text=大胖子 整理提供

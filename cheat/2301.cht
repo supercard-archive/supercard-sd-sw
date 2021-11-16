@@ -1,0 +1,13 @@
+[Life] ON=33C50, C
+
+[Stealth] ON=3416F, FF
+
+[Experience] ON=33C56,2D
+
+[Entire skill] ON=33C59,3,3,3,3
+
+[Entire stage prop] ON=43490, FF, FF, FF, FF
+
+[Entire illustrated handbook] ON=434A2, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[GameInfo] Name=2301 - WinX Club (U) System=GBA Text=vicente 

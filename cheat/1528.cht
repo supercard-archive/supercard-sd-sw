@@ -1,16 +1,16 @@
-[血]
+[Blood]
 ON=11C94,63
 
-[子弹]
+[Bullet]
 ON=11ED1,96
 
-[雷]
+[Thunder]
 ON=11ED5,9,9
 
-[只数]
+[Number of elements]
 ON=3C38,9
 
-[主武器]
+[Main weapon]
 1=11ED0,0
 2=11ED0,1
 3=11ED0,2
@@ -20,7 +20,7 @@ ON=3C38,9
 7=11ED0,6
 8=11ED0,7
 
-[副武器]
+[Vice- weapon]
 1=11ED4,0
 2=11ED4,1
 3=11ED4,2
@@ -30,10 +30,11 @@ ON=3C38,9
 7=11ED4,6
 8=11ED4,7
 
-[第二关时间]
+[Second pass time]
 MAX=8818,3B;881C,9
 MIN=8818,0;881C,0
 
 [GameInfo]
-Name=1528 - 荣誉勋章 渗透者[Medal_of_Honor_Infiltrator]
+Name=1528 - Medal of Honor (J)（荣誉勋章-渗透者）（J）STG 128
 System=GBA
+Text=大胖子 整理提供

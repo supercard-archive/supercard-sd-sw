@@ -1,0 +1,59 @@
+[HP does not reduce]
+ON=37D94,40
+
+[The longest HP trough]
+ON=37EED,40
+
+[2 times of HP trough]
+ON=37EF2,01
+
+[Invincibility]
+ON=37D84,40
+
+[Energy9999]
+ON=37EEE,0F,27
+
+[Blood package does not reduce]
+ON=37EF6,1E,1E,1E,1E
+
+[Entire genius]
+ON=37F15,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,
+FF,FF,FF,FF,FF
+
+[Entire attribute chip]
+ON=37F01,0F
+
+[4 energy package]
+ON=37EF4,02,02
+
+[Entire weapon]
+ON=37F00,FF
+
+[Entire EX skill]
+ON=37F06,FF,FF
+
+[Entire armor]
+ON=37EF0,FF,FF
+
+[Greastest sword star grade]
+ON=37F0C,FF,FF
+
+[Greatest whip star grade]
+ON=37F0E,FF,FF
+
+[Greatest gun star grade]
+ON=37F0A,FF,FF
+
+[Equipment genius1]
+ON=37EFA,1H--51HËæ±ãÌî
+
+[Equipment genius2]
+ON=37EFB,1H--51HËæ±ãÌî
+
+[Equipment genius3]
+ON=37EFC,1H--51HËæ±ãÌî
+
+[GameInfo]
+Name=0990 - rockman zero 2 £¨J£© £¨Âå¿ËÈËZERO2£© £¨J£© ACT 64
+System=GBA
+Text=dual

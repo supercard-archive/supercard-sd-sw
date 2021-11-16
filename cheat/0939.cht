@@ -1,0 +1,22 @@
+[First robot MF]
+ON=40651,50
+
+[First robot attribution ]
+ON=405DC,C8;405E9,63;405E9,C8;405F4,63;40601,63;4060C,C8;40619,C8;40624,C8;40631,C8
+
+[First robot upgrade need the empirical value]
+ON=40BE2,0,0
+
+[First robot  ability]
+ON=40C00,C8,C8,C8,C8,C8,C8,C8,C8
+
+[Upgraded points which the first robot ability needs]
+ON=40C08,7,7,7,7,7,7,7,7,7
+
+[MONEY]
+ON=42B70,9F,86,1
+
+[GameInfo]
+Name=0939 - Medabots - Rokusho Version (E) （金属机器人大战 - 六书版） （E） RPG 64
+System=GBA
+Text=大胖子 整理提供

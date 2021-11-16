@@ -1,21 +1,19 @@
-[连击x99]
+[Double hitx99]
 ON=43B18,63
 
-[分数MAX]
-on=43BA0,FF,FF
+[ScoreMAX]
+43BA0,FF,FF
 
-[3人体力不减]
+[Physcial strength of three persons does not reduce ]
 ON=43D18,64;43D1A,64;43D1C,64
 
-[点数x999]
+[Pointsx999]
 ON=43D24,E7,3
 
-[连击分255]
+[Double hit score255]
 ON=43D40,FF
 
 [GameInfo]
-Name=1433 - 飞天小女警[Powerpuff Girls, The - Mojo JoJo A-Go-Go]
+Name=1433 - The Powerpuff Girls-Mojo JoJo a Go Go (E)（喷气女孩-魔女啾啾Go - Go）（E）ACT 32
 System=GBA
-TEXT=1433 - The Powerpuff Girls-Mojo JoJo a Go Go[掌机之王HOTSUMA原创] 
-
-
+TEXT=HOTSUMA

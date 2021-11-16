@@ -1,11 +1,10 @@
-[怪兽能力]
+[Gryphon ability ]
 ON=242DA,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
 
-[钱]
+[Money]
 ON=257F0,FF,FF,1
 
 [GameInfo]
-Name=1679 - 口袋妖怪-火红[Pokemon Fire Red (F)]
+Name=1679 - Pokemon Fire Red (F)（口袋妖怪-火红）（F）RPG 128
 System=GBA
-Text=1679 - Pokemon Fire Red (F)
-
+Text=大胖子 整理提供

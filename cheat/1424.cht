@@ -1,13 +1,13 @@
 [击倒数秒]
 ON=12BC2,1
 
-[时间不减]
+[Time does not reduce]
 ON=41190,63
 
-[体力不减]
+[Physical strength does not reduce]
 ON=412D2,5A
 
-[能量槽MAX]
+[Energy trough MAX]
 ON=412DA,41
 
 [对手一击倒]
@@ -16,11 +16,10 @@ ON=4131E,5A
 [对手能量槽空]
 ON=41326,0
 
-[钱MAX]
+[Money MAX]
 ON=411D4,FFFF
 
 [GameInfo]
-Name=1424 - 维德 汉克斯的反击[Wade Hixtons Counter Punch]
+Name=1424 - Wade Hixtons Counter Punch（E）（维德 汉克斯的反击）（J）FTG 64
 System=GBA
-TEXT=1424 - 维德 汉克斯的反击[掌机之王HOTSUMA]
-
+TEXT=HOTSUMA

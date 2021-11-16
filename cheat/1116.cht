@@ -1,0 +1,25 @@
+[Blood]
+ON=431C4,64
+
+[Machne gun]
+ON=431D0,C8
+
+[Flamethrower]
+ON=431D2,C8
+
+[Rocket launcher]
+ON=431D4,C8
+
+[Anti-tank grenade]
+ON=431CC,63
+
+[Number of elements]
+ON=4314C,9
+
+[Weapon 4]
+ON=431D6,C8
+
+[GameInfo]
+Name=1116 - CT Special Forces 2 (E) （CT特种部队2）（M6） ACT 64
+System=GBA
+Text=大胖子

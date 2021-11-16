@@ -1,22 +1,13 @@
-[金币]
-ON=41856,E7,3
+[Gold coin] ON=41856, E7,3
 
-[生命]
-ON=4189A,10
+[Life] ON=4189A, 10
 
-[生命上限]
-ON=4189C,10
+[Life upper limit] ON=4189C, 10
 
-[隐身]
-ON=41850,D
+[Stealth] ON=41850, D
 
-[关开全开]
-ON=41874,FF,FF,FF
+[Guan Kaiquan opens] ON=41874, FF, FF, FF
 
-[全图鉴]
-ON=417E0,FF,FF,FF,FF,FF,FF
+[Entire illustrated handbook] ON=417E0, FF, FF, FF, FF, FF, FF
 
-[GameInfo]
-Name=1939 - 迪斯尼公主[Disney Princesas (S)]
-System=GBA
-
+[GameInfo] Name=1939 - Disney Princesas (S) System=GBA Text=vicente

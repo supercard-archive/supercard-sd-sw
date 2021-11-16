@@ -1,0 +1,19 @@
+[Life] ON=949C, D
+
+[Life upper limit] ON=4D9F, D
+
+[Population] ON=4D9E, 63
+
+[Stealth] ON=9516, FF
+
+[Leaf] ON=9530, A
+
+[Leaf upper limit] ON=4DA0, A
+
+[Gold coin] ON=4D9D, 63
+
+[Integral] ON=4DA4,3F, 42, F
+
+[Weapon] empty-handed =950C, 0 stones =950C, 1 wooden bat =950C, 2 swords =950C, 3
+
+[GameInfo] Name=2018 - Shrek - Reekin' Havoc (E) System=GBA Text=vicente 

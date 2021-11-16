@@ -1,0 +1,13 @@
+[Time] ON=40132,0,0
+
+[Goes through a strategic pass fast] ON=474F4,8
+
+[The entire competition closes] ON=400EE, FF, FF
+
+[The entire challenge closes] ON=400E0, FF, FF, FF
+
+[The entire collection closes] ON=400F6, FF, FF
+
+[Entire vehicle race] ON=40104, FF, FF, FF
+
+[GameInfo] Name=2234 - Ford Racing 3 (U) System=GBA Text=vicente

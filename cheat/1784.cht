@@ -1,31 +1,32 @@
-[生命]
+[Life]
 ON=4948,32
 
-[无敌]
+[Invinciblity]
 ON=28,20
 
-[子弹]
+[Bullet]
 ON=72,E7,3
 
-[炸弹]
+[Bomb]
 ON=6F,63
 
-[机器炮弹]
+[Machine shell]
 ON=44756,63
 
-[关卡全开]
+[Barriers all open]
 ON=CD69,FF
 
-[全卡片]
+[Entire card]
 ON=CD70,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
 
-[全战俘]
+[Entire prisoner]
 ON=CD90,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,F
 
-[炸弹种类]
+[Bomb type]
 BOMB=6E,1
 FIRE=6E,2
 
 [GameInfo]
-Name=1784 - 合金弹头A[Metal Slug Advance]
+Name=1784 - Metal Slug Advance (J)（合金弹头A）（J） ACT 64
 System=GBA
+Text=vicente

@@ -1,24 +1,15 @@
-[ÉúÃü]
-ON=E89A,0
+[Life] ON=E89A, 0
 
-[ÈËÊı]
-ON=E899,9
+[Population] ON=E899,9
 
-[ÒşÉí]
-ON=F054,50
+[Stealth] ON=F054,50
 
-[ÊÕ¼¯Æ·]
-ON=E89C,E7,3
+[Collection] ON=E89C, E7,3
 
-[²¶»ñÀÏÊó]
-ON=E8ED,1
+[Capture mouse] ON=E8ED, 1
 
-[¹Ø¿¨È«¿ª]
-ON=F40,B
+[Checkpoint all opens] ON=F40, B
 
-[Ïã½¶]
-ON=EF10,63
+[Banana] ON=EF10,63
 
-[GameInfo]
-Name=1852 - ¼Ó·ÆÃ¨-Ñ°ÕÒ²¨¼§[Garfield The Search For Pooky]
-System=GBA
+[GameInfo] Name=1852 - Garfield The Search For Pooky (E) (åŠ è²çŒ« - seeks divination professional female entertainer) (M4) ACT 128 System=GBA Text=vicente

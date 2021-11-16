@@ -1,0 +1,275 @@
+[Money]
+ON=3CB7C, F, 27
+
+[Sunlight reserve]
+ON=203CB7C, F, 27
+
+[Sunlight intensity]
+Strongest =3FFFF, A
+Weakest =3FFFF, 0
+
+[Rank]
+ON=3C440,63
+
+[Life]
+ON=3C428, E8,3
+
+[Energy]
+ON=3C42C, 58,2
+
+[TRC]
+ON=3CA08, E8,3
+
+[Ability points]
+ON=3C442,64
+
+[Ability entire full]
+ON=3C418,64,0,64,0,64
+
+[Experience]
+ON=3C448,3F, 42, F
+
+[Entire solar gun]
+ON=3C8C0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0, A, 0, B, 0, C
+
+[Entire solar gun fitting]
+ON=3CC28,0,0,1,0,2,0,3,0,4,0,5,0,6,0,7
+
+[Entire black magic]
+ON=3C488,0,0,1,0,2,0,3,0
+
+[First place stage prop]
+Reply medicine =3C4A0,0,0
+Earth の solid =3C4A0,1,0
+く さ っ た solid =3C4A0,2,0
+Does し meat =3C4A0,3,0
+お い し い meat =3C4A0,4,0
+く さ っ た meat =3C4A0,5,0
+チ ョ コ レ ー ト =3C4A0,6,0
+デ ラ ッ ク ス チ ョ コ =3C4A0,7,0
+Dissolves け た チ ョ コ =3C4A0,8,0
+チ ョ コ ま み れ =3C4A0,9,0
+ガ リ ガ リ Mr. ソ ー ダ =3C4A0, A, 0
+ガ リ ガ リ Mr. コ ー ラ =3C4A0, B, 0
+Black magic medicine =3C4A0, C, 0
+Solar の solid =3C4A0, D, 0
+Wicked い キ ノ コ =3C4A0, E, 0
+The poison disappears し =3C4A0, F, 0
+Multi-purpose medicine =3C4A0,10,0
+Solar の し ず く =3C4A0,11,0
+が ま ん の solid =3C4A0,12,0
+は や さ の solid =3C4A0,13,0
+ち か ら の solid =3C4A0,14,0
+チ ョ コ バ ナ ナ =3C4A0,15,0
+し の び の solid =3C4A0,16,0
+Red い キ ノ コ =3C4A0,17,0
+Blue い キ ノ コ =3C4A0,18,0
+Far-sighted person の solid =3C4A0,19,0
+Shift の leaf =3C4A0,1A, 0
+テ ル テ ル ボ ー ズ =3C4A0,1B, 0
+ズ ー ボ ル テ ル テ =3C4A0,1C, 0
+お て ん き ゲ タ =3C4A0,1D, 0
+は ず れ ス テ ィ ッ ク =3C4A0,1E, 0
+When た り ス テ ィ ッ ク =3C4A0,1F, 0
+Female pope の カ ー ド =3C4A0,20,0
+女帝 の カ ー ド =3C4A0,22,0
+Strength の カ ー ド =3C4A0,22,0
+Fate の turn of の カ ー ド =3C4A0,23,0
+Month の カ ー ド =3C4A0,24,0
+Solar の カ ー ド =3C4A0,25,0
+Trial の カ ー ド =3C4A0,26,0
+Dark black の カ ー ド =3C4A0,27,0
+
+[First place precious]
+ラ イ セ ン ス オ ブ ソ ー ド =3CC38,29,0
+PET=3CC38,2A, 0
+ベ ク タ ー コ フ ィ ン =3CC38,2B, 0
+Red の カ ギ =3CC38,2C, 0
+Huang のカ ギ =3CC38,2D, 0
+Green の カ ギ =3CC38,2E, 0
+X の カ ギ =3CC38,2F, 0
+パ イ ル パ ー シ =3CC38,30,0
+Fate の 女神像 =3CC38,32,0
+Existence の 女神像 =3CC38,33,0
+Inevitably の 女神像 =3CC38,34,0
+
+[First place weapon type]
+ゲ ラ デ ィ ウ ス LV.01 might: 06=3C5C0,0
+エ ス ト ッ ク LV.05 might: 10=3C5C0,1
+コ ピ ス LV.05 might: 10=3C5C0,2
+シ ョ ー ト ソ ー ド LV.05 might: 10=3C5C0,3
+ツ ヴ ァ イ ハ ン ダ ー LV.05 might: 12=3C5C0,4
+レ イ ピ ア LV.10 might: 15=3C5C0,5
+ブ ロ ン ズ エ ッ ジ LV.10 might: 15=3C5C0,6
+Positive inflammation LV.10 might: 15=3C5C0,7
+ブ ロ ー ド ソ ー ド LV.10 might: 15=3C5C0,8
+Coal の sword LV.10 might: 17=3C5C0,9
+エ ペ LV.15 might: 20=3C5C0, A
+カ ッ シ バ ル ゲ ル LV.15 might: 20=3C5C0, B
+ワ イ ル ド ロ ー ズ LV.20 might: 25=3C5C0, C
+フ ァ ル カ タ LV.20 might: 25=3C5C0, D
+Does not know the fire LV.20 might: 25=3C5C0, E
+ア イ ア ン ブ レ ー ド LV.20 might: 25=3C5C0, F
+フ ラ ン ベ レ ジ ェ LV.20 might: 27=3C5C0,10
+フ ァ ル シ オ ン LV.25 might: 30=3C5C0,11
+ク レ イ モ ア LV.25 might: 32=3C5C0,12
+サ ー ベ ル LV.30 might: 35=3C5C0,13
+シ ル バ ー エ ッ ジ LV.30 might: 35=3C5C0,14
+Remote mountain LV.30 might: 35=3C5C0,15
+ス ャ ア ヴ ォ ー ナ LV.30 might: 35=3C5C0,16
+Steel and iron の sword LV.30 might: 37=3C5C0,17
+パ ラ ッ シ ュ LV.35 might: 40=3C5C0,18
+バ ス タ ー ド ソ ー ド LV.35 might: 40=3C5C0,19
+ブ ラ ッ デ ィ ロ ー ズ LV.40 might: 45=3C5C0,1A
+コ ラ LV.40 might: 45=3C5C0,1B
+Oriental cherry LV.40 might: 45=3C5C0,1C
+を holds た ぬ the famous sword LV.40 might: 45=3C5C0,1D
+グ レ ー ト ソ ー ド LV.40 might: 47=3C5C0,1E
+ア イ ス エ ッ ジ LV.45 might: 50=3C5C0,1F
+エ ア ブ レ ー ド LV.45 might: 50=3C5C0,20
+キ ン グ オ ブ ソ ー ド LV.45 might: 52=3C5C0,21
+プ ラ イ ム ロ ー ズ LV.50 might: 55=3C5C0,22
+ダ マ ス カ ス エ ッ ジ LV.50 might: 55=3C5C0,23
+Fall waters LV.50 might: 55=3C5C0,24
+グ ラ ム LV.50 might: 55=3C5C0,25
+プ ラ チ ナ ブ レ ー ド LV.50 might: 55=3C5C0,26
+Jin'gang の sword LV.50 might: 57=3C5C0,27
+ブ ル ー ロ ー ズ LV.55 might: 60=3C5C0,28
+サ ン ダ ー エ ッ ジ LV.55 might: 60=3C5C0,29
+Village rain LV.55 might: 60=3C5C0,2A
+フ ァ イ ア ブ レ ー ド LV.55 might: 60=3C5C0,2B
+Earth の sword LV.55 might: 62=3C5C0,2C
+ブ レ ー ド オ ブ ソ ル LV.60 might: 65=3C5C0,2D
+Does not extinguish の the sword LV.60 might: 67=3C5C0,2E
+ラ ビ ア ン ロ ー ズ LV.?? Might:?? =3C5C0,2F
+ロ ッ ク バ ス タ ー LV.?? Might: 06=3C5C0,30
+
+[First place weapon SP attachment]
+ON=3C5C4,1
+
+[Entire weapon durable]
+ON=3C5C2, E8,3; 3C5D2, E8,3; 3C5E2, E8,3; 3C5F2, E8,3; 3C602, E8,3; 3C612, E8,3; 3C622, E8,3; 3C632, E8,3; 3C642, E8,3; 3C652, E8,3; 3C662, E8,3; 3C672, E8,3; 3C682, E8,3; 3C692, E8,3; 3C6A2, E8,3; 3C6B2, E8,3
+
+[First place guards against has]
+サ ー ク レ ッ ト =3C560,0,0
+ク ー ル バ ン ダ ナ =3C560,1,0
+Warm-blooded ハ チ マ キ =3C560,2,0
+The earth の defends り =3C560,3,0
+し の び の ア カ シ =3C560,4,0
+ア ル フ ァ ル の テ ィ ア ラ =3C560,5,0
+グ リ グ リ メ ガ ネ =3C560,6,0
+Gold false face =3C560,7,0
+Color あ せ た ボ ウ シ =3C560,8,0
+お お か み の キ バ =3C560,9,0
+カ ー ネ ル ヘ ル ム =3C560, A, 0
+レ ザ ー ア ー マ ー =3C560, B, 0
+チ ェ ア ン メ イ ル =3C560, C, 0
+プ レ ー ト メ イ ル =3C560, D, 0
+Procession of lanterns or torches の ヨ ロ イ =3C560, E, 0
+Fire hose の ヨ ロ イ =3C560, F, 0
+Wind Long のヨ ロ イ =3C560,10,0
+Earthworm の ヨ ロ イ =3C560,11,0
+レ イ ン コ ー ト =3C560,12,0
+ル ー ン ア ー マ ー =3C560,13,0
+ス パ ア ク メ イ ル =3C560,14,0
+ノ ー ビ ス メ イ ル =3C560,15,0
+ホ ワ イ ト ア ー マ ー =3C560,16,0
+ブ ラ ッ ク ア ー マ ー =3C560,17,0
+Ancient ぼ け た コ ー ト =3C560,18,0
+こ う も り の ハ ネ =3C560,19,0
+フ ォ ル テ マ ン ト =3C560,1A, 0
+パ ワ ー リ ス ト =3C560,1B, 0
+ブ レ ス レ ッ ト =3C560,1C, 0
+ク レ ス ト オ ブ ク ラ ブ =3C560,1D, 0
+ク レ ス ト オ ブ ダ イ ヤ =3C560,1E, 0
+バ ッ ク ラ ー =3C560,1F, 0
+ル ー ン ガ ン ト レ ッ ト =3C560,20,0
+ホ ワ イ ト ガ ン ト レ ッ ト =3C560,21,0
+ブ ラ ッ ク ガ ン ト レ ッ ト =3C560,22,0
+あ せ く さ い グ ロ ー ブ =3C560,23,0
+Dead の シ メ =3C560,24,0
+ト マ ホ ー ク ア ー ム =3C560,25,0
+Hard ゲ タ =3C560,26,0
+フ ァ ニ ー シ ュ ー ズ =3C560,27,0
+パ ワ ー ア ン ク ル =3C560,28,0
+Traveler の ク シ =3C560,29,0
+サ バ ト ン =3C560,2A, 0
+ウ イ ン グ ブ ー シ =3C560,2B, 0
+Risk の ブ ー シ =3C560,2C, 0
+す り cuts れ ブ ー シ =3C560,2D, 0
+ね ず み の シ ッ ポ =3C560,2E, 0
+ブ ル ー ス レ ッ グ =3C560,2F, 0
+
+[Weapon item opens]
+ON=4A6E, 1
+
+[Guards against has item to open]
+ON=4A6F, 1
+
+[Entire character illustrated handbook]
+ON=3CB28, FF, FF, FF, FF
+
+[Entire smelting illustrated handbook]
+ON=3CB20, FF, FF, FF, FF, FF, FF; 3CB2C, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire evil spirit illustrated handbook]
+ON=3CAF0, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire title]
+ON=3DB5D, FF, FF; 3DB9C, FF
+
+[Motorcycle fights all starts]
+ON=3CA34, FF, FF
+
+[Motorcycle entire fitting]
+ON=3CBB8, FF; 3CBBC, FF; 3CBC0, FF; 3CBC4, FF
+
+[Motorcycle all matches colors]
+ON=3CBF8, FF, FF
+
+[Motorcycle entire illustrated handbook]
+ON=3CC1C, FF, FF, FF, FF
+
+[Entire puppet]
+ON=3C996, FF, FF
+
+[Weapon room entire weapon]
+ON=3CB48, FF, FF, FF, FF, FF
+
+[Stage prop room entire stage prop]
+ON=3CB50, FF, FF, FF, FF
+
+[BOSS fast purification]
+ON=3CA18,0,0
+
+[The checkpoint all opens (cautious uses)]
+ON=3DA3C, FF
+
+[Fights technique field to open]
+ON=3C99E, 1
+
+[Motorcycle match S level]
+ON=3CC8C, 0,0
+
+[Branch duty S level]
+ON=3DA8A, 5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+[Motorcycle war recorded time is shortest]
+ON=3CBC8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Motorcycle war records entire S]
+ON=3CC00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Branch duty records entire S]
+ON=3DB5F, 5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+[Forges fast conclusion]
+ON=E560,0,0
+
+[Forges appraisal to be highest]
+ON=E58C, E7,3; E590,0,0; E594,0,0
+
+[GameInfo]
+Name=2069 - Shin Bokura no Taiyou Gyakushuu no Sabata (J)
+System=GBA
+Text=vicente

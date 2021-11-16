@@ -1,0 +1,19 @@
+[Life] ON=3C513,5
+
+[Population] ON=3C514,9
+
+[Stealth] ON=3F01,32
+
+[Leaf] ON=3C5E6, E7,3
+
+[Entire character] ON=3C4D4, FF; 3C4C8,1
+
+[Entire stage prop collection] ON=3C4E8, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire small game] ON=3C4CF, FF, FF
+
+[Music connoisseurship pattern opens] ON=3C4D5,1
+
+[Entire pigment] ON=3C4FE, FF, FF
+
+[GameInfo] Name=2296 - Ochainu no Bouken Jima (J) System=GBA Text=vicente 

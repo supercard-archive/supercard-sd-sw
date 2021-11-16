@@ -1,7 +1,7 @@
-[1P体力不减]
+[1P Physical strength does not reduce]
 ON=43516,27
 
-[2P一击死]
+[2P Dies as soon as strikes]
 ON=43742,1
 
 [1P一蓄气蓄气槽就MAX]
@@ -13,14 +13,13 @@ OM=43741,0
 [1P防御槽不减]
 ON=43519,18
 
-[一击2P破防]
+[Strike2P破防]
 ON=43745,0
 
-[1P POINT得分MAX]
+[1P POINT score MAX]
 ON=0434BC,F423F
 
 [GameInfo]
-Name=1420 - 龙珠Z-对决[Dragon Ball Z Taiketsu]
+Name=1420 - Dragon Ball Z Taiketsu (E)（龙珠Z-对决）（E）FTG 64
 System=GBA
-TEXT=1420 - 龙珠Z-对决[掌机之王HOTSUMA]
-
+TEXT=HOTSUMA

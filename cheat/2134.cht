@@ -1,0 +1,21 @@
+[NS life] ON=4268C, E0
+
+[NS stealth] ON=4268D, FF
+
+[NS energy] ON=426AF, C0
+
+[NS population] ON=4005D, 9
+
+[NS weapon rank] ON=426AD, 2
+
+[TF life] ON=225C, B4
+
+[TF energy] ON=229D, 40
+
+[TF entire member] ON=4235C, 0; 42368,0; 42374,0; 42380,0; 4238C, 0
+
+[TF whole staff full physical strength] ON=42A54, B4; 42A60, B4; 42A6C, B4; 42A78, B4; 42A84, B4
+
+[TF whole staff full energy] ON=42A59,40; 42A65,40; 42A71,40; 42A7D, 40; 42A89,40
+
+[GameInfo] Name=2134 - 2in1 - Power Rangers Pack (E) System=GBA Text=vicente

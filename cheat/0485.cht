@@ -1,14 +1,13 @@
-[血]
+[Blood]
 ON=42FB3,60;42FB7,60
 
-[命]
+[Life]
 ON=46F68,63
 
-[怒槽]
+[Angry trough]
 ON=42FBD,64
 
 [GameInfo]
-Name=0485 - 星际前传2-克隆人全面进攻(欧)[Star Wars Episode II - Attack Of The Clones (E)]
+Name=0485 - Star Wars Episode II - Attack Of The Clones (E)（星球大战前传II-克隆人的攻击）（M）ACT 64
 System=GBA
-Text=0485 - Star Wars Episode II - Attack Of The Clones (E) ACT
-
+Text=大胖子 整理提供

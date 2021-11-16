@@ -1,20 +1,19 @@
-[血]
+[Blood]
 ON=289E4,63;41B34,63
 
-[隐形]
+[Invisible]
 ON=2733C,22
 
-[生命]
+[Life]
 ON=41ABC,9
 
-[所有枪]
+[All guns]
 ON=41B3E,63;41B40,63;41B42,63;41B44,63
 
-[手雷]
+[Grenade]
 ON=28978,63;41B46,63
 
 [GameInfo]
-Name=1445 - CT 特种部队 3[CT Special Forces 3 - Bioterror]
+Name=1445 - CT Special Forces 3 Bioterror (E)（CT 特种部队 3）（E）ACT 64
 System=GBA
-Text=CT Special Forces 3: Bioterror
-
+Text=大胖子 整理提供

@@ -1,16 +1,17 @@
-[时间]
-Max=43824,FF,FF
-00:00=43824,00,00
+[Our side scored]
+200=4368C,C8
+99=4368C,63
+0=4368C,0
 
-[对方得分]
-Max=435C4,FF
+[Time ]
+ON=43824,78
+
+[Opposite side scored]
 0=435C4,0
-
-[己方得分]
-Max=4368C,FF
-0=4368c,0
+99=435C4,63
+200=435C4,C8
 
 [GameInfo]
-Name=1667 - 后院篮球[Backyard Basketball]
+Name=1667 - Backyard Basketball (U)（后院篮球）（E）SPG 32 
 System=GBA
-Text=1667 - Backyard Basketball
+Text=大胖子 整理提供

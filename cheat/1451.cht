@@ -1,14 +1,13 @@
-[体力不减]
+[Physical strength does not reduce]
 ON=46821,6
 
-[金币不减]
+[Gold coin does not reduce]
 ON=4682E,1D
 
-[命不减]
+[Life does not reduce]
 ON=46831,8
 
 [GameInfo]
-Name=1451 - 史酷比 2 脱缰的怪物[Scooby-Doo 2 - Monsters Unleashed]
+Name=1451 - Scooby Doo 2 - Monster Unleashed (E)（史酷比2-脱缰的怪物）（M5）ACT 64
 System=GBA
-TEXT=1451 - 史酷比 2 脱缰的怪物
-
+TEXT=大胖子 整理提供

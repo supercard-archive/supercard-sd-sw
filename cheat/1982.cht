@@ -1,10 +1,6 @@
-[游戏回数]
-ON=4506E,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+[Game number of times] ON=4506E, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
 
-[胜利回数]
-ON=45096,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+[Victory number of times] ON=45096, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
 
-[GameInfo]
-Name=1982 - 大众软件系列-扑克20合1[Minna no Soft Series - Happy Trump 20 ]
-System=GBA
+[GameInfo] Name=1982 - Minna no Soft Series - Happy Trump 20 (J) System=GBA Text=vicente 
 

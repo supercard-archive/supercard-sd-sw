@@ -1,14 +1,13 @@
-[各种属性]
+[Each kind of attribute]
 ON=40B5E,63,63,63,63,63,63
 
-[exp]
+[Exp]
 ON=40B50,7F,96,98
 
-[钱]
+[Money]
 ON=40994,FF,FF,0;40996,FF,FF,0
 
 [GameInfo]
-Name=1368 - 博德之门-暗黑同盟 [Baldur’s Gate - Dark Alliance]
+Name=1368 - Baldur”s Gate Dark Alliance (E)（博得之门-黑暗联盟）（E）ARPG 64
 System=GBA
-Text=1368 - Baldur's Gate - Dark Alliance (E)
-
+Text=大胖子 整理提供

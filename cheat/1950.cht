@@ -1,48 +1,349 @@
-[Õ½¶·×¼±¸»­Ãæ-Îä½«ÎäÆ÷]
-¼«Ò»ÉÁ=3141,BC
+[Combat readiness picture - military commander weapon]
+Phoenix stick =3141,3C
+Dark blue month =3141, C0
+As soon as the level dodges =3141, BC
+Swallow emperor =3141, C8
+Overlord =3141, CC
+Fights god =3141, CD
+The real tiger catches Ou Langgai =3141, DE
+Beautiful god rainbow =3141, E5
+Three countries unparalleled =3141, E6
 
-[È«ÎäÆ÷+È«ÈËÎï]
-ON=2D18,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[Complete weapon]
+ON=2D18, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
 
-[Ê±¼ä]
-ON=23550,0,0
+[Weapon ç†Ÿç»ƒåº¦]
+ON=3168,64,0,64,0,64,0
 
-[HP+ÎŞË«(ÒÔÏÂ2Ñ¡1)]
-È«Âú=3142,E7,3,E7,3,E7,3,E7,3
-Õæ.ÎŞË«ÂÒÎè=3142,50,0,E7,3,E7,3,E7,3
+[Our HP red blood + not complete in both full (really. Unparalleled chaotic dance)]
+ON=3142,50,0, E7,3, E7,3, E7,3
 
-[Îä½«È«ÄÜÁ¦³¬Ç¿(ÒÔÏÂ3Ñ¡1)]
-ON=314A,E7,3,E7,3,E7,3;31B6,E7,3,E7,3,E7,3
-¹¥»÷Á¦=31B6,E7,3;314A,E7,3
-ÒÆ¶¯Á¦=31BA,E7,3;314E,E7,3
+[Military commander å…¨èƒ½åŠ› ultra strong]
+ON=314A, E7,3, E7,3, E7,3; 31B6, E7,3, E7,3, E7,3
+Striking power =31B6, E7,3; 314A, E7,3
+Displacing force =31BA, E7,3; 314E, E7,3
 
-[Õ¶µĞÊı]
-ON=3180,F,27
+[Our army team morale 999]
+ON=4010, E7,3
 
-[Îä½«µÈ¼¶99]
+[Ability information]
+The fierce - striking power increases 999=314A, E7,3
+
+[Our HP+ not complete in both full]
+ON=3142, E7,3, E7,3, E7,3, E7,3
+
+[Cuts kills people several 9999]
+ON=3180, F, 27
+
+[Military commander LV-99]
 ON=3140,63
 
-[ÎÒ·½ÎŞÏŞÒÆ¶¯]
-ON=16A79,0,1,2
+[I skill equipment]
+ON=318A, 3,2,2,2,2,2,2
 
-[ÎÒ¾ü²¿¶ÓÊ¿Æø999]
-ON=4010,E7,3
+[Our infinite migration]
+ON=16A79,0,1,2; 169F9,0,1,2
 
-[ÊìÁ·¶È]
-ON=3168,64,0,64,0,64
+[Skill ball entire full]
+ON=318A, 5
 
-[Îä½«¼¼ÄÜ×°±¸]
-ON=318A,9,9,9,9,9,9
+[In fight skill choice]
+1st item of =3189,0
+2nd item of =3189,1
+3rd item of =3189,2
+4th item of =3189,3
+5th item of =3189,4
+6th item of =3189,5
 
-[ÄÜÁ¦ÖÖÀà(ÒÔÏÂ6Ñ¡1)]
-Æø¾ø=3189,0
-ÓÂÃÍ=3189,1
-·¶Î§=3189,2
-ÉñËÙ=3189,3
-Á¬»÷=3189,4
-Í»»÷=3189,5
+[Uses complete character]
+ON=2D3C, FF, FF
+
+[In fight uses hideaway role]
+Sima beautiful =3FD4, D
+Sun Quan =3FD4, E
+Zhuge Liang =3FD4, F
+Dong Zhuo =3FD4,10
+Yuan Shao =3FD4,11
+Flare angle =3FD4,12
+Holds sword senior general =3FD4,13
+Holds a gun senior general =3FD4,14
+
+[Equips 1]
+Wei king =3141,05
+Wu king =3141,0B
+Suchuan king =3141,11
+The day wolf cuts spatial sword =3141,19
+Investigates the tyrant to become sword =3141,1E fiercely
+Imaginary emperor sword =3141,1F
+War ghost Jin'gang stick =3141,2B
+Phoenix dragon feather fan =3141,35
+Black dragon fan =3141,36
+Immortal god of thunder stick =3141,41
+Peaceful stick =3141,42
+Real month monster date crazy =3141,47
+Black flame =3141,53
+Extinguishes completely unicorn tooth =3141,59
+
+[Equips 2]
+Greatly dark black sword =3141,6B
+Ancient spindle knife illusion =3141,71
+Seals god thin sword =3141,77
+Instant =3141,7C
+Seals god big sword =3141,82
+Seven sea kings =3141,88
+Clever marvelous method day halberd =3141,92
+Ghosts and gods =3141,93
+ç¥é¾™ long-handled crescent-shaped sword =3141,98
+ç¥é¾™ hook sickle =3141,9D
+The Yan Di waterfall falls =3141, A3
+Broken country snake spear =3141, A9
+Invites the wrath of the emperor =3141, AF
+Double dragon point =3141, B5
+
+[Equips 3]
+Dodges as soon as extremely =3141, BC
+As soon as four saints dodge =3141, BD
+Floats month =3141, C2
+Swallow emperor =3141, C8
+Dark god =3141, CD
+Gorgeous =3141, D3
+The dragon tiger universe encircles =3141, D9
+The real tiger throws oneself beats wolf =3141, DE
+Beautiful god rainbow =3141, E5
+Three countries unparalleled =3141, E6 
+
+[GAMEINFO]
+NAME=1950 - really three countries unparalleled ADVANCE
+SYSTEM=GBA
+TEXT=1950 - Shin Sangoku Musou Advance - GINO-0213--2005/3/24 
+
+[Military commander life]
+ON=3142, E7,3, E7,3
+
+[Military commander rank]
+ON=3140,63
+
+[Military commander ability]
+ON=314A, E7,3, E7,3, E7,3
+
+[Military commander unparalleled quantity full]
+ON=3146,64
+
+[Military commander weapon ç†Ÿç»ƒåº¦]
+ON=3168,64; 316A, 64; 316C, 64
+
+[Military commander cuts population]
+ON=3180,9F, 86,1
+
+[Military commander skill equipment quantity]
+ON=318A, A, A, A, A, A, A, A
+
+[Liu Bei strongest weapon (with Liu Bei when uses this code)]
+ON=3141,10
+
+[Guan Yu strongest weapon (with Guan Yu when is using this code)]
+ON=3141,98
+
+[Zhao Yunzui strong weapon (with Zhao Yunshi uses this code)]
+ON=3141, AF
+
+[Zhang Feizui strong weapon (same)]
+ON=3141, A9
+
+[Xiahou resentment strongest weapon (same)]
+ON=3141,59
+
+[Xu Zhuzui strong weapon]
+ON=3141, A2
+
+[Professional female entertainer strongest weapon]
+ON=3141,47
+
+[å­™ç­– strongest weapon]
+ON=3141, CD
+
+[Grandson Shang Xiangzui strong weapon]
+ON=3141, D9
+
+[Zhou Yu strongest weapon]
+ON=3141,71
 
 [GameInfo]
-Name=1950 - ÕæÈı¹úÎŞË«A[Shin Sangoku Musou Advance]
+Name=1950-çœŸ three countries unparalleled A
 System=GBA
+The Text=E703 simulation stands the beautiful hall to manufacture http://www.e703bbs.sgw.cn/
+
+[Entire weapon]
+ON=2D18, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire stage prop]
+ON=2D38, FF, FF
+
+[Entire character]
+ON=2D3C, FF, FF
+
+[Entire campaign]
+ON=2D10, FF, FF, FF
+
+[Our morale]
+ON=4010, E7,3
+
+[Enemy side morale]
+ON=4012,0,0
+
+[Infinite motion]
+ON=16A79,0
+
+[Round number]
+ON=3FD8,1
+
+[Rank]
+ON=3140,63
+
+[Physical strength]
+ON=3142, E7,3
+
+[Physical strength upper limit]
+ON=3144, E7,3
+
+[Unparalleled]
+ON=3146,64
+
+[Striking power]
+ON=314A, E7,3
+
+[Defensive power]
+ON=314C, E7,3
+
+[Displacing force]
+ON=314E, E7,3
+
+[ç†Ÿç»ƒåº¦]
+ON=3168,64,0,64,0,64
+
+[Cuts enemy to count]
+ON=3180, F, 27
+
+[Ability points]
+ON=318A, 5
+
+[å…¨èƒ½åŠ›]
+ON=318B, 9,9,9,9,9,9
+
+[Ability type]
+Ability 1=3189,0
+Ability 2=3189,1
+Ability 3=3189,2
+Ability 4=3189,3
+Ability 5=3189,4
+Ability 6=3189,5
+
+[Allied force physical strength is biggest]
+ON=321A, E7,3; 3262, E7,3; 32AA, E7,3; 32F2, E7,3; 333A, E7,3; 3382, E7,3; 33CA, E7,3
+
+[Allied force military strength is biggest]
+ON=3250,63,63,63; 3298,63,63,63; 32E0,63,63,63; 3328,63,63,63; 3370,63,63,63; 33B8,63,63,63; 3400,63,63,63
+
+[Enemy troop physical strength is smallest]
+ON=369A, 0,0; 36E2,0,0; 372A, 0,0; 3772,0,0; 37BA, 0,0; 3802,0,0; 384A, 0,0; 3892,0,0; 38DA, 0,0; 3922,0,0; 396A, 0,0; 39B2,0,0; 39FA, 0,0; 3A42,0,0; 3A8A, 0,0; 3AD2,0,0; 3B1A, 0,0; 3B62,0,0; 3BAA, 0,0; 3BF2,0,0; 3C3A, 0,0; 3C82,0,0; 3CCA, 0,0; 3D12,0,0; 3D5A, 0,0; 3DA2,0,0
+
+[Enemy troop military strength is smallest]
+ON=36D0,0,0,0; 3718,0,0,0; 3760,0,0,0; 37A8,0,0,0; 37F0,0,0,0; 3838,0,0,0; 3880,0,0,0; 38C8,0,0,0; 3910,0,0,0; 3958,0,0,0; 39A0,0,0,0; 39E8,0,0,0; 3A30,0,0,0; 3A78,0,0,0; 3AC0,0,0,0; 3B08,0,0,0; 3B50,0,0,0; 3B98,0,0,0; 3BE0,0,0,0; 3C28,0,0,0; 3C70,0,0,0; 3CB8,0,0,0; 3D00,0,0,0; 3D48,0,0,0; 3D90,0,0,0; 3DD8,0,0,0
+
+[Xiahou sincere å…¨èƒ½åŠ›]
+ON=2D40,63; 2D42, E7,3; 2D46, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Permits soldier å…¨èƒ½åŠ›]
+ON=2D6C, 63; 2D6E, E7,3; 2D72, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhen professional female entertainer å…¨èƒ½åŠ›]
+ON=2D98,63; 2D9A, E7,3; 2D9E, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Cao Cao å…¨èƒ½åŠ›]
+ON=2DC4,63; 2DC6, E7,3; 2DCA, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[å­™ç­– å…¨èƒ½åŠ›]
+ON=2DF0,63; 2DF2, E7,3; 2DF6, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Grandson still fragrant å…¨èƒ½åŠ›]
+ON=2E1C, 63; 2E1E, E7,3; 2E22, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhou Yu å…¨èƒ½åŠ›]
+ON=2E48,63; 2E4A, E7,3; 2E4E, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Grandson firm å…¨èƒ½åŠ›]
+ON=2E74,63; 2E76, E7,3; 2E7A, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Zhao cloud å…¨èƒ½åŠ›]
+ON=2EA0,63; 2EA2, E7,3; 2EA6, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Guan Yu å…¨èƒ½åŠ›]
+ON=2ECC, 63; 2ECE, E7,3; 2ED2, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Flies å…¨èƒ½åŠ›]
+ON=2EF8,63; 2EFA, E7,3; 2EFE, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Liu Bei å…¨èƒ½åŠ›]
+ON=2F24,63; 2F26, E7,3; 2F2A, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Lv Bu å…¨èƒ½åŠ›]
+ON=2F50,63; 2F52, E7,3; 2F56, E7,3, E7,3, E7,3,64,0,64,0,64
+
+[Fight role change]
+Xiahou sincere =3139,0
+å­™ç­– =3139,1
+Zhao cloud =3139,2
+Permits soldier =3139,3
+Zhen professional female entertainer =3139,4
+Sun Shangxiang =3139,5
+Zhou Yu =3139,6
+Guan Yu =3139,7
+Opens flies =3139,8
+Lv Bu =3139,9
+Cao Cao =3139, A
+Grandson firm =3139, B
+Liu Bei =3139, C
+Sima beautiful =3139, D
+Sun Quan =3139, E
+Zhuge Liang =3139, F
+Dong Zhuo =3139,10
+Yuan Shao =3139,11
+Flare angle =3139,12
+
+[Wei checkpoint choice]
+é»„å·¾ä¹‹ä¹± =3FD5,0,0
+The tiger jail closes it to fight =3FD5,1,3
+The official crosses it to fight =3FD5,3, C
+Battle at the Red Wall =3FD5,5,10
+Hefei fights =3FD5,6,17
+Five ten feet original fight =3FD5, A, 25
+
+[Suchuan checkpoint choice]
+The tiger jail closes it to fight =3FD5,1,7
+The long å‚ slope fights =3FD5,4, E
+Battle at the Red Wall =3FD5,5,14
+Chengdu suppresses fights =3FD5,7,1C
+å¤· the mausoleum fights =3FD5,8,20
+Five ten feet original fight =3FD5, A, 27
+
+[Wu checkpoint choice]
+The tiger jail closes it to fight =3FD5,1,5
+East of the lower reaches of the Changjiang river stills fights =3FD5,2, A
+Battle at the Red Wall =3FD5,5,12
+Hefei fights =3FD5,6,19
+å¤· the mausoleum fights =3FD5,8,1E
+The summer mouth fights =3FD5,9,23
+
+[Lv Bu checkpoint choice]
+é»„å·¾ä¹‹ä¹± =3FD5,0,2
+The tiger jail closes it to fight =3FD5,1,9
+Battle at the Red Wall =3FD5,5,16
+Hefei fights =3FD5,6,1B
+å¤· the mausoleum fights =3FD5,8,22
+Five ten feet original fight =03FD5, A, 29
+
+[GameInfo]
+Name=1950 - Shin Sangoku Musou Advance (J)
+System=GBA
+Text=vicente
 

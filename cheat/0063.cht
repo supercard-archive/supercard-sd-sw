@@ -1,0 +1,41 @@
+[Our side cards]
+大四喜=757A,31,31,31,32,32,32,33,33,33,34,34,34,5,5
+九连宝灯=757A,1,1,1,,2,3,4,5,6,7,8,9,9,9,2
+国士无双=757A,1,9,11,19,21,29,31,32,33,34,35,36,37,1
+大车轮=757A,2,2,3,3,4,4,5,5,6,6,7,7,8,8
+大三元=757A,1,2,3,4,35,35,35,36,36,36,37,37,37,1
+东北新干线=757A,1,2,3,4,5,6,7,8,9,31,31,34,34,34
+
+[Score]
+ON=456C,0F,27
+
+[GameInfo]
+Name=0063 - Mahjong Detective (J)（麻雀刑事）（J）TAB 32
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------
+[Number of cores]
+ON=4752,5
+
+[Master points]
+ON=7450,FF,E0,F5,5
+
+[Southern family points]
+ON=750C,FF,E0,F5,5
+
+[Western family points]
+ON=75C8,FF,E0,F5,5
+
+[North family points]
+ON=7684,FF,E0,F5,5
+
+[last circle]
+ON=72B4,7
+
+[Fighting hideaways person open]
+ON=5CD9,1;5CDB,1
+
+[GameInfo]
+Name=0063 - Mahjong Detective (J)（麻雀刑事）（J）TAB 32
+System=GBA
+Text=vicente

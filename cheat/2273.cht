@@ -1,0 +1,255 @@
+[Money]
+ON=15AC, 7F, 96,98
+
+[Fishes points]
+ON=15D6, FF, FF
+
+[Does not meet enemy]
+ON=FFB1, FF
+
+[Transmission all opens]
+ON=70C, FF, FF
+
+[Between transmission all opens]
+ON=716, FF
+
+[Goes through customs additive term to open]
+ON=36E, 63
+
+[Map weapon]
+Hammers =1059,0
+Sword =1059,1
+Axe =1059,2
+Spear =1059,3
+Fist =1059,4
+Drills =1059,5
+Bends =1059,6
+
+[Entire stage prop]
+ON=144A, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire black magic]
+ON=1092,63,63; 1096,63,63; 109A, 63,63; 109E, 63,63; 10A2,63,63; 10A6,63,63; 10AA, 63,63; 10AE, 63,63; 10B2,63,63; 10B6,63,63; 10BA, 63,63; 10BE, 63,63; 10C2,63,63; 10C6,63,63; 10CA, 63,63; 10CE, 63,63; 10D2,63,63; 10D6,63,63; 10DA, 63,63; 10DE, 63,63; 10E2,63,63
+
+[Entire precious]
+ON=1512,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+
+[The entire Peru passes on]
+ON=1564, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[All must kill technique]
+ON=1583, FF, FF, FF, FF, FF, FF
+
+[Entire special effect]
+ON=158F, FF, FF, FF, FF, FF
+
+[All summons beastly matter standard]
+ON=159B, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Smelting rank]
+ON=1002, A, A, A, A, A, A
+
+[Lead rank]
+ON=1001,63
+
+[Lead physical strength upper limit]
+ON=1024, F, 27
+
+[Lead current physical strength]
+ON=1026, F, 27
+
+[Lead experiences]
+ON=105C, FF, E0, F5,5
+
+[Lead promotes points]
+ON=A22, E7,3
+
+[Lead striking power]
+ON=1028, E7,3, E7,3, E7,3, E7,3
+
+[Lead defensive power]
+ON=1032, E7,3, E7,3, E7,3, E7,3
+
+[Lead 敏捷度]
+ON=103C, E7,3, E7,3, E7,3, E7,3
+
+[First place weapon TEC]
+ON=10EB, FF
+
+[First place weapon DUR]
+ON=10F8, E7,3
+
+[First place weapon MAXDUR]
+ON=10FA, E7,3
+
+[First place weapon 全能力]
+ON=1140, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
+
+[First place weapon golden color]
+ON=10FE, 1
+
+[Summons beastly physical strength]
+ON=1074, F, 27
+
+[Summons beast experience]
+ON=1084, FF, E0, F5,5
+
+[Summons beastly 全能力]
+ON=1078, E7,3, E7,3, E7,3, E7,3
+
+[In fight our physical strength]
+ON=409B4, E7,3
+
+[In fight we durable]
+ON=409CC, B8, B
+
+In the fight we attack the points]
+ON=409D4,93,6C
+
+[[In fight we move points]
+ON=40985,6
+
+[In fight our time]
+ON=43854,18,15
+
+[In fight our black magic quantity]
+ON=40A20,63,63,63,63,63,63
+
+[In fight an enemy physical strength]
+ON=40D44,0,0
+
+[In fight enemy one durable]
+ON=40D5C, 0,0
+
+[In fight enemy two physical strengths]
+ON=410D4,0,0
+
+[In fight enemy two durable]
+ON=410EC, 0,0
+
+[Enemy three physical strengths]
+ON=41464,0,0
+
+[Enemy four physical strengths]
+ON=417F4,0,0
+
+[GameInfo]
+Name=2273 - Summon Night Craft Sword Monogatari Hajimari no Ishi (J)
+System=GBA
+Text=vicente
+
+-------------------------------------------------------------
+[Money]
+ON=15AC, 7F, 96,98
+
+[Entire stage prop]
+ON=144A, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire ore]
+ON=147C, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[All strengthens stage prop]
+ON=14AE, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[All equips stage prop]
+ON=14E0,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire dense biography]
+ON=1564, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[All must kill illustrated handbook]
+ON=1583, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[Entire effect illustrated handbook]
+ON=158F, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[All summons beastly matter standard]
+ON=159B, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[All forges RANK9]
+ON=1002,09,09,09,09,09,09
+
+[Fishes points]
+ON=15D6,50, C3
+
+[Lead EXP]
+ON=105C, FF, E0, F5,05
+
+[Lead promotes points]
+ON=1056, OF, 27
+
+[Summons beast EXP]
+ON=1084, FF, E0, F5,05
+
+[Summons beast itself to be possible to practice results in black magic entire 99]
+ON=1092,63,63; 1096,63,63; 109A, 63,63; 109E, 63,63; 10A2,63,63; 10A6,63,63; 10AA, 63,63; 10AE, 63,63; 10B2,63,63; 10B6,63,63; 10BA, 63,63; 10BE, 63,63; 10C2,63,63; 10C6,63,63; 10CA, 63,63; 10CE, 63,63; 10D2,63,63; 10D6,63,63; 10DA, 63,63; 10DE, 63,63; 10E2,63,63
+
+[Entire weapon (30 weapons) DRU999 and TEC255]
+ON=10EB, FF; 10F8, E7,03, E7,03, E7,03; 1107, FF; 1114, E7,03, E7,03, E7,03; 1123, FF; 1130, E7,03, E7,03, E7,03; 113F, FF; 114C, E7,03, E7,03, E7,03; 115B, FF; 1168, E7,03, E7,03, E7,03; 1177, FF; 1184, E7,03, E7,03, E7,03; 1193, FF; 11A0, E7,03, E7,03, E7,03; 11AF, FF; 11BC, E7,03, E7,03, E7,03; 11CB, FF; 11D8, E7,03, E7,03, E7,03; 11E7, FF; 11F4, E7,03, E7,03, E7,03; 1203, FF; 1210, E7,03, E7,03, E7,03; 121F, FF; 122C, E7,03, E7,03, E7,03; 123B, FF; 1248, E7,03, E7,03, E7,03; 1257, FF; 1254, E7,03, E7,03, E7,03; 1273, FF; 1280, E7,03, E7,03, E7,03; 128F, FF; 129C, E7,03, E7,03, E7,03; 12AB, FF; 12B8, E7,03, E7,03, E7,03; 12C7, FF; 12D4, E7,03, E7,03, E7,03; 12E3, FF; 12F0, E7,03, E7,03, E7,03; 12FF, FF; 130C, E7,03, E7,03, E7,03; 131B, FF; 1328, E7,03, E7,03, E7,03; 1337, FF; 1344, E7,03, E7,03, E7,03; 1353, FF; 1360, E7,03, E7,03, E7,03; 136F, FF; 137C, E7,03, E7,03, E7,03; 138B, FF; 1398, E7,03, E7,03, E7,03; 13A7, FF; 13B4, E7,03, E7,03, E7,03; 13C3, FF; 13D0, E7,03, E7,03, E7,03; 13DF, FF; 13EC, E7,03, E7,03, E7,03; 13FB, FF; 1408, E7,03, E7,03, E7,03; 1417, FF; 1424, E7,03, E7,03, E7,03
+
+[Extremely evil does not meet enemy]
+ON=FFB1,2A
+
+[GameInfo]
+Name=2273 - Summon Night Craft Sword Monogatari Hajimari no lshi (J)
+System=GBA
+Text=2273 - Summon Night Craft Sword Monogatari Hajimari no lshi (J) made by scorpion from nwbbs
+PS: Because entire matter standard Jin Shouzhi and the money can have the conflict, therefore should better lock a time of entire matter standard first, after observes the game to determine already had, then relieves the entire matter standard locking, then opens money locking.
+
+--------------------In the fable minute cuts--------------------
+
+EC are partial:
+
+After 1. entire forging revises the demonstration is entire LV9, the ability also obtains, also may forge safely, but the under empirical value is demonstrates the full standard (normal to be supposed for spatial). But if examination memory will be able to discover the forging points (are originally under that decadent empirical value class east east) the concrete value was not equal to when LV9 should achieve the points, also that value will not be able to change (because rank already full), therefore still did not know will be able otherwise to have the side effect. (Cannot understand this section to be possible to jump over directly) =. =
+
+2. fishes the points to occupy 2 units places sites, the maximum value should be 65535, I produce this is locking is 50000, the safe spot, was in any case sufficient.
+
+3. had to kill the illustrated handbook and the effect illustrated handbook partial already renews, now may demonstrate all syntheses way.
+
+4. this renewal all renewed, HP locking and so on I want not to need (the rank all to change 99, if really hit only presses down on selete, hit automatically -. -) Is left over east 3 east not to put, is summons the black magic which the beastly custom results in, the weapon must kill with the effect. This 3 all are the big project ......In addition a partner tadpole article all does not know, automatically disregarded
+
+5. if also needs other any, please under with paste, I do as soon as possible. . .
+
+[Stage prop]
+ON=144A, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Synthesis stone]
+ON=147C, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Strengthens stage prop]
+ON=14AE, 63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Equips stage prop]
+ON=14E0,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire weapon forging rank]
+ON=1002,9,9,9,9,9,9
+
+[Summons the beast entire black magic]
+ON=1092,63,63; 1096,63,63; 109A, 63,63; 109E, 63,63; 10A2,63,63; 10A6,63,63; 10AA, 63,63; 10AE, 63,63; 10B2,63,63; 10B6,63,63; 10BA, 63,63; 10BE, 63,63; 10C2,63,63; 10C6,63,63; 10CA, 63,63; 10CE, 63,63; 10D2,63,63; 10D6,63,63; 10DA, 63,63; 10DE, 63,63
+
+[The entire weapon changes configuration]
+ON=1564, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[All must kill technique]
+ON=1589, FF, FF, FF, FF, FF, FF
+
+[Entire special effect]
+ON=158F, FF, FF, FF, FF, FF
+
+[怪兽 illustrated handbook]
+ON=159B, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF, FF
+
+[1st weapon attribute +999]
+ON=10EC, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3, E7,3
+
+[1st experiences weapon 255]
+ON=10EB, FF
+
+After [1st strengthens weapon may strengthen again]
+ON=10E8, FF, FF, FF
+
+[GameInfo]
+Name=2273 - Summon Night Craft Sword Monogatari Hajimari no lshi (J)
+System=GBA
+Text= beautiful hall barbarian

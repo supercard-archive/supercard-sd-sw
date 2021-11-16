@@ -1,13 +1,7 @@
-[金币]
-ON=80AC,63
+[Gold coin] ON=80AC, 63
 
-[全地图]
-ON=7E1C,FF,FF,FF,FF
+[Entire map] ON=7E1C, FF, FF, FF, FF
 
-[全小游戏]
-ON=7E24,FF,FF
+[Entire small game] ON=7E24, FF, FF
 
-[GameInfo]
-Name=1831 - 咕嘟咕嘟天然传阅板-欢迎来到梦幻岛[Pukupuku Tennen Kairanban Youkoso Illusion Land he]
-System=GBA
-Text=vicente 
+[GameInfo] Name=1831 - Pukupuku Tennen Kairanban Youkoso Illusion Land he (J) (gurgle gurgle natural circulates for perusal board - welcome to arrive illusion paradise) (J) AVG 64 System=GBA Text=vicente

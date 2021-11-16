@@ -1,8 +1,11 @@
-[金钱]
+[Infinite personal practice]
+ON=3049C,63
+OFF=3049C,00
+
+[Money]
 ON=30498,3F,42,F
 
 [GameInfo]
-Name=1472 - 风来西林怪兽足球[Shiren Monsters Netsal]
+Name=1472 - Shiren Monsters Netsal (J)（风来西林怪兽足球）（J）TCG+SPG 128
 System=GBA
-Text=1472 - 风来西林怪兽足球 
-
+Text=HAOXUJIE（恶魔）

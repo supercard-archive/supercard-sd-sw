@@ -1,13 +1,7 @@
-[蜂蜜]
-ON=47B9C,E7,3
+[Honey] ON=78B8, E7,3
 
-[时间]
-ON=47AFE,50
+[Time] ON=781E, 50
 
-[关卡全开]
-ON=47C38,6
+[Checkpoint all opens] ON=7954,6
 
-[GameInfo]
-Name=1925 - 小熊威尼[Winnie the Pooh's Rumbly Tumbly Adventure (E)]
-System=GBA
-
+[GameInfo] Name=1925 - Disney's Winnie the Pooh's Rumbly Tumbly Adventure (E) System=GBA Text=vicente 

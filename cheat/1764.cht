@@ -1,31 +1,16 @@
-[HP]
-ON=39B52,30,2
+[Life]
+ON=44B9,6
 
-[MAXHP]
-ON=39C18,30,2
+[Population]
+ON=44B4,63
 
-[MAXCP]
-ON=39C1A,F,27
+[Bottle]
+ON=44BC,32
 
-[EXP]
-ON=39C20,3F,42,F
-
-[点数]
-ON=39C94,9F,86,1
-
-[全特技]
-ON=39C2C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
-
-[攻击力]
-ON=39C1E,F,27
-
-[战斗中HP]
-ON=3314C,30,2
-
-[战斗中MAXHP]
-ON=3314E,30,2
+[Collection number]
+ON=44C0,32
 
 [GameInfo]
-Name=1764 - 王国之心记忆之链[Kingdom Hearts Chain of Memories]
+Name=1764 - Codename - Kids Next Door - Operation S.O.D.A. (U)（代号-邻家小孩）（E）ACT 64
 System=GBA
-
+Text=vicente

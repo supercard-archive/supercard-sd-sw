@@ -1,0 +1,76 @@
+[Role]
+MARIO=41C20,0
+PEACH=41C20,1
+KINOPIO=41C20,2
+LUIGI=41C20,3
+
+[Life number]
+ON=41111,63
+
+[Largen]
+ON=41C26,1F
+
+[Full‘A’]
+ON=41BE5,1F
+
+[Float in the air(Press jump key)]
+ON=41C2E,5F
+
+[Transparent]
+OFF=41C2D,0
+ON=41C2D,5F
+
+[GameInfo]
+Name=0002 - Super Mario Advance (J)（超级马里奥A）（J）ACT 32
+System=GBA
+Text=大胖子 整理提供
+-------------------------------------------------------------
+[SM Score 99999990]
+ON=410FC,7F,96,98
+
+[SM100%Ace Gold coin]
+ON=41100,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,F
+
+[SM Life number 99]
+ON=41111,63 
+
+[SM Characters change]
+Mario=41C20,0
+Peach=41C20,1
+Kinopio=41C20,2
+Luigi=41C20,3
+
+[SM Illimitable jump]
+ON=41C21,0
+
+[SM Power]
+ON=41C26,FF
+
+[SM Heart7]
+ON=41C27,7
+
+[SM Invincible condition]
+ON=41C2C,FF 
+
+[SM Star condition]
+ON=41C38,FF
+
+[SM The enemy does not move]
+ON=41C5C,FF
+
+[MB Fight the enemy and pass]
+ON=41D9E,0
+
+[MB Score 99999]
+ON=41DC0,3F,42,F
+
+[MB Remaining接关数4]
+ON=41DE4,4
+
+[MB Life number 99]
+ON=41DE5,63
+
+[GameInfo]
+Name=0002 - Super Mario Advance (J)（超级马里奥A）（J）ACT 32
+System=GBA
+Text=169

@@ -1,9 +1,9 @@
-[p1怒气]
+[p1 Angry]
 MAX=4274B,64
 50%=4274B,32
 0=4274B,0
 
-[p1体力]
+[p1Physical strength]
 max=4273E,64
 min=4273E,0
 
@@ -14,12 +14,12 @@ P1一击晕倒=44C55,80
 [P1抗击打]
 ON=42981,1
 
-[p2怒气]
+[p2 Angry]
 MAX=42833,64
 50%=42833,32
 0=42833,0
 
-[p2体力]
+[p2 Physical strength]
 max=42826,64
 min=42826,0
 
@@ -38,11 +38,10 @@ ON=44D64,FF,C9,9A,3B
 [$]
 ON=44DB4,9F,86,1
 
-[全人物]
+[Perfect person]
 ON=44D58,FF,FF,FF,FF,FF,FF,FF,FF
 
 [GameInfo]
-Name=1628 - 龙珠Z 空舞斗剧[dragonball z supersonic warriors (E)]
+Name=1628 - DragonBallZ Supersonic Warriors (E)（龙珠Z-舞空斗剧）（E）FTG 128
 System=GBA
-Text=1628 - dragonball z supersonic warriors (E)
-
+Text=大胖子 整理提供

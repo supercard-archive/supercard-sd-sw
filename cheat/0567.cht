@@ -1,0 +1,19 @@
+[Time]
+ON=433E4,20,1C
+
+[Fast victory]
+ON=433A2,64
+
+[Entire CG]
+ON=45140,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire challenge bell]
+ON=41938,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Add-in openning]
+ON=41973,80
+
+[GameInfo]
+Name=0567 - Hamepane Tokyo Myumyu (J)£¨¶«¾©Ã¨Ã¨Æ´Í¼£©£¨J£©PUZ 32
+System=GBA
+Text=vicente

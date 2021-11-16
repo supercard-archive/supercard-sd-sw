@@ -1,0 +1,16 @@
+[Physical strength]
+ON=4412A,14
+
+[Invisible]
+ON=440B6,FF
+
+[Entire barrier]
+ON=41B50,FF,FF,FF,FF
+
+[Entire picture]
+ON=41B54,FF,FF,FF,FF
+
+[GameInfo]
+Name=1795 - Finding Nemo - Arata na Bouken (J)（海底总动员-新的冒险）（J）ACT 128
+System=GBA
+Text=vicente

@@ -1,4 +1,4 @@
-[max]
+[Venus Max]
 ON=274,63;278,63;27C,63;280,63;2C0,63;2C4,63;2C8,63;2CC,63;370,FF
 
 [max's magic 1]
@@ -9922,7 +9922,6 @@ ON=20,0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,10,11,12,13,14,15,16,17,18,19,1A,1B,1C,1D,
 9=5436,9
 
 [GameInfo]
-Name=1530 - 光明与黑暗-暗黑龙的复活[Shining Force-Resurrection of the Dark Dragon (U)]
+Name=1530 - Shining Force - Resurrection of the Dark Dragon (U)（光明力量-暗黑龙的复活）（E）RPG 64
 System=GBA
-Text=1530 - Shining Force-Resurrection of the Dark Dragon (U)
-
+Text=大胖子 整理提供
