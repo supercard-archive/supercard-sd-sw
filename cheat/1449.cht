@@ -1,0 +1,17 @@
+[无限续关]
+ON=46BD0,9
+
+[体力不减]
+ON=473F8,E7,3;46CCE,E7,3
+
+[机枪子弹不减]
+ON=472E8,E7,3;46CEE,E7,3
+
+[电机枪能量不减]
+ON=46CF4,64;472EE,64;
+
+[GameInfo]
+Name=1449 - 雷鸣之声[Sound of Thunder (E)]
+System=GBA
+TEXT=1449 - Sound of Thunder (E)
+

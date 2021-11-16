@@ -1,0 +1,16 @@
+[hp]
+ON=26D26,E7,3;40594,2C,1
+
+[max hp]
+ON=26D28,E7,3
+
+[金錢]
+ON=19858,7F,96,98
+
+[tp]
+ON=40599,64
+
+[GameInfo]
+Name=1326 - 馅饼3-砂糖王国之谜[Croket! 3 - Guranyuu Oukoku no Nazo]
+System=GBA
+Text=馅饼3-砂糖王国之谜[ROCKMANX]

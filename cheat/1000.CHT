@@ -1,0 +1,17 @@
+[子弹]
+ON=463A0,9;463A2,63
+
+[手雷]
+ON=463A4,9;463A6,63
+
+[杀敌数]
+ON=45C44,63
+
+[生命值]
+ON=42667,8
+
+[GameInfo]
+Name=1000 - 荣誉勋章(欧)
+System=GBA
+Text=1000 - Medal of Honor Underground (E) FPS-GAME 1PLAYER
+RomName=MEDALOFHONORAUGX

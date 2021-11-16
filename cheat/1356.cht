@@ -1,0 +1,20 @@
+[各种属性]
+ON=40B5E,FF,FF,FF,FF,FF,FF
+
+[血]
+ON=40B54,F,27
+
+[精神]
+ON=40B56,F,27
+
+[经验]
+ON=40B50,FF,E0,F5,5
+
+[钱]
+ON=40994,9F,86,1
+
+[GameInfo]
+Name=1356 - 博德之门-暗黑同盟[Baldur's Gate - Dark Alliance]
+System=GBA
+Text=1356 - Baldur's Gate - Dark Alliance (U)
+

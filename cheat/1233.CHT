@@ -1,0 +1,17 @@
+[铲子数]
+ON=3C18,3
+
+[面包数]
+ON=3C10,14
+
+[血]
+ON=3C0C,3
+
+[只数]
+ON=3C08,9
+
+[GameInfo]
+Name=1233 - 鲍勃斯邦奇-比基尼岛的冒险[SpongeBob SqurePants]
+System=GBA
+Text=鲍勃斯邦奇-比基尼岛的冒险[大胖子]
+RomName=SBSPBATTLEBBBSQE

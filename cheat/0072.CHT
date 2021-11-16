@@ -1,0 +1,21 @@
+[钱？]
+ON=6AC8,F,27
+
+[特殊能力使用次数]
+ON=45E31,8
+
+[血]
+ON=45E2E,80
+
+[隐身]
+ON=45E42,64
+
+[道具]
+ON=4430A,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+
+[GameInfo]
+Name=0072 - 机器猫-绿之惑星拯救作战
+System=GBA
+Text=0072 - Doraemon Midori No Wakusei (J)
+
+RomName=DORAEMONADRJ

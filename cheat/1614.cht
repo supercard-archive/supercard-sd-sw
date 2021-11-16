@@ -1,0 +1,18 @@
+[无限生命数]
+ON=45E20,9
+
+[无限飞机推进]
+ON=45E24,63
+
+[飞机能源无限]
+ON=45DEC,50
+
+[标志无限]
+ON=45D00,13
+
+[时间无限]
+ON=45D7C,78
+
+[GameInfo]
+Name=1614 - 雷鸟[Thunder Birds]
+System=GBA

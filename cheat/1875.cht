@@ -1,0 +1,25 @@
+[回合数]
+ON=336B7,0
+
+[孔明等级]
+ON=BA15,63
+
+[孔明经验]
+ON=BA16,63
+
+[孔明全能力]
+ON=BA09,FF;BA10,FF,FF
+
+[孔明无限移动]
+ON=32E0A,30
+
+[孔明兵数]
+ON=32E10,F,27
+
+[孔明策略]
+ON=32E14,F,27
+
+[GameInfo]
+Name=1875 - 三国志孔明传[Sangokushi Koumeiden]
+System=GBA
+

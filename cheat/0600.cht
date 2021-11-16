@@ -1,0 +1,20 @@
+[SPEED]
+ON=44985,7F,1
+
+[MAX SPEED]
+ON=443E6,D
+
+[ACCELERATION]
+ON=443E4,D
+
+[HANDING]
+ON=443E8,D
+
+[GRIP]
+ON=443EA,0D
+
+[GameInfo]
+Name=0600 - GTA赛车进化版2(欧) [GT Advance 2 Rally Racing (e)]
+System=GBA
+Text=0600 - GT Advance 2 Rally Racing (e) RCG
+

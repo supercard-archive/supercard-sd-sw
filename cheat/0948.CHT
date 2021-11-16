@@ -1,0 +1,14 @@
+[游戏时间]
+ON=16A8,30,75
+
+[客人的时间]
+ON=16AC,30,75
+
+[COMBOS]
+ON=9AA6,63
+
+[GameInfo]
+Name=0948 - 疯狂的士(美)
+System=GBA
+Text=0948 - Crazy Taxi - Catch a Ride (U) RCG
+RomName=CRAZY TAXI CA3CE

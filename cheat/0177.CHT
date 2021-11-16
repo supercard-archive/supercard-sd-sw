@@ -1,0 +1,15 @@
+[血无限]
+ON=41A0C,5
+
+[无限人数]
+ON=41A10,63
+
+[金币]
+ON=41A08,E7,3
+
+[GameInfo]
+Name=0177 - 超级海绵-笨伯(美)
+System=GBA
+Text=0177 - Sponge Bob Square Pants - SuperSponge (U)  ACT
+
+RomName=SBSP SSASPE

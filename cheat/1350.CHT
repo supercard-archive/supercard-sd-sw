@@ -1,0 +1,24 @@
+[1P HP]
+MAX=42F62,48
+0=42F62,0
+
+[2P HP]
+MAX=4305A,48
+0=4305A,0
+
+[3P HP]
+MAX=43152,48
+ON=43152,0
+
+[4P HP]
+MAX=4324A,48
+ON=4324A,0
+
+[TIME]
+ON=46540,63
+
+[GameInfo]
+Name=1350 - π÷ ﬁ¥Û¬“∂∑[Godzilla Domination]
+System=GBA
+Text=1350 - Godzilla Domination (J)(GameArk)
+

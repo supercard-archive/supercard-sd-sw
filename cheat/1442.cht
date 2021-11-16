@@ -1,0 +1,21 @@
+[快速勝利]
+on=405A6,00
+[無限金錢]
+on=405E7,63
+[鎖速度]
+on=405AE,ff
+[物品]
+on=405E9,ff,ff,ff,ff,ff,ff,ff,ff
+[物品可無限次使用]
+on=405F1,08
+[現用物品]
+on=405F2,ff
+[無限頭盔]
+on=405F5,01
+[無限生命]
+on=405E8,FF
+
+[GameInfo]
+Name=1442 - 小蚁雄兵 极限赛车[Antz Extreme Racing] 
+System=GBA
+Text=mick

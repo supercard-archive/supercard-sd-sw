@@ -1,0 +1,19 @@
+[能量不减] 
+ON=149BB,34 
+
+[时间0'00"00] 
+ON=1759B,0,0,0 
+
+[一加速速度MAX] 
+ON=149BC,FF 
+
+[分数MAX] 
+ON=41690,E7,3 
+
+[全隐藏模式解锁] 
+ON=8C18,FF,FF,FF,FF;8C28,FF,FF,FF,FF,FF,FF;8C30,1F,1F,1F,1F,1F,1F,1F,1F,FF,FF,FF,FF,FF,FF,FF,FF;8CAC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF 
+
+[GameInfo] 
+Name=1508 - 零式赛车-GP传说[F-Zero - GP Legend] 
+System=GBA 
+

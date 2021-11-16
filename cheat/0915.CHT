@@ -1,0 +1,11 @@
+[血]
+ON=41BA4,4
+
+[物品数量]
+ON=41BA6,63;41BA8,9;41BAA,9;41BAC,9
+
+[GameInfo]
+Name=0915 - 疯狂博士(欧)
+System=GBA
+Text=0915 - Dr. Muto (E)  ACT
+RomName=DR. MUTOA6TP

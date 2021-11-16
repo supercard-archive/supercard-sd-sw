@@ -1,0 +1,35 @@
+[我方火药]
+ON=426DE,0
+
+[我方能量]
+ON=429AA,F,27
+
+[对方火药]
+ON=4293A,63
+
+[对方能量]
+ON=4274E,0,0
+
+[点数]
+ON=43A60,FF,E0,F5,5
+
+[全收集]
+ON=43A90,FF,FF,FF,FF
+
+[对战难度]
+ON=43A75,7
+
+[进阶难度]
+ON=43A74,3
+
+[花火大祭]
+ON=43AA8,FF
+
+[连放花数]
+ON=42DB4,E7,3
+
+[GameInfo]
+Name=1601 - 花火大会[Donchan Puzzle Hanabi de Dohn Advance(j)]
+System=GBA
+Text=1601 - Donchan_Puzzle_Hanabi_de_Dohn_Advance(j)
+

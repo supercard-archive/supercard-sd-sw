@@ -1,0 +1,27 @@
+[HYPER蓄力后维持]
+ON=40DF8,FF
+
+[分数MAX]
+ON=443B4,7F,96,98
+
+[命不减]
+ON=443C6,7
+
+[移动速度加快]
+ON=46B84,FF,2
+
+[按L键锁定HYBER状态]
+ON=440D0,4
+
+[无敌]
+ON=443BC,64
+
+[按A键蓄力槽锁定]
+ON=440D4,0,2
+
+
+[GameInfo]
+Name=1826 - R飞行队III[R-Type III]
+System=GBA
+
+

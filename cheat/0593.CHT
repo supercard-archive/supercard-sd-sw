@@ -1,0 +1,11 @@
+[生命不减]
+ON=4627E,99
+
+[掉BB后时间不减]
+ON=46ACE,99,9
+
+[GameInfo]
+Name=0593 - 超级马里奥-耀奇岛(E)
+System=GBA
+Text=0593 - Yoshi''s Island - Super Mario Advance 3 (U) ACT-GAME 1PLAYER
+RomName=SUPER MARIOCA3AE

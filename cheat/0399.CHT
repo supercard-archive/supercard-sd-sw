@@ -1,0 +1,18 @@
+[子弹]
+ON=B0E4,63
+
+[LIFE]
+ON=B0E0,9
+
+[HP]
+ON=B0E2,64
+
+[机枪]
+ON=B0EC,3;B0F0,3
+
+[GameInfo]
+Name=0399 - 3D德军总部(美)
+System=GBA
+Text=0399 - Wolfenstein 3D (U) FPS
+
+RomName=WOLF3DAWOE

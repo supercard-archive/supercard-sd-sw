@@ -1,0 +1,15 @@
+[血]
+ON=AC0,9
+
+[命]
+ON=AC3,9
+
+[狗骨]
+ON=AC2,63
+
+[GameInfo]
+Name=0667 - 狗狗小镇日记(日)
+System=GBA
+Text=0667 - PukuPuku Tennen Kairanban (J)  AVG
+
+RomName=PUKUPUKU-1APUJ

@@ -1,0 +1,14 @@
+[能量不减]
+ON=40F04,16
+
+[磁碟MAX]
+ON=40064,6
+
+[警报不减]
+ON=40C6C,30
+
+[GameInfo]
+Name=1539 - 芭比秘密间谍[Barbie Secret Agent]
+System=GBA
+Text=1539 - Barbie Secret Agent[魔剑士但丁]
+

@@ -1,0 +1,14 @@
+[只数]
+ON=2ADC,5
+
+[时间]
+ON=419ED,9,9;41A1D,9,9
+
+[香蕉数]
+ON=2AD8,63
+
+[GameInfo]
+Name=0937 - 超级猴球(欧)
+System=GBA
+Text=0937 - Super Monkey Ball Jr. (E)  PUZ
+RomName=SUPER MONKEYALUP

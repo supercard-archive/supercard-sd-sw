@@ -1,0 +1,26 @@
+[苹果] 
+ON=90,63 
+
+[箱子] 
+ON=94,C8 
+
+[命] 
+ON=98,63 
+
+[无敌] 
+ON=9C,01
+
+[调桃子数]
+on=0090,a0
+
+[调木箱数]
+on=0094,a0
+
+[调袋狼数]
+on=0098,a0
+
+[GameInfo]
+Name=0319 - 古惑狼XS(欧)
+System=GBA
+Text=0319 - Crash Bandicoot XS (E) ACT-GAME
+RomName=CRASHACQP

@@ -1,0 +1,23 @@
+[HP]
+ON=3CEC,C8
+
+[MP]
+ON=3CF1,22
+
+[时间]
+ON=15974,E7,3
+
+[人数]
+ON=15971,63
+
+[树叶]
+ON=411B8,63
+
+[魔王一击必杀]
+ON=3D2C,1
+
+[GameInfo]
+Name=0994 - 火影忍者-最强忍者大结集(日)
+System=GBA
+Text=0994 - Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (J) ACT-GAME 1PLAYER
+RomName=NARUTO ACT1A7AJ

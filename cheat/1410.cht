@@ -1,0 +1,26 @@
+[体力不减]
+ON=405CD,A
+
+[命不减]
+ON=405CA,A
+
+[无敌]
+ON=40594,9
+
+[苹果不件]
+ON=405CF,99
+
+[绿宝石]
+ON=405D1,99
+
+[红宝石]
+ON=405E0,A
+
+[钻石]
+ON=405D1,99
+
+[GameInfo]
+Name=1410 - 迪斯尼阿拉丁[Disney's Aladdin]
+System=GBA
+Text=1410 - 迪斯尼阿拉丁[掌机之王HOTSUMA]
+

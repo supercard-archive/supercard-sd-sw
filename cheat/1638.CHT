@@ -1,0 +1,13 @@
+[体力值(HP)]
+ON=4344D,90
+
+[物品数]
+ON=4007E,63
+
+[金币数]
+ON=4007B,FF
+
+[GameInfo]
+Name=1638 - 鸟人战队-巨龙雷鸣[Power Rangers Dino Thunder]
+System=GBA
+Text=1638 - power rangers dino thunder

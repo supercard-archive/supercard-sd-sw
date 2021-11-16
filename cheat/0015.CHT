@@ -1,0 +1,15 @@
+[1P不败]
+ON=13CD9,FF;13CDD,FF
+
+[时间]
+ON=144F7,0
+
+[2P无体力]
+ON=14061,0;14065,0;14083,0
+
+[GameInfo]
+Name=0015 - 火炎职业摔跤A
+System=GBA
+Text=0015 - Fire Pro Wrestling A (J)
+
+RomName=FPAAFPJ

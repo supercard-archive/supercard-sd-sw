@@ -1,0 +1,14 @@
+[HP不减]
+ON=44F8C,1C
+
+[生命不减]
+ON=1630C,09
+
+[全武器]
+ON=16310,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0536 - 洛克人和火石 (日)
+System=GBA
+Txet=0536 - Rockman & Forte (J) ACT
+RomName=ROCK&FORTEAFCJ

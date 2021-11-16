@@ -1,0 +1,17 @@
+[钱数]
+ON=44E00,63 
+
+[只数]
+ON=44F00,9
+
+[蛋数]
+ON=44EE4,6
+
+[可以放电]
+ON=44DE4,1
+
+[GameInfo]
+Name=0893 - 蚱蜢zapper(欧)
+System=GBA
+Text=0893 - Zapper (E)  PUZ-GAME
+RomName=ZAPPERAZPP

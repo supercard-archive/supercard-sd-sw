@@ -1,0 +1,14 @@
+[指令数]
+ON=361C2,64
+
+[钱]
+ON=361BE,A7,7D
+
+[狗的状态]
+ON=361A2,64;361A6,64;361AA,64;361AE,64;361B2,64;361B6,0;361BA,64
+
+[GameInfo]
+Name=1316 - 可爱小狗养育计划 [Koinu-Chan no Hajimete no Osanpo]
+System=GBA
+Text=1316- Koinu-Chan no Hajimete no Osanpo(J)
+ROMNAME=9685878E9B8886829795239ED0A48F7B

@@ -1,0 +1,15 @@
+[星星]
+ON=AE6F,F
+
+[血]
+ON=AF58,8
+
+[隐形]
+ON=DEC8,3;DECE,64
+
+[GameInfo]
+Name=0112 - 急速动力-梦之计划
+System=GBA
+Text=0112 - Rocket Power Dream Scheme (U)
+
+RomName=DREAMSCHEMEARKE

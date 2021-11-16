@@ -1,0 +1,15 @@
+[最高时速]
+ON=45529,FF
+
+[总时间]
+ON=45BE8,0,0
+
+[单圈时间]
+ON=45BEC,0,0
+
+[GameInfo]
+Name=0008 - GTA赛车A
+System=GBA
+Text=0008 - Advance GTA (J)
+
+RomName=ADVANCE GTAAG7J

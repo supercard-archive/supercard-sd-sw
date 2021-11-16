@@ -1,0 +1,14 @@
+[游戏时间]
+ON=6ee,5e
+
+[1P HP]
+ON=2f76,B8,01
+
+[1P 能量] 
+ON=2f7c,e8,03
+
+[GameInfo]
+Name=0280 - 罪恶克星X(日)
+System=GBA
+Text=0280 - Guilty Gear X (J) FTG-GAME
+RomName=GGXAEAGXJ

@@ -1,0 +1,14 @@
+[命x 9]
+ON=325BC,9
+
+[体力不减]
+ON=325BE,80;32808,80
+
+[无敌]
+ON=326B6,64
+[GameInfo]
+Name=1434 - 德克斯特幸运的实验室[Dexters Laboratory-Deesaster Strikes]
+System=GBA
+TEXT=1434 - Dexters Laboratory-Deesaster Strikes[掌机之王HOTSUMA原创] 
+
+

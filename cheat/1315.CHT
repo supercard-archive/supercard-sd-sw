@@ -1,0 +1,26 @@
+[得分（大金刚JR）]
+ON=3A3A0,F,27
+
+[失败次数（大金刚JR）]
+ON=3A1FC,0
+
+[马利水枪数(大金刚3)]
+ON=3B3BE,4
+
+[大金刚水枪数(大金刚3)]
+ON=3B3BD,0
+
+[马利只数]
+ON=3B3C9,0
+
+[得分(救火队)]
+ON=3A3D4,E7,3
+
+[只数(救火队)]
+ON=3A230,0
+
+[GameInfo]
+Name=1315 - Game & Watch 游戏博物馆4[Game & Watch Gallery 4 ]
+System=GBA
+Text=1315 - Game & Watch Gallery 4（U）
+ROMNAME=8E589D60927A9085899DA37788839D85

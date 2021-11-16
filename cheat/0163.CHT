@@ -1,0 +1,24 @@
+[命]
+ON=41800,63
+
+[血]
+ON=41C60,0E
+
+[无敌]
+ON=43808,00
+
+[钱]
+ON=4184C,E7,03
+
+[定位旗]
+ON=45770,63
+
+[手套]
+ON=436E0,63
+
+[GameInfo]
+Name=0163 - 小小袋鼠闯天关 (美)
+System=GBA
+Text=0163 - Kao The Kangaroo (U) ACT
+
+RomName=KAOTHEKANGARAKKE

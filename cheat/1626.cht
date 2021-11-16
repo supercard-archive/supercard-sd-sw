@@ -1,0 +1,14 @@
+[子弹]
+ON=477C2,99
+
+[血]
+ON=477AA,A
+
+[隐身（只针对第一小关）]
+ON=43FEC,0
+
+[GameInfo]
+Name=1626 - 分裂细胞：明日潘多拉[Splinter Cell Pandora Tomorrow (U)]
+System=GBA
+Text=1626 - Splinter Cell Pandora Tomorrow (U)
+

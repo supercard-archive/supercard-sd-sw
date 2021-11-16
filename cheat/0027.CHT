@@ -1,0 +1,15 @@
+[炸弹人各项能力]
+ON=35194,A,A,A,A
+
+[隐身]
+ON=4259C,1;425D6,64
+
+[钱]
+ON=35198,F,27
+
+[GameInfo]
+Name=0027 - 炸弹人传说
+System=GBA
+Text=0027 - Bomberman Story (J)
+
+RomName=BOMSTORYABSJ

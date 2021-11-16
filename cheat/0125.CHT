@@ -1,0 +1,18 @@
+[HP]
+ON=D84,A
+
+[力量]
+ON=DF0,2C,1
+
+[时间]
+ON=CD4,D3
+
+[人数]
+ON=D88,9
+
+[GameInfo]
+Name=0125 - X战警-启示录(美)
+System=GBA
+Text=0125 - X-Men - Reign Of Apocalypse (U) ACT 1Player
+
+RomName=XMENROAAXME

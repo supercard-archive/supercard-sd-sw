@@ -1,0 +1,14 @@
+[行动力]
+ON=45850,1E
+
+[体调]
+ON=45854,14
+
+[各项属性]
+ON=4585C,19;4585E,19;45860,19;45862,19;45864,19;45866,19
+
+[GameInfo]
+Name=1342 - 小拳王-赤热之战[Ashita No Joe (Including +3 Trainer)]
+System=GBA
+Text=1342 - Ashita No Joe (Including +3 Trainer)(J)
+ROMNAME=91818B92907D867A919547F4ED5E9E96

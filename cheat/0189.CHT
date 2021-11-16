@@ -1,0 +1,18 @@
+[时间]
+ON=44BDE,30,75
+
+[我方入球]
+ON=44AF8,63
+
+[对方入球]
+ON=44A1C,0
+
+[点数]
+ON=6183,63
+
+[GameInfo]
+Name=0189 - 友情足球4V4
+System=GBA
+Text=0189 - 4V4 Arashi Get The Goal (J)
+
+RomName=4V4 ARASHIA4VJ

@@ -1,0 +1,19 @@
+[我方得分]
+0=4120A,0
+15=4120A,1
+30=4120A,2
+40=4120A,3
+A=4120A,4
+
+[对方得分]
+0=4120B,0
+15=4120B,1
+30=4120B,2
+40=4120B,3
+A=4120B,4
+
+[GameInfo]
+Name=0894 - 虚拟网球(欧)
+System=GBA
+Text=0894 - Virtua Tennis (E)  SPG-GAME
+RomName=VIRTUA TENNIAVTP

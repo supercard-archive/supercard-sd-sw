@@ -1,0 +1,18 @@
+[球的颜色]
+黄色=42A0A,0
+粉红=42A0A,1
+红色=42A0A,2
+紫色=42A0A,3
+蓝色=42A0A,4
+绿色=42A0A,5
+灰色=42A0A,6
+白色=42A0A,7
+蓝十字=42A0A,8
+
+
+[GameInfo]
+Name=0185 - 超级泡泡龙
+System=GBA
+Text=0185 - Super Bust-A-Move (E)
+
+RomName=BUSTAMOVEGBAABMP

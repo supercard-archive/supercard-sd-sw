@@ -1,0 +1,17 @@
+[机枪子弹无限]
+ON=42624,63
+
+[手枪子弹无限]
+ON=42622,63
+
+[子弹无限]
+ON=42626,63
+
+[体力无限]
+ON=3B4C,96
+
+[GameInfo]
+Name=1447 - 谍中谍[Mission Impossible - Operation Surma]
+System=GBA
+Text=Mick
+

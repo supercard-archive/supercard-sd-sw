@@ -1,0 +1,11 @@
+[枚数999]
+ON=1D6B4,E7,3
+
+[体力值不减]
+ON=42C30,5
+
+[GameInfo]
+Name=1119 - 名侦探柯南-被阻击的名侦探(日)
+System=GBA
+Text=1119 - Detective Conan (J) RPG
+RomName=DETECTIVE COAC4J

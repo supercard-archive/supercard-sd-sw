@@ -1,0 +1,14 @@
+[敌方得分]
+ON=43ADA,0
+
+[我方得分]
+ON=43AC2,63
+
+[能量]
+ON=43ACB,64
+
+[GameInfo]
+Name=1437 - 街头篮球[street jam basketball]
+System=GBA
+Text=1437 - street jam basketball[掌机之王原创刘泪]
+

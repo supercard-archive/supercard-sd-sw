@@ -1,0 +1,15 @@
+[血]
+ON=C25C,E7,03
+
+[所有道具（使用类）]
+ON=C6AD,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[各项属性]
+ON=C1EC,E7,3,E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,
+E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,E7,03,E7,3;C260,E7,3
+
+[GameInfo]
+Name=0917 - 日本武士杰克 - 时间之护身符(美)
+System=GBA
+Text=0917 - Samurai Jack - The Amulet of Time (U)  ACT
+RomName=SAMURAIJACKAJTE

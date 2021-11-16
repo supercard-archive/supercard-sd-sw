@@ -1,0 +1,31 @@
+[金兽币]
+ON=4953,63
+
+[银兽币]
+ON=4954,63
+
+[铜兽币]
+ON=4955,63
+
+[第一HP]
+ON=44D2,28,23
+
+[第二HP]
+ON=44E2,28,23
+
+[$$]
+ON=4951,50,C3
+
+[EXP (需要每次改)]
+ON=4972,AE,2
+
+[电池1]
+ON=44D6,2C,1
+
+[电池2]
+ON=44E6,2C,1
+
+[GameInfo]
+Name=1303 - 怪兽蛋2-龙[Gachaste! Dino Device 2 - Dragon]
+System=GBA
+Text=怪兽蛋2-龙[Frisco]

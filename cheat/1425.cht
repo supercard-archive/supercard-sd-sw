@@ -1,0 +1,14 @@
+[命不减]
+ON=40954,9
+
+[RING 999]
+ON=4094C,E7,3
+
+[时间 0'00'00]
+ON=4094E,0;4094F,0
+
+[GameInfo]
+Name=1425 - Sonic大冒险3[Sonic Advance 3]
+System=GBA
+Text=1425 - Sonic大冒险3[掌机之王HOTSUMA]
+

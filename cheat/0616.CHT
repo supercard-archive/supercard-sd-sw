@@ -1,0 +1,21 @@
+[命]
+ON=454B2,9
+
+[血]
+ON=4556F,28
+
+[子弹]
+ON=454A9,28
+
+[金币]
+ON=454AE,E7,3
+
+[心]
+ON=40DEC,63
+
+[GameInfo]
+Name=0616 - 天才男孩吉米 纽顿vs吉米 尼贾登(美)
+System=GBA
+Text=0616 - Jimmy Neutron Vs Jimmy Negatron (U) ARPG
+
+RomName=JIMMY2002AGBAJXE

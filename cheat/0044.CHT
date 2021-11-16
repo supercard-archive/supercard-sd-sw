@@ -1,0 +1,25 @@
+[时间]
+ON=DA38,9;DA48,59
+
+[P1 生命]
+MAX=8FCD,44
+0=8FCD,0
+
+[P1 体力]
+MAX=8FCF,44
+0=8FCF,0
+
+[P2 生命]
+MAX=B51D,44
+0=B51D,0
+
+[P2体力]
+MAX=B51F,44
+0=B51F,0
+
+[GameInfo]
+Name=0044 - 暴力拳击2
+System=GBA
+Text=0044 - Ready 2 Rumble - Round 2 (E)
+
+RomName=R2RBOXING R2AR2P

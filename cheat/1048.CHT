@@ -1,0 +1,11 @@
+[体力值]
+ON=46E05,64
+
+[气力值]
+ON=46E0F,64;46E0B,64
+
+[GameInfo]
+Name=1048 - 终极筋肉人-超级英雄之路(美)
+System=GBA
+Text=1048 - Ultimate Muscle: The Path of the Superhero (U) FTG-GAME 2PLAYER
+RomName=UMUSCLEAK2E

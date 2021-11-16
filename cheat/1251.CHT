@@ -1,0 +1,11 @@
+[速度]
+ON=4006C,88,13
+
+[得分]
+ON=40098,FF,E0,F5,5
+
+[GameInfo]
+Name=1251 - 疾风滑雪3[SSX 3]
+System=GBA
+Text=疾风滑雪3[大胖子]
+RomName=SSX3BSXE

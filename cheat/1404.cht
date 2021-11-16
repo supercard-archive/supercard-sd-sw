@@ -1,0 +1,14 @@
+[1P体力不减]
+ON=44330,C8
+
+[超加速状态]
+ON=44332,02
+
+[时间不减]
+ON=44334,B4
+
+[GameInfo]
+Name=1404 - 激斗英雄奥特曼[Taiketsu Ultra Hero]
+System=GBA
+text=1404 - 激斗英雄奥特曼
+

@@ -1,0 +1,14 @@
+[我方体力不减]
+ON=4177C,0,0
+
+[时间]
+ON=41288,0
+
+[电脑无体力]
+ON=417EC,FF,FF
+
+[GameInfo]
+Name=0214 - 机器人大战-进化毁灭[Robot Wars - Advanced Destruction (E)]
+System=GBA
+Text=0214 - Robot Wars - Advanced Destruction (E)
+

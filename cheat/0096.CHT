@@ -1,0 +1,15 @@
+[AIM9]
+ON=4314A,9
+
+[AIM7]
+ON=4314C,9
+
+[只数]
+ON=44548,9
+
+[GameInfo]
+Name=0096 - F-14雄猫战斗机
+System=GBA
+Text=0096 - F-14 Tomcat (U)
+
+RomName=F14-TOMCATAFTE

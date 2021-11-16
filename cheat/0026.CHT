@@ -1,0 +1,19 @@
+[无限时间(奖励关时请解锁)]
+OFF=0000,0
+ON=2160C,1E
+
+[P1 生命数]
+ON=24EDF,9
+
+[P1 体力值]
+ON=24E5E,4D
+
+[P1 透明]
+OFF=0000,0
+ON=24E58,91
+
+[GameInfo]
+Name=0025 - 快打旋风ONE(日)
+System=GBA
+Text=0026 - Final Fight One (J) FTG-GAME 2PLAYER
+RomName=FINAL FIGHTAFFJ

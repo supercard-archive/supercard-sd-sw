@@ -1,0 +1,8 @@
+[九连宝灯]
+ON=44C28,1;44C2C,1;44C30,1;44C34,2;44C38,3;44C3C,4;44C40,5;44C44,6;44C48,7;44C4C,8;44C50,9;44C54,9;44C58,9;44C5C,1
+
+[GameInfo]
+Name=1255 - 全民麻将[Minna no Mahjong]
+System=GBA
+Text=全民麻将[大胖子]
+RomName=MIN_MAHJONGGBMJJ

@@ -1,0 +1,15 @@
+[时速]
+ON=45659,80,1
+
+[总时间]
+ON=45D18,0,0
+
+[单圈时间]
+ON=45D1C,0,0
+
+[GameInfo]
+Name=0034 - GT赛车锦标赛
+System=GBA
+Text=0034 - GT Championship Racing (U)
+
+RomName=GT ADVANCE CACAE

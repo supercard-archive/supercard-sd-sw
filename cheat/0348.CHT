@@ -1,0 +1,15 @@
+[子弹数]
+ON=43ED5,63
+
+[弹夹数]
+ON=43ED6,09
+
+[生命值]
+ON=43DEA,53
+
+[GameInfo]
+Name=0348 - 彩虹6号(美)
+System=GBA
+Text=0348 - Rainbow Six Rogue Spear (U) FPS
+
+RomName=RAINBOWSIX-RAR6E

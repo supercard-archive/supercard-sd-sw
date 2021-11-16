@@ -1,0 +1,11 @@
+[生命数]
+ON=C0,5
+
+[武器]
+ON=A8,32;AA,32
+
+[GameInfo]
+Name=0038 - 玛亚历险(美)
+System=GBA
+Text=0038 - Pitfall - The Mayan Adventure (U) ACT-GAME 1PLAYER
+RomName=PITFALLAPFE

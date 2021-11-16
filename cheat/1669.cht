@@ -1,0 +1,17 @@
+[恢复道具 MAX]
+ON=44AF0,9
+
+[体力 MAX]
+ON=44ACC,50
+
+[金币 MAX]
+ON=41508,4F
+
+[关底解锁]
+ON=3BB4,1;3BB8,1;3BBC,1;3BC0,1
+
+[GameInfo]
+Name=1669 - 环游世界80天[Around The World In 80 Days(E)]
+System=GBA
+Text=1669 - Around The World In 80 Days(E)
+

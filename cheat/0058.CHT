@@ -1,0 +1,15 @@
+[炸弹人各项能力]
+ON=35194,A,A,A,A
+
+[隐身]
+ON=4259C,1;425D6,64
+
+[钱]
+ON=35198,F,27
+
+[GameInfo]
+Name=0058 - 炸弹人比赛
+System=GBA
+Text=0058 - Bomberman Tournament (U)
+
+RomName=BOMSTORYUSAABSE

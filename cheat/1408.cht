@@ -1,0 +1,17 @@
+[血不减]
+ON=477AA,63
+
+[子弹不减]
+ON=477C2,9
+
+[闪光弹不减]
+ON=477C3,9
+
+[全关卡解锁]
+ON=477AC,99
+
+[GameInfo]
+Name=1408 - 分裂细胞：明日潘多拉[Splinter Cell Pandora Tommorow]
+System=GBA
+TEXT=1408 - 分裂细胞：明日潘多拉[掌机之王HOTSUMA]
+

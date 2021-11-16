@@ -1,0 +1,17 @@
+[脚] 
+no=17C3,FF 
+
+[右手] 
+no=17C1,FF 
+
+[左手] 
+no=17C2,FF 
+
+[头] 
+NO=17C0,FF
+
+[GameInfo]
+Name=0100 - 金属机器人大战-锹型虫版(日)
+System=GBA
+Text=0100 - Medarot Navi - Kuwagata Version (J) SRPG-GAME
+RomName=MEDAROTNVKWGAVIJ

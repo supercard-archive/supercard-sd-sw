@@ -1,0 +1,14 @@
+[客队进球]
+0=425BC,0
+99=425BC,63
+
+[主队进球]
+99=41E54,63
+0=41E54,0
+
+[GameInfo]
+Name=0196 - 大卫·贝克汗姆足球
+System=GBA
+Text=0196 - David Beckham Soccer (E)
+
+RomName=DAVIDBECKHAMABQP

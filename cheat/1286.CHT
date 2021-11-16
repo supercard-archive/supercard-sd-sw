@@ -1,0 +1,11 @@
+[钱]
+ON=42ABC,FF,E0,F5,5
+
+[时间]
+ON=42AB3,0,10
+
+[GameInfo]
+Name=1286 - 模拟城市2000[Sim City 2000]
+System=GBA
+Text=1286 - Sim City 2000 (E)
+RomName=SIMCITY 2000A5CP

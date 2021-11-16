@@ -1,0 +1,20 @@
+[HP]
+ON=325BE,96
+
+[子弹1]
+ON=3269C,63
+
+[人数]
+ON=325BC,9
+
+[无敌]
+ON=326B6,42
+
+[枪1]
+ON=325E0,9
+
+[GameInfo]
+Name=0126 - 德克斯特的实验室(美)
+System=GBA
+Text=0126 - Dexter's Lab - Deesaster Strikes (U) ACT 1Player
+RomName=DLDEESASTERADLE

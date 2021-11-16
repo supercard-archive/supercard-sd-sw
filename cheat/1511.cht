@@ -1,0 +1,21 @@
+[不遇敌] 
+ON=41050,FF
+
+[全奖牌] 
+ON=4531A,FF,FF
+
+[我方生命] 
+ON=417B9,05
+
+[对方生命]
+ON=417E5,00
+
+[攻击不能]
+ON=41735,00 
+
+[GameInfo]
+Name=1511 - 卡片决斗大师-前辈传说[Duel Masters Sempai Legends]
+System=GBA
+
+
+

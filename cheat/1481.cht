@@ -1,0 +1,23 @@
+[得分MAX]
+ON=3138,FF,E0,F5,5
+
+[生命MAX]
+ON=3148,63
+
+[BOMB MAX]
+ON=314C,63
+
+[体力不减]
+ON=42316,80 
+
+[无敌]
+ON=3160,64
+
+[Level 7/EX 7]
+ON=3164,6
+
+[GameInfo]
+Name=1481 - 钢铁帝国[Steel Empire]
+System=GBA
+Text=1481 - 1481 - Steel Empire
+

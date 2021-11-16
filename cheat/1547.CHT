@@ -1,0 +1,22 @@
+[分数 MAX]
+ON=E980,FF,E0,F5,5
+
+[生命不减]
+ON=CDE4,A
+
+[无敌]
+ON=F538,63
+
+[钱 MAX]
+ON=CD88,A
+
+[K MAX]
+ON=C778,63
+
+[超级中国 2 钱 MAX ]
+ON=CDA0,FF,FF,0
+
+[GameInfo]
+Name=1547 - 超级中国人 1&2[Super Chinese 1 & 2 Advance]
+System=GBA
+Text=1547 - Super Chinese 1 & 2 Advance

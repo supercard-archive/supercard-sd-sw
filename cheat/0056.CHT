@@ -1,0 +1,21 @@
+[血]
+ON=45A82,8
+
+[子弹]
+ON=45B02,E7,3
+
+[炸弹]
+ON=45B0E,E7,3
+
+[分数]
+ON=44EFC,F,27
+
+[隐型]
+ON=43DF8,C8
+
+[GameInfo]
+Name=0056 - 玩具机器人
+System=GBA
+Text=0056 - Toy Robot Force (J)
+
+RomName=TOYROBOFORCEATRJ

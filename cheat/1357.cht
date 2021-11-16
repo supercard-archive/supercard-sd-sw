@@ -1,0 +1,11 @@
+[允许失败次数]
+ON=43856,50;43858,50
+
+[所有剧情全开]
+ON=F6,50
+
+[GameInfo]
+Name=1357 - 逆转裁判3 [Gyakuten Saiban 3]
+System=GBA
+Text=1357
+

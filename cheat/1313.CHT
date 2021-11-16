@@ -1,0 +1,17 @@
+[我方得点（BOXING小游戏）]
+ON=4020A,99
+
+[对方得点（BOXING小游戏）]
+ON=4020B,0
+
+[时间（BOXING小游戏）]
+ON=40208,9B,59
+
+[时间（飞机游戏）]
+ON=4022E,0
+
+[GameInfo]
+Name=1313 - 经典游戏合辑 [Activision Anthology (U)]
+System=GBA
+Text=1313 - Activision Anthology (U)
+ROMNAME=88759A81998D8C88909A919C89739C85

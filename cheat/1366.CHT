@@ -1,0 +1,14 @@
+[我方左上方的牌（双字节）]
+ON=1BFD0,57
+
+[我方血]
+ON=1BFB4,60,EA
+
+[对方血]
+ON=1D378,0,0
+
+[GameInfo]
+Name=1366 - 游戏王Yu-Gi-Oh! EX3[Yu-Gi-Oh! - Duel Monsters Expert 3]
+System=GBA
+Text=1366 - 游戏王Yu-Gi-Oh! EX3
+

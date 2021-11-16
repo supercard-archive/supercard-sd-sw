@@ -1,0 +1,17 @@
+[属性]
+ON=690,E7,3,e7,3,e7,3,e7,3,e7,3,E7,3;69E,E7,3
+
+[钱]
+ON=6DC,F,27
+
+[经验值]
+ON=6E4,60,EA
+
+[无敌]
+ON=177C8,C8
+
+[GameInfo]
+Name=0959 - 战国革命外传(日)
+System=GBA
+Text=0959 - Sengoku Kakumei Gaiden (J) ARPG
+RomName=GBA_SENGOKU1A7GJ

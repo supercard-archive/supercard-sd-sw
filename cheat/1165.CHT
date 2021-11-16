@@ -1,0 +1,17 @@
+[MOON]
+ON=18B0,28
+
+[只数]
+ON=18A0,9
+
+[血]
+ON=18A1,3
+
+[隐身]
+ON=1C37,1,28
+
+[GameInfo]
+Name=1165 - 散步阿丸
+System=GBA
+Text=散步阿丸[大胖子]
+RomName=OJARUGEKKOBOJJ

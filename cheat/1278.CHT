@@ -1,0 +1,24 @@
+[雷]
+ON=26C,9
+
+[血]
+ON=3B0F4,32
+
+[C4]
+ON=27C,9
+
+[枪支子弹]
+ON=244,63;248,63
+
+[得分]
+ON=1DF24,3F,42,F
+
+[只数]
+ON=1E590,A
+
+[GameInfo]
+Name=1278 - 终结者3[Terminator 3_ Rise of the Machines(E)]
+System=GBA
+Text=1278 - Terminator 3_ Rise of the Machines(E) 
+RomName=TERMINATOR 3AO3P
+

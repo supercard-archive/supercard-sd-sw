@@ -1,0 +1,18 @@
+[生命数]
+ON=42FE4,5
+
+[能源数]
+ON=40010,64
+
+[弹药量]
+ON=418BC,F,27
+
+[透明]
+OFF=430B8,0
+ON=430B8,1
+
+[GameInfo]
+Name=0037 - 蚯蚓吉姆(美)
+System=GBA
+Text=0037 - Earthworm Jim (U) ACT-GAME 1PLAYER
+RomName=EWJAEJE

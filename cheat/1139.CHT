@@ -1,0 +1,24 @@
+[血]
+ON=4408C,3
+
+[隐形]
+ON=44102,20
+
+[可以吸敌人]
+ON=44074,1;440FA,1
+
+[“吸尘器”使用次数]
+ON=4410B,20
+
+[钱]
+ON=44118,99,9
+
+[只数]
+ON=4411B,A
+
+[GameInfo]
+Name=1139 - 迪斯尼米老鼠2(欧)
+System=GBA
+Text=1139 - Disney's Magical Quest 2 (E) ACT-GAME 1PLAYER
+
+RomName=M&M MAGICAL2AQMP

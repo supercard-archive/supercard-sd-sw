@@ -1,0 +1,16 @@
+[体力值]
+满血=20,28
+死亡=20,1
+
+[电脑体力值]
+满血=88,28
+死亡=88,1
+
+[时间]
+ON=1AC,63
+
+[GameInfo]
+Name=0951 - 真人快打(欧)
+System=GBA
+Text=0951 - Mortal Kombat Advance (E)  FTG
+RomName=MORTAL KOMBAAM5P

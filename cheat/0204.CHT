@@ -1,0 +1,17 @@
+[生命]
+MAX=369DE,64
+
+[避弹衣]
+MAX=369E0,64
+
+[子弹数]
+100=369FE,64;36A08,64
+
+[子弹盒数]
+100=36A16,64;36A20,64
+
+[GameInfo]
+Name=0204 - 艾克斯VS瑟娃(美)
+System=GBA
+Text=0204 - Ecks vs Sever (U) FPS-GAME 1PLAYER
+RomName=ECKS VSE SEVAESE

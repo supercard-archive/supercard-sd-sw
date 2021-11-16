@@ -1,0 +1,15 @@
+[时间]
+ON=14517,0
+
+[2P无体力]
+ON=14080,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[1P不败]
+ON=13CF8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0042 - 火炎职业摔跤
+System=GBA
+Text=0042 - Fire Pro Wrestling W (U)
+
+RomName=FP USAFPE

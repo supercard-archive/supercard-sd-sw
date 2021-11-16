@@ -1,0 +1,15 @@
+[毛利元就行动力]
+ON=23C34,FF
+
+[毛利元就属性]
+ON=1FFC3,64,64,64,64,64
+
+[安芸城属性]
+ON=23C10,F,27;23C14,F,27;23C18,F,27;23C1C,F,27;23C20,F,27;23C24,F,27;23C28,F,27
+
+[GameInfo]
+Name=0129 - 信长的野望
+System=GBA
+Text=0129 - Nobunaga no Yabou (J)
+
+RomName=NOBUNAGAANBJ

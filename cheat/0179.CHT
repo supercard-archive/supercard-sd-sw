@@ -1,0 +1,18 @@
+[HP]
+ON=40139,9
+
+[人数]
+ON=4013C,9
+
+[无敌]
+ON=40130,73
+
+[炸弹]
+ON=40A84,32
+
+[GameInfo]
+Name=0179 - G型神探-进化任务(欧)
+System=GBA
+Text=0179 - Inspector Gadget - Advance Mission (E) ACT 1PLAYER
+
+RomName=INSPECTOR GAAIGP

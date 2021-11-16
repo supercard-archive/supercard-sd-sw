@@ -1,0 +1,48 @@
+[p1怒气]
+MAX=4274B,64
+50%=4274B,32
+0=4274B,0
+
+[p1体力]
+max=4273E,64
+min=4273E,0
+
+[晕槽]
+P2一击晕倒=44C55,0
+P1一击晕倒=44C55,80
+
+[P1抗击打]
+ON=42981,1
+
+[p2怒气]
+MAX=42833,64
+50%=42833,32
+0=42833,0
+
+[p2体力]
+max=42826,64
+min=42826,0
+
+[life]
+ON=408A4,64
+
+[max combo]
+ON=408A8,63
+
+[battle power]
+ON=408AC,FF,C9,9A,3B
+
+[totle]
+ON=44D64,FF,C9,9A,3B
+
+[$]
+ON=44DB4,9F,86,1
+
+[全人物]
+ON=44D58,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1644 - 龙珠Z-舞空斗剧[Dragon Ball Z Bukuu Tougeki (K)]
+System=GBA
+Text=1644 - Dragon_Ball_Z_Bukuu_Tougeki (K)
+

@@ -1,0 +1,11 @@
+[只数]
+ON=42FBE,9
+
+[隐身]
+ON=42FC8,1;42FCA,93
+
+[GameInfo]
+Name=0881 - 泡泡龙新旧版(欧)
+System=GBA
+Text=0881 - Bubble Bobble - Old & New (E)  PUZ
+RomName=BUBBLEBOBBLEAONP

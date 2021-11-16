@@ -1,0 +1,25 @@
+[透明]
+ON=42C5E,1
+
+[continue]
+ON=41A84,E7,3
+
+[命]
+ON=42C60,63
+
+[武器]
+OFF=42CA8,0
+S=42CA8,1
+C=42CA8,2
+H=42CA8,3
+F=42CA8,4
+L=42CA8,5
+?=42CA8,6
+
+[电单车]
+ON=42C92,20
+
+[GameInfo]
+Name=1931 - 魂斗罗EX [Contra Advance - The Alien Wars EX]
+System=GBA
+

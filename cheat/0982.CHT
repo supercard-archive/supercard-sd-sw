@@ -1,0 +1,11 @@
+[子弹数]
+ON=42E2D,1E,A
+
+[血]
+ON=41152,C8;42D42,C8;435A2,C8;4383E,C8
+
+[GameInfo]
+Name=0982 - 反恐总攻(美)
+System=GBA
+Text=0982 - The Sum of All Fears (U) RTS-GAME 1PLAYER
+RomName=SUM ALL FEARAA6E

@@ -1,0 +1,14 @@
+[DECK CAPACITY]
+ON=20C3C,60,EA
+
+[DUELIST LEVEL]
+ON=20C40,63
+
+[MONEY]
+ON=20DA0,7F,96,98
+
+[GameInfo]
+Name=1240 - 游戏王-神圣的卡片[Yu-Gi-Oh! - The Sacred Cards]
+System=GBA
+Text=游戏王-神圣的卡片
+RomName=YUGIOH DM7AY7E

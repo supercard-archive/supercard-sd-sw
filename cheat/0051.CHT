@@ -1,0 +1,21 @@
+[宝石数量]
+ON=2EEA6,63
+
+[只数]
+ON=2EEA0,63
+
+[血]
+ON=2FCF4,6
+
+[隐身]
+ON=2EEB4,1;2FCD4,30
+
+[拳头威力]
+ON=23178,A
+
+[GameInfo]
+Name=0051 - 雷曼A
+System=GBA
+Text=0051 - Rayman Advance (E)
+
+RomName=RAYMANARYP

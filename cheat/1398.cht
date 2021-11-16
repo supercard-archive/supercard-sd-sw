@@ -1,0 +1,17 @@
+[音符数（用完解锁）]
+ON=FD2,63
+
+[血]
+ON=1057,4
+
+[隐形]
+ON=108D,1;1090,45
+
+[无法开始游戏]
+ON=3EA90,FF
+
+[GameInfo]
+Name=1398 - 琴音笛声-格兰蒂的复仇[Banjo-Kazooie - Grunty's Revenge]
+System=GBA
+Text=琴音笛声-格兰蒂的复
+

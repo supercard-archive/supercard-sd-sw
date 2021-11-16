@@ -1,0 +1,14 @@
+[燃料]
+ON=401D5,FF
+
+[时间定]
+ON=4044C,0
+
+[加速]
+ON=4014D,FF
+
+[GameInfo]
+Name=0855 - 出租车3
+System=GBA
+Text=出租车3[marysmith]
+RomName=TAXI 3AXQF

@@ -1,0 +1,12 @@
+[Danger槽不减]
+ON=40158,0
+
+[得分最大]
+ON=40E8C,FF,E0,F5,5
+
+
+[GameInfo]
+Name=1402 - 怪投射波[Snood]
+System=GBA
+text=Snood
+

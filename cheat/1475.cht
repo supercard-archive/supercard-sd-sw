@@ -1,0 +1,23 @@
+[分数MAX]
+ON=46328,FF,E0,F5,5
+
+[一接到金币就MAX]
+ON=46440,9F,86,1
+
+[时间不减]
+ON=46324,C5
+
+[生命X9]
+ON=46425,9
+
+[无敌]
+ON=4622B,0;
+
+[体力不减]
+ON=4643D,3
+
+[GameInfo]
+Name=1475 - 眼睛君[yuu to Fuku Jogger Byuu to Deru Megane Kun]
+System=GBA
+TEXT=1475 - Pyuu to Fuku Jogger Byuu to Deru Megane Kun
+

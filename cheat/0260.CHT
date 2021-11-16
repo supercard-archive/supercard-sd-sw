@@ -1,0 +1,14 @@
+[HP] 
+no=43FF1,FF 
+
+[气] 
+NO=43FF9,93 
+
+[boss一击必杀] 
+NO=43FF5,02
+
+[GameInfo]
+Name=0260 - 烈火之炎(日)
+System=GBA
+Text=0260 - Flame of Recca (J) FTG-GAME
+RomName=RECCATHEGAMEARHJ

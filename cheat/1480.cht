@@ -1,0 +1,20 @@
+[生命不减]
+ON=22C,9
+
+[体力不减]
+ON=33212,64
+
+[防弹衣不减]
+ON=359B8,64
+
+[时间不减]
+ON=1BC,0
+
+[分数MAX]
+ON=238,FF,E0,F5,5
+
+[GameInfo]
+Name=1480 - 英雄萨姆[Serious Sam Advance]
+System=GBA
+Text=1480-Serious Sam Advance
+

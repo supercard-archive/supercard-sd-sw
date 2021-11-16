@@ -1,0 +1,21 @@
+[指挥能力]
+ON=4314C,C3
+
+[怪物经验值]
+ON=43198,FF;431CC,FF;43200,FF
+
+[钱]
+ON=428B4,3F,42,F
+
+[经验值]
+ON=428B2,FF
+
+[pp]
+ON=428B8,F,27
+
+[GameInfo]
+Name=0024 - 妖怪守护者
+System=GBA
+Text=0024 - Monster Guardians (J)
+
+RomName=MONSTERGUARDAMNJ

@@ -1,0 +1,18 @@
+[1P体力不减]
+ON=4273E,39
+
+[1P气力100%]
+ON=4274B,64
+
+[2P状态]
+不战而胜=42826,0
+2P一击死=42826,1
+
+[2P气力0%]
+ON=42833,0
+
+[GameInfo]
+Name=1427 - 龙珠 舞空斗剧[Dragon Ball Zbukuu Tougeki]
+System=GBA
+TEXT=1427 - 龙珠 空舞斗剧[掌机之王HOTSUMA]
+

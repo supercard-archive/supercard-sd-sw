@@ -1,0 +1,21 @@
+[NO USE MONEY]
+ON=051B0,00,00,00,00
+
+[EXP]
+ON=003D2,E7,03
+
+[PP]
+ON=240A8,63,63,63,63
+
+[100%GetPokeMon]
+ON=24105,01
+
+[Get pokeemon]
+151=322E0,1A,38
+368=322E0,1A,3a
+250=322E0,1A,42
+
+[GameInfo]
+Name=1986 - ¿Ú´üÑý¹Ö ÂÌ±¦Ê¯[Pokemon Emerald]
+System=GBA
+

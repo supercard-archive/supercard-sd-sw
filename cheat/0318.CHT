@@ -1,0 +1,17 @@
+[时间] 
+ON=455A8,40,38 
+
+[放雷数] 
+ON=51,09 
+
+[雷威力] 
+ON=53,09 
+
+[速度] 
+ON=4D,0A
+
+[GameInfo]
+Name=0318 - 炸弹人马克思2-炸弹人版(日)
+System=GBA
+Text=0318 - Bomberman Max 2 - Bomberman Version (J) ACT-GAME
+RomName=B-MAX2BOMAMHJ

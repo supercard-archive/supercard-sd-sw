@@ -1,0 +1,27 @@
+[血]
+ON=410,5
+
+[隐身]
+ON=428,64
+
+[只数]
+ON=B08,9
+
+[分数]
+ON=6E4,FF,E0,F5,5
+
+[武器持续时间]
+ON=14180,E7,3
+
+[武器选择]
+空手=14188,0
+武器一=14188,1
+武器二=14188,2
+武器三=14188,3
+武器四=14188,4
+
+[GameInfo]
+Name=1274 - 救世英雌[Disneys Kim Possible Multi4]
+System=GBA
+Text=1274 - Disneys Kim Possible Multi4 (E)
+RomName=KIM POSSIBLEAEYP

@@ -1,0 +1,17 @@
+[主队进球数]
+一个=409BC,01
+三个=409BC,03
+九个=409BC,09
+99个=409BC,63
+
+[客队进球数]
+一个=409BD,01
+三个=409BD,03
+九个=409BD,09
+99个=409BD,63
+
+[GameInfo]
+Name=0412 - 胜利11人世界足球(日)
+System=GBA
+Text=0412 - Winning Eleven World Soccer (J) SPG-GAME
+RomName=UI IREAEWJ

@@ -1,0 +1,17 @@
+[NAVI转换]
+on=746c,ff
+[PRG DECK里的芯片]
+on=7470,ff
+[無限ZENNY]
+on=7110,3f,42,0f,00
+[芯片数量全满]
+on=70a2,f3
+[MB999]
+on=747a,10,10
+[SLOT MAX MB99]
+on=747c,63 
+
+[GameInfo]
+Name=1403 - 洛克人芯片战斗[Megaman Battle Chip Challenge]
+System=GBA
+Text=MICK

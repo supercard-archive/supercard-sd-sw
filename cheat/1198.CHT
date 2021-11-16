@@ -1,0 +1,11 @@
+[只数]
+ON=8AA0,5
+
+[无敌]
+ON=40788,0,0,0,0;407B4,0,0,0,0;407E0,0,0,0,0;4080C,0,0,0,0
+
+[GameInfo]
+Name=1198 - NAMCO经典博物馆
+System=GBA
+Text=NAMCO经典博物馆[大胖子]
+RomName=NAMCOMUSEUMANMP

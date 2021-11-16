@@ -1,0 +1,21 @@
+[スタンプ]
+on=41E80,0F,27
+[チケット]
+on=41F5C,63
+[游戏全开]
+on=9C4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+[みらい游戏1满发条]
+on=41F9C,FF
+[游戏2等级]
+on=41F59,62
+[游戏3糯米数]
+on=428F8,0F,27
+[游戏4加速度]
+on=41F95,00,01
+[游戏5满蔬菜]
+on=42896,1E,1E,1E,1E,1E
+
+[GameInfo]
+Name=1571 - 恶作剧王大闹魔法游乐园[Kaiketsu Zorori to Mahou no Yuuenchi (J)]
+System=GBA
+Text=1571 - Kaiketsu Zorori to Mahou no Yuuenchi (J)（恶作剧王大闹魔法游乐园）（J）ACT 128

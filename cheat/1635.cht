@@ -1,0 +1,13 @@
+[好球]
+ON=B93F,0
+
+[主队得分]
+ON=B691,63
+
+[坏球]
+ON=B93E,3
+
+[GameInfo]
+Name=1635 - 热血棒球[Crushed Baseball]
+System=GBA
+Text=1635_-_Crushed_Baseball

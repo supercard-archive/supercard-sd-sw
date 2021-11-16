@@ -1,0 +1,22 @@
+[分数 MAX]
+ON=40B4C,3F,42,F
+
+[生命不减]
+ON=40BBC,63
+
+[时间 MAX]
+ON=40B55,E9
+
+[大金刚一击必杀]
+ON=437E8,0;43688,0;435D8,0
+
+[BOSS战生命无限]
+ON=43528,7
+
+[金星 MAX]
+ON=32118,63
+
+[GameInfo]
+Name=1526 - 马里奥VS大金刚 [Mario vs Donkey Kong ]
+System=GBA
+

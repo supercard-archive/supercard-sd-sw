@@ -1,0 +1,10 @@
+
+[我方入球數]
+on=41E54,ff
+[敵方入球數]
+on=425BC,ff
+[敵方陣形(會使敵人不搶球)]
+on=425C6,ff
+[GameInfo]
+Name=1444 - David Beckham Soccer Proper (U)
+

@@ -1,0 +1,26 @@
+[生命不减]
+ON=3755,63
+
+[体力上限MAX]
+ON=3756,A
+
+[体力不减]
+ON=27F7E,A
+
+[无敌]
+ON=27F80,64
+
+[援助MAX]
+ON=3757,63;3760,5,5,5,5
+
+[拥有所有换装]
+ON=3754,FF
+
+[换装能量无限]
+ON=37B2,7F;37B5,18;37B6,38
+
+[GameInfo]
+Name=1479 - 蜡笔小新 [Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken!]
+System=GBA
+Text=1479 - Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken! (J)
+

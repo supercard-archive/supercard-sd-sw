@@ -1,0 +1,25 @@
+[P1 生命]
+MAX=8BBD,44
+0==8BBD,0
+
+[P1体力]
+MAX=8BBF,44
+0=8BBF,0
+
+[P2生命]
+MAX=B10D,44
+0=B10D,0
+
+[P2体力]
+MAX=B10F,44
+0=B10F,0
+
+[时间]
+ON=D628,9;D638,59
+
+[GameInfo]
+Name=0030 - 暴力拳击2
+System=GBA
+Text=0030 - Ready 2 Rumble Boxing - Round 2 (U)
+
+RomName=R2RBOXING R2AR2E

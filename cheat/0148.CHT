@@ -1,0 +1,14 @@
+[对方进球]
+0=411EC,0
+99=411EC,63
+
+[我方进球]
+99=4105C,63
+0=4105C,0
+
+[GameInfo]
+Name=0148 - 欧洲超级联赛
+System=GBA
+Text=0148 - European Super League (E)
+
+RomName=ESL_SOCCERAELP

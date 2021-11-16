@@ -1,0 +1,13 @@
+[DP]
+ON=1808,FF,E0,F5,5
+
+[我方LP]
+ON=20AA0,40,1F
+
+[对方LP]
+ON=23364,0,0
+
+[GameInfo]
+Name=1857 - 游戏王 国际版2[Yu-Gi-Oh! Duel Monsters International 2]
+System=GBA
+

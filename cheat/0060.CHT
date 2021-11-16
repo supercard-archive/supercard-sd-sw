@@ -1,0 +1,21 @@
+[HP]
+ON=42BC4,E7,3,E6,3
+
+[MP]
+ON=42BC8,E7,3,E7,3
+
+[EXP]
+ON=42BCE,FF,FF,0
+
+[各种属性]
+ON=42BD0,FF,FF,FF,FF,FF,FF,E7,03,E7,03,FF,FF,FF,FF
+
+[钱]
+ON=2D9F0,A0,BB,D
+
+[GameInfo]
+Name=0060 - 龙战士
+System=GBA
+Text=0060 - Breath of Fire (J)
+
+RomName=BOF1ABFJ

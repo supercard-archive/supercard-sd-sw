@@ -1,0 +1,22 @@
+[体力]
+ON=47A70,FF
+
+[全装备]
+ON=47A58,63,63,1,1,1,1,1,1
+
+[全辅助道具]
+ON=47A60,1,1,1,1,1,1,1
+
+[敌人静止]
+ON=47A6C,1
+
+[宝石]
+ON=7A6D,63
+
+[钥匙]
+ON=7A6E,63
+
+[GameInfo]
+Name=1386 - 任天堂FC珍藏游戏系列第5辑[Famicom Mini Vol.5: Zelda no Densetsu]
+System=GBA
+Text=vicente

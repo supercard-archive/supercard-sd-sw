@@ -1,0 +1,17 @@
+[生命数-吃鬼]
+ON=8AA0,5
+
+[生命数-除虫]
+ON=E560,5
+
+[生命数-小蜜蜂]
+ON=10E12,5
+
+[生命数-大蜜蜂]
+ON=1A88C,5
+
+[GameInfo]
+Name=0035 - 南梦宫的博物馆(美)
+System=GBA
+Text=0035 - Namco Museum Advanced (U) ECT-GAME 1PLAYER
+RomName=NAMCOMUSEUMANME

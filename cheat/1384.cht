@@ -1,0 +1,14 @@
+[血（第二小关）]
+ON=E02C,6
+
+[血（第一小关）]
+ON=DB1C,6
+
+[火焰数]
+ON=12FFD,63
+
+[GameInfo]
+Name=1384 - 玛亚历险记之迷失的探险队[Pitfall - The Lost Expedition (E)]
+System=GBA
+Text=1384 - Pitfall - The Lost Expedition (E)
+ROMNAME=977B9A868C85907B94939A7550467458

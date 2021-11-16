@@ -1,0 +1,15 @@
+[体力]
+ON=6BB4,64
+
+[钱]
+ON=6BAC,7F,96,98
+
+[状态]
+ON=6bb8,64,0,64,0,64,0,64,0,64,0,64;6C0E,63,0,63,0,63,0,63,0,63;6C26,C8,0,C8,0,C8,0,9,0,9,0,9,0,9,0,9
+
+[GameInfo]
+Name=0012 - 力量职业棒球3
+System=GBA
+Text=0012 - Powerful Pro Baseball 3 (J)
+
+RomName=PAWAPOKE3AP3J

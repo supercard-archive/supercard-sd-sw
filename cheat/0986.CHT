@@ -1,0 +1,13 @@
+[对方体力]
+0=404F1,0
+MAX=404F1,64
+
+[我方体力]
+MAX=404B9,64
+0=404B9,0
+
+[GameInfo]
+Name=0986 - 漫画大王(日)
+System=GBA
+Text=0986 - Azumanga Daioh Advance (J) AVG
+RomName=AZUMANGALINKAZAJ

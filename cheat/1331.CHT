@@ -1,0 +1,17 @@
+[泡泡数]
+ON=2FDC,63
+
+[星星数]
+ON=2FE0,63
+
+[血]
+ON=261D0,5
+
+[隐身]
+ON=261A4,C8
+
+[GameInfo]
+Name=1331 - 海底总动员[Finding Nemo]
+System=GBA
+Text=1331 - Finding Nemo (J)
+ROMNAME=8D7B948494878B59929097928978948A

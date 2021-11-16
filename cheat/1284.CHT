@@ -1,0 +1,17 @@
+[雷]
+ON=10160,63
+
+[得分]
+ON=10074,FF,E0,F5,5
+
+[耐久度]
+ON=10148,32
+
+[只数]
+ON=10078,9
+
+[GameInfo]
+Name=1284 - 星球大战-飞行战队[Star Wars_ Flight of the Falcon (E)]
+System=GBA
+Text=1284 - Star Wars_ Flight of the Falcon (E) 
+RomName=STARWARSFOTFBSWP

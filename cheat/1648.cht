@@ -1,0 +1,22 @@
+[瓦罐数]
+ON=16D10,63
+
+[特殊能力]
+能力1=31BBA,1
+能力2=31BBA,2
+能力3=31BBA,3
+能力4=31BBA,4
+
+[血]
+ON=18953,3
+
+[只数]
+ON=18958,9
+
+[挨打以后隐身]
+ON=31BBE,0
+
+[GameInfo]
+Name=1648 - 牧场是我家[Home On The Range (E)]
+System=GBA
+Text=1648 - Home On The Range (E)

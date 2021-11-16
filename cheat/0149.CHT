@@ -1,0 +1,15 @@
+[血]
+ON=45CBE,4
+
+[炸弹数]
+ON=45D02,5
+
+[只数]
+ON=45CBB,9
+
+[GameInfo]
+Name=0149 - 银河战机
+System=GBA
+Text=0149 - Phalanx (J)
+
+RomName=PHALANXAPXJ

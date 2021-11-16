@@ -1,0 +1,17 @@
+[时间]
+ON=1BC,0,0
+
+[护甲]
+ON=359B8,64
+
+[血]
+ON=33212,64
+
+[只数]
+ON=22C,9
+
+[GameInfo]
+Name=1465 - 英雄萨姆A[Serious Sam Advance (U)]
+System=GBA
+Text=1465 - Serious Sam Advance (E)
+ROMNAME=9A7798899A8E9759978C97848C808B7B

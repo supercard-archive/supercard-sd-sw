@@ -1,0 +1,25 @@
+[禁货]
+ON=1DD74,FF,E0,F5,5
+
+[第一人状态]
+ON=210CA,E7,3;210CE,E7,3;210D6,E7,3,E7,3,E7,3,E7,3
+
+[第二人状态]
+ON=210FE,E7,3;21102,E7,3;2110A,E7,3,E7,3,E7,3,E7,3
+
+[第三人状态]
+ON=21132,E7,3;21136,E7,3;2113E,E7,3,E7,3,E7,3,E7,3
+
+[第四人状态]
+ON=21166,E7,3;2116A,E7,3;21172,E7,3,E7,3,E7,3,E7,3
+
+[第五人状态]
+ON=2119A,E7,3;2119E,E7,3;211A6,E7,3,E7,3,E7,3,E7,3
+
+[钱]
+ON=21030,FF,E0,F5,5
+
+[GameInfo]
+Name=1588 - 馅饼4-森林守护神[Croket 4 Bank no Mori no Mamorigami (J)]
+System=GBA
+Text=1588 - Croket 4 Bank no Mori no Mamorigami (J)

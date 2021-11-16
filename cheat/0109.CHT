@@ -1,0 +1,15 @@
+[VP]
+ON=F26,5,5
+
+[对方攻击]
+ON=108A,0;12FA,0
+
+[我方攻击]
+ON=1088,63;12F8,63
+
+[GameInfo]
+Name=0109 - 幻想水浒传-卡片传说
+System=GBA
+Text=0109 - Gensou Suikoden Card Stories (J)
+
+RomName=GENSOU-CARD1AGKJ

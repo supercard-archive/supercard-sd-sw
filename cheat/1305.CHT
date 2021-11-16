@@ -1,0 +1,11 @@
+[王仁丸状态]
+ON=42AE2,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3;42B60,FF;42B62,FF;42B64,FF;42B66,FF
+
+[王仁丸EXP]
+ON=42B68,FF
+
+[GameInfo]
+Name=1305 - 鬼武者战略版[Onimusha Tactics]
+System=GBA
+Text=1305_Onimusha_Tactics_E
+ROMNAME=96808F948C7C757E998C809297C8F6D7

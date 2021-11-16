@@ -1,0 +1,22 @@
+[生命]
+ON=4323A,32
+
+[隐身]
+ON=43239,FF
+
+[时间]
+ON=4323C,0,0,0,0
+
+[积分]
+ON=43248,9F,86,1
+
+[关卡全开]
+ON=42EAD,1A
+
+[全道具图鉴]
+ON=42E30,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1814 - 希纳蒙梦之大冒险[Cinnamon Yume no Daibouken]
+System=GBA
+

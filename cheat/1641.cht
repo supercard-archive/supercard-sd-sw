@@ -1,0 +1,16 @@
+[体力]
+ON=4405A,14
+
+[隐身]
+ON=43FE6,FF
+
+[全关卡]
+ON=41DB8,FF,FF,FF,FF
+
+[全图片]
+ON=41DBC,FF,FF,FF,FF
+
+[GameInfo]
+Name=1641 - 海底总动员连续冒险[Finding Nemo: The Continuing Adventures]
+System=GBA
+

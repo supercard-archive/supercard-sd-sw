@@ -1,0 +1,18 @@
+[经验值]
+ON=421FE,FF,FF,0
+
+[腕力]
+ON=421FB,FF
+
+[策略]
+ON=421FC,FF
+
+[平衡度]
+ON=421FD,FF
+
+[GameInfo]
+Name=0054 - 优俊赛马
+System=GBA
+Text=0054 - Yushun Rhapsody (J)
+
+RomName=Y-RHAPSODYAYRJ

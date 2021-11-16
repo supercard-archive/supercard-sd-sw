@@ -1,0 +1,17 @@
+[血]
+ON=11CA4,63
+
+[子弹]
+ON=11EE1,96
+
+[雷]
+ON=11EE6,9
+
+[只数]
+ON=3C38,9
+
+[GameInfo]
+Name=1276 - 荣誉勋章-渗透者[Medal_of_Honor_Infiltrator]
+System=GBA
+Text=1276 - Medal_of_Honor_Infiltrator (U)
+RomName=INFILTRATORBMHE

@@ -1,0 +1,20 @@
+[主角无限移动]
+ON=41A0,0
+
+[主角生命值]
+ON=4086,E7,3
+
+[主角生命值上限]
+ON=403E,E7,3
+
+[主角能力]
+ON=4040,63,64,64
+
+[主角经验值]
+ON=4044,E7,3
+
+[GameInfo]
+Name=0895 - 世界传说-召唤者之血统(日)
+System=GBA
+Text=0895 - Tales of the World - Summoner's Lineage (J)  SLG-GAME
+RomName=TOW SUMMLINEA9PJ

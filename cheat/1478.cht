@@ -1,0 +1,29 @@
+[Life Max]
+ON=44B2C,4
+
+[Infinite Health]
+ON=44B1C,4E
+
+[Glod Max]
+ON=44B68,E7,3
+
+[Green Power Max]
+ON=44A70,28
+
+[Extra Lift Max]
+ON=44A94,9
+
+[Total Lift 99]
+ON=44A64,63
+
+[Total Power 999]
+ON=44AD0,F,27
+
+[Total Reward 999]
+ON=44AB4,F,27
+
+[GameInfo]
+Name=1478 - ·¶º£ÐÁ [Van Helsing]
+System=GBA
+Text=Text=1478 - Van Helsing
+

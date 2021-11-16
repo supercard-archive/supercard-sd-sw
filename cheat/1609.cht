@@ -1,0 +1,16 @@
+[钱]
+ON=47CFA,F,27
+
+[血]
+ON=47CF8,5
+
+[隐身（不推荐）]
+ON=47D72,64
+
+[全能力]
+ON=797,FF,FF,FF,FF,FF,FF,FF;7A4,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1609 - 传说中的斯塔飞3[Densetsu no Stafy 3(J)]
+System=GBA
+Text=1609 - Densetsu no Stafy 3(J)

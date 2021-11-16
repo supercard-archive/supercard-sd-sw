@@ -1,0 +1,28 @@
+[角色]
+MARIO=41C70,0
+PEACH=41C70,1
+KINOPIO=41C70,2
+LUIGI=41C70,3
+
+[生命数]
+ON=41161,63
+
+[变大]
+ON=41C76,1F
+
+[全部“A”]
+ON=41C35,1F
+
+[可空中飘浮(按住跳键)]
+ON=41C7E,5F
+
+[透明]
+OFF=41C7D,0
+ON=41C7D,5F
+
+[GameInfo]
+Name=0050 - 超级马里奥A(欧)
+System=GBA
+Text=0050 - Super Mario Advance (E) ACT-GAME 1PLAYER
+
+RomName=SUPER MARIOAAMAE

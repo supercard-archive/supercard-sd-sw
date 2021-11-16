@@ -1,0 +1,33 @@
+[体调]
+ON=457F0,FF
+
+[容姿]
+ON=457F1,FF
+
+[心劳]
+ON=457F2,0
+
+[学力]
+ON=457F3,FF
+
+[气品]
+ON=457F4,FF
+
+[艺术]
+ON=457F5,FF
+
+[家政]
+ON=457F6,FF
+
+[运动]
+ON=457F7,FF
+
+[杂学]
+ON=457F8,FF
+
+[GameInfo]
+Name=0085 - 耽美梦想
+System=GBA
+Text=0085 - Meine Liebe (Angel League) (J)
+
+RomName=MEINELIEBEAYMJ

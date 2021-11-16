@@ -1,0 +1,21 @@
+[无限移动]
+ON=34BD1,99
+
+[行动数]
+ON=34BDD,63
+[全人物图鉴]
+ON=34DE8,FF,FF,FF,FF,FF,FF,FF
+
+[全任务]
+ON=34DE0,FF,FF,FF,FF,FF,FF,FF
+
+[全小游戏]
+ON=318B8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[购物点数]
+ON=44410,3F,42,F
+
+[GameInfo]
+Name=1866 - 马里奥聚会[Mario Party Advance]
+System=GBA
+

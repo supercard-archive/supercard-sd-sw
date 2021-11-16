@@ -1,0 +1,18 @@
+[无限行动]
+午前=420BC,2
+昼休=420BC,6
+午后=420BC,B
+
+[全人物]
+ON=43B0D,8,8,8,8,8
+
+[全人物资料]
+ON=43B4E,FF;43B7E,FF;43BAE,FF;43BDE,FF;43C0E,FF;43C3E,FF;43C6E,FF;43C9E,FF;43CCE,FF;43CFE,FF
+
+[全道具]
+ON=43154,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1858 - 星铃学园[Kiss x Kiss Seirei Gakuen]
+System=GBA
+

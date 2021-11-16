@@ -1,0 +1,17 @@
+[铲子数]
+ON=3C18,3
+
+[面包数]
+ON=3C10,14
+
+[血]
+ON=3C0C,3
+
+[只数]
+ON=3C08,9
+
+[GameInfo]
+Name=1367 - 超級海绵巴伯-在比基尼底部的战斗[SpongeBob SquarePants - Battle for Bikini Bottom]
+System=GBA
+Text=1367_-_sponge_bob_square_pants_battle_for_bikini_bottom_(E)
+

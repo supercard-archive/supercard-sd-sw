@@ -1,0 +1,11 @@
+[HP不减]
+ON=45025,62
+
+[子弹不减]
+ON=450A2,99
+
+[GameInfo]
+Name=0557 - 恐龙猎人进化(欧)
+System=GBA
+Text=0557 - Turok Evolution (E) ACT-GAME
+RomName=TUROK EVOLAT4P

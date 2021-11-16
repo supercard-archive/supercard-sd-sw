@@ -1,0 +1,12 @@
+[子弹数]
+ON=4770A,90
+
+[血]
+ON=440F6,64;44161,64;476FF,64
+
+[GameInfo]
+Name=0993 - 分裂细胞(美)
+System=GBA
+Text=0993 - Tom Clancy's Splinter Cell(U) ACT-GAME 1PLAYER
+
+RomName=SPLINTERCELLAO4E

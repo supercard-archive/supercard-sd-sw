@@ -1,0 +1,22 @@
+[时间]
+ON=9B7E,A0,F
+
+[我方体力]
+MAX=9B9E,64
+
+[我方怒槽]
+MAX=9BAC,30
+
+[对方体力]
+0=9D7A,0
+MAX=9D7A,64
+
+[对方怒槽]
+0=9D88,0
+MAX=9D88,30
+
+[GameInfo]
+Name=1323 - 魔界小金毛-共鸣!友情的电击[Kiniro no Gashbell]
+System=GBA
+Text=1323_-_Kiniro_no_Gashbell_JAP_GBA-EURASIA
+ROMNAME=8E73998878938584899D9F847B79903F

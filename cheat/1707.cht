@@ -1,0 +1,14 @@
+[书籍]
+ON=127A6,64
+
+[生命]
+ON=127A4,5
+
+[关卡全开]
+ON=127A5,FF;127AD,FF
+
+[GameInfo]
+Name=1707 - 丽莎 麦克摩纳哥2[Lizzie McGuire 2]
+System=GBA
+Text=vicente
+

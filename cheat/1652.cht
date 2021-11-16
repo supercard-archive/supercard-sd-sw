@@ -1,0 +1,13 @@
+[花]
+ON=40074,63
+
+[所有装备]
+ON=4007C,FF,FF,FF,FF
+
+[只数]
+ON=40078,9
+
+[GameInfo]
+Name=1652 - 天才吉米[Adventures of Jimmy Neutron]
+System=GBA
+Text=1652 - 天才吉米

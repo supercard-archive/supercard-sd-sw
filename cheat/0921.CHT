@@ -1,0 +1,11 @@
+[棍的耐久度]
+ON=9818,A
+
+[血]
+ON=26A6C,E8,3;B9F0,12
+
+[GameInfo]
+Name=0921 - 李小龙 - 传说中的英雄再现(欧)
+System=GBA
+Text=0921 - Bruce Lee - Return of the Legend (E)  ACT
+RomName=BRUCE LEEALEP

@@ -1,0 +1,17 @@
+[我方体力]
+MAX=41824,FF
+MIN=41824,0
+
+[时间]
+ON=42ADC,60,EA
+
+[对方体力]
+MIN=41964,0
+MAX=41964,FF
+
+[GameInfo]
+Name=0164 - WWF摔角之路
+System=GBA
+Text=0164 - WWF - Road to Wrestlemania (U)
+
+RomName=WWF_ROAD_WMAWFE

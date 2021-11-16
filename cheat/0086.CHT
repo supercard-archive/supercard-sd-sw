@@ -1,0 +1,18 @@
+[无限接关]
+ON=4000C,9
+
+[时间]
+ON=45C80,0;45C86,0
+
+[得分]
+ON=43C5C,C8
+
+[钱]
+ON=43D10,63
+
+[GameInfo]
+Name=0086 - 马里奥赛车超级巡回赛
+System=GBA
+Text=0086 - Mario Kart Super Circuit (U)
+
+RomName=MARIO KARTAMKE

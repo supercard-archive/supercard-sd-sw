@@ -1,0 +1,26 @@
+[HP不减]
+ON=A048,6
+
+[命]
+ON=443B5,63
+
+[时间不减]
+ON=443F6,FF,FF,FF,0
+
+[分]
+ON=4440C,FF,C9,9A,3B
+
+[大型模式的时间]
+ON=5F1C,99
+
+[主角的血-无敌]
+ON=A28,99
+
+[分数]
+ON=A2A,99,99,99,99
+
+[GameInfo]
+Name=0585 - 沉默的狙击手(美)
+System=GBA
+Text=0585 - Silent Scope (U) STG-GAME
+RomName=SILENT SCOPEAIPE

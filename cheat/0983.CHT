@@ -1,0 +1,14 @@
+[所持金]
+ON=39B88,FF,E0,F5,5
+
+[预金]
+ON=39B8C,FF,E0,F5,5
+
+[借金]
+ON=39B90,0
+
+[GameInfo]
+Name=0983 - 猎人X猎人-热血友情大作战(日)
+System=GBA
+Text=0983 - Hunter X Hunter - Minna Tomodachi Daisakusen (J) RPG
+RomName=HUNTER GBA00A8NJ

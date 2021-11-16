@@ -1,0 +1,15 @@
+[HP]
+ON=1CE,6
+
+[人数]
+ON=1CD,9
+
+[钥匙]
+ON=1C0,9
+
+[全道具]
+ON=1C1,9,9,9,9,9,9,9
+
+[GameInfo]
+Name=1533 - 啄木鸟伍迪闯疯狂城堡5[Woody Woodpecker in Crazy Castle 5]
+System=GBA

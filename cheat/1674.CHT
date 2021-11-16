@@ -1,0 +1,17 @@
+[体力不减]
+ON=B3E,FF
+
+[得分 Max]
+ON=B40,FF,E0,F5,5
+
+[豆粒 Max]
+ON=B34,42,1
+
+[生命 Max]
+ON=B36,63
+
+[GameInfo]
+Name=1674 - 吃豆人 疯狂的迷宫[Ms Pac-Man - Maze Madness]
+System=GBA
+Text=1674 - Ms Pac-Man - Maze Madness
+

@@ -1,0 +1,15 @@
+[血]
+ON=44020,C
+
+[只数]
+ON=44014,9
+
+[隐身]
+ON=43FFC,64
+
+[GameInfo]
+Name=0194 - 无规则-街头滑板小子
+System=GBA
+Text=0194 - No Rules Get Phat (U)
+
+RomName=GET PHAT!AGPE

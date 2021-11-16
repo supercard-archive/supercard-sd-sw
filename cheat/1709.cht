@@ -1,0 +1,14 @@
+[磁盘全收集]
+ON=40920,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[挑战赛全地图]
+ON=40918,FF,FF
+
+[小游戏全开]
+ON=4091A,FF
+
+[GameInfo]
+Name=1709 - 电子争霸战2.0[Tron 2.0: Killer App]
+System=GBA
+Text=vicente
+

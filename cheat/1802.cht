@@ -1,0 +1,22 @@
+[1代我方资金]
+ON=1ADA0,3F,42,F
+
+[2代点数]
+ON=C420,FF,FF
+
+[2代全人物]
+ON=27EE8,FF,FF,FF,FF
+
+[2代全地图]
+ON=27EDE,FF,FF
+
+[2代我方资金]
+ON=231B0,3F,42,F
+
+[2代对方资金]
+ON=231F4,0,0,0
+
+[GameInfo]
+Name=1802 - 超级大战争1+2[Gameboy Wars Advance 1+2]
+System=GBA
+

@@ -1,0 +1,20 @@
+[思考时间]
+ON=43110,16
+
+[附加项开启]
+ON=77,1,1,1,1
+
+[全图片]
+ON=1B01C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[小游戏全开]
+ON=1B02A,FF,FF
+
+[全结局]
+ON=397C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1594 - 对还是错SP[zero one sp (J)]
+System=GBA
+Text=1594 - zero one sp (J)
+

@@ -1,0 +1,11 @@
+[敌人分数] 
+ON=40A53,0 
+
+[自己分数] 
+ON=40A58,9;40A59,09;40A5A,09;40A5B,09;40A5D,09;40A5C,09
+
+[GameInfo]
+Name=0413 - 网球王子(日)
+System=GBA
+Text=0413 - Tennis no Oji Sama (J) SPG-GAME
+RomName=KCEJ TPRI01ATIJ
