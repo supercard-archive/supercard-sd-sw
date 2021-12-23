@@ -401,14 +401,7 @@ bool __cdecl flash_data_a_hunk_replace_4012D0(unsigned char *rom, long romlen, i
 }
 
 //----- (00401340) --------------------------------------------------------
-/* this function is buggy af:
-   it causes a double-free in the original (which doesn't crash on win),
-   which then causes the freed data to be written to the output file -
-   resulting in an empty file. it's well possible this one doesn't work
-   as intended.
-   i fixed the double-free and copy back the modified contents to the
-   original rom data allocation.
-
+/*
    only the following games of no-intro romset 202111 use this eeprom
    format:
 
@@ -434,7 +427,6 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   unsigned int v10; // ecx@6
   unsigned char *v11; // edi@6
   char *v12; // esi@6
-  unsigned int v13; // edx@6
   unsigned int v14; // ebp@6
   unsigned char *v16; // esi@6
   unsigned char v18; // cl@6
@@ -447,6 +439,7 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   char *v27; // [sp+20h] [bp-8h]@3
   unsigned int hunk4len; // [sp+24h] [bp-4h]@3
   unsigned char *roma; // [sp+2Ch] [bp+4h]@6
+  const unsigned long romlen_aligned = 4 * (romlen >> 2);
 
   hunk0off = find_flash_data_a_hunk_401250(rom, romlen, 0);
   v8 = hunk0off;
@@ -473,15 +466,16 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   v12 = &hunk1[4 * v10];
   v11 = &v9[4 * v10];
   LOBYTE(v10) = v8;
-  v13 = hunk2len;
   qmemcpy(v11, v12, v10 & 3);
   v14 = 256 - (unsigned char)(romlen - 1) + romlen - 1;
 /*** added ***/
-  newromsize = v13 + v14;
-  newrom = roma = (unsigned char *)malloc(newromsize);
-  qmemcpy(roma, rom, 4 * (romlen >> 2));
-  v16 = &rom[4 * (romlen >> 2)];
-  qmemcpy(&roma[4 * (romlen >> 2)], v16, romlen & 3);
+  /* newromsize = hunk2len + v14; */
+  newromsize = 0x200 + romlen_aligned;
+  newrom = roma = malloc(newromsize);
+  memset(roma+romlen_aligned, 0, 0x200);
+  qmemcpy(roma, rom, romlen_aligned);
+  v16 = &rom[romlen_aligned];
+  qmemcpy(&roma[romlen_aligned], v16, romlen & 3);
   free(rom); // call to free(rom) causes a double free later on
   v18 = roma[v14 - 1];
   if ( v18 == -1 || (v19 = v18 == -51, v20 = hunk3off + 31, v19) )
