@@ -60,6 +60,13 @@ bool __cdecl patch_rom_4018C0(char *fn_in, char *fn_out);
 //-------------------------------------------------------------------------
 // Data declarations
 
+/* HACK: the eeprom_type_a_401340 routine needs to pad the rom with
+   additional data. therefore it allocates new memory but then fails
+   to passes it back to the calling sites. store the new rom location
+   in this variable */
+static void *newrom = 0;
+static long newromsize = 0;
+
 static const char * savetype_list_40A040[6] = {
   "EEPROM_V",
   "FLASH_V",
@@ -429,9 +436,7 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   char *v12; // esi@6
   unsigned int v13; // edx@6
   unsigned int v14; // ebp@6
-  unsigned char *v15; // eax@6
   unsigned char *v16; // esi@6
-  void *v17; // ST10_4@6
   unsigned char v18; // cl@6
   bool v19; // zf@7
   int16_t v20; // cx@7
@@ -439,13 +444,12 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   char *v23; // [sp+10h] [bp-18h]@3
   unsigned int hunk2len; // [sp+14h] [bp-14h]@3
   unsigned int hunk1len; // [sp+18h] [bp-10h]@3
-  long v26; // [sp+1Ch] [bp-Ch]@1
   char *v27; // [sp+20h] [bp-8h]@3
   unsigned int hunk4len; // [sp+24h] [bp-4h]@3
   unsigned char *roma; // [sp+2Ch] [bp+4h]@6
 
   hunk0off = find_flash_data_a_hunk_401250(rom, romlen, 0);
-  v26 = hunk0off;
+  v8 = hunk0off;
   hunk3off = find_flash_data_a_hunk_401250(rom, romlen, 3);
   if ( hunk3off <= 0 || hunk0off <= 0 )
   {
@@ -460,7 +464,6 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   v27 = hunk4;
   if ( !hunk1 || !v6 || !hunk4 )
     return 0;
-  v8 = v26;
   v6[184] = hunk3off + 33;
   v6[186] = hunk3off >> 16;
   v9 = &rom[v8];
@@ -473,16 +476,13 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   v13 = hunk2len;
   qmemcpy(v11, v12, v10 & 3);
   v14 = 256 - (unsigned char)(romlen - 1) + romlen - 1;
-  v26 = (long)rom;
-  v15 = (unsigned char *)malloc(v13 + v14);
-  qmemcpy(v15, rom, 4 * (romlen >> 2));
+/*** added ***/
+  newromsize = v13 + v14;
+  newrom = roma = (unsigned char *)malloc(newromsize);
+  qmemcpy(roma, rom, 4 * (romlen >> 2));
   v16 = &rom[4 * (romlen >> 2)];
-  roma = v15;
-  v17 = (void *)v26;
-  qmemcpy(&v15[4 * (romlen >> 2)], v16, romlen & 3);
-#ifndef BUGFIX
-  free(v17); // call to free(rom) causes a double free later on
-#endif
+  qmemcpy(&roma[4 * (romlen >> 2)], v16, romlen & 3);
+  free(rom); // call to free(rom) causes a double free later on
   v18 = roma[v14 - 1];
   if ( v18 == -1 || (v19 = v18 == -51, v20 = hunk3off + 31, v19) )
     HIBYTE(v20) = BYTE1(hunk3off);
@@ -492,12 +492,6 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   *(_BYTE *)(v21 + 6) = v14 >> 16;
   qmemcpy(&roma[hunk3off], (const void *)v21, hunk4len);
   qmemcpy(&roma[v14], v23, hunk2len);
-#ifdef BUGFIX
-// added: copy roma contents back to rom
-  memcpy(rom, roma, romlen);
-// added: free roma
-  free(roma);
-#endif
   return 1;
 }
 
@@ -732,9 +726,11 @@ bool __cdecl patch_rom_4018C0(char *fn_in, char *fn_out)
     }
     v2 = v3;
     if ( v3 )
-      write_rom_401100(filecontents, filesize, fn_out);
+      write_rom_401100(newrom ? newrom : filecontents,
+		newrom ? newromsize : filesize, fn_out);
   }
 cleanup:
+  if ( newrom ) filecontents = newrom;
   if ( filecontents )
     free(filecontents);
   return v2;
