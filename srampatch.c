@@ -1,22 +1,20 @@
-#ifdef _WIN32
+/* undefine if you want the original buggy behaviour for EEPROM type 1 roms like 0002,
+   which causes the output rom to get truncated to 0 on windows, and a segfault due
+   to double-free anywhere else. */
+#define BUGFIX
 
-#include <windows.h>
-#include <defs.h>
+#ifndef _WIN32
+#define __cdecl
+#endif
 
-#include <stdarg.h>
-
-#else
 #define _GNU_SOURCE
 #include <string.h>
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
-#define __cdecl
-#define j__atol atoi
-#define qmemcpy memcpy
-#endif
 
+#define qmemcpy memcpy
 
 #define _BYTE  uint8_t
 #define _WORD  uint16_t
@@ -40,10 +38,10 @@
 int get_device_type_401000();
 char __cdecl set_device_type_401010(char a1);
 int print_device_list_401020();
-int *__cdecl get_savetype_401050(unsigned char *filecontents, long filesize, int *backuptype, int *version); // idb
+void __cdecl get_savetype_401050(unsigned char *filecontents, long filesize, int *backuptype, int *version); // idb
 bool __cdecl write_rom_401100(void *data, size_t size, char *fn_out);
 bool __cdecl rom_to_mem_401150(unsigned char **a1, long *filesize, char *filename); // idb
-unsigned char *__cdecl find_mem_4011E0(unsigned char *haystack, long haystacklen, unsigned char *needle, int needlelen);
+unsigned char *__cdecl find_mem_4011E0(unsigned char *haystack, long haystacklen, const void *needle, int needlelen);
 char *__cdecl get_flash_data_a_hunk_401230(int hunkno, unsigned int *hunklen); // idb
 long __cdecl find_flash_data_a_hunk_401250(unsigned char *rom, long romlen, int hunkno);
 char __cdecl rom_insert_flash_data_a_hunk_401290(unsigned char *rom, long romlen, long romoff, int hunkno); // idb
@@ -173,7 +171,7 @@ char target_device_40AC60 = 0; // weak
 
 
 //----- (00401000) --------------------------------------------------------
-int get_device_type_401000()
+int get_device_type_401000(void)
 {
   return target_device_40AC60 & 0xF0;
 }
@@ -191,7 +189,7 @@ char __cdecl set_device_type_401010(char a1)
 // 40AC60: using guessed type char target_device_40AC60;
 
 //----- (00401020) --------------------------------------------------------
-int print_device_list_401020()
+int print_device_list_401020(void)
 {
   return printf(
            "Device :\n"
@@ -216,9 +214,9 @@ int print_device_list_401020()
 }
 
 //----- (00401050) --------------------------------------------------------
-int *__cdecl get_savetype_401050(unsigned char *filecontents, long filesize, int *backuptype, int *version)
+void __cdecl get_savetype_401050(unsigned char *filecontents, long filesize, int *backuptype, int *version)
 {
-  int i; // edi@1
+  unsigned int i; // edi@1
   int len; // esi@2
   unsigned char *result; // eax@2
 
@@ -230,13 +228,13 @@ int *__cdecl get_savetype_401050(unsigned char *filecontents, long filesize, int
     result = find_mem_4011E0(filecontents, filesize, savetype_list_40A040[i], len);
     if ( result )
       break;
-    if ( (unsigned int)++i >= 6 )
-      return result;
+    if ( ++i >= 6 )
+      return;
   }
   *version = *(result + len + 2) + 10 * (*(result + len + 1) + 10 * *(result + len)) - 5328;
-  result = backuptype;
+  //result = backuptype;
   *backuptype = backuptype_tab_40A058[i];
-  return result;
+  return;
 }
 
 //----- (004010E0) --------------------------------------------------------
@@ -304,7 +302,7 @@ bool __cdecl rom_to_mem_401150(unsigned char **a1, long *filesize, char *filenam
 }
 
 //----- (004011E0) --------------------------------------------------------
-unsigned char *__cdecl find_mem_4011E0(unsigned char *haystack, long haystacklen, unsigned char *needle, int needlelen)
+unsigned char *__cdecl find_mem_4011E0(unsigned char *haystack, long haystacklen, const void *needle, int needlelen)
 {
   unsigned char *v4; // ebx@1
   long v5; // ebp@2
@@ -316,7 +314,7 @@ unsigned char *__cdecl find_mem_4011E0(unsigned char *haystack, long haystacklen
     v5 = haystacklen;
     do
     {
-      result = (unsigned char *)memchr(v4, *needle, v5 - needlelen);
+      result = (unsigned char *)memchr(v4, *(const unsigned char*)needle, v5 - needlelen);
       if ( result && !memcmp(result, needle, needlelen) )
         break;
       v5 = v4 - result + v5 - 1;
@@ -488,7 +486,7 @@ bool __cdecl eeprom_type_a_401340(unsigned char *rom, unsigned long romlen)
   v18 = roma[v14 - 1];
   if ( v18 == -1 || (v19 = v18 == -51, v20 = hunk3off + 31, v19) )
     HIBYTE(v20) = BYTE1(hunk3off);
-  v21 = v27;
+  v21 = (unsigned long) v27; // FIXME: casting pointer to long assumes POSIX model sizeof(long) == sizeof(void*)
   v23[185] = HIBYTE(v20);
   *(_BYTE *)(v21 + 5) = BYTE1(v14);
   *(_BYTE *)(v21 + 6) = v14 >> 16;
@@ -743,14 +741,14 @@ cleanup:
 }
 
 //----- (004019E0) --------------------------------------------------------
-int __cdecl main(int argc, const char **argv /*, const char **envp*/)
+int __cdecl main(int argc, char **argv /*, const char **envp*/)
 {
   int result; // eax@2
   char v4; // al@3
 
   if ( argc >= 4 )
   {
-    v4 = j__atol(argv[1]);
+    v4 = atol(argv[1]);
     set_device_type_401010(v4);
     result = patch_rom_4018C0((char *)argv[2], (char *)argv[3]) == 0;
   }
